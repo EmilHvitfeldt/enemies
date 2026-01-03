@@ -1,10 +1,10 @@
 Package: enemies
-Title: What the Package Does (One Line, Title Case)
+Title: Data Sets of Enemies From Turn Based RPGs
 Version: 0.0.0.9000
 Authors@R: 
     person("Emil", "Hvitfeldt", , "emil.hvitfeldt@posit.co", role = c("aut", "cre"),
            comment = c(ORCID = "0000-0002-0679-1945"))
-Description: What the package does (one paragraph).
+Description: Collection of data sets of enemies from turn based RPGs.
 License: CC0
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
