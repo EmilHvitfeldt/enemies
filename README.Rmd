@@ -38,6 +38,7 @@ library(enemies)
 ```
 
 ```{r}
+#| message: false
 library(dplyr)
 
 glimpse(finalfantasy_1)
