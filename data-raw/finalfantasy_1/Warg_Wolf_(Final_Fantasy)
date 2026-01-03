@@ -1,0 +1,157 @@
+{{DISPLAYTITLE:Warg Wolf (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Warg Wolf
+| japanese = ウォーグウルフ
+| romaji = Wōgu Urufu
+| lit = 
+| image = <gallery>
+Warg Wolf from FFI Pixel Remaster sprite.png|PR
+Warg Wolf from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Warg Wolf from FFI Dawn of Souls sprite.png|GBA
+Warg Wolf from FFI Origins sprite.png|PS
+FFI Warg Wolf MSX.gif|MSX
+GrWOLF from FFI NES sprite.png|NES
+</gallery>
+| location = [[world map#Final Fantasy|World Map]] - near [[Pravoka]]<br>- near [[Elfheim]]<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Cavern of Earth]]
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Warg Wolf
+}}
+The '''Warg Wolf''', or '''GrWOLF''' in the [[Nintendo Entertainment System|NES]] version, is an enemy in the original ''[[Final Fantasy]]''. Warg Wolf is a palette swap of the [[Wolf (Final Fantasy)|Wolf]] enemy, having a red back instead of a yellow one. It is a troublesome enemy when appearing in packs, along with some other members of the wolf family. It appears near the settlements of [[Pravoka]] and [[Elfheim]] and thrives near the entrance to the [[Cavern of Earth]].
+
+==Stats==
+{{infobox enemy stats FFI
+| pr prev = Gigas Worm (Final Fantasy)
+| pr prev no = 
+| pr bestiary = 008
+| pr next no = 
+| pr next = Werewolf (Final Fantasy)
+| psp prev = Gigas Worm (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 008
+| psp next = Werewolf (Final Fantasy)
+| psp next no = 
+| prev = Gigas Worm (Final Fantasy)
+| prev no = 
+| bestiary = 008
+| next = Werewolf (Final Fantasy)
+| next no = 
+| ps prev = Gigas Worm (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 008
+| ps next = Werewolf (Final Fantasy)
+| ps next no = 
+| nes = GrWOLF
+| ps = Warg Wolf
+| = Warg Wolf
+| psp = Warg Wolf
+| psp location = [[world map#Final Fantasy|World Map]]<br> - near [[Pravoka]]<br>- near [[Elfheim]]<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Cavern of Earth]]
+| nes location = [[Chaos Shrine (Final Fantasy)|Final Temple]], [[Pravoka]], [[Elfheim]], [[Cavern of Earth|Terra Cave]]
+| ps location = [[Chaos Shrine (Final Fantasy)|Temple of Chaos]], outside [[Pravoka]], outside [[Elfheim]], [[Cavern of Earth|Terra Cavern]]
+| location = Grassy areas, [[Cavern of Earth]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| psp hp = 72
+| psp attack = 14
+| psp intelligence = 3
+| psp defense = 0
+| psp magic defense = 46
+| psp agility = 27
+| psp accuracy = 18
+| psp evasion = 54
+| psp exp = 93
+| psp gil = 22
+| hp = 72
+| attack = 14
+| intellect = 3
+| defense = 0
+| magic defense = 46
+| agility = 27
+| accuracy = 18
+| evasion = 54
+| exp = 93
+| gil = 22
+| ps hp = 72
+| ps attack = 14
+| ps defense = 0
+| ps magic defense = 46
+| ps exp = 93
+| ps gil = 22
+| nes hp = 72
+| nes attack = 14 - 28
+| nes defense = 0
+| nes magic defense = 46
+| nes evasion = 54
+| nes accuracy = 18
+| nes exp = 93
+| nes gil = 22
+| psp fire = 
+| psp lightning = 
+| psp ice = 
+| psp dia = 
+| fire = None
+| lightning = 
+| ice = None
+| dia = Misses
+| ps fire = -
+| ps lightning = -
+| ps ice = -
+| ps dia = -
+| nes fire = -
+| nes lightning = -
+| nes ice = -
+| nes dia = -
+| psp drop = [[Antidote (Final Fantasy)|Antidote]]
+| psp abilities = 
+| psp resistance = 
+| drop = [[Antidote (Final Fantasy)|Antidote]]
+| abilities = N/A
+| resistance = None
+| ps abilities = N/A
+| ps resistance = None
+| nes abilities = N/A
+| nes resistance = Nothing
+| pr = Warg Wolf
+| pr hp = 72
+| pr attack = 14
+| pr defense = 0
+| pr accuracy = 18
+| pr agility = 27
+| pr intellect = 3
+| pr evasion = 54
+| pr magic defense = 46
+| pr gil = 22
+| pr exp = 93
+| pr drop = [[Antidote (item)#Final Fantasy|Antidote]]
+| pr type = Beast
+| pr fire = 
+| pr lightning = 
+| pr ice = 
+| pr dia = 
+| pr resistance = 
+| pr location = 
+| pr abilities = 
+}}
+
+== Other appearances ==
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Warg Wolf FFI.png|right|60px]]
+Warg Wolf from the original ''Final Fantasy'' appears as an enemy in ''Final Fantasy Record Keeper''.
+{{Clear}}
+
+== Etymology ==
+{{Etym|Warg}}
+
+== Related enemies ==
+* [[Wolf (Final Fantasy)|Wolf]]
+* [[Werewolf (Final Fantasy)|Werewolf]]
+* [[Winter Wolf]]
+* [[Wild Nakk (Final Fantasy)|Wild Nakk]]
+* [[Dark Wolf (Final Fantasy)|Dark Wolf]]
+
+
+[[de:Isegrim (FFI)]]
+[[es:Lobo warg (Final Fantasy)]]
+[[pl:Warg Wolf (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

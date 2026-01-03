@@ -1,0 +1,204 @@
+{{DISPLAYTITLE:Warmech (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Warmech
+| japanese = デスマシーン
+| romaji = Desu Mashīn
+| lit =Death Machine 
+| image = <gallery>
+Warmech from FFI Pixel Remaster sprite.png|PR
+Warmech from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Death Machine from FFI Dawn of Souls sprite.png|GBA
+Warmech from FFI Origins sprite.png|PS
+FFI Warmech MSX.png|MSX
+WarMECH from FFI NES sprite.png|NES
+</gallery>
+| location = [[Flying Fortress]] (5F)
+| aiscript = true
+|recurring appearance=Death Machine
+}}
+The '''Warmech''', also known as the '''Death Machine''', is an infamous foe from the original ''[[Final Fantasy]]''. Located in the [[Flying Fortress]] on the bridge leading to [[Tiamat (Final Fantasy)|Tiamat]], it has a 1 in 100{{note|reference=1 in 64 in most releases before [[Final Fantasy Pixel Remaster|''Pixel Remaster'']]. 3 in 64 in US NES only.|name=Encounter rate}} chance of appearing each time the [[Final Fantasy characters|Warriors of Light]] enter a [[Battle (term)|battle]] there, making it an extremely rare enemy.
+
+Warmech is the most powerful [[random encounter]] in the game (not counting enemies added in ''[[Final Fantasy I & II: Dawn of Souls|Dawn of Souls]]'' and ''[[Final Fantasy 20th Anniversary|Anniversary]]''), and is more powerful than most of the game's [[boss]]es, only truly being rivaled by [[Chaos (Final Fantasy boss)|the final boss]]. Because of this, it could be considered the first [[superboss]] of the [[Final Fantasy series|''Final Fantasy'' series]].
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Dark Fighter
+| psp prev no = 
+| psp bestiary = 118
+| psp next = Tiamat (Final Fantasy)
+| psp next no = 
+| prev = Dark Fighter
+| prev no = 
+| bestiary = 118
+| next = Tiamat (Final Fantasy)
+| next no = 
+| ps prev = Dark Fighter
+| ps prev no = 
+| ps bestiary = 118
+| ps next = Tiamat (Final Fantasy)
+| ps next no = 
+| nes = WarMECH
+| ps = Warmech
+| = Death Machine
+| psp = Warmech
+| psp location =[[Flying Fortress]] (5F) 
+| nes location = [[Flying Fortress]] (5F)
+| ps location = [[Flying Fortress]] (5F)
+| location = [[Flying Fortress]] (5F)
+| psp hp = 2000
+| psp attack = 128
+| psp intelligence = 50
+| psp defense = 80
+| psp magic defense = 200
+| psp agility = 48
+| psp accuracy = 200
+| psp evasion = 96
+| psp exp = 32,000
+| psp gil = 32,000
+| hp = 2,000
+| attack = 128
+| intellect = 50
+| defense = 80
+| magic defense = 200
+| agility = 48
+| accuracy = 200
+| evasion = 96
+| exp = 32,000
+| gil = 32,000
+| ps hp = 2,000
+| ps attack = 128
+| ps defense = 80
+| ps magic defense = 200
+| ps exp = 32,000
+| ps gil = 32,000
+| nes hp = 1,000
+| nes attack = 128 - 256
+| nes defense = 80
+| nes magic defense = 200
+| nes evasion = 48
+| nes accuracy = 201
+| nes exp = 32,000
+| nes gil = 32,000
+| psp fire = Resist
+| psp lightning = 
+| psp ice = Resist
+| psp dia = Misses
+| fire = Resist
+| lightning = 
+| ice = Resist
+| dia = Misses
+| ps fire = Resist
+| ps lightning = Resist
+| ps ice = Resist
+| ps dia = Misses
+| nes fire = Resist
+| nes lightning = Resist
+| nes ice = Resist
+| nes dia = Misses
+| psp drop = [[Genji Armor (Final Fantasy)|Genji Armor]]
+| psp abilities = Nuke
+| psp resistance = 
+| drop = [[Genji Armor (Final Fantasy)|Genji Armor]]
+| abilities = Nuke
+| resistance = [[Earth (element)|Quake]], Stone, [[Paralysis]], [[Poison (status)|Poison]], Darkness, [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], [[Confuse (status)|Confuse]], Mind, [[Instant Death|Death]]
+| ps abilities = Nuke
+| ps resistance = Quake, Stone, Paralysis, Poison, Darkness, Sleep, Silence, Confusion, Mind, Death
+| nes abilities = NUCLEAR
+| nes resistance = Quake, Stone, Paralysis, Poison, Darkness, Sleep, Silence, Confusion, Mind, Death
+}}
+
+== AI script ==
+{| class="article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 48.08%
+|-
+| [[Nuke (Final Fantasy)|Nuke]]
+| style="text-align:right;" | 48.08%
+|-
+| Flee
+| style="text-align:right;" | 3.85%
+|}
+
+Prior to ''[[Pixel Remaster]]'':
+
+{| class="article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 75.00%
+|-
+| [[Nuke (Final Fantasy)|Nuke]]
+| style="text-align:right;" | 25.00%
+|}
+
+== Battle ==
+[[File:FFI Nuke PS.png|Nuke in the ''Origins'' version.|thumb]]
+Warmech only has two actions in battle.
+
+* Physical attack - High physical damage to one party member. Can deal up to 2 hits, for 128 to 256 damage per hit before [[Final Fantasy stats#Defense|defense]]. Warmech's attacks are highly accurate.
+* [[Final Fantasy enemy abilities#Nuke|Nuke]] - High non-elemental magic damage to the whole party. On NES, WSC, and PS1 versions, this ranges from 80 to 360 damage. From GBA onward, this ranges around 380 to 420 at low levels (less than 101 [[Magic Defense (stat)|magic defense]]).
+
+In most versions, it regenerates 5% of its max HP (100 HP) every round; in the NES version, Warmech's regeneration is instead only 3 HP a round.
+
+Warmech often gets a [[Attack formations|preemptive strike]], which can make the battle even harder, especially if it kills any party members before the player even gets a turn.
+
+=== Strategy ===
+Whether the player succeeds against Warmech depends on their [[level]], how well equipped the party is, what condition the party is in before the fight begins, and how lucky the player is. Warmech battles can quickly turn into desperation as the party dies one by one.
+
+The encounter should be treated as a boss fight. Due to the frequency of heavy party-wide damage, a [[White Mage (Final Fantasy)|White Wizard]] should focus on constant healing, only assisting with buffs if the party is starting the round at full health. [[Healaga]], [[Curaja (Final Fantasy)|Curaja]], and [[Curaga (Final Fantasy)|Curaga]] should be used liberally. In GBA onward, powerful healing items should also be used whenever necessary. It will help to have a fair supply of [[X-Potion (Final Fantasy)|X-Potions]], [[Elixir (Final Fantasy)|Elixirs]], and [[Megalixir (Final Fantasy)|Megalixirs]], if possible.
+
+To help defend against its physical attacks, [[Blink (Final Fantasy)|Blink]] / [[Defender (Final Fantasy)|Defender]] and [[Invisira]] / [[White Robe (Final Fantasy)|White Robe]] should be used to increase the party's evasion. As Warmech has a high 200 accuracy, maximizing evasion will be required to dodge at least one of its hits consistently, so repeated castings of Blink and Invisira will be necessary over two or three turns. Since the battle is short, it may not make sense to use [[Protera (Final Fantasy)|Protera]] or [[Protect Drink (Final Fantasy)|Protect Drink]] as these need to be stacked several times for a visible effect, but the player may choose to increase defense for extra safety if they have a lot of healing available to buy time.
+
+Black Magic users should then cast [[Haste (Final Fantasy)|Haste]] once and [[Temper (Final Fantasy)|Temper]] several times on the party's strongest physical attackers. The physical attackers themselves should use [[Giant's Gloves (Final Fantasy)|Giant's Gloves]] to cast [[Saber (Final Fantasy ability)|Saber]] on themselves for a few turns before attacking. NES version players should skip Temper and Giant's Gloves, as they are [[Magic bugs#Final Fantasy|bugged and do nothing.]]
+
+For ''Dawn of Souls'' and ''20th Anniversary Edition'', the [[Hermes Sandals]] can be used in place of casting Haste. In the aforementioned two versions and ''Pixel Remaster'', [[Speed Drink (Final Fantasy)|Speed Drinks]] can also be used on physical attackers, and [[Strength Tonic (Final Fantasy)|Strength Tonics]] if Temper is unavailable.
+
+Once buffs are finished, physical attackers should attack as much as possible while White Magic users continue to heal and Black Magic users can choose to either continue buffing the physical attackers with items and Temper, using items to heal, or attacking with [[Flare (Final Fantasy)|Flare]].
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+[[File:PFF Warmech.png|right]]
+{{Enemy section|Pictlogica Final Fantasy}}
+{{clear}}
+
+===''[[The Final Fantasy Legend]]'' and ''[[Final Fantasy Legend II]]''===
+The Warmech appears in ''The Final Fantasy Legend'' and ''Final Fantasy Legend II'' (otherwise known as ''SaGa'' and ''SaGa II'' in Japan) with the same design, though its name was localized to English as "Machine" in the first game and "WarMach" in the second.
+
+===Other media===
+A [[Friend Card#Password Cards|Ghost Card]] in ''[[Dissidia Final Fantasy (2008)|Dissidia Final Fantasy]]'' bears the name "DeathMachine". It is a Level 52 [[Garland (Dissidia PSP)|Garland]], and has a Warp Cube and Cyan Gem to be won via [[Battlegen]].
+
+A Warmech appears in the web comic ''[[8-Bit Theater]]''. His debut comic is titled 1/64, referencing the chances of encountering a Warmech on the bridge in ''Final Fantasy''.
+
+==Behind the scenes==
+''Nintendo Power'' once held a "Your Name in a Game?" contest in their September–October 1990 issue, which involved photographing the Warmech and mailing it to their head office as part of a random draw. ''Nintendo Power'' never announced a winner, but [[w:c:zelda:Chris Houlihan|Chris Houlihan]] was named in a secret room in the English version of ''[[w:c:zelda:The Legend of Zelda: A Link to the Past|The Legend of Zelda: A Link to the Past]]''. In all later ports any mention of him is removed, though his secret room remains.
+[[File:Warmech psp.jpg|thumb|Warmech appearing in a dungeon in the PSP port.]]
+Warmech only appears as a random encounter enemy in most iterations and ports of ''Final Fantasy'', but appears as an overworld enemy/miniboss, using a recolored [[Lufenian robots|robot]] sprite, in the PSP-exclusive [[Labyrinth of Time]].
+
+== Gallery ==
+<gallery>
+FFI Death Machine Bestiary.jpg|Warmech's Bestiary entry.
+FFI Nuke GBA.png|Nuke in the ''Dawn of Souls'' version.
+FFI PSP Nuke.png|Nuke in the ''20th Anniversary'' version.
+FFL Warmech.png|Machine in ''[[The Final Fantasy Legend]]''.
+Makai Toushi SaGa Death Machine.png|Makai Toushi SaGa (WSC).
+FFLII WarMach Artwork.jpg|WarMach's artwork in ''[[Final Fantasy Legend II]]''.
+FFLII Warmech.png|WarMach in ''[[Final Fantasy Legend II]]''.
+SaGa 2 DS Death Machine.png|''SaGa 2: Hihō Densetsu Goddess of Destiny''.
+NP Warmech Contest.jpg|The ''Nintendo Power'' issue detailing the Warmech contest.
+</gallery>
+
+== Notes ==
+{{annotations}}
+
+[[de:Todesmaschine (FFI)]]
+[[es:Máquina mortal (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+[[Category:Superbosses]]
+

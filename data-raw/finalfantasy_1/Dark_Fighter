@@ -1,0 +1,286 @@
+{{infobox enemy
+| release = FFI
+| name = Dark Fighter
+| japanese = ダークファイター
+| romaji = Dākufaitā
+| aka = FIGHTER, Dark Warrior
+| image = <gallery>
+Dark Fighter from FFI Pixel Remaster sprite.png|PR
+Dark Fighter from FFI 20th Anniversary Edition sprite.png|20th
+Dark Fighter from FFI Dawn of Souls sprite.png|GBA
+Dark Warrior from FFI Origins sprite.png|PS
+FIGHTER from FFI NES sprite.png|NES
+</gallery>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Flying Fortress]]<br>[[Labyrinth of Time]]
+| formations = true
+| aiscript = true
+}}
+The '''Dark Fighter''', also known as the '''FIGHTER''' or '''Dark Warrior''', is an enemy from ''[[Final Fantasy]]''. It is a rare encounter in the [[Flying Fortress]] and [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], appearing alongside the [[Dark Wizard (Final Fantasy)|Dark Wizard]] in the latter. It may also appear as a fixed encounter during the Scavenger Hunt puzzle in the [[Labyrinth of Time]] in the ''[[20th Anniversary]]'' release. Contrary to its name, it is a powerful spellcaster with access to several high level [[White Magic]] spells.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Vampire Lord (Final Fantasy)
+| prev no = 116
+| bestiary = 117
+| next = Warmech (Final Fantasy)
+| next no = 118
+| name = Dark Fighter<br>'''PS:''' Dark Warrior<br>'''NES:''' FIGHTER
+| type = Mage
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Flying Fortress]]<br>[[Labyrinth of Time]]
+| hp = 200
+| attack = 40
+| intellect = 34
+| defense = 38
+| magic defense = 186
+| agility = 45
+| accuracy = 45
+| hits = 1
+| evasion = 90
+| crit = 1
+| luck = 2
+| exp = 3,420
+| gil = 3,420
+| morale = 158
+| abilities = [[Curaga (Final Fantasy enemy ability)|Curaga]]<br>[[Curaja (Final Fantasy enemy ability)|Curaja]]<br>[[Dispel (Final Fantasy enemy ability)|Dispel]]<br>[[Healaga (enemy ability)|Healaga]]<br>[[Healara (Final Fantasy enemy ability)|Healara]]<br>[[Invisira (enemy ability)|Invisira]]<br>[[NulAll (Final Fantasy enemy ability)|NulAll]]<br>[[Protera (Final Fantasy enemy ability)|Protera]]
+}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="2"|{{A|521}}
+|rowspan="2"|[[Dark Fighter]] x1, [[Dark Wizard (Final Fantasy)|Dark Wizard]] x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F
+|110
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|70
+|-
+!rowspan="2"|{{A|522}}
+|rowspan="2"|[[Dark Wizard (Final Fantasy)|Dark Wizard]] x2, [[Dark Fighter]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F
+|110
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|70
+|-
+!rowspan="3"|{{A|671}}
+|rowspan="3"|[[Dark Fighter]] x2
+|rowspan="3"|{{y}}
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 3F
+|60
+|-
+|[[Flying Fortress]] 4F
+|80
+|-
+|[[Flying Fortress]] 5F
+|80
+|-
+!rowspan="3"|{{A|672}}
+|rowspan="3"|[[Dark Fighter]] x1
+|rowspan="3"|{{y}}
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 3F
+|60
+|-
+|[[Flying Fortress]] 4F
+|90
+|-
+|[[Flying Fortress]] 5F
+|80
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|175}}
+|rowspan="2"|[[Dark Wizard (Final Fantasy)|Dark Wizard]] x2-3, [[Dark Fighter]] x1
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|75
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F
+|9
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|1
+|-
+!rowspan="3"|{{A|214}}
+|rowspan="3"|[[Dark Fighter]] x1-2
+|rowspan="3"|2 large 6 small
+|rowspan="3"|{{y}}
+|rowspan="3"|75
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 3F
+|1
+|-
+|[[Flying Fortress]] 4F
+|1
+|-
+|[[Flying Fortress]] 5F
+|3<br>1 (NES)
+|}
+
+==AI script==
+{{Multicol-begin}}
+;Pixel remaster
+{| class="article-table"
+|-
+! Action
+! Probability
+|-
+| Attack
+| 20.65%
+|-
+| Protera
+| 14.75%
+|-
+| Curaga
+| 11.8%
+|-
+| Healara
+| 11.8%
+|-
+| Invisira
+| 8.85%
+|-
+| Healaga
+| 8.85%
+|-
+| Curaja
+| 7.37%
+|-
+| NulAll
+| 7.37%
+|-
+| Dispel
+| 5.9%
+|-
+| Flee
+| 2.65%
+|}
+{{Multicol-separator}}
+;Other releases
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+! rowspan="2"|Cycle
+|-
+! WSC-''20th''
+! Famicom-NES
+|-
+| Attack
+| 76%
+| 62.5%
+|
+|-
+| Magic
+| 24%
+| 37.5%
+| NulAll → Dispel → Healaga → Protera → Invisira → Curaja → Healara → Curaga ↻
+|-
+| Flee
+| colspan="3"|Morale check
+|}
+{{Multicol-end}}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 158
+| 40
+| —
+| 43.14%
+| 79
+| —
+| 41.18%
+|-
+! 1
+! 118
+| 20
+| 45
+| 100%
+| 39
+| 89
+| 100%
+|-
+! 2
+! 78
+| 1
+| 25
+| 100%
+| 1
+| 49
+| 100%
+|-
+! 3
+! 38
+| 1
+| 5
+| 100%
+| 1
+| 9
+| 100%
+|-
+! 4
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+==Other appearances==
+===''[[Final Fantasy Brave Exvius]]''===
+[[File:Dark Fighter FFI from FFBE enemy sprite.png|thumb|150x150px]]
+{{Enemy section|Final Fantasy Brave Exvius}}
+{{clear}}
+
+== Related enemies ==
+* [[Astos]]
+* [[Dark Wizard (Final Fantasy)|Dark Wizard]]
+* [[Devil Wizard]]
+
+==Annotations==
+{{Annotations}}
+
+[[de:Dunkelkrieger]]
+[[es:Luchador oscuro (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

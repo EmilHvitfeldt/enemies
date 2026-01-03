@@ -1,0 +1,174 @@
+{{DISPLAYTITLE:White Dragon (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = White Dragon
+| japanese = ホワイトドラゴン
+| romaji = Howaito Doragon
+| lit = 
+| image = <gallery>
+White Dragon from FFI Pixel Remaster sprite.png|PR
+White Dragon from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+White Dragon from FFI Dawn of Souls sprite.png|GBA
+White Dragon from FFI Origins sprite.png|PS
+Frost D from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cavern of Ice]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], [[Lifespring Grotto]]
+| type = 
+| formations = 
+| aiscript = true
+}}
+The '''White Dragon''', known as the '''Frost D''' in the [[Nintendo Entertainment System]] version, is an enemy in the original ''[[Final Fantasy]]''. White Dragon appears later in the [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], on the first floor. The dragon appears also in the [[Lifespring Grotto]], in a room where a dragon, [[Bahamut (Final Fantasy)|Dark Bahamut]], orders the party to kill some of its disciples to continue to the next level. One of the disciples may be the White Dragon, which the party can fight. They sometimes come in groups of up to four dragons.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Marilith (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 068
+| psp next = Winter Wolf
+| psp next no = 
+| prev = Marilith (Final Fantasy)
+| prev no = 
+| bestiary = 068
+| next = Winter Wolf
+| next no = 
+| ps prev = Marilith (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 068
+| ps next = Winter Wolf
+| ps next no = 
+| nes = Frost D
+| ps = White Dragon
+| = White Dragon
+| psp = White Dragon
+| psp location = 
+| nes location = [[Cavern of Ice|Ice Cave]], [[Chaos Shrine (Final Fantasy)|Final Temple]]
+| ps location = [[Chaos Shrine (Final Fantasy)|Temple of Chaos]], [[Cavern of Ice|Ice Cavern]]
+| location = [[Cavern of Ice]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], [[Lifespring Grotto]]
+| psp hp = 200
+| psp attack = 53
+| psp intelligence = 25
+| psp defense = 8
+| psp magic defense = 196
+| psp agility = 60
+| psp accuracy = 50
+| psp evasion = 120
+| psp exp = 1701
+| psp gil = 2000
+| hp = 200
+| attack = 53
+| intellect = 25
+| defense = 8
+| magic defense = 196
+| agility = 60
+| accuracy = 50
+| evasion = 120
+| exp = 1,701
+| gil = 2,000
+| ps hp = 200
+| ps attack = 53
+| ps defense = 8
+| ps magic defense = 196
+| ps exp = 1,701
+| ps gil = 2,000
+| nes hp = 200
+| nes attack = 53 - 106
+| nes defense = 8
+| nes magic defense = 196
+| nes evasion = 120
+| nes accuracy = 50
+| nes exp = 1,701
+| nes gil = 2,000
+| psp fire = Weak
+| psp lightning = Weak
+| psp ice = Resist
+| psp dia = Misses
+| fire = Weak
+| lightning = Weak
+| ice = Resist
+| dia = Misses
+| ps fire = Weak
+| ps lightning = Weak
+| ps ice = Resist
+| ps dia = -
+| nes fire = Weak
+| nes lightning = Weak
+| nes ice = Resist
+| nes dia = -
+| psp drop = 
+| psp abilities = 
+| psp resistance = [[Poison (element)|Poison]], [[Earth (element)|Quake]], [[Petrify (status)|Petrify]]
+| drop = None
+| abilities = [[Snowstorm|Icestorm]]
+| resistance = [[Poison (element)|Poison]], [[Earth (element)|Quake]], [[Petrify (status)|Petrify]]
+| ps abilities = [[Blizzard (ability)|Blizzard]]
+| ps resistance = Ice, Earth, Poison
+| nes abilities = [[Blizzard (ability)|Blizzard]]
+| nes resistance = Bane, Break, Quake, Ice
+}}
+== AI script ==
+{| class="article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 70.00%
+|-
+| [[Icestorm (Final Fantasy)|Icestorm (BLIZZARD)]]
+| style="text-align:right;" | 25.00%
+|-
+| Flee
+| style="text-align:right;" | 5.00%
+|}
+
+Prior to ''[[Pixel Remaster]]'':
+{| class="article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 50.00%
+|-
+| [[Icestorm (Final Fantasy)|Icestorm (BLIZZARD)]]
+| style="text-align:right;" | 50.00%
+|}
+
+== Battle ==
+White Dragons are not as difficult to defeat as the [[Red Dragon (Final Fantasy)|Red Dragon]], having less [[HP (stat)|HP]], Attack, and stats overall; which is strange, because the party is supposed to visit the [[Cavern of Ice]] after the visit to [[Mount Gulg (Final Fantasy)|Mount Gulg]]. The White Dragon is of the [[Ice (Final Fantasy)|ice]] element, and thus is weak to [[Fire (Final Fantasy element)|fire]] attacks, and resists ice attacks. The dragon is also weak to [[Lightning (Final Fantasy)|lightning]]. As with many winged enemies, the dragon is immune to [[Earth (Final Fantasy)|earth-element]] attacks, and it is also invulnerable to [[Poison (Final Fantasy)|poison]] and [[Stone (Final Fantasy)|stone]].
+
+Even if the White Dragon is weaker than its red counterpart, it still has a trick up its sleeve: Icestorm, which deals ice damage to all [[party]] members, and can be dangerous for members with low [[Magic Defense (stat)|magic defense]].
+
+=== Strategy ===
+A single [[Firaga (ability)|Firaga]] will either finish it off or leave it very weak.
+
+== Other appearances ==
+=== ''[[Pictlogica Final Fantasy]]'' ===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK White Dragon FFI.png|right]]
+{{Enemy section|Final Fantasy Record Keeper}}
+
+== Gallery ==
+<gallery>
+FFI Icestorm 2 GBA.png|Icestorm (GBA).
+FFI PSP Icestorm 2.png|Icestorm (PSP).
+</gallery>
+
+== Etymology ==
+{{Etym|Dragon}}
+
+{{Etym|Chromatic dragon}} White dragons are the weakest and the most feral of the classic chromatic dragons. They love to swim in cold water, lair in ice caves, and their icy breath can freeze a foe solid.
+
+== Related enemies ==
+* [[Red Dragon (Final Fantasy)|Red Dragon]]
+* [[Dragon Zombie (Final Fantasy)|Dragon Zombie]]
+* [[Silver Dragon (Final Fantasy)|Silver Dragon]]
+* [[Black Dragon (Final Fantasy)|Black Dragon]]
+
+[[Category:Enemies in Final Fantasy]]
+
+[[de:Weißdrache]]
+[[es:Dragón blanco (Final Fantasy)]]
+

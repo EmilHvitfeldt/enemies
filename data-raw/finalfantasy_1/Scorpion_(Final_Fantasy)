@@ -1,0 +1,132 @@
+{{DISPLAYTITLE:Scorpion (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Scorpion
+| japanese = サソリ
+| romaji = Sasori
+| lit = 
+| image = <gallery>
+Scorpion from FFI Pixel Remaster sprite.png|PR
+Scorpion from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Scorpion from FFI Dawn of Souls sprite.png|GBA
+Scorpion from FFI Origins sprite.png|PS
+FFI Scorpion MSX.png|MSX
+SCORPION from FFI NES sprite.png|NES
+</gallery>
+| location = [[Marsh Cave]], [[Mount Gulg (Final Fantasy)|Mount Gulg]]
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Scorpion (enemy)
+}}
+The '''Scorpion''' is an enemy in the original ''[[Final Fantasy]]''. When encountered in the [[Marsh Cave]] it is extremely powerful relative to the [[party]]'s [[level]]. It's advised to hit it as hard as possible while casting [[Heal (ability)|Heal]]. Its attacks may inflict [[Poison (status)|Poison]], so it is advised to carry lots of [[Antidote (item)|Antidotes]] before traveling through the [[Mount Gulg (Final Fantasy)|Mount Gulg]] volcano. It is otherwise easy to defeat at this point in the game.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Ghast (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 025
+| psp next = Shadow (Final Fantasy)
+| psp next no = 
+| prev = Ghast (Final Fantasy)
+| prev no = 
+| bestiary = 025
+| next = Shadow (Final Fantasy)
+| next no = 
+| ps prev = Ghast (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 025
+| ps next = Shadow (Final Fantasy)
+| ps next no = 
+| nes = SCORPION
+| ps = Scorpion
+| = Scorpion
+| psp = Scorpion
+| psp location = [[Mount Gulg (Final Fantasy)|Mount Gulg]]
+| nes location = [[Mount Gulg (Final Fantasy)|Mount Gulg]]
+| ps location = [[Marsh Cave]], [[Mount Gulg (Final Fantasy)|Mount Gulg]]
+| location = [[Marsh Cave]], [[Mount Gulg (Final Fantasy)|Mount Gulug]]
+| psp hp = 84
+| psp attack = 22
+| psp intelligence = 10
+| psp defense = 10
+| psp magic defense = 55
+| psp agility = 27
+| psp accuracy = 21
+| psp evasion = 54
+| psp exp = 225
+| psp gil = 70
+| hp = 84
+| attack = 22
+| intellect = 6
+| defense = 10
+| magic defense = 55
+| agility = 27
+| accuracy = 21
+| evasion = 54
+| exp = 225
+| gil = 70
+| ps hp = 84
+| ps attack = 22
+| ps defense = 10
+| ps magic defense = 55
+| ps exp = 225
+| ps gil = 70
+| nes hp = 84
+| nes attack = 22 - 44
+| nes defense = 10
+| nes magic defense = 55
+| nes evasion = 54
+| nes accuracy = 21
+| nes exp = 225
+| nes gil = 70
+| psp fire = 
+| psp lightning = 
+| psp ice = 
+| psp dia = 
+| fire = -
+| lightning = 
+| ice = -
+| dia = Misses
+| ps fire = -
+| ps lightning = -
+| ps ice = -
+| ps dia = -
+| nes fire = -
+| nes lightning = -
+| nes ice = -
+| nes dia = -
+| psp drop = [[Spider's Silk (Final Fantasy)|Spider's Silk]]
+| psp abilities = Attacks may inflict [[Poison (Final Fantasy status)|Poison]].
+| psp resistance = 
+| drop = [[Spider's Silk (Final Fantasy)|Spider's Silk]]
+| abilities = Attacks may inflict [[Poison (Final Fantasy status)|Poison]].
+| resistance = None
+| ps abilities = Attacks may inflict [[Poison (Final Fantasy status)|Poison]].
+| ps resistance = N/A
+| nes abilities = N/A
+| nes resistance = N/A
+}}
+
+== Other appearances ==
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Scorpion FFI.png|right|70px]]
+Scorpion from ''Final Fantasy'' appears as an enemy in ''Final Fantasy Record Keeper''.
+{{clear}}
+
+== Gallery ==
+<gallery>
+Amano FF1 Scorpion.jpg|Artwork by [[Yoshitaka Amano]].
+</gallery>
+
+==Etymology==
+{{Etym|Scorpion}}
+
+== Related enemies ==
+* [[Sea Scorpion (Final Fantasy)|Sea Scorpion]]
+* [[Desertpede (Final Fantasy)|Desertpede]]
+
+
+[[es:Scorpio (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

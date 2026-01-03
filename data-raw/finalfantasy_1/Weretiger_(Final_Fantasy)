@@ -1,0 +1,123 @@
+{{DISPLAYTITLE:Weretiger (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Weretiger
+| japanese = ウェアタイガー
+| romaji = Weataigā
+| lit = 
+| image = <gallery>
+Weretiger from FFI Pixel Remaster sprite.png|PR
+Weretiger from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Weretiger from FFI Dawn of Souls sprite.png|GBA
+Weretiger from FFI Origins sprite.png|PS
+CATMAN from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cardian Islands|Bahamut Islands]], [[Mirage Tower]]
+| type = 
+| formations = 
+| aiscript = 
+}}
+The '''Weretiger''', known as the '''CATMAN''' in the [[Nintendo Entertainment System]] version, is an enemy from the original ''[[Final Fantasy]]''. It appears on the [[Cardian Islands|Bahamut Islands]], as well as on the first floor of the [[Mirage Tower]]. In the Bahamut Islands, they appear flanked by [[Sabertooth (Final Fantasy)|Sabertooth Tigers]], while in the Mirage Tower, they appear only with other Weretigers. Weretigers regenerate some [[HP (stat)|HP]] each turn, but are not hard to beat and the amount of HP they regain does not pose a threat. They also use Poison. When they appear in groups they may be a nuisance, as they resist magic.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Allosaurus (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 084
+| psp next = Sand Worm (Final Fantasy)
+| psp next no = 
+| prev = Allosaurus (Final Fantasy)
+| prev no = 
+| bestiary = 084
+| next = Sand Worm (Final Fantasy)
+| next no = 
+| ps prev = Allosaurus (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 084
+| ps next = Sand Worm (Final Fantasy)
+| ps next no = 
+| nes = CATMAN
+| ps = Weretiger
+| = Weretiger
+| psp = Weretiger
+| psp location = 
+| nes location = [[Cardian Islands|Bahamut Islands]], [[Mirage Tower]]
+| ps location = [[Cardian Islands|Bahamut Islands]], [[Mirage Tower]]
+| location = [[Cardian Islands|Bahamut Islands]], [[Mirage Tower]]
+| psp hp = 160
+| psp attack = 30
+| psp intelligence = 8
+| psp defense = 16
+| psp magic defense = 93
+| psp agility = 24
+| psp accuracy = 40
+| psp evasion = 48
+| psp exp = 780
+| psp gil = 780
+| hp = 160
+| attack = 30
+| intellect = 8
+| defense = 16
+| magic defense = 93
+| agility = 24
+| accuracy = 40
+| evasion = 48
+| exp = 780
+| gil = 780
+| ps hp = 160
+| ps attack = 30
+| ps defense = 16
+| ps magic defense = 93
+| ps exp = 780
+| ps gil = 780
+| nes hp = 160
+| nes attack = 30 - 60
+| nes defense = 16
+| nes magic defense = 93
+| nes evasion = 48
+| nes accuracy = 40
+| nes exp = 780
+| nes gil = 780
+| psp fire = 
+| psp lightning = 
+| psp ice = 
+| psp dia = 
+| fire = -
+| lightning = 
+| ice = -
+| dia = Misses
+| ps fire = -
+| ps lightning = -
+| ps ice = -
+| ps dia = -
+| nes fire = -
+| nes lightning = -
+| nes ice = -
+| nes dia = -
+| psp drop = [[Sleeping Bag (Final Fantasy)|Sleeping Bag]]
+| psp abilities =Poison, Regen 
+| psp resistance = 
+| drop = [[Sleeping Bag (Final Fantasy)|Sleeping Bag]]
+| abilities = Poison, Regen
+| resistance = None
+| ps abilities = N/A
+| ps resistance = N/A
+| nes abilities = poison
+| nes resistance = Nothing
+}}
+
+== Gallery ==
+<gallery>
+Weretiger.jpg|Artwork by [[Yoshitaka Amano]].
+</gallery>
+
+== Etymology ==
+{{Etym|Weretiger}}
+
+== Related enemies ==
+* [[Rakshasa (Final Fantasy)|Rakshasa]]
+
+[[de:Wertiger]]
+[[es:Toxitigre (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

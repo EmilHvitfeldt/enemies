@@ -1,0 +1,256 @@
+{{infobox enemy
+| release = FFI
+| name = Lesser Tiger
+| japanese = キティタイガー
+| romaji = Kititaigā
+| lit = Kitty Tiger
+| aka = TIGER
+| image = <gallery>
+Lesser Tiger from FFI Pixel Remaster sprite.png|PR
+Lesser Tiger from FFI 20th Anniversary Edition sprite.png|20th
+Lesser Tiger from FFI Dawn of Souls sprite.png|GBA
+Lesser Tiger from FFI Origins sprite.png|PS
+TIGER from FFI NES sprite.png|NES
+</gallery>
+| location = [[Caravan (Final Fantasy)|Caravan]] region<br>[[Cardian Islands]] region<br>[[Cavern of Earth]] region<br>[[Citadel of Trials]] region<br>[[Giant's Cave]]<br>Giant's Cave region<br>[[Melmond]] region<br>[[Sage's Cave]] region
+| type = 
+| formations = true
+| aiscript = true
+}}
+The '''Lesser Tiger''', also known as the '''TIGER''', is an enemy in ''[[Final Fantasy]]''. It is first encountered in the [[Melmond]] region. It is a dangerous enemy when first encountered, being one of the few enemies with a heightened [[critical hit]] rate. 
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Hyenadon
+| prev no = 037
+| bestiary = 038
+| next = Minotaur (Final Fantasy)
+| next no = 039
+| name = Lesser Tiger<br>'''NES:''' TIGER
+| location = [[Caravan (Final Fantasy)|Caravan]] region<br>[[Cardian Islands]] region<br>[[Cavern of Earth]] region<br>[[Citadel of Trials]] region<br>[[Giant's Cave]]<br>Giant's Cave region<br>[[Melmond]] region<br>[[Sage's Cave]] region
+| type = Beast <small>(PR)</small>
+| hp = 132
+| attack = 22
+| intellect = 13
+| defense = 8
+| magic defense = 85
+| agility = 24
+| accuracy = 33
+| evasion = 48
+| exp = 438
+| gil = 108
+| morale = 116
+| hits = 2
+| crit = 25
+| luck = 2
+| drop = [[X-Potion (Final Fantasy)|X-Potion]] (4%)
+}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="2"|{{A|080}}
+|rowspan="2"|[[Lesser Tiger]] x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Giant's Cave]]
+|110
+|-
+|[[Cavern of Earth]]-[[Giant's Cave]]-[[Melmond]] region
+|60
+|-
+!rowspan="2"|{{A|081}}
+|rowspan="2"|[[Lesser Tiger]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Giant's Cave]]
+|110
+|-
+|[[Cavern of Earth]]-[[Giant's Cave]]-[[Melmond]] region
+|90
+|-
+!{{A|082}}
+|[[Lesser Tiger]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Giant's Cave]]
+|110
+|-
+!{{A|305}}
+|[[Weretiger (Final Fantasy)|Weretiger]] x3, [[Lesser Tiger]] x2, [[Sabertooth (Final Fantasy)|Sabertooth]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cardian Islands]]-[[Citadel of Trials]] region
+|40
+|-
+!{{A|306}}
+|[[Lesser Tiger]] x1, [[Weretiger (Final Fantasy)|Weretiger]] x2, [[Sabertooth (Final Fantasy)|Sabertooth]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cardian Islands]]-[[Citadel of Trials]] region
+|60
+|-
+!{{A|441}}
+|[[Lesser Tiger]] x2, [[Sabertooth (Final Fantasy)|Sabertooth]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Caravan (Final Fantasy)|Caravan]] region
+|60
+|-
+!{{A|442}}
+|[[Sabertooth (Final Fantasy)|Sabertooth]] x2, [[Lesser Tiger]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Caravan (Final Fantasy)|Caravan]] region
+|70
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+!Notes
+|-
+!rowspan="2"|{{A|025}}
+|rowspan="2"|[[Lesser Tiger]] x1-3
+|rowspan="2"|4 large
+|rowspan="2"|{{y}}
+|rowspan="2"|27
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]]-[[Giant's Cave]]-[[Melmond]]-[[Sage's Cave]] region
+|3
+|
+|-
+|[[Giant's Cave]]
+|9
+|
+|-
+!{{A|103}}
+|[[Weretiger (Final Fantasy)|Weretiger]] x1-2, [[Sabertooth (Final Fantasy)|Sabertooth]] x0-2, [[Lesser Tiger]] x0-2
+|2 large 6 small
+|{{y}}
+|27
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cardian Islands]]-[[Citadel of Trials]] region
+|18
+|
+|-
+!{{A|153}}
+|[[Sabertooth (Final Fantasy)|Sabertooth]] x1-3, [[Lesser Tiger]] x0-2
+|4 large
+|{{y}}
+|27
+|[[Battle (Final Fantasy)|Battle]]
+|[[Caravan (Final Fantasy)|Caravan]] region
+|24
+|{{note|reference=This encounter has an increased rate of 48 in swamps in the ''[[Dawn of Souls]]'' and ''[[20th Anniversary]]'' releases.|name=swamp}}
+|}
+{{annotations}}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 116
+| 19
+| 44
+| 100%
+| 37
+| 87
+| 100%
+|-
+! 1
+! 76
+| 1
+| 24
+| 100%
+| 1
+| 47
+| 100%
+|-
+! 2
+! 36
+| 1
+| 4
+| 100%
+| 1
+| 7
+| 100%
+|-
+! 3
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Other appearances ==
+=== ''[[Pictlogica Final Fantasy]]'' ===
+[[File:PFF Lesser Tiger.png|thumb|150x150px]]
+{{Enemy section|Pictlogica Final Fantasy}}
+{{clear}}
+
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Lesser Tiger FFI.png|thumb|150x150px]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+== Etymology ==
+{{Etym|Tiger}}
+
+== Related enemies ==
+* [[Blood Tiger]]
+* [[Sabertooth (Final Fantasy)|Sabertooth]]
+
+[[Category:Enemies in Final Fantasy]]
+
+[[de:Zwergtiger]]
+[[es:Tigre menor (Final Fantasy)]]
+

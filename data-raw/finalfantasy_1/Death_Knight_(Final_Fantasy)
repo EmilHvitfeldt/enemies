@@ -1,0 +1,305 @@
+{{DISPLAYTITLE:Death Knight (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Death Knight
+| japanese = デスナイト
+| romaji = Desunaito
+| aka = EVILMAN, Doom Knight
+| image = <gallery>
+Death Knight from FFI Pixel Remaster sprite.png|PR
+Death Knight from FFI 20th Anniversary Edition sprite.png|20th
+Death Knight from FFI Dawn of Souls sprite.png|GBA
+Doom Knight from FFI Origins sprite.png|PS
+EVILMAN from FFI NES sprite.png|NES
+</gallery>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Flying Fortress]]
+| aiscript = true
+| formations = true
+| recurring appearance = Death Knight
+}}
+The '''Death Knight''', also known as the '''EVILMAN''' or '''Doom Knight''', is an enemy from the original ''[[Final Fantasy]]''. Although he has less [[HP (stat)|HP]], this knight is the upgraded version of the [[Black Knight (Final Fantasy)|Black Knight]]. It is recommended to defeat Death Knights quickly, as they have access to high-level [[Magic (term)|Magic]], such as [[Flare (ability)|Flare]] and [[Kill]]. Strong physical [[Attack (command)|attacks]] are more than enough to defeat them, but [[Item magic|using magic-using items]], such as [[Mage's Staff (Final Fantasy)|Mage's Staff]], will also help a great deal.
+
+Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'', the Death Knight does not use spells very often, but they should still be defeated quickly before they have a chance to cast Flare.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Spirit Naga
+| prev no = 111
+| bestiary = 112
+| next = Earth Medusa (Final Fantasy)
+| next no = 113
+| name = Death Knight<br>'''PS:''' Doom Knight<br>'''NES:''' EVILMAN
+| type = Mage<br>Magic
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Flying Fortress]]
+| hp = 190
+| attack = 55
+| intellect = 28
+| defense = 32
+| magic defense = 173
+| agility = 21
+| accuracy = 48
+| evasion = 42
+| luck = 2
+| crit = 1
+| hits = 1
+| exp = 2,700
+| gil = 3,000
+| morale = 200
+| silence = Resists
+| sleep = Resists
+| paralysis = Resists
+| darkness = Resists
+| poison status = Resists
+| stone = Resists
+| confuse = Resists
+| spirit = Resists
+| instant death = Resists
+| poison element = -<br>{{note|reference=Resists prior to ''Pixel Remaster''.|name=poison element}}
+| abilities = [[Blind (Final Fantasy enemy ability)|Blind]]<br>[[Dispel (Final Fantasy enemy ability)|Dispel]]<br>[[Flare (Final Fantasy enemy ability)|Flare]]<br>[[Kill (Final Fantasy enemy ability)|Kill]]
+}}
+{{annotations}}
+
+==Formations==
+;''Pixel Remaster''
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="2"|{{A|255}}
+|rowspan="2"|[[Nightmare (Final Fantasy)|Nightmare]] x2, [[Death Knight (Final Fantasy)|Death Knight]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|60
+|-
+|[[Flying Fortress]] 2F
+|60
+|-
+!rowspan="2"|{{A|256}}
+|rowspan="2"|[[Nightmare (Final Fantasy)|Nightmare]] x1, [[Death Knight (Final Fantasy)|Death Knight]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|70
+|-
+|[[Flying Fortress]] 2F
+|60
+|-
+!{{A|666}}
+|[[Nightmare (Final Fantasy)|Nightmare]] x2, [[Death Knight (Final Fantasy)|Death Knight]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|60
+|-
+!rowspan="2"|{{A|667}}
+|rowspan="2"|[[Death Knight (Final Fantasy)|Death Knight]] x2, [[Nightmare (Final Fantasy)|Nightmare]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B4
+|70
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|60
+|-
+!{{A|668}}
+|[[Nightmare (Final Fantasy)|Nightmare]] x2, [[Death Knight (Final Fantasy)|Death Knight]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!rowspan="2"|{{A|669}}
+|rowspan="2"|[[Nightmare (Final Fantasy)|Nightmare]] x1, [[Death Knight (Final Fantasy)|Death Knight]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B4
+|80
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|70
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|084}}
+|rowspan="2"|[[Death Knight (Final Fantasy)|Death Knight]] x1, [[Nightmare (Final Fantasy)|Nightmare]] x1-2
+|rowspan="2"|2 large 6 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|6
+|-
+|[[Flying Fortress]] 2F
+|6
+|-
+!rowspan="2"|{{A|212}}
+|rowspan="2"|[[Death Knight (Final Fantasy)|Death Knight]] x1-2, [[Nightmare (Final Fantasy)|Nightmare]] x1-2
+|rowspan="2"|2 large 6 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B4
+|6
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|12
+|}
+
+==AI script==
+;''Pixel Remaster''
+{| class="article-table"
+|-
+! Action
+! Probability
+|-
+| Attack
+| 19.23%
+|-
+| Blind
+| 19.23%
+|-
+| Dispel
+| 19.23%
+|-
+| Flare
+| 19.23%
+|-
+| Kill
+| 19.23%
+|-
+| Flee
+| 3.85%
+|}
+
+;Other releases
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+! rowspan="2"|Cycle
+|-
+! WSC-''20th''
+! Famicom-NES
+|-
+| Attack
+| 84%
+| 75%
+|
+|-
+| Magic
+| 16%
+| 25%
+| Dispel → Flare → Dispel → Kill → Blind ↻
+|-
+| Flee
+| colspan="3"|Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+| 81
+| —
+| 37.25%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Other appearances ==
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Death Knight FFI.png|right]]
+{{Enemy section|Final Fantasy Record Keeper}}
+
+===''[[Final Fantasy Brave Exvius]]''===
+[[File:Death Knight FFI from FFBE enemy sprite.png|thumb|150x150px]]
+{{Enemy section|Final Fantasy Brave Exvius}}
+{{clear}}
+
+== Etymology ==
+{{Etym|Death knight}}
+
+== Related enemies ==
+* [[Black Knight (Final Fantasy)|Black Knight]]
+* [[Duel Knight]]
+
+
+[[de:Todesritter (FFI)]]
+[[es:Caballero letal (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

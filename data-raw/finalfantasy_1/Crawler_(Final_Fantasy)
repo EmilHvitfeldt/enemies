@@ -1,0 +1,222 @@
+{{DISPLAYTITLE:Crawler (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Crawler
+| japanese = クロウラー
+| romaji = Kurōrā
+| lit = 
+| image = <gallery>
+Crawler from FFI Pixel Remaster sprite.png|PR
+Crawler from FFI 20th Anniversary Edition sprite.png|20th
+Crawler from FFI Dawn of Souls sprite.png|GBA
+Crawler from FFI Origins sprite.png|PS
+CRAWL from FFI MSX sprite.png|MSX
+CRAWL from FFI NES sprite.png|NES
+</gallery>
+| aiscript = true
+| formations = true
+| location = [[Marsh Cave]]
+| recurring appearance = Crawler
+}}
+
+The '''Crawler''', also known as the '''CRAWL''' , is an enemy in ''[[Final Fantasy]]''. It can be found exclusively within the [[Marsh Cave]], where it can be encountered alongside the [[Bloodbones (Final Fantasy)|Bloodbones]] or the [[Skeleton (Final Fantasy)|Skeleton]]. It is one of multiple enemies in the dungeon capable of inflicting [[Paralysis (Final Fantasy status)|Paralysis]] with its attacks, with its high hit count of 8 giving it the greatest chance of all of them to successfully inflict the status. This makes it one of the more dangerous enemies in the dungeon despite its low damage output, and therefore strongly recommended to take out quickly in encounters where it is present.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Green Slime (Final Fantasy)
+| prev no =029 
+| bestiary = 028
+| next = Gray Ooze (Final Fantasy)
+| next no =027  
+| name = Crawler<br>'''NES:''' CRAWL
+| location = [[Marsh Cave]]
+| hp = 84
+| attack = 1
+| intellect = 5
+| defense = 8
+| magic defense = 51
+| agility = 21
+| accuracy = 21
+| hits = 8
+| evasion = 42
+| crit = 1
+| luck = 2
+| exp = 186
+| gil = 200
+| morale = 106
+| abilities = Attacks may inflict [[Paralysis (Final Fantasy status)|Paralysis]]
+}}
+
+== Battle ==
+[[File:Amano Gigas Worm.gif|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+The Crawler has a low Attack stat, but its attacks have a high chance of causing [[Paralysis]], and it gets a staggering number of hits—it can easily hit eight times in one attack action. This makes the Crawler a particular menace among enemies found in the Marsh Cave, as their paralyzing attacks can easily put party members out of commission, and they are resilient enough relative to the party's likely capabilities that taking them out swiftly to minimize party member paralysis may prove a challenging endeavor.
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|120}}
+|[[Skeleton (Final Fantasy)|Skeleton]] x4, Crawler x1, [[Bloodbones (Final Fantasy)|Bloodbones]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B3
+|30
+|-
+!rowspan="2"|{{A|121}}
+|rowspan="2"|Crawler x1, [[Skeleton (Final Fantasy)|Skeleton]] x3, [[Bloodbones (Final Fantasy)|Bloodbones]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B2
+|40
+|-
+|[[Marsh Cave]] B3
+|50
+|-
+!{{A|122}}
+|Crawler x1, [[Skeleton (Final Fantasy)|Skeleton]] x2, [[Bloodbones (Final Fantasy)|Bloodbones]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B2
+|60
+|-
+!{{A|354}}
+|Crawler x2, [[Skeleton (Final Fantasy)|Skeleton]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B2
+|30
+|-
+!rowspan="2"|{{A|355}}
+|rowspan="2"|Crawler x1, [[Skeleton (Final Fantasy)|Skeleton]] x4
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B1
+|40
+|-
+|[[Marsh Cave]] B2
+|40
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|043}}
+|rowspan="2"|[[Bloodbones (Final Fantasy)|Bloodbones]] x1, [[Skeleton (Final Fantasy)|Skeleton]] x2-4, Crawler x1
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B2
+|6
+|-
+|[[Marsh Cave]] B3
+|12
+|-
+!rowspan="2"|{{A|129}}
+|rowspan="2"|[[Skeleton (Final Fantasy)|Skeleton]] x3-5, Crawler x0-2
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B1
+|6
+|-
+|[[Marsh Cave]] B2
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 106
+| 14
+| 39
+| 100%
+| 27
+| 77
+| 100%
+|-
+! 1
+! 66
+| 1
+| 19
+| 100%
+| 1
+| 37
+| 100%
+|-
+! 2
+! 26
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Other appearances ==
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Crawler FFI.png|right|80px]]
+Crawler from ''Final Fantasy'' appears as an enemy in ''Final Fantasy Record Keeper''
+{{clear}}
+
+== Etymology ==
+{{Etym|Crawler}}
+
+== Related enemies ==
+* [[Flood Gigas]]
+* [[Gigas Worm (Final Fantasy)|Gigas Worm]]
+
+== Annotations ==
+{{Annotations}}
+
+[[es:Oruga (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

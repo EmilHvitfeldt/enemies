@@ -1,0 +1,115 @@
+{{DISPLAYTITLE:White Shark (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = White Shark
+| japanese = ホワイトシャーク
+| romaji = Howaitoshāku
+| lit = 
+| image = <gallery>
+White Shark from FFI Pixel Remaster sprite.png|PR
+White Shark from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+White Shark from FFI Dawn of Souls sprite.png|GBA
+White Shark from FFI Origins sprite.png|PS
+GrSHARK from FFI NES sprite.png|NES
+</gallery>
+| location =Sunken Shrine (1F, 2F, 3F, 4F), Chaos Shrine (past - B3) 
+| type = 
+| formations = 
+| aiscript = 
+}}
+The '''White Shark''', also known as the '''GrSHARK''' in the [[Nintendo Entertainment System]], is an aquatic enemy in the original ''[[Final Fantasy]]''. White Sharks can be found in the [[Sunken Shrine]] as a [[random encounter]] enemy. Its high Magic Defense stat renders [[Thundara (Final Fantasy)|Thundara]] less effective against it than most other aquatic foes, but it is a good target for physical attacks because of its low Defense. White Sharks often comes in groups of two or with its lesser [[Shark (Final Fantasy)|Shark]] cousin.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Sahagin Prince (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 094
+| psp next = Deepeyes (Final Fantasy)
+| psp next no = 
+| prev = Sahagin Prince (Final Fantasy)
+| prev no = 
+| bestiary = 094
+| next = Deepeyes (Final Fantasy)
+| next no = 
+| ps prev = Sahagin Prince (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 094
+| ps next = Deepeyes (Final Fantasy)
+| ps next no = 
+| nes = GrSHARK
+| ps = White Shark
+| = White Shark
+| psp = White Shark
+| psp location = 
+| nes location = [[Sunken Shrine|Sea Shrine]]
+| ps location = [[Sunken Shrine]]
+| location = [[Sunken Shrine]]
+| psp hp = 344
+| psp attack = 50
+| psp intelligence = 16
+| psp defense = 8
+| psp magic defense = 170
+| psp agility = 36
+| psp accuracy = 86
+| psp evasion = 72
+| psp exp = 2361
+| psp gil = 600
+| hp = 344
+| attack = 50
+| intellect = 16
+| defense = 8
+| magic defense = 170
+| agility = 36
+| accuracy = 86
+| evasion = 72
+| exp = 2,361
+| gil = 600
+| ps hp = 344
+| ps attack = 50
+| ps defense = 8
+| ps magic defense = 170
+| ps exp = 2361
+| ps gil = 600
+| nes hp = 344
+| nes attack = 50 - 100
+| nes defense = 8
+| nes magic defense = 170
+| nes evasion = 72
+| nes accuracy = 86
+| nes exp = 2,361
+| nes gil = 600
+| psp fire = Resist
+| psp lightning = Weak
+| psp ice = 
+| psp dia = Misses
+| fire = Resist
+| lightning = Weak
+| ice = -
+| dia = Misses
+| ps fire = Resist
+| ps lightning = Weak
+| ps ice = -
+| ps dia = -
+| nes fire = Resist
+| nes lightning = Weak
+| nes ice = -
+| nes dia = -
+| psp drop = [[Wyrmkiller (Final Fantasy)|Wyrmkiller]]
+| psp abilities = 
+| psp resistance = [[Earth (element)|Quake]]
+| drop = [[Wyrmkiller (Final Fantasy)|Wyrmkiller]]
+| abilities = N/A
+| resistance = [[Earth (element)|Quake]]
+| ps abilities = N/A
+| ps resistance = [[Quake (ability)|Quake]]
+| nes abilities = N/A
+| nes resistance = Quake
+}}
+
+== Related enemies ==
+* [[Shark (Final Fantasy)|Shark]]
+* [[Killer Shark (Final Fantasy)|Killer Shark]]
+
+[[de:Weißhai]]
+[[Category:Enemies in Final Fantasy]]
+

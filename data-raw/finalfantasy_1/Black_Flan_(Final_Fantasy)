@@ -1,0 +1,296 @@
+{{DISPLAYTITLE:Black Flan (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Black Flan
+| japanese = ブラックプリン
+| romaji = Burakkupurin
+| lit = Black Pudding
+| aka = Dark Flan, SLIME
+| image = <gallery>
+Black Flan from FFI Pixel Remaster sprite.png|PR
+Black Flan from FFI 20th Anniversary Edition sprite.png|20th
+Black Flan from FFI Dawn of Souls sprite.png|GBA
+Dark Flan from FFI Origins sprite.png|PS
+SLIME from FFI NES sprite.png|NES
+</gallery>
+| aiscript = true
+| formations = true
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Flying Fortress]]
+| recurring appearance = Black Flan
+}}
+The '''Black Flan''', also known as '''SLIME''' or '''Dark Flan''', is an enemy in ''[[Final Fantasy]]''. It is a rare enemy encountered in the [[Flying Fortress]] and [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]. Its phenomenal [[Defense (stat)|Defense]] stat renders physical attacks ineffective against it, while its ability to inflict [[Poison (Final Fantasy status)|Poison]] can make for a painful battle of attrition with physical-oriented parties. However, its comparatively low Magic Defense and fire weakness allows a [[Firaga (Final Fantasy)|Firaga]] to make short work of it.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Earth Medusa (Final Fantasy)
+| prev no = 113
+| bestiary = 114
+| next = Soldier (Final Fantasy)
+| next no = 115
+| name = Black Flan<br>'''PS:''' Dark Flan<br>'''NES:''' SLIME
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Flying Fortress]]
+| hp = 156
+| attack = 49
+| intellect = 6
+| defense = 255
+| magic defense = 85
+| agility = 12
+| accuracy = 39
+| hits = 1
+| evasion = 24
+| crit = 1
+| luck = 2
+| exp = 900
+| gil = 1,101
+| morale = 200
+| silence = Resists
+| sleep = Resists
+| paralysis = Resists
+| darkness = Resists
+| poison status = Resists
+| stone = Resists
+| confuse = Resists
+| fire = Weak
+| ice = Resists
+| lightning = Resists
+| earth = Resists
+| spirit = Resists
+| instant death = Resists
+| poison element = -<br>{{note|reference=Resists prior to pixel remaster.|name=posion element}}
+| abilities = Attacks may inflict [[Poison (Final Fantasy status)|Poison]]
+}}
+{{annotations}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|243}}
+|[[Black Flan (Final Fantasy)|Black Flan]] x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 5F
+|90
+|-
+!rowspan="2"|{{A|244}}
+|rowspan="2"|[[Black Flan (Final Fantasy)|Black Flan]] x5
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 2F
+|50
+|-
+|[[Flying Fortress]] 5F
+|90
+|-
+!rowspan="3"|{{A|245}}
+|rowspan="3"|[[Black Flan (Final Fantasy)|Black Flan]] x4
+|rowspan="3"|{{y}}
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|60
+|-
+|[[Flying Fortress]] 2F
+|50
+|-
+|[[Flying Fortress]] 5F
+|90
+|-
+!rowspan="2"|{{A|246}}
+|rowspan="2"|[[Black Flan (Final Fantasy)|Black Flan]] x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|80
+|-
+|[[Flying Fortress]] 2F
+|80
+|-
+!{{A|650}}
+|[[Black Flan (Final Fantasy)|Black Flan]] x8
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|40
+|-
+!rowspan="2"|{{A|651}}
+|rowspan="2"|[[Black Flan (Final Fantasy)|Black Flan]] x7
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 1F
+|70
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|40
+|-
+!{{A|652}}
+|[[Black Flan (Final Fantasy)|Black Flan]] x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 1F
+|80
+|-
+!{{A|653}}
+|[[Black Flan (Final Fantasy)|Black Flan]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 1F
+|90
+|-
+!{{A|654}}
+|[[Black Flan (Final Fantasy)|Black Flan]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 1F
+|100
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="3"|{{A|080}}
+|rowspan="3"|[[Black Flan (Final Fantasy)|Black Flan]] x3-6
+|rowspan="3"|9 small
+|rowspan="3"|{{y}}
+|rowspan="3"|4
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|1
+|-
+|[[Flying Fortress]] 2F
+|1
+|-
+|[[Flying Fortress]] 5F
+|6
+|-
+!rowspan="2"|{{A|208}}
+|rowspan="2"|[[Black Flan (Final Fantasy)|Black Flan]] x4-8
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 1F
+|1
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|3
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+| 81
+| —
+| 37.25%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Flan}}
+
+{{Etym|Black Pudding}}
+
+== Related enemies ==
+* [[Gray Ooze (Final Fantasy)|Gray Ooze]]
+* [[Green Slime (Final Fantasy)|Green Slime]]
+* [[Ochre Jelly]]
+* [[Red Flan (Final Fantasy)|Red Flan]]
+
+[[Category:Enemies in Final Fantasy]]
+
+[[de:Dunkelpudding (FFI)]]
+[[es:Flan oscuro (Final Fantasy)]]
+

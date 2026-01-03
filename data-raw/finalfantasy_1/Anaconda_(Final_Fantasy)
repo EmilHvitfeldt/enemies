@@ -1,0 +1,217 @@
+{{DISPLAYTITLE:Anaconda (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Anaconda
+| japanese = アナコンダ
+| romaji = Anakonda
+| aka = COBRA
+| image = <gallery>
+Anaconda from FFI Pixel Remaster sprite.png|PR
+Anaconda from FFI 20th Anniversary Edition sprite.png|20th
+Anaconda from FFI Dawn of Souls sprite.png|GBA
+Anaconda from FFI Origins sprite.png|PS
+COBRA from FFI MSX sprite.png|MSX
+COBRA from FFI NES sprite.png|NES
+</gallery>
+| aiscript = true
+| formations = true
+| location = [[Cavern of Earth]]<br>[[Crescent Lake]] region<br>[[Marsh Cave]]<br>[[Ryukahn Desert]] region
+}}
+The '''Anaconda''', also known as the '''COBRA''', is an enemy in ''[[Final Fantasy]]''. It appears as a [[random encounter]] in the [[Cavern of Earth]], and as a guardian in the [[Marsh Cave]], guarding two [[Treasure chest (object)|chests]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Wraith (Final Fantasy)
+| prev no = 035
+| bestiary = 036
+| next = Hyenadon
+| next no = 037
+| name = Anaconda<br>'''NES:''' COBRA
+| type = Dragon
+| location = [[Cavern of Earth]]<br>[[Crescent Lake]] region<br>[[Marsh Cave]]<br>[[Ryukahn Desert]] region
+| hp = 80
+| attack = 22
+| intellect = 11
+| defense = 10
+| magic defense = 56
+| agility = 18
+| accuracy = 20
+| hits = 1
+| evasion = 36
+| crit = 31
+| luck = 2
+| exp = 165
+| gil = 50
+| morale = 110
+}}
+
+==Formations==
+[[File:Amano FF1 Anaconda.gif|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|065}}
+|[[Anaconda (Final Fantasy)|Anaconda]] x6
+|{{x}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B3
+|Fixed
+|-
+!{{A|066}}
+|[[Anaconda (Final Fantasy)|Anaconda]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|60
+|-
+!{{A|067}}
+|[[Anaconda (Final Fantasy)|Anaconda]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|70
+|-
+!{{A|423}}
+|[[Scorpion (Final Fantasy)|Scorpion]] x3, [[Anaconda (Final Fantasy)|Anaconda]] x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|424}}
+|[[Scorpion (Final Fantasy)|Scorpion]] x2, [[Anaconda (Final Fantasy)|Anaconda]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Crescent Lake]]-[[Ryukahn Desert]] region
+|60
+|-
+!{{A|425}}
+|[[Anaconda (Final Fantasy)|Anaconda]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Crescent Lake]]-[[Ryukahn Desert]] region
+|60
+|-
+!{{A|796}}
+|[[Anaconda (Final Fantasy)|Anaconda]] x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|021}}
+|rowspan="2"|[[Anaconda (Final Fantasy)|Anaconda]] x2-6
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|24
+|-
+|[[Marsh Cave]] B3
+|Fixed
+|-
+!{{A|149}}
+|[[Anaconda (Final Fantasy)|Anaconda]] x2-6, [[Scorpion (Final Fantasy)|Scorpion]] x0-4
+|9 small
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Crescent Lake]]-[[Ryukahn Desert]] region
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 110
+| 16
+| 41
+| 100%
+| 31
+| 81
+| 100%
+|-
+! 1
+! 70
+| 1
+| 21
+| 100%
+| 1
+| 41
+| 100%
+|-
+! 2
+! 30
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Anaconda}}
+
+It was known as COBRA in the NES version. {{Etym|Cobra}}
+
+== Related enemies ==
+* [[Cobra (Final Fantasy)|Cobra]]
+* [[Python (Final Fantasy)|Python]]
+* [[Sea Snake (Final Fantasy)|Sea Snake]]
+
+[[Category:Enemies in Final Fantasy]]
+
+[[es:Anaconda (Final Fantasy)]]
+

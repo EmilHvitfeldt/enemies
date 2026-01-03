@@ -1,0 +1,298 @@
+{{DISPLAYTITLE:Evil Eye (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Evil Eye
+| japanese = イビルアイ
+| romaji = Ibiruai
+| aka = EYE, [[#Behind the scenes|"Beholder"]] {{J|ビホルダー|Bihorudā}}
+| image = <gallery>
+Evil Eye from FFI Pixel Remaster sprite.png|PR
+Evil Eye from FFI 20th Anniversary Edition sprite.png|20th
+Evil Eye from FFI Dawn of Souls sprite.png|GBA
+Evil Eye from FFI Origins sprite.png|PS
+EYE from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cavern of Ice]]<br>[[Flying Fortress]]
+| aiscript = true
+| formations = true
+| recurring appearance = Evil Eye
+}}
+The '''Evil Eye''', also known as the '''EYE''', is an enemy in ''[[Final Fantasy]]''. It is encountered as a miniboss in the [[Cavern of Ice]] guarding the [[Levistone]], and in the [[Flying Fortress]] as a [[random encounter]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Dark Wizard (Final Fantasy)
+| prev no = 074
+| bestiary = 075
+| next = Desert Baretta (Final Fantasy)
+| next no = 076
+| name = Evil Eye<br>'''NES:''' EYE
+| type = Mage <small>(Pre-[[Pixel Remaster|PR]])</small><br>Magic <small>([[Pixel Remaster|PR]])</small>
+| location = [[Cavern of Ice]]<br>[[Flying Fortress]]
+| hp = 162
+| attack = 30
+| intellect = 20
+| defense = 30
+| magic defense = 92
+| agility = 6
+| accuracy = 42
+| evasion = 12
+| morale = 200
+| hits = 1
+| crit = 1
+| exp = 3,225
+| gil = 3,225
+| luck = 2
+| earth = Resists
+| nes quake = Resists
+| abilities = [[Break (Final Fantasy enemy ability)|Break]]<br>[[Death (Final Fantasy enemy ability)|Death]]<br>[[Gaze (Final Fantasy)|Gaze]]<br>[[Hold (Final Fantasy enemy ability)|Hold]]<br>[[Kill (Final Fantasy enemy ability)|Kill]]<br>[[Silence (Final Fantasy enemy ability)|Silence]]<br>[[Sleep (Final Fantasy enemy ability)|Sleep]]<br>[[Slow (Final Fantasy enemy ability)|Slow]]<br>[[Thundara (Final Fantasy enemy ability)|Thundara]]
+}}
+
+== Battle ==
+[[File:Amano FF1 Evil Eye.png|Concept artwork of the monster's [[#Behind the scenes|original design]] by [[Yoshitaka Amano]].|thumb]]
+The Evil Eye does not have any specific weaknesses, so the party can simply [[Attack (command)|attack]] physically with a [[Thief (Final Fantasy)|Thief]]/[[Monk (Final Fantasy)|Monk]]/[[Warrior (Final Fantasy)|Warrior]] while using [[Haste (Final Fantasy)|Haste]] on them, if available. The player's highest grade [[Magic (Final Fantasy)|magic]] can be used to harm it while healing as necessary. The Evil Eye should not be too hard due to its low [[HP (stat)|HP]] level, which ensures an easy battle if physical tactics are devised. It is, however, recommended to defeat it quickly, as the longer the fight goes on the more likely it is to use abilities that can possibly kill the entire party.
+
+In versions prior to WSC, it has a high chance of using its instant death and petrify abilities immediately, so the fight should be ended as soon as possible.
+
+===Level grinding===
+Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'', the Evil Eye in the Cavern of Ice is found one step before the stone and must be battled to obtain the key item. It can be fought as many times as the player's [[party]] wants, because it does not disappear from its position after being defeated. The player can move to another adjacent tile, and then return to fight the Evil Eye again for [[level grinding]] purposes, as it gives out a considerable amount of [[experience point]]s upon defeat. If the party has [[Protect Ring (Final Fantasy)|Protect Rings]], the Eye becomes a relatively safe source of quick experience due its [[Instant Death (Final Fantasy)|Instant Death]] actions always missing. However, it may still inflict [[Stone (Final Fantasy status)|Stone]].
+
+In ''Pixel Remaster'', the Cavern of Ice encounter is instead a one-time trigger when the player interacts with the Levistone and cannot be farmed.
+
+==Formations==
+;''Pixel Remaster''
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|312}}
+|[[Evil Eye (Final Fantasy)|Evil Eye]] x1
+|{{x}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B2
+|Fixed
+|-
+!{{A|747}}
+|[[Evil Eye (Final Fantasy)|Evil Eye]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|748}}
+|[[Evil Eye (Final Fantasy)|Evil Eye]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!rowspan="2"|{{A|810}}
+|rowspan="2"|[[Evil Eye (Final Fantasy)|Evil Eye]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|60
+|-
+|[[Flying Fortress]] 2F
+|60
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="3"|{{A|105}}
+|rowspan="3"|[[Evil Eye (Final Fantasy)|Evil Eye]] x1
+|rowspan="3"|4 large
+|rowspan="3"|{{x}}
+|rowspan="3"|4
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B2
+|Fixed
+|-
+|[[Flying Fortress]] 1F
+|12
+|-
+|[[Flying Fortress]] 2F
+|12
+|-
+!{{A|233}}
+|[[Evil Eye (Final Fantasy)|Evil Eye]] x2-3
+|4 large
+|{{x}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|}
+
+==AI script==
+{{Multicol-begin}}
+;''Pixel Remaster''
+{| class="article-table"
+|-
+! Action
+! Probability
+|-
+| Attack
+| 40.00%
+|-
+| Silence
+| 8.00%
+|-
+| Slow
+| 8.00%
+|-
+| Thundara
+| 8.00%
+|-
+| Gaze (damage)
+| 8.00%
+|-
+| Sleep
+| 6.00%
+|-
+| Hold
+| 5.00%
+|-
+| Flee
+| 5.00%
+|-
+| Death
+| 2.00%
+|-
+| Break
+| 2.00%
+|-
+| Kill
+| 2.00%
+|-
+| Gaze (stone)
+| 2.00%
+|-
+| Gaze (paralysis)
+| 2.00%
+|-
+| Gaze (instant death)
+| 2.00%
+|}
+{{Multicol-separator}}
+;WonderSwan Color to ''20th Anniversary''
+{| class="article-table"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| 22.5%
+|
+|-
+| Magic
+| 40%
+| Thundara → Hold → Silence → Kill → Slow → Break → Sleep → Death ↻
+|-
+| Ability
+| 37.5%
+| Gaze (damage) → Gaze (paralysis) → Gaze (stone) → Gaze (instant death) ↻
+|}
+{{Multicol-separator}}
+;Famicom to NES
+{| class="article-table"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| 14.06%
+|
+|-
+| Magic
+| 62.5%
+| Kill → Break → Death → Thundara → Hold → Silence → Slow → Sleep ↻
+|-
+| Ability
+| 23.44%
+| Gaze (stone) → Gaze (instant death) → Gaze (paralysis) → Gaze (damage) ↻
+|-
+| Flee
+| colspan="2"|Morale check{{note|reference=Evil Eyes will only make a Morale check in the NES release; other Morale-based releases prevent all Evil Eye formations from fleeing.|name=morale}}
+|}
+{{Multicol-end}}
+
+;Morale check
+{| class="article-table"
+! # [[Fear (Final Fantasy)|Fear]]
+! [[Morale (Final Fantasy)|Morale]]
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+|}
+{{annotations}}
+
+==Behind the scenes==
+[[File:EYE from FFI Famicom sprite.png|thumb|Sprite from the Famicom release.]]
+In the original Japanese version, the EYE and its palette swap the [[PHANTOM (Final Fantasy)|PHANTOM]] greatly resembled a [[wikipedia:Beholder (Dungeons & Dragons)|Beholder]] from ''Dungeons & Dragons'', and was even called Beholder {{J|ビホルダー|Bihorudā}}. Outside of Japan, and for all ports after the MSX version, the design and name were drastically changed, likely due to copyright concerns. The original Beholder design would not be used again until ''[[Dissidia Final Fantasy (2008)|Dissidia Final Fantasy]]'', where it was used for a [[Dissidia Final Fantasy (2008) player icons|player icon]].
+
+== Etymology ==
+{{Etym|Evil Eye}}
+
+{{Etym|Beholder}}
+
+== Related enemies ==
+* [[Bloody Eye (Final Fantasy)|Bloody Eye]]
+* [[Death Eye]]
+
+[[de:Teufelsauge]]
+[[Category:Enemies in Final Fantasy]]
+

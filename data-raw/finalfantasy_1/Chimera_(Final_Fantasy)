@@ -1,0 +1,307 @@
+{{DISPLAYTITLE:Chimera (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Chimera
+| japanese = キメラ
+| romaji = Kimera
+| aka = CHIMERA
+| image = <gallery>
+Chimera from FFI Pixel Remaster sprite.png|PR
+Chimera from FFI 20th Anniversary Edition sprite.png|20th
+Chimera from FFI Dawn of Souls sprite.png|GBA
+Chimera from FFI Origins sprite.png|PS
+CHIMERA from FFI NES sprite.png|NES
+</gallery>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Flying Fortress]]<br>[[Mirage Tower]]
+| aiscript = true
+| formations = true
+| recurring appearance = Chimera
+}}
+The '''Chimera''', also known as '''CHIMERA''', is an enemy in the original ''[[Final Fantasy]]''. It is a [[Fire (element)|Fire]]-based enemy and often uses [[Blaze (ability)|Blaze]], a powerful Fire-elemental attack, to damage the entire party. It can be encountered in the [[Mirage Tower]], [[Flying Fortress]], and [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], and may appear alongside the [[Rhyos (Final Fantasy)|Rhyos]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Black Knight (Final Fantasy)
+| prev no = 104
+| bestiary = 105
+| next = Guardian (Final Fantasy)
+| next no = 106
+| = Chimera
+| name = Chimera<br>'''NES:''' CHIMERA
+| type = Beast <small>([[Pixel Remaster|PR]])</small><br>Dragon
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Flying Fortress]]<br>[[Mirage Tower]]
+| hp = 300
+| attack = 30
+| intellect = 24
+| defense = 20
+| magic defense = 130
+| agility = 36
+| accuracy = 60
+| hits = 4
+| evasion = 72
+| crit = 1
+| luck = 2
+| exp = 2,064
+| gil = 2,500
+| morale = 200
+| ice = Weak
+| fire = Resists
+| earth = Resists
+| abilities = [[Blaze (Final Fantasy)|Blaze]]
+}}
+
+==Formations==
+[[File:FF1 Chimera Artwork.png|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;''Pixel Remaster''
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="2"|{{A|169}}
+|rowspan="2"|[[Chimera (Final Fantasy)|Chimera]] x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|80
+|-
+|[[Mirage Tower]] 2F
+|90
+|-
+!rowspan="2"|{{A|170}}
+|rowspan="2"|[[Chimera (Final Fantasy)|Chimera]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|80
+|-
+|[[Mirage Tower]] 2F
+|90
+|-
+!{{A|171}}
+|[[Chimera (Final Fantasy)|Chimera]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|257}}
+|[[Chimera (Final Fantasy)|Chimera]] x2, [[Rhyos (Final Fantasy)|Rhyos]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|70
+|-
+!{{A|258}}
+|[[Chimera (Final Fantasy)|Chimera]] x1, [[Rhyos (Final Fantasy)|Rhyos]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|90
+|-
+!{{A|259}}
+|[[Chimera (Final Fantasy)|Chimera]] x2, [[Rhyos (Final Fantasy)|Rhyos]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|90
+|-
+!{{A|260}}
+|[[Chimera (Final Fantasy)|Chimera]] x1, [[Rhyos (Final Fantasy)|Rhyos]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|90
+|-
+!{{A|571}}
+|[[Chimera (Final Fantasy)|Chimera]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 1F
+|110
+|-
+!{{A|572}}
+|[[Chimera (Final Fantasy)|Chimera]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 1F
+|110
+|-
+!rowspan="2"|{{A|670}}
+|rowspan="2"|[[Chimera (Final Fantasy)|Chimera]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 2F
+|70
+|-
+|[[Flying Fortress]] 3F
+|70
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|059}}
+|rowspan="2"|[[Chimera (Final Fantasy)|Chimera]] x1-3
+|rowspan="2"|4 large
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|12
+|-
+|[[Mirage Tower]] 2F
+|12
+|-
+!{{A|085}}
+|[[Chimera (Final Fantasy)|Chimera]] x1-2, [[Rhyos (Final Fantasy)|Rhyos]] x1-2
+|4 large
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|12
+|-
+!{{A|187}}
+|[[Chimera (Final Fantasy)|Chimera]] x3-4
+|4 large
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 1F
+|9
+|-
+!rowspan="2"|{{A|213}}
+|rowspan="2"|[[Chimera (Final Fantasy)|Chimera]] x1
+|rowspan="2"|4 large
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 2F
+|12
+|-
+|[[Flying Fortress]] 3F
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 48.08%
+| 50%
+|-
+| Blaze
+| 48.08%
+| 50%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+| 81
+| —
+| 37.25%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+==Other appearances==
+===''[[Final Fantasy Brave Exvius]]''===
+[[File:Chimera FFI from FFBE enemy sprite.png|thumb|150x150px]]
+{{Enemy section|Final Fantasy Brave Exvius}}
+{{clear}}
+
+== Etymology ==
+{{Etym|Chimera}}
+
+== Related enemies ==
+* [[Rhyos (Final Fantasy)|Rhyos]]
+* [[Mage Chimera]]
+
+[[de:Chimära (FFI)]]
+[[es:Quimera (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

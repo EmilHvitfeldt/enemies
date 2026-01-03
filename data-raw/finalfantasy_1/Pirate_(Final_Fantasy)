@@ -1,0 +1,66 @@
+{{DISPLAYTITLE:Pirate (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Pirate
+| japanese = かいぞく
+| romaji = Kaizoku
+| lit = Pirate
+| aka = PIRATE
+| image = <gallery>
+Pirate from FFI Pixel Remaster sprite.png|PR
+Pirate from FFI 20th Anniversary Edition sprite.png|20th
+Pirate from FFI Dawn of Souls sprite.png|GBA
+Pirate from FFI Origins sprite.png|PS
+FFI Pirate MSX.png|MSX
+PIRATE from FFI NES sprite.png|NES
+</gallery>
+| sprite = [[File:Pirate from FFI Pixel Remaster field sprite.png|Pixel Remaster]]
+| location = [[Pravoka]]
+| recurring appearance = Pirate
+}}
+The '''Pirate''', also known as the '''PIRATE''', is an enemy in ''[[Final Fantasy]]''. It is encountered in [[Pravoka]], where the pirate [[Bikke (Final Fantasy)|Bikke]] challenges the player's [[party]] to a fight over the freedom of the city, summoning nine of his fellow pirates. When defeated, Bikke will give the player's party his [[ship]], which can then be used to travel to [[Elfheim]] and continue their journey.
+
+The Pirates come in great numbers, but have low [[HP (Final Fantasy)|HP]] and should fall quickly to standard attacks. The [[Sleep (Final Fantasy)|Sleep]] spell can be used for advantage if the number of Pirates is overwhelming.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Lizard (Final Fantasy)
+| prev no = 016
+| bestiary = 017
+| next = Sahagin (Final Fantasy)
+| next no = 018
+| name = Pirate<br>'''NES:''' PIRATE
+| location = [[Pravoka]]
+| hp = 24
+| attack = 10
+| intellect = 3
+| defense = 0
+| magic defense = 35
+| agility = 6
+| accuracy = 2
+| evasion = 12
+| exp = 40
+| gil = 40
+| hits = 1
+| crit = 1
+| morale = 255
+| luck = 2
+| drop = [[Leather Shield (Final Fantasy)|Leather Shield]] (2%)
+}}
+
+== Behind the scenes ==
+It is possible to make the Pirates flee in the Famicom, NES, and MSX releases with enough applications of the [[Fear (Final Fantasy)|Fear]] spell, but the spell can't be learned until after they are defeated without mods. Subsequent releases prevent them from making the [[morale (Final Fantasy)|morale]] check to flee.
+
+== Etymology ==
+{{Etym|Pirate}}
+
+In Japanese, this enemy is called 海賊, ''kaizoku'', meaning "sea bandit", and is the primary Japanese term for "pirate" in that sense. The similar palette-swapped enemy [[Buccaneer (Final Fantasy)|Buccaneer]] is called パイレーツ, ''pairētsu'', which is taken from the English word "pirate", and is used as a more exotic-sounding synonym of the same concept. This has posed issues in translating these two enemy terms into English. The 1990 NES version addressed this by swapping the terms in translation, with ''kaizoku'' becoming "Pirate" and ''pairētsu'' becoming "Kyzoku" (a phonetic spelling of ''kaizoku''). Later translations have continued translating ''kaizoku'' as "Pirate", but ''pairētsu'' is since become "Buccaneer" or "Privateer", which are more flowery terms for "pirate" in English, and this keeps with the spirit of the Japanese naming pattern.
+
+== Related enemies ==
+* [[Buccaneer (Final Fantasy)|Buccaneer]]
+
+
+[[es:Pirata (Final Fantasy)]]
+[[pt-br:Pirata (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

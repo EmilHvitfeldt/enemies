@@ -1,0 +1,161 @@
+{{infobox enemy
+| release = FFI
+| name = Winter Wolf
+| japanese = ウィンターウルフ
+| romaji = Wintā Urufu
+| lit = 
+| image = <gallery>
+Winter Wolf from FFI Pixel Remaster sprite.png|PR
+Winter Wolf from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Winter Wolf from FFI Dawn of Souls sprite.png|GBA
+Winter Wolf from FFI Origins sprite.png|PS
+FrWOLF from FFI NES sprite.png|NES
+</gallery>
+| location = 
+| type = 
+| formations = 
+| aiscript = true
+}}
+The '''Winter Wolf''', also known as the '''FrWOLF''' in the [[Nintendo Entertainment System]] version, is an enemy in the original ''[[Final Fantasy]]''. Winter Wolves are the toughest of the wolf family, but are weak due to having zero [[Defense (stat)|Defense]] and an elemental weakness to [[Fire (Final Fantasy element)|Fire]]. Given that they appear with other [[Ice (Final Fantasy)|Ice]]-type monsters, a single [[Fira (Final Fantasy)|Fira]] can easily defeat an entire group. They can still be dangerous for the unprepared. Winter Wolves have a special attack called [[Snowstorm|Icestorm]], which deals Ice damage to all the [[party]] members. Despite its low damage, Winter Wolves tend to appear in large packs. [[NulFrost (Final Fantasy)|NulFrost]]—and taking the wolves out quickly—can cut down the damage they deal.
+
+They appear as [[random encounter]]s in the [[Cavern of Ice]], attacking in large packs or along with a lone (or pair of) [[Ice Gigas (Final Fantasy)|Ice Gigas]]. They also appear in the second floor of the [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], and around the cities of [[Lufenia (Final Fantasy)|Lufenia]], [[Pravoka]], and [[Onrac]], even of these are not snowy regions.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = White Dragon (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 069
+| psp next = Mindflayer (Final Fantasy)
+| psp next no = 
+| prev = White Dragon (Final Fantasy)
+| prev no = 
+| bestiary = 069
+| next = Mindflayer (Final Fantasy)
+| next no = 
+| ps prev = White Dragon (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 069
+| ps next = Mindflayer (Final Fantasy)
+| ps next no = 
+| nes = FrWOLF
+| ps = Winter Wolf
+| = Winter Wolf
+| psp = Winter Wolf
+| psp location = 
+| nes location = [[Cavern of Ice|Ice Cave]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], [[Onrac]], [[Lufenia (Final Fantasy)|Lufenia]]
+| ps location = [[Cavern of Ice|Ice Cavern]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], around [[Onrac]] and [[Lufenia (Final Fantasy)|Lufenia]]
+| location = [[Cavern of Ice]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], around [[Onrac]] and [[Lufenia (Final Fantasy)|Lufenia]]
+| psp hp = 92
+| psp attack = 25
+| psp intelligence = 12
+| psp defense = 0
+| psp magic defense = 55
+| psp agility = 27
+| psp accuracy = 23
+| psp evasion = 54
+| psp exp = 402
+| psp gil = 200
+| hp = 92
+| attack = 25
+| intellect = 12
+| defense = 0
+| magic defense = 55
+| agility = 27
+| accuracy = 23
+| evasion = 54
+| exp = 402
+| gil = 200
+| ps hp = 92
+| ps attack = 25
+| ps defense = 0
+| ps magic defense = 55
+| ps exp = 402
+| ps gil = 200
+| nes hp = 92
+| nes attack = 25 - 50
+| nes defense = 0
+| nes magic defense = 55
+| nes evasion = 54
+| nes accuracy = 23
+| nes exp = 402
+| nes gil = 200
+| psp fire = Weak
+| psp lightning = 
+| psp ice = Resist
+| psp dia = Misses
+| fire = Weak
+| lightning = 
+| ice = Resist
+| dia = Misses
+| ps fire = Weak
+| ps lightning = -
+| ps ice = Resist
+| ps dia = -
+| nes fire = Weak
+| nes lightning = -
+| nes ice = Resist
+| nes dia = -
+| psp drop = [[Ice Shield (Final Fantasy)|Ice Shield]]
+| psp abilities = 
+| psp resistance = 
+| drop = [[Ice Shield (Final Fantasy)|Ice Shield]]
+| abilities = [[Frost (ability)|Frost]], Icestorm
+| resistance = None
+| ps abilities = [[Frost (ability)|Frost]]
+| ps resistance = Ice
+| nes abilities = [[Frost (ability)|Frost]]
+| nes resistance = [[Ice (element)|Ice]]
+}}
+
+== AI script ==
+{| class="quarter-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 60.00%
+|-
+| [[Icestorm (Final Fantasy)|Icestorm]]
+| style="text-align:right;" | 35.00%
+|-
+| Flee
+| style="text-align:right;" | 5.00%
+|-
+|}
+
+Prior to ''[[Pixel Remaster]]'':
+
+{| class="quarter-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 75.00%
+|-
+| [[Icestorm (Final Fantasy)|Icestorm]]
+| style="text-align:right;" | 25.00%
+|-
+|}
+
+== Gallery ==
+<gallery>
+FFI Icestorm PS.png|Icestorm in the ''Origins'' version.
+FFI Icestorm GBA.png|Icestorm in the ''Advance'' version.
+FFI PSP Icestorm.png|Icestorm in the ''PSP'' version.
+</gallery>
+
+==Etymology==
+{{Etym|Winter Wolf}}
+
+== Related enemies ==
+* [[Wolf (Final Fantasy)|Wolf]]
+* [[Warg Wolf (Final Fantasy)|Warg Wolf]]
+* [[Werewolf (Final Fantasy)|Werewolf]]
+* [[Wild Nakk (Final Fantasy)|Wild Nakk]]
+* [[Dark Wolf (Final Fantasy)|Dark Wolf]]
+
+[[de:Schneewolf (FFI)]]
+[[Category:Enemies in Final Fantasy]]
+

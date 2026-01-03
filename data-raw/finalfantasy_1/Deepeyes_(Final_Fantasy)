@@ -1,0 +1,261 @@
+{{infobox enemy
+| release = FFI
+| name = Deepeyes
+| japanese = ディープアイ
+| romaji = Dīpuai
+| aka = BigEYE, BIGEYE<ref name="Enemy Identification Chart">''[https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABJE.pdf Final Fantasy Explorer's Handbook]'', p.86, "Enemy Identification Chart"</ref>
+| image = <gallery>
+Deepeyes from FFI Pixel Remaster sprite.png|PR
+Deepeyes from FFI 20th Anniversary Edition sprite.png|20th
+Deepeyes from FFI Dawn of Souls sprite.png|GBA
+Deepeyes from FFI Origins sprite.png|PS
+BigEYE from FFI NES sprite.png|NES
+</gallery>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Sunken Shrine]]
+| aiscript = true
+| formations = true
+}}
+The '''Deepeyes''', also known as the '''BigEYE''' or '''BIGEYE''',<ref name="Enemy Identification Chart"/> is an enemy in ''[[Final Fantasy]]''. It is a somewhat uncommon enemy encountered in the [[Sunken Shrine]] and later the [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] (B3). It gives a large amount of [[Experience Points|EXP]] and [[gil]] upon defeat. The Deepeyes can use the [[Gaze (Final Fantasy)|Gaze]] move, which [[Paralysis (Final Fantasy status)|paralyzes]] a [[party]] member. It can also use [[Flash (Final Fantasy)|Flash]], which attempts to inflict [[Darkness (Final Fantasy status)|darkness]] on the whole party.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = White Shark (Final Fantasy)
+| prev no = 094
+| bestiary = 095
+| next = Sea Snake (Final Fantasy)
+| next no = 096
+| name = Deepeyes<br>'''NES:''' BigEYE/BIGEYE<ref name="Enemy Identification Chart"/>
+| type = Aquatic
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Sunken Shrine]]
+| hp = 304
+| attack = 30
+| intellect = 0
+| defense = 16
+| magic defense = 156
+| agility = 12
+| accuracy = 76
+| evasion = 24
+| hits = 2
+| crit = 1
+| luck = 2
+| exp = 3,591
+| gil = 3,591
+| morale = 200
+| lightning = Weak
+| fire = Resists
+| earth = Resists
+| abilities = [[Flash (Final Fantasy)|Flash]]<br>[[Gaze (Final Fantasy)|Gaze]]
+}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="3"|{{A|200}}
+|rowspan="3"|Deepeyes x1, [[White Shark (Final Fantasy)|White Shark]] x1
+|rowspan="3"|{{y}}
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Sunken Shrine]] 1F
+|70
+|-
+|[[Sunken Shrine]] 2F
+|70
+|-
+|[[Sunken Shrine]] 4F
+|70
+|-
+!{{A|622}}
+|Deepeyes x2, [[White Shark (Final Fantasy)|White Shark]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B3
+|80
+|-
+!{{A|623}}
+|[[White Shark (Final Fantasy)|White Shark]] x2, Deepeyes x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B3
+|90
+|-
+!{{A|624}}
+|Deepeyes x2, [[White Shark (Final Fantasy)|White Shark]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B3
+|90
+|-
+!{{A|625}}
+|Deepeyes x1, [[White Shark (Final Fantasy)|White Shark]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="3"|{{A|072}}
+|rowspan="3"|[[White Shark (Final Fantasy)|White Shark]] x1, Deepeyes x0-1
+|rowspan="3"|4 large
+|rowspan="3"|{{y}}
+|rowspan="3"|4
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Sunken Shrine]] 1F
+|12
+|-
+|[[Sunken Shrine]] 2F
+|6
+|-
+|[[Sunken Shrine]] 4F
+|6
+|-
+!{{A|200}}
+|[[White Shark (Final Fantasy)|White Shark]] x1-2, Deepeyes x1-2
+|4 large
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B3
+|3
+|}
+
+==AI script==
+;Pixel remaster
+{| class="article-table"
+|-
+! Action
+! Probability
+|-
+| Attack
+| 45%
+|-
+| Flash
+| 25%
+|-
+| Gaze
+| 25%
+|-
+| Flee
+| 5%
+|}
+
+;Other releases
+{| class="article-table"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| 50%
+|
+|-
+| Ability
+| 50%
+| Gaze → Flash ↻
+|-
+| Flee
+| colspan="2"|Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+| 81
+| —
+| 37.25%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+Like virtually all enemies in the original ''Final Fantasy'', the Deepeyes [[Final Fantasy allusions|allude]] to ''Dungeons and Dragons''. There, the enemy is known as an Eye of the Deep, and it is an amphibious relative of the [[Evil Eye (Final Fantasy)|Beholder]] with a paralyzing gaze.
+
+== Related enemies ==
+* [[Bigeyes (Final Fantasy)|Bigeyes]]
+* [[Dark Eye (Final Fantasy)|Dark Eye]]
+
+==Citations==
+{{citations}}
+
+[[de:Glotzauge (FFI)]]
+[[es:Mirada profunda (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

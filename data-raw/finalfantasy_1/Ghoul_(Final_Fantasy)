@@ -1,0 +1,276 @@
+{{DISPLAYTITLE:Ghoul (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Ghoul
+| japanese = グール
+| romaji = Gūru
+| aka = GHOUL
+| image = <gallery>
+Ghoul from FFI Pixel Remaster sprite.png|PR
+Ghoul from FFI 20th Anniversary Edition sprite.png|20th
+Ghoul from FFI Dawn of Souls sprite.png|GBA
+Ghoul from FFI Origins sprite.png|PS
+FFI Ghoul MSX.png|MSX
+GHOUL from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cavern of Earth]] region<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Giant's Cave]] region<br>[[Marsh Cave]]<br>[[Melmond]] region<br>[[Sage's Cave]] region
+| aiscript = true
+| formations = true
+| recurring appearance = Ghoul
+}}
+
+The '''Ghoul''', also known as the '''GHOUL''', is an [[undead]] enemy in ''[[Final Fantasy]]''. Its attacks may cause [[Paralysis (Final Fantasy status)|Paralysis]], and it is infamous for its tendency to attack in large, chain-paralyzing packs alongside its [[Ghast (Final Fantasy)|Ghast]] cousin, prematurely ending many a [[Warriors of Light|Warrior of Light]]'s journey.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Zombie (Final Fantasy)
+| prev no = 010
+| bestiary = 011
+| next = Garland (Final Fantasy boss)
+| next no = 012
+| name = Ghoul<br>'''NES:''' GHOUL
+| type = Undead
+| location =[[Cavern of Earth]] region<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Giant's Cave]] region<br>[[Marsh Cave]]<br>[[Melmond]] region<br>[[Sage's Cave]] region
+| hp = 48
+| attack = 8
+| intellect = 1
+| defense = 6
+| magic defense = 36
+| agility = 6
+| accuracy = 12
+| evasion = 12
+| exp = 93
+| gil = 50
+| morale = 124
+| hits = 3
+| crit = 1
+| luck = 2
+| fire = Weak
+| dia = Weak
+| silence = Resists
+| sleep = Resists
+| paralysis = Resists
+| darkness = Resists
+| poison status = Resists
+| stone = Resists
+| confuse = Resists
+| ice = Resists
+| spirit = Resists
+| instant death = Resists
+| poison element = -<br>{{note|reference=Resists prior to pixel remaster.|name=poison element}}
+| abilities = Attacks may inflict [[Paralysis (Final Fantasy status)|Paralysis]]
+}}
+{{annotations}}
+
+== Battle ==
+Ghouls are infamous for being the first enemy players encounter capable of inflicting [[Paralysis]] with their standard attack, and have a tendency to [[Paralysis|paralyze]] the party's frontliners. It is a good idea to save casts of [[Fire (ability)|Fire]] on the party's [[Black Mage (Final Fantasy)|Black Mage]] and to not be afraid to bust out [[Dia (ability)|Dia]] on the [[White Mage (Final Fantasy)|White Mage]].
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|020}}
+|[[Ghoul (Final Fantasy)|Ghoul]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+|70
+|-
+!{{A|363}}
+|[[Ghoul (Final Fantasy)|Ghoul]] x4, [[Zombie (Final Fantasy)|Zombie]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B2
+|30
+|-
+!{{A|364}}
+|[[Ghoul (Final Fantasy)|Ghoul]] x3, [[Zombie (Final Fantasy)|Zombie]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B2
+|40
+|-
+!{{A|365}}
+|[[Ghoul (Final Fantasy)|Ghoul]] x2, [[Zombie (Final Fantasy)|Zombie]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B1
+|40
+|-
+!{{A|366}}
+|[[Ghoul (Final Fantasy)|Ghoul]] x2, [[Zombie (Final Fantasy)|Zombie]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B1
+|60
+|-
+!{{A|376}}
+|[[Ghast (Final Fantasy)|Ghast]] x4, [[Ghoul (Final Fantasy)|Ghoul]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]]-[[Giant's Cave]]-[[Melmond]] region
+|30
+|-
+!{{A|377}}
+|[[Ghast (Final Fantasy)|Ghast]] x3, [[Ghoul (Final Fantasy)|Ghoul]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|378}}
+|[[Ghast (Final Fantasy)|Ghast]] x2, [[Ghoul (Final Fantasy)|Ghoul]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]]-[[Giant's Cave]]-[[Melmond]] region
+|60
+|-
+!{{A|379}}
+|[[Ghoul (Final Fantasy)|Ghoul]] x2, [[Ghast (Final Fantasy)|Ghast]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|380}}
+|[[Ghoul (Final Fantasy)|Ghoul]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]]-[[Giant's Cave]]-[[Melmond]] region
+|90
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!{{A|008}}
+|[[Ghoul (Final Fantasy)|Ghoul]] x1
+|9 small
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+|12
+|-
+!rowspan="2"|{{A|132}}
+|rowspan="2"|[[Zombie (Final Fantasy)|Zombie]] x2-3, [[Ghoul (Final Fantasy)|Ghoul]] x2-4
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B1
+|12
+|-
+|[[Marsh Cave]] B2
+|12
+|-
+!{{A|136}}
+|[[Ghoul (Final Fantasy)|Ghoul]] x2-5, [[Ghast (Final Fantasy)|Ghast]] x0-4
+|9 small
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]]-[[Giant's Cave]]-[[Melmond]]-[[Sage's Cave]] region
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 124
+| 23
+| 48
+| 100%
+| 45
+| 95
+| 100%
+|-
+! 1
+! 84
+| 3
+| 28
+| 100%
+| 5
+| 55
+| 100%
+|-
+! 2
+! 44
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 3
+! 4
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Ghoul}}
+
+== Related enemies ==
+* [[Ghast (Final Fantasy)|Ghast]]
+* [[Revenant (Final Fantasy)|Revenant]]
+* [[Wight (Final Fantasy)|Wight]]
+* [[Zombie (Final Fantasy)|Zombie]]
+
+
+[[de:Ghul (FFI)]]
+[[es:Necrófago (Final Fantasy)]]
+[[pl:Ghoul (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

@@ -1,0 +1,164 @@
+{{DISPLAYTITLE:Rhyos (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Rhyos
+| japanese = ゴーキメラ
+| romaji = Gōkimera
+| lit = Gorgimera
+| image = <gallery>
+Rhyos from FFI Pixel Remaster sprite.png|PR
+Rhyos from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Rhyos from FFI Dawn of Souls sprite.png|GBA
+Rhyos from FFI Origins sprite.png|PS
+JIMERA from FFI NES sprite.png|NES
+</gallery>
+| location =Chaos Shrine - 2F 
+| type = 
+| formations = 
+| aiscript = true
+|recurring appearance=Gorgimera
+}}
+The '''Rhyos''', also known as the '''Jimera''', is an enemy in the original ''[[Final Fantasy]]''. It is found in the second floor of [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]. Rhyos is a [[Fire (Final Fantasy element)|fire]]-based monster and often uses [[Blaze (Final Fantasy)|Blaze]] and [[Stone Gas (Final Fantasy)|Stone Gas]] on the entire [[party]] who should have [[Fire (Final Fantasy element)|fire]] and [[Stone (Final Fantasy)|stone]]-elemental protection to avoid damage and petrification.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Tiamat (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 120
+| psp next = Death Eye
+| psp next no = 
+| prev = Tiamat (Final Fantasy)
+| prev no = 
+| bestiary = 120
+| next = Death Eye
+| next no = 
+| ps prev = Tiamat (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 120
+| ps next = Death Eye
+| ps next no = 
+| nes = JIMERA
+| ps = Rhyos
+| = Rhyos
+| psp = Rhyos
+| psp location = 
+| nes location = [[Chaos Shrine (Final Fantasy)|Final Temple]]
+| ps location = [[Chaos Shrine (Final Fantasy)|Temple of Chaos 2F]]
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine 2F]]
+| psp hp = 350
+| psp attack = 40
+| psp intelligence = 30
+| psp defense = 18
+| psp magic defense = 143
+| psp agility = 30
+| psp accuracy = 70
+| psp evasion = 60
+| psp exp = 4584
+| psp gil = 5000
+| hp = 350
+| attack = 40
+| intellect = 30
+| defense = 18
+| magic defense = 143
+| agility = 30
+| accuracy = 70
+| evasion = 60
+| exp = 4,584
+| gil = 5,000
+| ps hp = 350
+| ps attack = 40
+| ps defense = 18
+| ps magic defense = 143
+| ps exp = 4,584
+| ps gil = 5,000
+| nes hp = 350
+| nes attack = 40
+| nes defense = 18
+| nes magic defense = 143
+| nes evasion = 60
+| nes accuracy = 70
+| nes exp = 4,584
+| nes gil = 5,000
+| psp fire = Resist
+| psp lightning = 
+| psp ice = Weak
+| psp dia = Misses
+| fire = Resist
+| lightning = 
+| ice = Weak
+| dia = Misses
+| ps fire = Resist
+| ps lightning = -
+| ps ice = Weak
+| ps dia = -
+| nes fire = Resist
+| nes lightning = -
+| nes ice = Weak
+| nes dia = -
+| psp drop = [[Power Staff (Final Fantasy)|Power Staff]]
+| psp abilities = 
+| psp resistance = [[Quake (ability)|Quake]]
+| drop = [[Power Staff (Final Fantasy)|Power Staff]]
+| abilities = [[Blaze (ability)|Blaze]], [[Final Fantasy enemy abilities#Stone Gas|Stone Gas]]
+| resistance = [[Earth (element)|Quake]]
+| ps abilities = [[Blaze (ability)|Blaze]], [[Final Fantasy enemy abilities#Stone Gas|Poison Gas]]
+| ps resistance = [[Quake (ability)|Quake]]
+| nes abilities = [[Final Fantasy enemy abilities#Cremate|Cremate]], [[Final Fantasy enemy abilities#Poison|Poison]]
+| nes resistance = [[Quake (ability)|Quake]]
+}}
+==AI script==
+{| class="quarter-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 44.25%
+|-
+| [[Blaze (Final Fantasy)|Blaze (CREMATE)]]
+| style="text-align:right;" | 35.40%
+|-
+| [[Stone Gas (Final Fantasy)|Stone Gas]]
+| style="text-align:right;" | 17.70%
+|-
+| Flee
+| style="text-align:right;" | 2.65%
+|}
+
+Prior to ''[[Pixel Remaster]]'':
+
+{| class="quarter-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 50.00%
+|-
+| Enemy-exclusive ability
+| style="text-align:right;" | 50.00%
+| [[Blaze (Final Fantasy)|Blaze (CREMATE)]] → [[Stone Gas (Final Fantasy)|Stone Gas]]
+|}
+
+==Other appearances==
+===''[[Final Fantasy Brave Exvius]]''===
+[[File:Rhyos FFI from FFBE enemy sprite.png|thumb|150x150px]]
+{{Enemy section|Final Fantasy Brave Exvius}}{{clear}}
+
+==Gallery==
+<gallery>
+FF1_PSP_Stone_Gas.jpg|''Stone Gas'' in PSP
+</gallery>
+
+==Etymology==
+{{Etym|Gorgimera}} Gorgimera could breath poison that turned flesh to stone, hence its Poison attack.
+
+== Related enemies ==
+* [[Chimera (Final Fantasy)|Chimera]]
+* [[Mage Chimera]]
+
+
+[[es:Ryos (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

@@ -1,0 +1,133 @@
+{{DISPLAYTITLE:Piscodemon (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Piscodemon
+| japanese = ピスコディーモン
+| romaji = Pisukodīmon
+| lit = 
+| image = <gallery>
+Piscodemon from FFI Pixel Remaster sprite.png|PR
+Piscodemon from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Piscodemon from FFI Dawn of Souls sprite.png|GBA
+Piscodemon from FFI Origins sprite.png|PS
+FFI Piscodemon MSX.png|MSX
+WIZARD from FFI NES sprite.png|NES
+</gallery>
+| location = [[Marsh Cave]], [[Cavern of Earth]], [[Cavern of Ice]]
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Piscodemon (enemy)
+}}
+The '''Piscodemon''', also known as the '''Wizard''' in the [[Nintendo Entertainment System|NES]] version, is an enemy in the original ''[[Final Fantasy]]''. It guards [[Astos|Astos']] [[Crown (Final Fantasy)|crown]], as well as other locations:
+* The space within the lowest left-hand door in the third basement, [[Marsh Cave]].
+* Left side of a chest, found in the second room from the bottom, counting from the left. Marsh Cave, basement 3.
+* Guarding a chest in the lower right hand corner. Marsh Cave, basement 3.
+
+It is a tough enemy when encountered for the first time as its attacks inflict a large amount of damage and it is impossible to [[Flee|escape]] from. A [[Black Mage (Final Fantasy)|Black Mage]] who has learned [[Thundara (Final Fantasy)|Thundara]] from the [[Elfheim]] Magic Shop can make short work of it.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Bloodbones (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 032
+| psp next = Astos
+| psp next no = 
+| prev = Bloodbones (Final Fantasy)
+| prev no = 
+| bestiary = 032
+| next = Astos
+| next no = 
+| ps prev = Bloodbones (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 032
+| ps next = Astos
+| ps next no = 
+| nes = WIZARD
+| ps = Piscodemon
+| = Piscodemon
+| psp = Piscodemon
+| psp location = 
+| nes location = [[Marsh Cave]], [[Cavern of Earth|Earth Cave]], [[Cavern of Ice|Ice Cave]]
+| ps location = [[Marsh Cave]], [[Cavern of Ice|Ice Cavern]], [[Cavern of Earth|Terra Cave]]
+| location = [[Marsh Cave]], [[Cavern of Earth]], [[Cavern of Ice]]
+| psp hp = 84
+| psp attack = 30
+| psp intelligence = 18
+| psp defense = 16
+| psp magic defense = 98
+| psp agility = 33
+| psp accuracy = 21
+| psp evasion = 66
+| psp exp = 276
+| psp gil = 300
+| hp = 84
+| attack = 30
+| intellect = 18
+| defense = 16
+| magic defense = 98
+| agility = 33
+| accuracy = 21
+| evasion = 66
+| exp = 276
+| gil = 300
+| ps hp = 84
+| ps attack = 30
+| ps defense = 16
+| ps magic defense = 98
+| ps exp = 276
+| ps gil = 300
+| nes hp = 84
+| nes attack = 30 - 60
+| nes defense = 16
+| nes magic defense = 98
+| nes evasion = 66
+| nes accuracy = 21
+| nes exp = 276
+| nes gil = 300
+| psp fire = Resist
+| psp lightning = 
+| psp ice = Resist
+| psp dia = Misses
+| fire = Resist
+| lightning = 
+| ice = Resist
+| dia = Misses
+| ps fire = Resist
+| ps lightning = -
+| ps ice = Resist
+| ps dia = -
+| nes fire = Resist
+| nes lightning = -
+| nes ice = Resist
+| nes dia = -
+| psp drop = 
+| psp abilities = 
+| psp resistance = [[Confuse (status)|Confuse]], [[Paralysis]], [[Petrify (status)|Stone]], [[Poison (status)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], [[Mind (stat)|Mind]].
+| drop = None
+| abilities = N/A
+| resistance = [[Confuse (status)|Confuse]], [[Paralysis]], [[Petrify (status)|Stone]], [[Poison (status)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], [[Mind (stat)|Mind]].
+| ps abilities = N/A
+| ps resistance = All statuses
+| nes abilities = None
+| nes resistance = Fire, Ice, Status, Poison
+}}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+== Etymology ==
+{{Etym|Piscodemon}}
+
+{{Etym|Wizard}}
+
+== Related enemies ==
+* [[Mindflayer (Final Fantasy)|Mindflayer]]
+* [[Squidraken (Final Fantasy)|Squidraken]]
+
+
+[[es:Psicodemonio (Final Fantasy)]]
+[[pt-br:Piscodemon (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

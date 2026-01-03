@@ -1,0 +1,262 @@
+{{DISPLAYTITLE:Chaos (''Final Fantasy'' boss)}}
+{{infobox enemy
+| release = FFI
+| name = Chaos
+| japanese = カオス
+| romaji = Kaosu
+| lit = 
+| image = <gallery>
+Chaos from FFI Pixel Remaster battle sprite.png|PR
+Chaos from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Chaos from FFI Dawn of Souls sprite.png|GBA
+Chaos from FFI Origins sprite.png|PS
+CHAOS from FFI NES sprite.png|NES
+</gallery>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] (Past)
+| type = Final Boss
+| formations = 
+| aiscript = true
+| character = Chaos (Final Fantasy)
+|recurring appearance = Chaos
+}}
+{{Quote|So even as you die again and again, I shall return! Born again in this endless circle that I have created!|Chaos}}
+'''Chaos''' is the main antagonist and [[final boss]] of the original ''[[Final Fantasy]]''. He is found at the deepest part of the past [[Chaos Shrine (Final Fantasy)|Chaos Shrine]].
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Tiamat (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 128
+| psp next = Echidna (Final Fantasy)
+| psp next no = 
+| prev = Tiamat (Final Fantasy)
+| prev no = 
+| bestiary = 128
+| next = Echidna (Final Fantasy)
+| next no = 
+| ps prev = Tiamat (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 128
+| ps next = Echidna (Final Fantasy)
+| ps next no = 
+| nes = CHAOS
+| ps = Chaos
+| = Chaos
+| psp = Chaos
+| psp location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] (Past)
+| nes location = [[Chaos Shrine (Final Fantasy)|Temple of Fiends]] (Past)
+| ps location = [[Chaos Shrine (Final Fantasy)|Temple of Chaos]] (Past)
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] (Past)
+| psp hp = 20,000
+| psp attack = 170
+| psp intelligence = 40
+| psp defense = 100
+| psp magic defense = 200
+| psp agility = 50
+| psp accuracy = 200
+| psp evasion = 100
+| psp exp = 0
+| psp gil = 0
+| hp = 20000
+| attack = 170
+| intellect = 40
+| defense = 100
+| magic defense = 200
+| agility = 50
+| accuracy = 200
+| evasion = 100
+| exp = 0
+| gil = 0
+| ps hp = 4,000
+| ps attack = 100
+| ps defense = 100
+| ps magic defense = 200
+| ps exp = 0
+| ps gil = 0
+| nes hp = 2,000
+| nes attack = 100 - 200
+| nes defense = 100
+| nes magic defense = 200
+| nes evasion = 100
+| nes accuracy = 200
+| nes exp = 0
+| nes gil = 0
+| psp fire = Resist
+| psp lightning = Resist
+| psp ice = Resist
+| psp dia = Misses
+| fire = Resist
+| lightning = Resist
+| ice = Resist
+| dia = Misses
+| ps fire = Resist
+| ps lightning = Resist
+| ps ice = Resist
+| ps dia = Misses
+| nes fire = -
+| nes lightning = -
+| nes ice = -
+| nes dia = Misses
+| psp drop = Nothing
+| psp abilities = [[Blaze (ability)|Blaze]], [[Tsunami]], [[Earthquake]], [[Cyclone (ability)|Cyclone]], [[Slowga|Slowra]], [[Firaga (ability)|Firaga]], [[Thundaga (ability)|Thundaga]], [[Blizzara (ability)|Blizzara]], [[Blizzaga (ability)|Blizzaga]], [[Curaja]], [[Haste (ability)|Haste]], [[Flare (ability)|Flare]]
+| psp resistance = [[Earth (Final Fantasy)|Earth]], [[Lightning (Final Fantasy)|Lightning]], [[Time (Final Fantasy)|Time]], [[Paralysis (Final Fantasy status)|Paralysis]], [[Darkness (Final Fantasy status)|Darkness]], [[Silence (Final Fantasy status)|Silence]], [[Spirit (Final Fantasy)|Mind]], [[Fire (Final Fantasy element)|Fire]], [[Ice (Final Fantasy element)|Ice]], [[Stone (Final Fantasy status)|Stone]], [[Poison (Final Fantasy status)|Poison]], [[Sleep (Final Fantasy status)|Sleep]], [[Confuse (Final Fantasy status)|Confuse]], [[KO (Final Fantasy)|Death]]
+| drop = Nothing
+| abilities = [[Blaze (ability)|Blaze]], [[Tsunami]], [[Earthquake]], [[Cyclone (ability)|Cyclone]], [[Slowga|Slowra]], [[Firaga (ability)|Firaga]], [[Thundaga (ability)|Thundaga]], [[Blizzara (ability)|Blizzara]], [[Blizzaga (ability)|Blizzaga]], [[Curaja]], [[Haste (ability)|Haste]], [[Flare (ability)|Flare]]
+| resistance = [[Earth (Final Fantasy)|Earth]], [[Lightning (Final Fantasy)|Lightning]], [[Time (Final Fantasy)|Time]], [[Paralysis (Final Fantasy status)|Paralysis]], [[Darkness (Final Fantasy status)|Darkness]], [[Silence (Final Fantasy status)|Silence]], [[Spirit (Final Fantasy)|Mind]], [[Fire (Final Fantasy element)|Fire]], [[Ice (Final Fantasy element)|Ice]], [[Stone (Final Fantasy status)|Stone]], [[Poison (Final Fantasy status)|Poison]], [[Sleep (Final Fantasy status)|Sleep]], [[Confuse (Final Fantasy status)|Confuse]], [[KO (Final Fantasy)|Death]]
+| ps abilities = [[Blaze (ability)|Blaze]], [[Tsunami]], [[Earthquake]], [[Twister (ability)|Twister]], [[Slowga|Slow2]], [[Firaga (ability)|Fire3]], [[Thundaga (ability)|Bolt3]], [[Blizzara (ability)|Ice2]], [[Blizzaga (ability)|Ice3]], [[Curaja|Cure4]], [[Haste (ability)|Haste]], [[Flare (ability)|Flare]]
+| ps resistance = All
+| nes abilities = [[Blaze (ability)|INFERNO]], [[Tsunami|SWIRL]], [[Earthquake|CRACK]], [[Cyclone (ability)|TORNADO]], [[Slowga|SLO2]], [[Firaga (ability)|FIR3]], [[Thundaga (ability)|LIT3]], [[Blizzara (ability)|ICE2]], [[Blizzaga (ability)|ICE3]],[[Curaja|CUR4]], [[Haste (ability)|FAST]], [[Flare (ability)|NUKE]]
+| nes resistance = N/A
+}}
+== AI script ==
+{| class="quarter-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 40.00%
+|-
+| [[Blizzara (Final Fantasy)|Blizzara]]
+| style="text-align:right;" | 10.00%
+|-
+| [[Haste (Final Fantasy)|Haste]]
+| style="text-align:right;" | 6.00%
+|-
+| [[Firaga (Final Fantasy)|Firaga]]
+| style="text-align:right;" | 5.00%
+|-
+| [[Slowra (Final Fantasy)|Slowra]]
+| style="text-align:right;" | 5.00%
+|-
+| [[Thundaga (Final Fantasy)|Thundaga]]
+| style="text-align:right;" | 5.00%
+|-
+| [[Blizzaga (Final Fantasy)|Blizzaga]]
+| style="text-align:right;" | 5.00%
+|-
+| [[Flare (Final Fantasy)|Flare]]
+| style="text-align:right;" | 5.00%
+|-
+| [[Blaze (Final Fantasy)|Blaze]]
+| style="text-align:right;" | 5.00%
+|-
+| [[Tsunami (Final Fantasy)|Tsunami]]
+| style="text-align:right;" | 5.00%
+|-
+| [[Cyclone (Final Fantasy)|Cyclone]]
+| style="text-align:right;" | 5.00%
+|-
+| [[Curaja (Final Fantasy)|Curaja]]
+| style="text-align:right;" | 2.00%
+|-
+| [[Earthquake (Final Fantasy)|Earthquake]]
+| style="text-align:right;" | 2.00%
+|}
+
+Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'', starting from ''[[Final Fantasy I & II: Dawn of Souls]]'' on the GBA (including PSP):
+
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 40.00%
+|-
+| Magic
+| style="text-align:right;" | 20.00%
+| [[Blizzaga (Final Fantasy)|Blizzaga]] → [[Slowra (Final Fantasy)|Slowra]] → [[Thundaga (Final Fantasy)|Thundaga]] → [[Curaja (Final Fantasy)|Curaja]] → [[Haste (Final Fantasy)|Haste]] → [[Firaga (Final Fantasy)|Firaga]] → [[Blizzara (Final Fantasy)|Blizzara]] → [[Flare (Final Fantasy)|Flare]]
+|-
+| Enemy-exclusive ability
+| style="text-align:right;" | 40.00%
+| [[Blaze (Final Fantasy)|Blaze]] → [[Tsunami (Final Fantasy)|Tsunami]] → [[Cyclone (Final Fantasy)|Cyclone]] → [[Earthquake (Final Fantasy)|Earthquake]]
+|}
+
+Prior to ''Dawn of Souls'', starting from WonderSwan Color (including PS1):
+
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 34.375%
+|-
+| Magic
+| style="text-align:right;" | 31.25%
+| [[Blizzaga (Final Fantasy)|Ice3]] → [[Thundaga (Final Fantasy)|Bolt3]] → [[Slowra (Final Fantasy)|Slow2]] → [[Curaja (Final Fantasy)|Cure4]] → [[Firaga (Final Fantasy)|Fire3]] → [[Blizzara (Final Fantasy)|Ice2]] → [[Haste (Final Fantasy)|Haste]] → [[Flare (Final Fantasy)|Flare]]
+|-
+| Enemy-exclusive ability
+| style="text-align:right;" | 34.375%
+| [[Blaze (Final Fantasy)|Blaze]] → [[Tsunami (Final Fantasy)|Tsunami]] → [[Cyclone (Final Fantasy)|Twister]] → [[Earthquake (Final Fantasy)|Earthquake]]
+|}
+
+Prior to WSC (including NES):
+
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 25.00%
+|-
+| Magic
+| style="text-align:right;" | 50.00%
+| [[Blizzaga (Final Fantasy)|ICE3]] → [[Thundaga (Final Fantasy)|LIT3]] → [[Slowra (Final Fantasy)|SLO2]] → [[Curaja (Final Fantasy)|CUR4]] → [[Firaga (Final Fantasy)|FIR3]] → [[Blizzara (Final Fantasy)|ICE2]] → [[Haste (Final Fantasy)|FAST]] → [[Flare (Final Fantasy)|NUKE]]
+|-
+| Enemy-exclusive ability
+| style="text-align:right;" | 25.00%
+| [[Earthquake (Final Fantasy)|CRACK]] → [[Blaze (Final Fantasy)|INFERNO]] → [[Tsunami (Final Fantasy)|SWIRL]] → [[Cyclone (Final Fantasy)|TORNADO]]
+|}
+
+== Battle ==
+[[File:FFI PSP Blaze 4.png|Blaze in the ''20th Anniversary'' version.|thumb]]
+
+Chaos's unique version of Blaze is a strong [[Fire (Final Fantasy element)|fire-elemental]] attack that is more powerful than any other monster ability of the same name. Tsunami and Cyclone deal heavy non-elemental damage and Earthquake is an [[Earth (Final Fantasy)|earth-elemental]] [[KO (Final Fantasy)|instant kill]]. Chaos attacks primarily with the three elements of fire, [[Ice (Final Fantasy element)|ice]] and [[Lightning (Final Fantasy)|lightning]], debilitating physical fighters with Slowra and increasing his physical capability with Haste, as well as healing himself to full health with Curaja. To finish off, he uses his most powerful attack, Flare.
+
+=== Strategy ===
+[[File:FFI Slowra EA.png|Slowra in the ''20th Anniversary'' version.|thumb|left]]
+It is wise to give three characters a [[Ribbon (Final Fantasy)|Ribbon]]. In the NES, ''Origins'' and ''Pixel Remaster'' versions, there are only three Ribbons, so one party member will have to make it without. It is recommended to give the Ribbons to the mages. In the other versions, the player can get a fourth Ribbon, so one can give Ribbons to every party member. The Ribbons mitigate damage from most of Chaos's spells, as well as resisting the paralysis from his physical attacks and the instant death caused by Earthquake. Characters without a Ribbon should have [[NulAll (Final Fantasy)|NulAll]] cast on them by a [[White Mage (Final Fantasy)#White Wizard|White Wizard]], or at the very least, [[NulDeath (Final Fantasy)|NulDeath]] by a White or [[Red Mage (Final Fantasy)#Red Wizard|Red Wizard]] to avoid paralysis and instant death. [[Protect Ring (Final Fantasy)|Protect Rings]] cannot block Earthquake as it is earth-elemental and not death-elemental. Slowra can be countered with [[Haste (Final Fantasy)|Haste]] using either [[Thief (Final Fantasy)#Ninja|Ninjas]], [[Black Mage (Final Fantasy)#Black Wizard|Black Wizards]] or Red Wizards. In versions that have them, [[Hermes' Shoes (Final Fantasy)|Hermes' Shoes]] can also be used for Haste.
+
+Chaos resists every element and has high magic defense, so weapon strikes work the best. [[Warrior (Final Fantasy)#Knight|Knights]], [[Thief (Final Fantasy)#Ninja|Ninjas]], [[Monk (Final Fantasy)#Master|Masters]] and, if unneeded for healing, Red Wizards, should all have Haste cast upon them. [[Temper (Final Fantasy)|Temper]] should be used on the physical fighters unless the version being played is the original NES/Famicom where the [[Magic bugs|spell is bugged]]. Physical fighters can use the [[Giant's Gloves (Final Fantasy)|Giant's Gloves]] to boost their attack power even faster than with Temper, though if the party has casters who know Temper, they can buff and attack in the same turn. Buffing should be done up until Chaos casts Curaja, which is the party's cue to go heavily offensive before Chaos reaches Curaja again in his spell cycle. For ''Dawn of Souls'' and later versions, [[Strength Tonic (Final Fantasy)|Strength Tonics]] and [[Speed Drink (Final Fantasy)|Speed Drinks]] are effective offensive buffs that can be used by characters without Black Magic to accelerate the damage boost.
+
+To help defend against Chaos's physical attacks, the party should use [[Invisira]] (either cast by White or Red Wizards, or by [[Item magic|using]] the [[White Robe (Final Fantasy)|White Robe]] item) and [[Protera (Final Fantasy)|Protera]]. For ''Dawn of Souls'' and later, [[Giant's Tonic (Final Fantasy)|Giant's Tonics]] can also help to survive Chaos's attacks by maximizing the party to 999 HP. Afterwards, White Wizards should focus on healing with [[Healaga]] to [[Group-cast|target the entire party]]. Without a White Wizard, high [[Intelligence (stat)|Intelligence]] characters, like the Black Wizard and Red Wizard, should use the [[Healing Staff (Final Fantasy)|Healing Staff]] and/or [[Healing Helm (Final Fantasy)|Healing Helms]] when the entire party needs to be healed. The Red Wizard can fall back to [[Curaga (Final Fantasy)|Curaga]] if only a single target needs HP restored. If a Black Wizard finished buffing and has a free turn, he can attack with Flare.
+
+If the party has few high Intelligence characters, it may be necessary to have three party members healing with the Healing Staff and Healing Helms and only one character focused on attacking.
+{{clear}}
+
+== Other appearances ==
+=== ''[[Final Fantasy All the Bravest]]'' ===
+[[File:Chaos ATB.png|right]]
+{{Quote|This lord of discord thrives on strife. His knees subscribe to the same ideology, as well.|In-game description}}
+Chaos is fought in Cornelia's Tract. He uses Beatdown and drops the Bastard Sword upon defeat.
+{{clear}}
+
+== Gallery ==
+<gallery>
+FFI Blaze 4 PS.png|Blaze in the ''Origins'' version.
+FFI Blaze 3 GBA.png|Blaze in the ''Advance'' version.
+FFI Tsunami PS.png|Tsunami in the ''Origins'' version.
+FFI Tsunami GBA.png|Tsunami in the ''Advance'' version.
+FFI Earthquake PS.png|Earthquake in the ''Origins'' version.
+FFI Earthquake GBA.png|Earthquake in the ''Advance'' version.
+FFI Twister PS.png|Twister in the ''Origins'' version.
+FFI Cyclone GBA.png|Cyclone in the ''Advance'' version.
+</gallery>
+
+== Etymology ==
+{{etym|Chaos}}
+
+
+[[de:Chaos (Endgegner)]]
+[[es:Caos (Jefe Final Fantasy)]]
+[[it:Khaos]]
+[[pt-br:Chaos (Chefe de Final Fantasy)]]
+[[Category:Bosses in Final Fantasy]]
+[[Category:Final bosses]]
+

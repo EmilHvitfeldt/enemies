@@ -1,0 +1,161 @@
+{{DISPLAYTITLE:Zombie (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Zombie
+| japanese = ゾンビ
+| romaji = Zonbi
+| lit = 
+| image = <gallery>
+Zombie from FFI Pixel Remaster sprite.png|PR
+Zombie from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Zombie from FFI Dawn of Souls sprite.png|GBA
+Zombie from FFI Origins sprite.png|PS
+FFI Zombie MSX.png|MSX
+ZOMBIE from FFI NES sprite.png|NES
+</gallery>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Marsh Cave]]
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Zombie (enemy)
+}}
+'''Zombies''' are [[undead]] enemies in the original ''[[Final Fantasy]]''. It appears in the [[Marsh Cave]], often found in large groups with other undead enemies. The Zombie is designed to be a basic training mob for players to get familiar with the combat system and basic character strategies upon fighting enemies that appear in large packs. [[Dia (ability)|Dia]] and [[Fire (ability)|Fire]] easily defeat undead enemies.
+
+==Stats==
+{{infobox enemy stats FFI
+| pr prev = Werewolf (Final Fantasy)
+| pr prev no = 
+| pr bestiary = 010
+| pr next no = 
+| pr next = Ghoul (Final Fantasy)
+| psp prev = Werewolf (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 010
+| psp next = Ghoul (Final Fantasy)
+| psp next no = 
+| prev = Werewolf (Final Fantasy)
+| prev no = 
+| bestiary = 010
+| next = Ghoul (Final Fantasy)
+| next no = 
+| ps prev = Werewolf (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 010
+| ps next = Ghoul (Final Fantasy)
+| ps next no = 
+| nes = ZOMBIE
+| ps = Zombie
+| = Zombie
+| psp = Zombie
+| psp location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Marsh Cave]]
+| nes location = [[Chaos Shrine (Final Fantasy)|Temple of Chaos]], [[Marsh Cave]]
+| ps location = [[Chaos Shrine (Final Fantasy)|Temple of Chaos]], [[Marsh Cave]]
+| location = [[Marsh Cave]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]/Temple of Fiends
+| psp hp = 20
+| psp attack = 10
+| psp intelligence = 0
+| psp defense = 0
+| psp magic defense = 25
+| psp agility = 3
+| psp accuracy = 5
+| psp evasion = 6
+| psp exp = 24
+| psp gil = 12
+| hp = 20
+| attack = 10
+| intellect = 0
+| defense = 0
+| magic defense = 25
+| agility = 3
+| accuracy = 5
+| evasion = 6
+| exp = 24
+| gil = 12
+| ps hp = 20
+| ps attack = 10
+| ps defense = 0
+| ps magic defense = 25
+| ps exp = 24
+| ps gil = 12
+| nes hp = 20
+| nes attack = 10 - 20
+| nes defense = 0
+| nes magic defense = 25
+| nes evasion = 6
+| nes accuracy = 5
+| nes exp = 24
+| nes gil = 12
+| psp fire = Weak
+| psp lightning = 
+| psp ice = Resist
+| psp dia = Weak
+| fire = Weak
+| lightning = 
+| ice = Resist
+| dia = Weak
+| ps fire = Weak
+| ps lightning = -
+| ps ice = Resist
+| ps dia = Weak
+| nes fire = Weak
+| nes lightning = -
+| nes ice = Resist
+| nes dia = Weak
+| psp drop = [[Staff (Final Fantasy)|Staff]]
+| psp abilities = 
+| psp resistance = [[Earth (element)|Quake]], [[Petrify (status)|Stone]], [[Ice (element)|Ice]], [[Paralysis]], [[Poison (status)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], [[Confuse (status)|Confuse]], Mind, [[Instant Death|Death]]
+| drop = [[Staff (Final Fantasy)|Staff]]
+| abilities = N/A
+| resistance = [[Earth (element)|Quake]], [[Petrify (status)|Stone]], [[Ice (element)|Ice]], [[Paralysis]], [[Poison (status)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], [[Confuse (status)|Confuse]], Mind, [[Instant Death|Death]]
+| ps abilities = N/A
+| ps resistance = [[Earth (element)|Quake]], [[Ice (element)|Ice]], [[Instant Death|Death]], [[Confuse (status)|Confuse]], [[Paralysis]]
+| nes abilities = N/A
+| nes resistance = All statuses, Earth, Ice
+| pr = Zombie
+| pr hp = 20
+| pr attack = 10
+| pr defense = 0
+| pr accuracy = 5
+| pr agility = 3
+| pr intellect = 0
+| pr evasion = 6
+| pr magic defense = 25
+| pr gil = 12
+| pr exp = 24
+| pr drop = [[Staff (weapon)#Final Fantasy|Staff]]
+| pr type = Undead
+| pr fire = Weak
+| pr lightning = 
+| pr ice = Resist
+| pr dia = Weak
+| pr resistance = [[Silence (status)#Final Fantasy|Silence]], [[Sleep (status)#Final Fantasy|Sleep]], [[Paralysis#Final Fantasy|Paralysis]], [[Blind (status)#Final Fantasy|Darkness]], [[Poison (status)#Final Fantasy|Poison]], [[Petrify (status)#Final Fantasy|Stone]], [[Confuse (status)#Final Fantasy|Confuse]], [[Instant Death#Final Fantasy|Instant Death]]
+| pr location = 
+| pr abilities = 
+}}
+
+==Other appearances==
+===''[[Final Fantasy Brave Exvius]]''===
+[[File:Zombie FFI from FFBE enemy sprite.png|thumb|150x150px]]
+{{enemy section|Final Fantasy Brave Exvius}}
+{{clear}}
+
+== Gallery ==
+<gallery>
+Amano FF1 Zombeh.gif|Artwork by [[Yoshitaka Amano]].
+</gallery>
+
+== Etymology ==
+{{Etym|Zombie}}
+
+== Related enemies ==
+* [[Ghoul (Final Fantasy)|Ghoul]]
+* [[Ghast (Final Fantasy)|Ghast]]
+* [[Wight (Final Fantasy)|Wight]]
+* [[Revenant (Final Fantasy)|Revenant]]
+
+
+[[de:Zombie (FFI)]]
+[[es:Zombi (Final Fantasy)]]
+[[pl:Zombie (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

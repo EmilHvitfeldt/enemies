@@ -1,0 +1,191 @@
+{{DISPLAYTITLE:Allosaurus (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Allosaurus
+| japanese = アロザウルス
+| romaji = Arozaurusu
+| aka = TYRO
+| image = <gallery>
+Allosaurus from FFI Pixel Remaster sprite.png|PR
+Allosaurus from FFI 20th Anniversary Edition sprite.png|20th
+Allosaurus from FFI Dawn of Souls sprite.png|GBA
+Allosaurus from FFI Origins sprite.png|PS
+TYRO from FFI NES sprite.png|NES
+</gallery>
+| aiscript = true
+| formations = true
+| location = [[Lufenia (Final Fantasy)|Lufenia]] region<br>[[Yahnikurm Desert]] region
+}}
+The '''Allosaurus''', or '''TYRO''' in the [[NES]] version, is an enemy in the original ''[[Final Fantasy]]''. They are encountered in the [[Yahnikurm Desert]] and [[Lufenia (Final Fantasy)|Lufenia]] regions. Allosaurus mostly appear alone, but they are sometimes accompanied by a [[Wyvern (Final Fantasy)|Wyvern]]. They resist spells, but have very low Defense, making them vulnerable to physical attacks. They drop Strength Tonics, which can be useful for [[party]] members with a low Strength stat. As with most monsters based on size, they drop a large amount of [[Experience Points|EXP]] and [[gil]], but are also tougher, with a high Attack bonus.
+
+==Stats==
+{{infobox enemy stats FFI
+|  prev = Basilisk (Final Fantasy)
+|  prev no = 082
+|  bestiary = 083
+|  next = Weretiger (Final Fantasy)
+|  next no = 084
+|  name = Allosaurus<br>'''NES:''' TYRO
+|  type = Dragon
+|  location = [[Lufenia (Final Fantasy)|Lufenia]] region<br>[[Yahnikurm Desert]] region
+|  hp = 480
+|  attack = 65
+|  intellect = 10
+|  defense = 10
+|  magic defense = 200
+|  agility = 30
+|  accuracy = 133
+|  hits = 1
+|  evasion = 60
+|  crit = 1
+|  luck = 2
+|  exp = 3,387
+|  gil = 502
+|  morale = 144
+|  drop = [[Strength Tonic (Final Fantasy)|Strength Tonic]] (1%)
+}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|173}}
+|[[Allosaurus (Final Fantasy)|Allosaurus]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Lufenia (Final Fantasy)|Lufenia]] region
+|60
+|-
+!{{A|575}}
+|[[Wyvern (Final Fantasy)|Wyvern]] x1, [[Allosaurus (Final Fantasy)|Allosaurus]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Yahnikurm Desert]] region
+|90
+|-
+!{{A|576}}
+|[[Allosaurus (Final Fantasy)|Allosaurus]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Yahnikurm Desert]] region
+|90
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!{{A|061}}
+|[[Allosaurus (Final Fantasy)|Allosaurus]] x1
+|4 large
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Lufenia (Final Fantasy)|Lufenia]] region
+|3
+|-
+!{{A|189}}
+|[[Allosaurus (Final Fantasy)|Allosaurus]] x1, [[Wyvern (Final Fantasy)|Wyvern]] x0-1
+|4 large
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Yahnikurm Desert]] region
+|24
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 144
+| 33
+| —
+| 70.59%
+| 65
+| —
+| 68.63%
+|-
+! 1
+! 104
+| 13
+| 38
+| 100%
+| 25
+| 75
+| 100%
+|-
+! 2
+! 64
+| 1
+| 18
+| 100%
+| 1
+| 35
+| 100%
+|-
+! 3
+! 24
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{etym|Allosaurus}}
+
+== Related enemies ==
+* [[Tyrannosaur (Final Fantasy)|Tyrannosaur]]
+
+[[Category:Enemies in Final Fantasy]]
+
+[[de:Allosaurus]]
+[[es:Alosaurio (Final Fantasy)]]
+

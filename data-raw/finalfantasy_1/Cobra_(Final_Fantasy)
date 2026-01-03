@@ -1,0 +1,220 @@
+{{DISPLAYTITLE:Cobra (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Cobra
+| japanese = コブラ
+| romaji = Kobura
+| aka = ASP
+| image = <gallery>
+Cobra from FFI Pixel Remaster sprite.png|PR
+Cobra from FFI 20th Anniversary Edition sprite.png|20th
+Cobra from FFI Dawn of Souls sprite.png|GBA
+Cobra from FFI Origins sprite.png|PS
+ASP from FFI MSX sprite.png|MSX
+ASP from FFI NES sprite.png|NES
+</gallery>
+| aiscript = true
+| formations = true
+| location = [[Cavern of Earth]]<br>[[Cavern of Ice]] region<br>[[Elfheim]] region<br>[[Lifespring Grotto]] region<br>[[Matoya's Cave (Final Fantasy)|Matoya's Cave]] region<br>[[Melmond]] region <small>(<s>PR</s>)</small><br>[[Mount Duergar]] region<br>[[Western Keep]] region
+}}
+The '''Cobra''', also known as the '''ASP''', is an enemy in ''[[Final Fantasy]]''. Its attacks cause [[Poison (Final Fantasy status)|Poison]], so it may be troublesome for some players who do not have enough [[Antidote (Final Fantasy)|Antidotes]] in stock.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Garland (Final Fantasy boss)
+| prev no = 012
+| bestiary = 013
+| next no = 014
+| next = Ogre (Final Fantasy)
+| name = Cobra<br>'''NES:''' ASP
+| type = Dragon
+| location = [[Cavern of Earth]]<br>[[Cavern of Ice]] region<br>[[Elfheim]] region<br>[[Lifespring Grotto]] region<br>[[Matoya's Cave (Final Fantasy)|Matoya's Cave]] region<br>[[Melmond]] region <small>(<s>PR</s>)</small><br>[[Mount Duergar]] region<br>[[Western Keep]] region
+| hp = 56
+| attack = 6
+| intellect = 6
+| defense = 6
+| magic defense = 46
+| agility = 15
+| accuracy = 14
+| hits = 1
+| evasion = 30
+| crit = 1
+| luck = 2
+| exp = 123
+| gil = 50
+| morale = 107
+| abilities = Attacks may inflict [[Poison (Final Fantasy status)|Poison]]
+}}
+
+==Formations==
+[[File:Amano FF1 Anaconda.gif|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="2"|{{A|043}}
+|rowspan="2"|[[Cobra (Final Fantasy)|Cobra]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Elfheim]]-[[Matoya's Cave (Final Fantasy)|Matoya's Cave]]-[[Mount Duergar]]-[[Western Keep]] region
+|60
+|-
+|Western [[Cavern of Ice]] region
+|100
+|-
+!{{A|044}}
+|[[Cobra (Final Fantasy)|Cobra]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|393}}
+|[[Cobra (Final Fantasy)|Cobra]] x7
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B2
+|70
+|-
+!rowspan="2"|{{A|394}}
+|rowspan="2"|[[Cobra (Final Fantasy)|Cobra]] x5
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|50
+|-
+|[[Cavern of Earth]] B2
+|50
+|-
+!{{A|395}}
+|[[Cobra (Final Fantasy)|Cobra]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|70
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="3"|{{A|013}}
+|rowspan="3"|[[Cobra (Final Fantasy)|Cobra]] x1-2
+|rowspan="3"|9 small
+|rowspan="3"|{{y}}
+|rowspan="3"|4
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|Western [[Cavern of Ice]] region
+|12
+|-
+|[[Elfheim]]-[[Lifespring Grotto]]-[[Melmond]]-[[Mount Duergar]]-[[Western Keep]] region
+|12
+|-
+|[[Matoya's Cave (Final Fantasy)|Matoya's Cave]] region
+|12
+|-
+!rowspan="2"|{{A|141}}
+|rowspan="2"|[[Cobra (Final Fantasy)|Cobra]] x3-7
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|12
+|-
+|[[Cavern of Earth]] B2
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 107
+| 14
+| 39
+| 100%
+| 28
+| 78
+| 100%
+|-
+! 1
+! 67
+| 1
+| 19
+| 100%
+| 1
+| 38
+| 100%
+|-
+! 2
+! 27
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Cobra}}
+
+In the original [[Nintendo Entertainment System|NES]] release of ''Final Fantasy'', the Cobra was named the Asp. {{Etym|Asp}} The name Cobra was used in that translation to refer to the monster usually known as the Anaconda.
+
+== Related enemies ==
+* [[Anaconda (Final Fantasy)|Anaconda]]
+* [[Python (Final Fantasy)|Python]]
+* [[Sea Snake (Final Fantasy)|Sea Snake]]
+
+==Annotations==
+{{Annotations}}
+
+
+[[es:Cobra (Final Fantasy)]]
+[[pl:Cobra (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

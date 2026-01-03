@@ -1,0 +1,203 @@
+{{DISPLAYTITLE:Ghost (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Ghost
+| japanese = ゴースト
+| romaji = Gōsuto
+| aka = GHOST
+| image = <gallery>
+Ghost from FFI Pixel Remaster sprite.png|PR
+Ghost from FFI 20th Anniversary Edition sprite.png|20th
+Ghost from FFI Dawn of Souls sprite.png|GBA
+Ghost from FFI Origins sprite.png|PS
+GHOST from FFI NES sprite.png|NES
+</gallery>
+| location = [[Sunken Shrine]]
+| aiscript = true
+| formations = true
+| recurring appearance = Ghost
+}}
+The '''Ghost''', also known as the '''GHOST''', is an [[undead]] enemy in the original ''[[Final Fantasy]]''. It is one of the few non-[[Water (element)|Water]]-elemental enemies in the [[Sunken Shrine]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Sea Troll
+| prev no = 098
+| bestiary = 099
+| next = Water Elemental (Final Fantasy)
+| next no = 100
+| name = Ghost<br>'''NES:''' GHOST
+| type = Magic<br>Undead
+| location = [[Sunken Shrine]]
+| hp = 180
+| attack = 93
+| intellect = 30
+| defense = 30
+| magic defense = 85
+| agility = 18
+| accuracy = 45
+| evasion = 36
+| exp = 432
+| gil = 432
+| morale = 184
+| hits = 1
+| crit = 1
+| luck = 2
+| fire = Weak
+| dia = Weak
+| silence = Resists
+| sleep = Resists
+| paralysis = Resists
+| darkness = Resists
+| poison status = Resists
+| stone = Resists
+| confuse = Resists
+| ice = Resists
+| earth = Resists
+| spirit = Resists
+| instant death = Resists
+| poison element = -<br>{{note|reference=Resists prior to pixel remaster.|name=poison element}}
+| abilities = Attacks may inflict [[Paralysis (Final Fantasy status)|Paralysis]]
+}}
+{{annotations}}
+
+==Formations==
+[[File:Ghost ff1.jpg|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|614}}
+|[[Ghost (Final Fantasy)|Ghost]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Sunken Shrine]] 4F
+|70
+|-
+!rowspan="2"|{{A|615}}
+|rowspan="2"|[[Ghost (Final Fantasy)|Ghost]] x4
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Sunken Shrine]] 2F
+|80
+|-
+|[[Sunken Shrine]] 4F
+|60
+|-
+!{{A|616}}
+|[[Ghost (Final Fantasy)|Ghost]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Sunken Shrine]] 2F
+|90
+|-
+!{{A|617}}
+|[[Ghost (Final Fantasy)|Ghost]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|198}}
+|rowspan="2"|[[Ghost (Final Fantasy)|Ghost]] x2-5
+|rowspan="2"|2 large 6 small
+|rowspan="2"|{{x}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Sunken Shrine]] 2F
+|12
+|-
+|[[Sunken Shrine]] 4F
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check{{note|reference=Ghosts will only make a Morale check in the NES release; other Morale-based releases prevent all Ghost formations from fleeing.|name=morale}}
+|}
+
+;Morale check
+{| class="article-table"
+! # [[Fear (Final Fantasy)|Fear]]
+! [[Morale (Final Fantasy)|Morale]]
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 184
+| —
+| —
+| 0%
+|-
+! 1
+! 144
+| 33
+| —
+| 70.59%
+|-
+! 2
+! 104
+| 13
+| 38
+| 100%
+|-
+! 3
+! 64
+| 1
+| 18
+| 100%
+|-
+! 4
+! 24
+| 1
+| 1
+| 100%
+|}
+{{annotations}}
+
+== Etymology ==
+{{Etym|Ghost}}
+
+== Related enemies ==
+* [[Reaper (Final Fantasy)|Reaper]]
+* [[Shadow (Final Fantasy)|Shadow]]
+* [[Specter (Final Fantasy)|Specter]]
+* [[Wraith (Final Fantasy)|Wraith]]
+
+[[de:Geist (FFI)]]
+[[es:Fantasma (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

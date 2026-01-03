@@ -1,0 +1,276 @@
+{{DISPLAYTITLE:Fire Lizard (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Fire Lizard
+| japanese = ファイアリザード
+| romaji = Faiarizādo
+| aka = AGAMA
+| image = <gallery>
+Fire Lizard from FFI Pixel Remaster sprite.png|PR
+Fire Lizard from FFI 20th Anniversary Edition sprite.png|20th
+Fire Lizard from FFI Dawn of Souls sprite.png|GBA
+Fire Lizard from FFI Origins sprite.png|PS
+AGAMA from FFI NES sprite.png|NES
+</gallery>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]
+| aiscript = true
+| formations = true
+}}
+The '''Fire Lizard''', also known as the '''AGAMA''', is an enemy in ''[[Final Fantasy]]''. It appears in [[Mount Gulg (Final Fantasy)|Mount Gulg]] and the [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]. In several places inside Mount Gulg, the Fire Lizard guards [[Treasure chest (object)|chests]] and doorways.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Hellhound (Final Fantasy)
+| prev no = 063
+| bestiary = 064
+| next = Fire Gigas (Final Fantasy)
+| next no = 065
+| name = Fire Lizard<br>'''NES:''' AGAMA
+| type = Dragon
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]
+| hp = 296
+| attack = 31
+| intellect = 8
+| defense = 18
+| magic defense = 143
+| agility = 18
+| accuracy = 74
+| evasion = 36
+| morale = 200
+| hits = 2
+| crit = 1
+| exp = 2,472
+| gil = 1,200
+| luck = 2
+| ice = Weak
+| fire = Resists
+| abilities = [[Blaze (Final Fantasy)|Blaze]]
+}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="2"|{{A|118}}
+|rowspan="2"|[[Fire Lizard (Final Fantasy)|Fire Lizard]] x1
+|rowspan="2"|{{x}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B4
+|Fixed
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B5
+|Fixed
+|-
+!{{A|489}}
+|[[Fire Lizard (Final Fantasy)|Fire Lizard]] x3, [[Fire Gigas (Final Fantasy)|Fire Gigas]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B2
+|60
+|-
+!{{A|490}}
+|[[Fire Lizard (Final Fantasy)|Fire Lizard]] x2, [[Fire Gigas (Final Fantasy)|Fire Gigas]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B2
+|60
+|-
+!{{A|491}}
+|[[Fire Lizard (Final Fantasy)|Fire Lizard]] x1, [[Fire Gigas (Final Fantasy)|Fire Gigas]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B2
+|70
+|-
+!{{A|498}}
+|[[Fire Lizard (Final Fantasy)|Fire Lizard]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B2
+|60
+|-
+!{{A|499}}
+|[[Fire Lizard (Final Fantasy)|Fire Lizard]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B2
+|70
+|-
+!{{A|500}}
+|[[Fire Lizard (Final Fantasy)|Fire Lizard]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B2
+|70
+|-
+!rowspan="2"|{{A|802}}
+|rowspan="2"|[[Fire Lizard (Final Fantasy)|Fire Lizard]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B4
+|80
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B5
+|70
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|041}}
+|rowspan="2"|[[Fire Lizard (Final Fantasy)|Fire Lizard]] x1
+|rowspan="2"|4 large
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B4
+|Fixed, 3
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B5
+|Fixed, 3
+|-
+!{{A|166}}
+|[[Fire Gigas (Final Fantasy)|Fire Gigas]] x1, [[Fire Lizard (Final Fantasy)|Fire Lizard]] x0-3
+|4 large
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B2
+|24
+|-
+!{{A|169}}
+|[[Fire Lizard (Final Fantasy)|Fire Lizard]] x2-4
+|4 large
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B2
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 65%
+| 75%
+|-
+| Blaze
+| 35%%
+| 25%
+|-
+| Flee
+| 5%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+| 81
+| —
+| 37.25%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Other appearances ==
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Fire Lizard FFI.png|right]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+== Etymology ==
+{{etym|Fire}}
+
+{{Etym|Agama}}
+
+== Related enemies ==
+* [[Lizard (Final Fantasy)|Lizard]]
+* [[Basilisk (Final Fantasy)|Basilisk]]
+* [[Catoblepas (Final Fantasy)|Catoblepas]]
+
+[[de:Feuerechse]]
+[[Category:Enemies in Final Fantasy]]
+

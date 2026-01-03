@@ -1,0 +1,176 @@
+{{DISPLAYTITLE:Buccaneer (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Buccaneer
+| japanese = パイレーツ
+| romaji = Pairētsu
+| lit = Pirates
+| aka = KYZOKU, Privateer
+| image = <gallery>
+Buccaneer from FFI Pixel Remaster sprite.png|PR
+Buccaneer from FFI 20th Anniversary Edition sprite.png|20th
+Buccaneer from FFI Dawn of Souls sprite.png|GBA
+Privateer from FFI Origins sprite.png|PS
+KYZOKU from FFI MSX sprite.gif|MSX
+KYZOKU from FFI NES sprite.png|NES
+</gallery>
+| aiscript = true
+| formations = true
+| location = [[Sea (location)#Final Fantasy|Sea]]
+| recurring appearance = Pirate
+}}
+The '''Buccaneer''', also known as the '''KYZOKU''' or '''Privateer''', is an enemy in ''[[Final Fantasy]]''. It can be encountered at [[Sea (location)#Final Fantasy|sea]]. It is not a threat to the [[party]], and can be easily defeated with a barrage of physical blows. It is a good source of [[gil]] for an early enemy.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Sahagin Chief (Final Fantasy)
+| prev no = 019
+| bestiary = 020
+| next no = 021
+| next = Shark (Final Fantasy)
+| name = Buccaneer<br>'''PS:''' Privateer<br>'''NES:''' KYZOKU
+| location = [[Sea (location)#Final Fantasy|Sea]]
+| hp = 50
+| attack = 14
+| intellect = 6
+| defense = 6
+| magic defense = 37
+| agility = 12
+| accuracy = 13
+| hits = 1
+| evasion = 24
+| crit = 1
+| luck = 2
+| exp = 60
+| gil = 120
+| morale = 106
+| earth = Resists
+| drop = [[Saber (Final Fantasy weapon)|Saber]] (3%)
+}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|273}}
+|[[Buccaneer (Final Fantasy)|Buccaneer]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Sea (location)#Final Fantasy|Sea]]
+|70
+|-
+!{{A|274}}
+|[[Buccaneer (Final Fantasy)|Buccaneer]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Sea (location)#Final Fantasy|Sea]]
+|60
+|-
+!{{A|275}}
+|[[Buccaneer (Final Fantasy)|Buccaneer]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!{{A|092}}
+|[[Buccaneer (Final Fantasy)|Buccaneer]] x1-5
+|9 small
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Sea (location)#Final Fantasy|Sea]]
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 106
+| 14
+| 39
+| 100%
+| 27
+| 77
+| 100%
+|-
+! 1
+! 66
+| 1
+| 19
+| 100%
+| 1
+| 37
+| 100%
+|-
+! 2
+! 26
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Buccaneer}}
+
+Buccaneer is called パイレーツ, ''pairētsu'', taken from the English word "pirates", and is used as a more exotic-sounding synonym of the same concept. This has posed issues in translating these two enemy terms into English. The 1990 NES version addressed this by swapping the terms in translation, with ''kaizoku'' becoming "Pirate" and ''pairētsu'' becoming "Kyzoku" (a phonetic spelling of ''kaizoku''). Later translations have continued translating ''kaizoku'' as "Pirate", but ''pairētsu'' is since become "Buccaneer" or "Privateer", which are more flowery terms for "pirate" in English, and this keeps with the spirit of the Japanese naming pattern.
+
+== Related enemies ==
+* [[Pirate (Final Fantasy)|Pirate]]
+
+[[Category:Enemies in Final Fantasy]]
+
+[[es:Bucanero (Final Fantasy)]]
+

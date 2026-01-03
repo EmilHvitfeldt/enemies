@@ -1,0 +1,133 @@
+{{DISPLAYTITLE:Troll (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Troll
+| japanese = トロル
+| romaji = Tororu
+| lit = 
+| image = <gallery>
+Troll from FFI Pixel Remaster sprite.png|PR
+Troll from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Troll from FFI Dawn of Souls sprite.png|GBA
+Troll from FFI Origins sprite.png|PS
+TROLL from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cavern of Earth]], grasslands around some towns
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Troll
+}}
+The '''Troll''' is an enemy in the original ''[[Final Fantasy]]''. It is found in the [[Cavern of Earth]], and around certain [[town]]s, such as [[Onrac]] and [[Lufenia (Final Fantasy)|Lufenia]]. In sprites and concept art the Troll is shown clutching its head. A friendly soul of a Troll in the [[Whisperwind Cove (Final Fantasy)|Whisperwind Cove]] dungeon in [[Soul of Chaos (Final Fantasy)|Soul of Chaos]] moans about its head aching. This refers to some folklore on trolls saying they suffer from a constant ringing in their ears.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Earth Elemental (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 042
+| psp next = Wight (Final Fantasy)
+| psp next no = 
+| prev = Earth Elemental (Final Fantasy)
+| prev no = 
+| bestiary = 042
+| next = Wight (Final Fantasy)
+| next no = 
+| ps prev = Earth Elemental (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 042
+| ps next = Wight (Final Fantasy)
+| ps next no = 
+| nes = TROLL
+| ps = Troll
+| = Troll
+| psp = Troll
+| psp location = 
+| nes location = [[Cavern of Earth|Earth Cave]]
+| ps location = [[Cavern of Earth|Terra Cave]]
+| location = [[Cavern of Earth]], grasslands around some towns
+| psp hp = 
+| psp attack = 
+| psp intelligence = 
+| psp defense = 
+| psp magic defense = 
+| psp agility = 
+| psp accuracy = 
+| psp evasion = 
+| psp exp = 
+| psp gil = 
+| hp = 184
+| attack = 24
+| intellect = 6
+| defense = 12
+| magic defense = 100
+| agility = 24
+| accuracy = 46
+| evasion = 48
+| exp = 621
+| gil = 621
+| ps hp = 184
+| ps attack = 24
+| ps defense = 12
+| ps magic defense = 100
+| ps exp = 621
+| ps gil = 621
+| nes hp = 184
+| nes attack = 24 - 48
+| nes defense = 12
+| nes magic defense = 100
+| nes evasion = 48
+| nes accuracy = 46
+| nes exp = 621
+| nes gil = 621
+| psp fire = Weak
+| psp lightning = 
+| psp ice = 
+| psp dia = Misses
+| fire = Weak
+| lightning = 
+| ice = -
+| dia = Misses
+| ps fire = Weak
+| ps lightning = -
+| ps ice = -
+| ps dia = -
+| nes fire = Weak
+| nes lightning = -
+| nes ice = -
+| nes dia = -
+| psp drop = 
+| psp abilities = Regenerates HP each turn.
+| psp resistance = 
+| drop = None
+| abilities = Regenerates HP each turn.
+| resistance = None
+| ps abilities = Regenerates HP each turn.
+| ps resistance = None
+| nes abilities = None
+| nes resistance = None
+}}
+
+== Battle ==
+Troll can hit up to three times in a single attack and regenerate a portion of its [[HP (stat)|health]] each turn. It is not hard to defeat, and is weak in comparison to other monsters in the Cavern of Earth, such as the [[Earth Elemental (Final Fantasy)|Earth Elemental]] or the [[Hill Gigas (Final Fantasy)|Hill Gigas]].
+
+=== Strategy ===
+The player should use physical attacks and [[Fire (Final Fantasy element)|Fire]] spells, if the [[Black Mage (Final Fantasy)|Black]] or [[Red Mage (Final Fantasy)|Red]] Mages in the [[party]] have it. [[Cure (Final Fantasy)|Cure]] is not typically necessary.
+
+== Gallery ==
+<gallery>
+Troll ff1.jpg|Artwork by [[Yoshitaka Amano]].
+</gallery>
+
+== Etymology ==
+{{Etym|Troll}}
+
+== Related enemies ==
+* [[Sea Troll]]
+* [[Blue Troll]]
+* [[Earth Troll]]
+
+[[Category:Enemies in Final Fantasy]]
+
+[[de:Troll (FFI)]]
+[[es:Trol (Final Fantasy)]]
+

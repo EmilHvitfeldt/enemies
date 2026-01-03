@@ -1,0 +1,189 @@
+{{DISPLAYTITLE:Vampire Lord (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Vampire Lord
+| japanese = バンパイアロード
+| romaji = Banpaiarōdo
+| lit = 
+| image = <gallery>
+Vampire Lord from FFI Pixel Remaster sprite.png|PR
+Vampire Lord from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Vampire Lord from FFI Dawn of Souls sprite.png|GBA
+Vampire Lord from FFI Origins sprite.png|PS
+WzVAMP from FFI NES sprite.png|NES
+</gallery>
+| location = [[Flying Fortress]]; [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] (F2, F3 & B4)
+| type = 
+| formations = 
+| aiscript = true
+}}
+The '''Vampire Lord''', also known as '''WzVAMP''', is an enemy from the original ''[[Final Fantasy]]''. It is found in the [[Flying Fortress]] and in floors F2, F3 and more commonly B4 of the [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]. It is of no threat (as none of its spells or abilities can threaten a party appropriate-[[level]]ed for the Fortress).
+
+The [[Final Fantasy version differences|NES version]] has a bug that makes the Vampire Lord even easier. It casts [[Barfire (ability)|AFIR]] (NulBlaze), but in the NES elemental protection spells don't work if the enemy that casts/gets affected by them is weak to the element it protects against. Vampires are weak against [[Fire (element)|Fire]], so AFIR will do nothing.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Soldier (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 116
+| psp next = Dark Fighter
+| psp next no = 
+| prev = Soldier (Final Fantasy)
+| prev no = 
+| bestiary = 116
+| next = Dark Fighter
+| next no = 
+| ps prev = Soldier (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 116
+| ps next = Dark Fighter
+| ps next no = 
+| nes = WzVAMP
+| ps = Vampire Lord
+| = Vampire Lord
+| psp = Vampire Lord
+| psp location = 
+| nes location = [[Flying Fortress]] 3F, [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F/B4
+| ps location = [[Flying Fortress]] 3F, [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F/B4
+| location = [[Flying Fortress]] 3F, [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F/B4
+| psp hp = 300
+| psp attack = 90
+| psp intelligence = 34
+| psp defense = 28
+| psp magic defense = 84
+| psp agility = 36
+| psp accuracy = 42
+| psp evasion = 72
+| psp exp = 2385
+| psp gil = 3000
+| hp = 300
+| attack = 90
+| intellect = 34
+| defense = 28
+| magic defense = 84
+| agility = 36
+| accuracy = 42
+| evasion = 72
+| exp = 2,385
+| gil = 3,000
+| ps hp = 300
+| ps attack = 90
+| ps defense = 28
+| ps magic defense = 84
+| ps exp = 2,385
+| ps gil = 3,000
+| nes hp = 300
+| nes attack = 90 - 180
+| nes defense = 28
+| nes magic defense = 84
+| nes evasion = -
+| nes accuracy = -
+| nes exp = 2,385
+| nes gil = 3,000
+| psp fire = Weak
+| psp lightning = 
+| psp ice = Resist
+| psp dia = Weak
+| fire = Weak
+| lightning = 
+| ice = Resist
+| dia = Weak
+| ps fire = Weak
+| ps lightning = -
+| ps ice = Resist
+| ps dia = Weak
+| nes fire = Weak
+| nes lightning = -
+| nes ice = Resist
+| nes dia = Weak
+| psp drop = [[Hermes' Shoes (Final Fantasy)|Hermes' Shoes]]
+| psp abilities = 
+| psp resistance = [[Earth (element)|Quake]], [[Petrify (status)|Stone]], [[Paralysis]], [[Poison (status)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], [[Confuse (status)|Confuse]], Mind, [[Death (ability)|Death]]
+| drop = [[Hermes' Shoes (Final Fantasy)|Hermes' Shoes]]
+| abilities = [[Blizzard (ability)|Ice]], [[Thunder (ability)|Lit]], [[Sleep (ability)|Slep]], [[Paralysis|Stun]]
+| resistance = [[Earth (element)|Quake]], [[Petrify (status)|Stone]], [[Paralysis]], [[Poison (status)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], [[Confuse (status)|Confuse]], Mind, [[Death (ability)|Death]]
+| ps abilities = [[Blizzard (ability)|Ice]], [[Thunder (ability)|Lit]], [[Sleep (ability)|Slep]], [[Paralysis|Stun]]
+| ps resistance = [[Earth (element)|Quake]], [[Petrify (status)|Stone]], [[Paralysis]], [[Poison (status)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], [[Confuse (status)|Confuse]], Mind, [[Death (ability)|Death]]
+| nes abilities = [[Blizzard (ability)|Ice]], [[Thunder (ability)|Lit]], [[Sleep (ability)|Slep]], [[Paralysis|Stun]]
+| nes resistance = [[Scourge (poison ability)|Bane]], [[Ice (element)|Ice]], [[Earth (element)|Quake]], [[Death (ability)|Rub]]
+}}
+
+== AI script ==
+{| class="article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 28.82%
+|-
+| [[Silence (Final Fantasy)|Silence]]
+| style="text-align:right;" | 14.41%
+|-
+| [[NulBlaze (Final Fantasy)|NulBlaze]]
+| style="text-align:right;" | 11.53%
+|-
+| [[Fira (Final Fantasy)|Fira]]
+| style="text-align:right;" | 11.53%
+|-
+| [[Thundara (Final Fantasy)|Thundara]]
+| style="text-align:right;" | 11.53%
+|-
+| [[Blizzara (Final Fantasy)|Blizzara]]
+| style="text-align:right;" | 11.53%
+|-
+| [[Gaze (Final Fantasy)|Gaze (Dazzle)]]
+| style="text-align:right;" | 8.65%
+|-
+| Flee
+| style="text-align:right;" | 2.02%
+|}
+
+Prior to ''[[Pixel Remaster]]'', starting from WonderSwan Color (includes PS1, GBA, PSP):
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 63.00%
+|-
+| Magic
+| style="text-align:right;" | 16.00%
+| [[NulBlaze (Final Fantasy)|NulBlaze]] → [[Silence (Final Fantasy)|Silence]] → [[Blizzara (Final Fantasy)|Blizzara]] → [[Blizzara (Final Fantasy)|Blizzara]] → [[Thundara (Final Fantasy)|Thundara]] → [[Thundara (Final Fantasy)|Thundara]] → [[Fira (Final Fantasy)|Fira]] → [[Fira (Final Fantasy)|Fira]]
+|-
+| Enemy-exclusive ability
+| style="text-align:right;" | 21.00%
+| [[Gaze (Final Fantasy)|Gaze (DAZZLE)]]
+|}
+
+Prior to WSC (includes NES):
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 56.25%
+|-
+| Magic
+| style="text-align:right;" | 25.00%
+| [[NulBlaze (Final Fantasy)|NulBlaze]] → [[Silence (Final Fantasy)|Silence]] → [[Blizzara (Final Fantasy)|Blizzara]] → [[Blizzara (Final Fantasy)|Blizzara]] → [[Thundara (Final Fantasy)|Thundara]] → [[Thundara (Final Fantasy)|Thundara]] → [[Fira (Final Fantasy)|Fira]] → [[Fira (Final Fantasy)|Fira]]
+|-
+| Enemy-exclusive ability
+| style="text-align:right;" | 18.75%
+| [[Gaze (Final Fantasy)|Gaze (DAZZLE)]]
+|}
+
+== Etymology ==
+{{Etym|Vampire}}
+
+== Related enemies ==
+* [[Vampire (Final Fantasy)|Vampire]]
+
+[[de:Nosferatu (FFI)]]
+[[es:Señor vampiro (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

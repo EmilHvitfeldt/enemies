@@ -1,0 +1,258 @@
+{{DISPLAYTITLE:Ice Gigas (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Ice Gigas
+| japanese = アイスギガース
+| romaji = Aisugigāsu
+| aka = FrGIANT, FROST GIANT<ref name="Enemy Identification Chart">''[https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABJE.pdf Final Fantasy Explorer's Handbook]'', p.86, "Enemy Identification Chart"</ref>
+| image = <gallery>
+Ice Gigas from FFI Pixel Remaster sprite.png|PR
+Ice Gigas from FFI 20th Anniversary Edition sprite.png|20th
+Ice Gigas from FFI Dawn of Souls sprite.png|GBA
+Ice Gigas from FFI Origins sprite.png|PS
+FrGIANT from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cavern of Ice]]<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Gaia (Final Fantasy)|Gaia]] region<br>[[Onrac]] region<br>[[Waterfall Cavern]] region
+| formations = true
+| aiscript = true
+| recurring appearance = Ice Gigas
+}}
+The '''Ice Gigas''', also known as the '''FrGIANT''' or '''FROST GIANT''''<ref name="Enemy Identification Chart"/>, is an enemy in ''[[Final Fantasy]]''. It belongs to the [[Giant (Final Fantasy enemy type)|giant]] family, first appearing in the [[Cavern of Ice]], and often appears with groups of [[Winter Wolf|Winter Wolves]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Mindflayer (Final Fantasy)
+| prev no = 070
+| bestiary = 071
+| next = Specter (Final Fantasy)
+| next no = 072
+| name = Ice Gigas<br>'''NES:''' FrGIANT/FROST GIANT<ref name="Enemy Identification Chart"/>
+| type = Giant
+| location = [[Cavern of Ice]]<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Gaia (Final Fantasy)|Gaia]] region<br>[[Onrac]] region<br>[[Waterfall Cavern]] region
+| hp = 336
+| attack = 60
+| intellect = 10
+| defense = 16
+| magic defense = 150
+| agility = 24
+| accuracy = 78
+| evasion = 48
+| exp = 1,752
+| gil = 1,752
+| morale = 200
+| hits = 1
+| crit = 1
+| luck = 2
+| fire = Weak
+| ice = Resists
+}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="3"|{{A|131}}
+|rowspan="3"|[[Winter Wolf]] x2, [[Ice Gigas (Final Fantasy)|Ice Gigas]] x1
+|rowspan="3"|{{y}}
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B2
+|80
+|-
+|[[Cavern of Ice]] B3
+|80
+|-
+|[[Gaia (Final Fantasy)|Gaia]]-[[Onrac]]-[[Waterfall Cavern]] region
+|60
+|-
+!{{A|132}}
+|[[Winter Wolf]] x1, [[Ice Gigas (Final Fantasy)|Ice Gigas]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Gaia (Final Fantasy)|Gaia]]-[[Onrac]]-[[Waterfall Cavern]] region
+|60
+|-
+!rowspan="2"|{{A|133}}
+|rowspan="2"|[[Ice Gigas (Final Fantasy)|Ice Gigas]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B2
+|80
+|-
+|[[Cavern of Ice]] B3
+|80
+|-
+!{{A|517}}
+|[[Winter Wolf]] x5, [[Ice Gigas (Final Fantasy)|Ice Gigas]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|40
+|-
+!{{A|518}}
+|[[Winter Wolf]] x4, [[Ice Gigas (Final Fantasy)|Ice Gigas]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|50
+|-
+!{{A|519}}
+|[[Winter Wolf]] x3, [[Ice Gigas (Final Fantasy)|Ice Gigas]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|50
+|-
+!{{A|520}}
+|[[Winter Wolf]] x2, [[Ice Gigas (Final Fantasy)|Ice Gigas]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|70
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="3"|{{A|046}}
+|rowspan="3"|[[Ice Gigas (Final Fantasy)|Ice Gigas]] x1, [[Winter Wolf]] x0-2
+|rowspan="3"|2 large 6 small
+|rowspan="3"|{{x}}
+|rowspan="3"|4
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B2
+|3
+|-
+|[[Cavern of Ice]] B3
+|6
+|-
+|[[Gaia (Final Fantasy)|Gaia]]-[[Onrac]]-[[Waterfall Cavern]] region
+|12
+|-
+!{{A|174}}
+|[[Ice Gigas (Final Fantasy)|Ice Gigas]] x2, [[Winter Wolf]] x2-6
+|2 large 6 small
+|{{x}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|24
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+| 81
+| —
+| 37.25%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Gigas}}
+
+== Related enemies ==
+* [[Elm Gigas (Final Fantasy)|Elm Gigas]]
+* [[Fire Gigas (Final Fantasy)|Fire Gigas]]
+* [[Flare Gigas]]
+* [[Hill Gigas (Final Fantasy)|Hill Gigas]]
+
+==Citations==
+{{citations}}
+
+* [[de:Eis-Gigas]]
+[[Category:Enemies in Final Fantasy]]
+

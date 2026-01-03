@@ -1,0 +1,374 @@
+{{DISPLAYTITLE:Cockatrice (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Cockatrice
+| japanese = コカトリス
+| romaji = Kokatorisu
+| aka = COCTRICE
+| image = <gallery>
+Cockatrice from FFI Pixel Remaster sprite.png|PR
+Cockatrice from FFI 20th Anniversary Edition sprite.png|20th
+Cockatrice from FFI Dawn of Souls sprite.png|GBA
+Cockatrice from FFI Origins sprite.png|PS
+COCTRICE from FFI NES sprite.png|NES
+</gallery>
+| aiscript = true
+| formations = true
+| location = [[Cavern of Earth]]<br>[[Cavern of Ice]]<br>[[Labyrinth of Time]]<br>[[Mirage Tower]]<br>[[Sunken Shrine]]<br>[[Waterfall Cavern]]
+| recurring appearance = Cockatrice
+}}
+
+The '''Cockatrice''', also known as the '''COCTRICE''', is an enemy in ''[[Final Fantasy]]''. It is first encountered relatively early in the [[Cavern of Earth]], but continues to appear throughout the game in the [[Cavern of Ice]], [[Waterfall Cavern]], [[Sunken Shrine]], [[Mirage Tower]], and even the [[Labyrinth of Time]] bonus dungeon. While it is not an overly strong enemy, its unique ability to inflict [[Stone (Final Fantasy status)|Stone]] with its basic attacks make it a dangerous threat at all stages of the game. It may be encountered alongside the [[Mummy (Final Fantasy)|Mummy]], [[King Mummy]], or [[Pyrolisk (Final Fantasy)|Pyrolisk]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Ochre Jelly
+| prev no = 044
+| bestiary = 045
+| next = Vampire (Final Fantasy)
+| next no = 046
+| name = Cockatrice<br>'''NES:''' COCTRICE
+| location = [[Cavern of Earth]]<br>[[Cavern of Ice]]<br>[[Labyrinth of Time]]<br>[[Mirage Tower]]<br>[[Sunken Shrine]]<br>[[Waterfall Cavern]]
+| hp = 50
+| attack = 1
+| intellect = 8
+| defense = 4
+| magic defense = 47
+| agility = 36
+| accuracy = 10
+| hits = 1
+| evasion = 72
+| crit = 1
+| luck = 2
+| exp = 186
+| gil = 200
+| morale = 124
+| earth = Resists
+| drop = [[Gold Needle (Final Fantasy)|Gold Needle]] (7%)
+| abilities = Attacks may inflict [[Stone (Final Fantasy status)|Stone]]
+}}
+
+==Formations==
+[[File:Cockatrice ff1.jpg|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|068}}
+|[[Cockatrice (Final Fantasy)|Cockatrice]] x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B4
+|50
+|-
+!rowspan="2"|{{A|069}}
+|rowspan="2"|[[Cockatrice (Final Fantasy)|Cockatrice]] x4
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B3
+|70
+|-
+|[[Cavern of Earth]] B4
+|80
+|-
+!{{A|070}}
+|[[Cockatrice (Final Fantasy)|Cockatrice]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B3
+|80
+|-
+!{{A|205}}
+|[[Cockatrice (Final Fantasy)|Cockatrice]] x8, [[King Mummy]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 3F
+|30
+|-
+!{{A|208}}
+|[[Mummy (Final Fantasy)|Mummy]] x2, [[King Mummy]] x1, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x3, [[Cockatrice (Final Fantasy)|Cockatrice]] x3
+|{{x}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Sunken Shrine]] 2F
+|Fixed
+|-
+!{{A|211}}
+|[[Pyrolisk (Final Fantasy)|Pyrolisk]] x2, [[King Mummy]] x1, [[Cockatrice (Final Fantasy)|Cockatrice]] x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|212}}
+|[[Pyrolisk (Final Fantasy)|Pyrolisk]] x5, [[King Mummy]] x1, [[Cockatrice (Final Fantasy)|Cockatrice]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 3F
+|30
+|-
+!{{A|213}}
+|[[Mummy (Final Fantasy)|Mummy]] x3, [[King Mummy]] x1, [[Cockatrice (Final Fantasy)|Cockatrice]] x2, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!rowspan="2"|{{A|214}}
+|rowspan="2"|[[King Mummy]] x1, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x3, [[Cockatrice (Final Fantasy)|Cockatrice]] x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 2F
+|40
+|-
+|[[Mirage Tower]] 3F
+|30
+|-
+!{{A|215}}
+|[[Mummy (Final Fantasy)|Mummy]] x2, [[King Mummy]] x1, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x2, [[Cockatrice (Final Fantasy)|Cockatrice]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!rowspan="2"|{{A|216}}
+|rowspan="2"|[[Pyrolisk (Final Fantasy)|Pyrolisk]] x3, [[King Mummy]] x1, [[Cockatrice (Final Fantasy)|Cockatrice]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 2F
+|50
+|-
+|[[Mirage Tower]] 3F
+|40
+|-
+!{{A|217}}
+|[[Mummy (Final Fantasy)|Mummy]] x3, [[Cockatrice (Final Fantasy)|Cockatrice]] x2, [[King Mummy]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|219}}
+|[[King Mummy]] x1, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x3, [[Cockatrice (Final Fantasy)|Cockatrice]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|220}}
+|[[Mummy (Final Fantasy)|Mummy]] x1, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x1, [[Cockatrice (Final Fantasy)|Cockatrice]] x1, [[King Mummy]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|221}}
+|[[King Mummy]] x1, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x2, [[Cockatrice (Final Fantasy)|Cockatrice]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|223}}
+|[[King Mummy]] x1, [[Cockatrice (Final Fantasy)|Cockatrice]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|224}}
+|[[Cockatrice (Final Fantasy)|Cockatrice]] x2, [[King Mummy]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|227}}
+|[[King Mummy]] x1, [[Cockatrice (Final Fantasy)|Cockatrice]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|426}}
+|[[Mummy (Final Fantasy)|Mummy]] x3, [[Cockatrice (Final Fantasy)|Cockatrice]] x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B1
+|30
+|-
+!{{A|427}}
+|[[Mummy (Final Fantasy)|Mummy]] x5, [[Cockatrice (Final Fantasy)|Cockatrice]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|428}}
+|[[Mummy (Final Fantasy)|Mummy]] x3, [[Cockatrice (Final Fantasy)|Cockatrice]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B1
+|40
+|-
+!{{A|429}}
+|[[Cockatrice (Final Fantasy)|Cockatrice]] x2, [[Mummy (Final Fantasy)|Mummy]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B1
+|70
+|-
+!{{A|827}}
+|[[Mummy (Final Fantasy)|Mummy]] x2, [[King Mummy]] x1, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x3, [[Cockatrice (Final Fantasy)|Cockatrice]] x3
+|{{x}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Waterfall Cavern]]
+|Fixed
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|022}}
+|rowspan="2"|[[Cockatrice (Final Fantasy)|Cockatrice]] x2-6
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B3
+|6
+|-
+|[[Cavern of Earth]] B4
+|6
+|-
+!rowspan="4"|{{A|074}}
+|rowspan="4"|[[Cockatrice (Final Fantasy)|Cockatrice]] x0-8, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x0-8, [[King Mummy]] x1-5, [[Mummy (Final Fantasy)|Mummy]] x0-8
+|rowspan="4"|9 small
+|rowspan="4"|{{y}}
+|rowspan="4"|4
+|rowspan="4"|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 2F
+|6
+|-
+|[[Mirage Tower]] 3F
+|12
+|-
+|[[Sunken Shrine]] 2F
+|Fixed
+|-
+|[[Waterfall Cavern]]
+|Fixed
+|-
+!{{A|150}}
+|[[Cockatrice (Final Fantasy)|Cockatrice]] x2-6, [[Mummy (Final Fantasy)|Mummy]] x1-5
+|9 small
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B1
+|24
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 124
+| 23
+| 48
+| 100%
+| 45
+| 95
+| 100%
+|-
+! 1
+! 84
+| 3
+| 28
+| 100%
+| 5
+| 55
+| 100%
+|-
+! 2
+! 44
+| 1
+| 8
+| 100%
+| 1
+| 15
+| 100%
+|-
+! 3
+! 4
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Other appearances ==
+=== ''[[Pictlogica Final Fantasy]]'' ===
+[[File:PFF Cockatrice FFI.png|right]]
+{{Enemy section|Pictlogica Final Fantasy}}
+{{clear}}
+
+== Etymology ==
+{{Etym|Cockatrice}}
+
+== Related enemies ==
+* [[Pyrolisk (Final Fantasy)|Pyrolisk]]
+* [[Poison Eagle (Final Fantasy)|Poison Eagle]]
+
+== Annotations==
+{{annotations}}
+
+[[de:Cockatrice (FFI)]]
+[[es:Cocatoris (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

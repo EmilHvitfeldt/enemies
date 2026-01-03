@@ -1,0 +1,147 @@
+{{DISPLAYTITLE:Sahagin Chief (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Sahagin Chief
+| japanese = サハギンチーフ
+| romaji = Sahagin Chīfu
+| lit = 
+| image = <gallery>
+Sahagin Chief from FFI Pixel Remaster sprite.png|PR
+Sahagin Chief from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Sahagin Chief from FFI Dawn of Souls sprite.png|GBA
+Sahagin Chief from FFI Origins sprite.png|PS
+FFI Sahagin Chief MSX.png|MSX
+R.SAHAG from FFI NES sprite.png|NES
+</gallery>
+| location = [[world map#Final Fantasy|World Map]] - [[Sea (location)|Sea]]<br/>[[Sunken Shrine]]
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Sahagin Chief
+}}
+The '''Sahagin Chief''', also known as the '''R.SAHAG''' in the [[Nintendo Entertainment System|NES]] version, is an enemy in the original ''[[Final Fantasy]]'' and its remakes. They are often found in the company of regular [[Sahagin (Final Fantasy)|Sahagin]]. Chiefs are distinguished by their red scales. If there are one or two of them, the player should just [[Attack (command)|attack]], but if there are more, or the enemies add up to three or more, [[Thundara (Final Fantasy)|Thundara]] can dispose of an army of them. The Sahagins' physical attacks can add up, so it is best to defeat them quickly.
+
+==Stats==
+{{infobox enemy stats FFI
+| pr prev = Sahagin (Final Fantasy)
+| pr prev no = 
+| pr bestiary = 019
+| pr next no = 
+| pr next = Buccaneer (Final Fantasy)
+| psp prev = Sahagin (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 019
+| psp next = Buccaneer (Final Fantasy)
+| psp next no = 
+| prev = Sahagin (Final Fantasy)
+| prev no = 
+| bestiary = 019
+| next = Buccaneer (Final Fantasy)
+| next no = 
+| ps prev = Sahagin (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 019
+| ps next = Buccaneer (Final Fantasy)
+| ps next no = 
+| nes = R.SAHAG
+| ps = Sahagin Chief
+| = Sahagin Chief
+| psp = Sahagin Chief
+| psp location = [[world map#Final Fantasy|World Map]] - [[Sea (location)|Sea]]<br/>[[Sunken Shrine]]
+| nes location = In the ship, [[Sunken Shrine]]
+| ps location = Sea, [[Sunken Shrine]]
+| location = In the ship, [[Sunken Shrine]]
+| psp hp = 64
+| psp attack = 15
+| psp intelligence = 7
+| psp defense = 8
+| psp magic defense = 46
+| psp agility = 39
+| psp accuracy = 16
+| psp evasion = 78
+| psp exp = 105
+| psp gil = 105
+| hp = 64
+| attack = 15
+| intellect = 7
+| defense = 8
+| magic defense = 46
+| agility = 39
+| accuracy = 16
+| evasion = 78
+| exp = 105
+| gil = 105
+| ps hp = 64
+| ps attack = 15
+| ps defense = 8
+| ps magic defense = 46
+| ps exp = 105
+| ps gil = 105
+| nes hp = 64
+| nes attack = 15 - 30
+| nes defense = 8
+| nes magic defense = 46
+| nes evasion = 78
+| nes accuracy = 16
+| nes exp = 105
+| nes gil = 105
+| psp fire = Resist
+| psp lightning = Weak
+| psp ice = 
+| psp dia = 
+| fire = Resist
+| lightning = 
+| ice = -
+| dia = Misses
+| ps fire = Resist
+| ps lightning = Weak
+| ps ice = -
+| ps dia = -
+| nes fire = Resist
+| nes lightning = Weak
+| nes ice = -
+| nes dia = Misses
+| psp drop = 
+| psp abilities = 
+| psp resistance = [[Earth (element)|Quake]]
+| drop = None
+| abilities = N/A
+| resistance = [[Earth (element)|Quake]]
+| ps abilities = N/A
+| ps resistance = [[Earth (element)|Quake]], [[Fire (element)|Fire]]
+| nes abilities = -
+| nes resistance = [[Earth (element)|Quake]], [[Fire (element)|Fire]]
+| pr = Sahagin Chief
+| pr hp = 64
+| pr attack = 15
+| pr defense = 8
+| pr accuracy = 16
+| pr agility = 39
+| pr intellect = 7
+| pr evasion = 78
+| pr magic defense = 46
+| pr gil = 105
+| pr exp = 105
+| pr drop = 
+| pr type = Aquatic
+| pr fire = Resist
+| pr lightning = Weak
+| pr ice = 
+| pr dia = 
+| pr resistance = 
+| pr location = 
+| pr abilities = 
+}}
+
+== Etymology ==
+{{Etym|Sahagin}}
+
+== Related enemies ==
+* [[Sahagin (Final Fantasy)|Sahagin]]
+* [[Sahagin Prince (Final Fantasy)|Sahagin Prince]]
+* [[Sahagin Queen]]
+
+
+[[es:Jefe gurami (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

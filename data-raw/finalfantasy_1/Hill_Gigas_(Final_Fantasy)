@@ -1,0 +1,360 @@
+{{DISPLAYTITLE:Hill Gigas (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Hill Gigas
+| japanese = ヒルギガース
+| romaji = Hirugigāsu
+| aka = GIANT
+| image = <gallery>
+Hill Gigas from FFI Pixel Remaster sprite.png|PR
+Hill Gigas from FFI 20th Anniversary Edition sprite.png|20th
+Hill Gigas from FFI Dawn of Souls sprite.png|GBA
+Hill Gigas from FFI Origins sprite.png|PS
+FFI Hill Gigas MSX.gif|MSX
+GIANT from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cavern of Earth]]<br>[[Citadel of Trials]] region<br>[[Crescent Lake]] region<br>[[Gaia (Final Fantasy)|Gaia]] region<br>[[Lufenia (Final Fantasy)|Lufenia]] region<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]<br>[[Onrac]] region<br>[[Ryukahn Desert]] region<br>[[Waterfall Cavern]] region
+| formations = true
+| aiscript = true
+|recurring appearance = Hill Gigas
+}}
+The '''Hill Gigas''', also known as the '''GIANT''', is an enemy in the original ''[[Final Fantasy]]''. It is initially encountered one of the strongest enemies in the [[Cavern of Earth]], and is a common enemy for the mid-portion of the game thereafter. In pre-''[[Pixel Remaster]]'' releases, the corridor west of the entrance in the Cavern of Earth features Hill Gigas [[fixed encounter]]s on every tile, making for an effective [[level grinding]] location.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Minotaur (Final Fantasy)
+| prev no = 039
+| bestiary = 040
+| next = Earth Elemental (Final Fantasy)
+| next no = 041
+| name = Hill Gigas<br>'''NES:''' GIANT
+| type = Giant
+| location = [[Cavern of Earth]]<br>[[Citadel of Trials]] region<br>[[Crescent Lake]] region<br>[[Gaia (Final Fantasy)|Gaia]] region<br>[[Lufenia (Final Fantasy)|Lufenia]] region<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]<br>[[Onrac]] region<br>[[Ryukahn Desert]] region<br>[[Waterfall Cavern]] region
+| hp = 240
+| attack = 38
+| intellect = 5
+| defense = 12
+| magic defense = 120
+| agility = 48
+| accuracy = 60
+| evasion = 48
+| exp = 879
+| gil = 879
+| morale = 136
+| hits = 1
+| crit = 1
+| luck = 2
+| drop = [[Tent (Final Fantasy)|Tent]] (3%)
+}}
+
+==Formations==
+[[File:Gigas ff1.jpg|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;''Pixel Remaster''
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|046}}
+|[[Lizard (Final Fantasy)|Lizard]] x2, [[Werewolf (Final Fantasy)|Werewolf]] x2, [[Goblin Guard (Final Fantasy)|Goblin Guard]] x3, [[Hill Gigas (Final Fantasy)|Hill Gigas]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B4
+|20
+|-
+!rowspan="3"|{{A|095}}
+|rowspan="3"|[[Hill Gigas (Final Fantasy)|Hill Gigas]] x2
+|rowspan="3"|{{y}}
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B2
+|80
+|-
+|[[Cavern of Earth]] B5
+|70
+|-
+|[[Crescent Lake]]-[[Ryukahn Desert]] region
+|60
+|-
+!rowspan="3"|{{A|096}}
+|rowspan="3"|[[Hill Gigas (Final Fantasy)|Hill Gigas]] x1
+|rowspan="3"|{{y}}
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B2
+|80
+|-
+|[[Cavern of Earth]] B5
+|70
+|-
+|[[Crescent Lake]]-[[Ryukahn Desert]] region
+|60
+|-
+!{{A|097}}
+|[[Lizard (Final Fantasy)|Lizard]] x3, [[Hill Gigas (Final Fantasy)|Hill Gigas]] x2
+|{{x}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|Fixed
+|-
+!rowspan="2"|{{A|098}}
+|rowspan="2"|[[Lizard (Final Fantasy)|Lizard]] x2, [[Hill Gigas (Final Fantasy)|Hill Gigas]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B2
+|80
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B3
+|60
+|-
+!{{A|099}}
+|[[Hill Gigas (Final Fantasy)|Hill Gigas]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B2
+|80
+|-
+!{{A|381}}
+|[[Lizard (Final Fantasy)|Lizard]] x2, [[Hill Gigas (Final Fantasy)|Hill Gigas]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Northern [[Citadel of Trials]] region
+|50
+|-
+!{{A|382}}
+|[[Lizard (Final Fantasy)|Lizard]] x1, [[Hill Gigas (Final Fantasy)|Hill Gigas]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Northern [[Citadel of Trials]] region
+|70
+|-
+!{{A|383}}
+|[[Hill Gigas (Final Fantasy)|Hill Gigas]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Northern [[Citadel of Trials]] region
+|80
+|-
+!{{A|461}}
+|[[Hill Gigas (Final Fantasy)|Hill Gigas]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Lufenia (Final Fantasy)|Lufenia]] region
+|60
+|-
+!{{A|462}}
+|[[Hill Gigas (Final Fantasy)|Hill Gigas]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Lufenia (Final Fantasy)|Lufenia]] region
+|60
+|-
+!{{A|463}}
+|[[Hill Gigas (Final Fantasy)|Hill Gigas]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Lufenia (Final Fantasy)|Lufenia]] region
+|60
+|-
+!{{A|464}}
+|[[Hill Gigas (Final Fantasy)|Hill Gigas]] x4, [[Lizard (Final Fantasy)|Lizard]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Gaia (Final Fantasy)|Gaia]]-[[Onrac]]-[[Waterfall Cavern]] region
+|50
+|-
+!{{A|465}}
+|[[Lizard (Final Fantasy)|Lizard]] x1, [[Hill Gigas (Final Fantasy)|Hill Gigas]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Gaia (Final Fantasy)|Gaia]]-[[Onrac]]-[[Waterfall Cavern]] region
+|60
+|-
+!{{A|466}}
+|[[Lizard (Final Fantasy)|Lizard]] x1, [[Hill Gigas (Final Fantasy)|Hill Gigas]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Gaia (Final Fantasy)|Gaia]]-[[Onrac]]-[[Waterfall Cavern]] region
+|60
+|-
+!{{A|467}}
+|[[Lizard (Final Fantasy)|Lizard]] x1, [[Hill Gigas (Final Fantasy)|Hill Gigas]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Gaia (Final Fantasy)|Gaia]]-[[Onrac]]-[[Waterfall Cavern]] region
+|70
+|-
+!{{A|798}}
+|[[Lizard (Final Fantasy)|Lizard]] x3, [[Hill Gigas (Final Fantasy)|Hill Gigas]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B3
+|50
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!{{A|014}}
+|[[Goblin Guard (Final Fantasy)|Goblin Guard]] x0-5, [[Werewolf (Final Fantasy)|Werewolf]] x1-3, [[Hill Gigas (Final Fantasy)|Hill Gigas]] x0-2, [[Lizard (Final Fantasy)|Lizard]] x0-2
+|2 large 6 small
+|{{y}}
+|33
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B4
+|9
+|-
+!rowspan="3"|{{A|030}}
+|rowspan="3"|[[Hill Gigas (Final Fantasy)|Hill Gigas]] x1-2
+|rowspan="3"|4 large
+|rowspan="3"|{{y}}
+|rowspan="3"|4
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B2
+|1
+|-
+|[[Cavern of Earth]] B5
+|6
+|-
+|[[Crescent Lake]]-[[Ryukahn Desert]] region
+|12
+|-
+!rowspan="3"|{{A|031}}
+|rowspan="3"|[[Hill Gigas (Final Fantasy)|Hill Gigas]] x1-2, [[Lizard (Final Fantasy)|Lizard]]
+|rowspan="3"|4 large
+|rowspan="3"|{{y}}
+|rowspan="3"|4
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|Fixed
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B2
+|12
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B3
+|12
+|-
+!{{A|137}}
+|[[Hill Gigas (Final Fantasy)|Hill Gigas]] x1-3, [[Lizard (Final Fantasy)|Lizard]] x0-2
+|4 large
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|Northern [[Citadel of Trials]] region
+|9
+|-
+!{{A|158}}
+|[[Hill Gigas (Final Fantasy)|Hill Gigas]] x2-4
+|4 large
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Lufenia (Final Fantasy)|Lufenia]] region
+|24
+|-
+!{{A|159}}
+|[[Hill Gigas (Final Fantasy)|Hill Gigas]] x1-4, [[Lizard (Final Fantasy)|Lizard]] x1
+|4 large
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Gaia (Final Fantasy)|Gaia]]-[[Onrac]]-[[Waterfall Cavern]] region
+|1
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 136
+| 29
+| —
+| 86.27%
+| 57
+| —
+| 84.31%
+|-
+! 1
+! 96
+| 9
+| 34
+| 100%
+| 17
+| 67
+| 100%
+|-
+! 2
+! 56
+| 1
+| 14
+| 100%
+| 1
+| 27
+| 100%
+|-
+! 3
+! 16
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Gigas}}
+
+{{Etym|Giant}}
+
+== Related enemies ==
+* [[Elm Gigas (Final Fantasy)|Elm Gigas]]
+* [[Fire Gigas (Final Fantasy)|Fire Gigas]]
+* [[Flare Gigas]]
+* [[Ice Gigas (Final Fantasy)|Ice Gigas]]
+
+
+[[de:Hill-Gigas]]
+[[es:Gigas (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

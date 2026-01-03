@@ -1,0 +1,203 @@
+{{DISPLAYTITLE:Bigeyes (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Bigeyes
+| japanese = ビッグアイ
+| romaji = Bigguai
+| lit = Big Eye
+| aka = Goggler, OddEYE, ODDEYE<ref name="Enemy Identification Chart">''[https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABJE.pdf Final Fantasy Explorer's Handbook]'', p.86, "Enemy Identification Chart"</ref>
+| image = <gallery>
+Bigeyes from FFI Pixel Remaster sprite.png|PR
+Bigeyes from FFI 20th Anniversary Edition sprite.png|20th
+Bigeyes from FFI Dawn of Souls sprite.png|GBA
+Goggler from FFI Origins sprite.png|PS
+OddEYE from FFI MSX sprite.png|MSX
+OddEYE from FFI NES sprite.png|NES
+</gallery>
+| location = [[Sea (location)#Final Fantasy|Sea]]
+| aiscript = true
+| formations = true
+}}
+The '''Bigeyes''', also known as the '''Goggler''', '''OddEYE''', or '''ODDEYE'''<ref name="Enemy Identification Chart"/>, is an enemy encountered at [[Sea (location)#Final Fantasy|sea]] in ''[[Final Fantasy]]''. It may use the [[Gaze (Final Fantasy)|Gaze]] attack, which causes [[paralysis]]. Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'', it only uses Gaze and does not attack normally. Although the Bigeyes has very low [[HP (stat)|HP]], its high [[Speed (stat)|Agility]] and [[Evasion]] and ability to inflict paralysis make it a nuisance, and it may appear alongside the [[Sahagin (Final Fantasy)|Sahagin]] or the [[Shark (Final Fantasy)|Shark]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Shark (Final Fantasy)
+| prev no = 21
+| bestiary = 22
+| next = Tarantula (Final Fantasy)
+| next no = 23
+| name = Bigeyes<br>'''PS:''' Goggler<br>'''NES:''' OddEYE/ODDEYE<ref name="Enemy Identification Chart"/>
+| location = [[Sea (location)#Final Fantasy|Sea]]
+| hp = 10
+| attack = 4
+| intellect = 6
+| defense = 0
+| magic defense = 14
+| agility = 42
+| accuracy = 2
+| hits = 1
+| evasion = 84
+| crit = 1
+| luck = 2
+| exp = 42
+| gil = 10
+| morale = 110
+| fire = Resists
+| lightning = Weak
+| earth = Resists
+| abilities = [[Gaze (Final Fantasy)|Gaze]]
+}}
+
+==Formations==
+;''Pixel Remaster''
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+|{{A|269}}
+|[[Sahagin (Final Fantasy)|Sahagin]] x6, [[Bigeyes (Final Fantasy)|Bigeyes]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Sea (location)#Final Fantasy|Sea]]
+|50
+|-
+|{{A|270}}
+|[[Sahagin (Final Fantasy)|Sahagin]] x4, [[Bigeyes (Final Fantasy)|Bigeyes]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Sea (location)#Final Fantasy|Sea]]
+|50
+|-
+|{{A|271}}
+|[[Sahagin (Final Fantasy)|Sahagin]] x3, [[Bigeyes (Final Fantasy)|Bigeyes]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Sea (location)#Final Fantasy|Sea]]
+|80
+|-
+|{{A|272}}
+|[[Bigeyes (Final Fantasy)|Bigeyes]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+|{{A|276}}
+|[[Sahagin (Final Fantasy)|Sahagin]] x2, [[Shark (Final Fantasy)|Shark]] x2, [[Bigeyes (Final Fantasy)|Bigeyes]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Sea (location)#Final Fantasy|Sea]]
+|50
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!{{A|091}}
+|[[Sahagin (Final Fantasy)|Sahagin]] x0-6, [[Bigeyes (Final Fantasy)|Bigeyes]] x1-2
+|2 large 6 small
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Sea (location)#Final Fantasy|Sea]]
+|12
+|-
+!{{A|093}}
+|[[Shark (Final Fantasy)|Shark]] x1-2, [[Sahagin (Final Fantasy)|Sahagin]] x0-2, [[Bigeyes (Final Fantasy)|Bigeyes]] x0-2
+|2 large 4 small
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Sea (location)#Final Fantasy|Sea]]
+|3
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 60%
+| 0%
+|-
+| Gaze
+| 35%
+| 100%
+|-
+| Flee
+| 5%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 110
+| 16
+| 41
+| 100%
+| 31
+| 81
+| 100%
+|-
+! 1
+! 70
+| 1
+| 21
+| 100%
+| 1
+| 41
+| 100%
+|-
+! 2
+! 30
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Related enemies ==
+* [[Dark Eye (Final Fantasy)|Dark Eye]]
+* [[Deepeyes (Final Fantasy)|Deepeyes]]
+
+== Citations ==
+{{Citations}}
+
+[[es:Ojos grandes (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

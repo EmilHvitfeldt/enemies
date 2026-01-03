@@ -1,0 +1,126 @@
+{{DISPLAYTITLE:Wight (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Wight
+| japanese = ワイト
+| romaji = Waito
+| lit = 
+| image = <gallery>
+Wight from FFI Pixel Remaster sprite.png|PR
+Wight from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Wight from FFI Dawn of Souls sprite.png|GBA
+Wight from FFI Origins sprite.png|PS
+SPECTER from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cavern of Earth]], [[Cavern of Ice]]
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Wight
+}}
+The '''Wight''', also known as the '''Specter''' in the [[Nintendo Entertainment System|NES]] version, is an enemy in the original ''[[Final Fantasy]]''. Wights is [[undead]] with the same weaknesses and resistances normal for undead enemies: [[Fire (element)|Fire]] and the [[Dia (ability)|Dia]] spell. A Wight's attack can cause [[Paralysis]], which can prove irritating if it affects a physical attacker.
+
+Wight is fought in the [[Cavern of Earth]] and the [[Cavern of Ice]], the latter being only in a small room, forcing the player to fight them automatically. It is not difficult to defeat them, but they sometimes come in large groups.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Troll (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 043
+| psp next = Ochre Jelly
+| psp next no = 
+| prev = Troll (Final Fantasy)
+| prev no = 
+| bestiary = 043
+| next = Ochre Jelly
+| next no = 
+| ps prev = Troll (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 043
+| ps next = Ochre Jelly
+| ps next no = 
+| nes = SPECTER
+| ps = Wight
+| = Wight
+| psp = Wight
+| psp location = 
+| nes location = [[Cavern of Earth|Earth Cave]]
+| ps location = [[Cavern of Earth|Terra Cave]]
+| location = [[Cavern of Earth]]
+| psp hp = 52
+| psp attack = 20
+| psp intelligence = 3
+| psp defense = 12
+| psp magic defense = 45
+| psp agility = 21
+| psp accuracy = 13
+| psp evasion = 42
+| psp exp = 150
+| psp gil = 150
+| hp = 52
+| attack = 20
+| intellect = 3
+| defense = 12
+| magic defense = 45
+| agility = 21
+| accuracy = 13
+| evasion = 42
+| exp = 150
+| gil = 150
+| ps hp = 52
+| ps attack = 20
+| ps defense = 12
+| ps magic defense = 45
+| ps exp = 150
+| ps gil = 150
+| nes hp = 52
+| nes attack = 20 - 40
+| nes defense = 12
+| nes magic defense = 45
+| nes evasion = 42
+| nes accuracy = 13
+| nes exp = 150
+| nes gil = 150
+| psp fire = Weak
+| psp lightning = 
+| psp ice = Resist
+| psp dia = Weak
+| fire = Weak
+| lightning = 
+| ice = Resist
+| dia = Weak
+| ps fire = Weak
+| ps lightning = Resist
+| ps ice = -
+| ps dia = Resist
+| nes fire = Weak
+| nes lightning = -
+| nes ice = Resist
+| nes dia = Weak
+| psp drop = 
+| psp abilities = Attacks may inflict Paralysis
+| psp resistance = [[Petrify (status)|Stone]], [[Poison (status)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], [[Death (ability)|Death]], [[Confuse (status)|Confuse]], [[Paralysis]], Mind
+| drop = None
+| abilities = Attacks may inflict Paralysis
+| resistance = [[Petrify (status)|Stone]], [[Poison (status)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], [[Death (ability)|Death]], [[Confuse (status)|Confuse]], [[Paralysis]], Mind
+| ps abilities = N/A
+| ps resistance = All statuses
+| nes abilities = N/A
+| nes resistance = All statuses
+}}
+
+== Etymology ==
+{{Etym|Wight}}
+
+{{Etym|Specter}}
+
+== Related enemies ==
+* [[Zombie (Final Fantasy)|Zombie]]
+* [[Ghoul (Final Fantasy)|Ghoul]]
+* [[Ghast (Final Fantasy)|Ghast]]
+* [[Revenant (Final Fantasy)|Revenant]]
+
+[[de:Alb]]
+[[es:Criatura (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

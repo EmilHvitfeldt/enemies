@@ -1,0 +1,126 @@
+{{DISPLAYTITLE:Sabertooth (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Sabertooth
+| japanese = サーベルタイガー
+| romaji = Sāberutaigā
+| lit = 
+| image = <gallery>
+Sabertooth from FFI Pixel Remaster sprite.png|PR
+Sabertooth from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Sabertooth from FFI Dawn of Souls sprite.png|GBA
+Sabretooth from FFI Origins sprite.png|PS
+Saber T from FFI NES sprite.png|NES
+</gallery>
+| location = 
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Sabertooth Tiger
+}}
+The '''Sabertooth''', also known as '''Saber T''' in the [[Nintendo Entertainment System]] version and '''Sabretooth''' in some non-American releases, is an enemy in the original ''[[Final Fantasy]]''. It appears around the city of [[Onrac]], and in the [[Mirage Tower]]. It appears with [[Lesser Tiger]]s, in groups of up to four felines (generally two Sabertooths and two Lesser Tigers). In the Mirage Tower, it is flanked by many [[Medusa (Final Fantasy)|Medusas]] in groups of up to six enemies.
+
+Sabertooth is a normal enemy with no special abilities or resistances, so a normal attacking strategy should work, as it is not very strong either. If it appears with Medusas, they can [[Stone (Final Fantasy status)|petrify]] a character, so it is recommended to have some [[Gold Needle (Final Fantasy)|Gold Needle]]s.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Desert Baretta (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 077
+| psp next = Wyvern (Final Fantasy)
+| psp next no = 
+| prev = Desert Baretta (Final Fantasy)
+| prev no = 
+| bestiary = 077
+| next = Wyvern (Final Fantasy)
+| next no = 
+| ps prev = Desert Baretta (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 077
+| ps next = Wyvern (Final Fantasy)
+| ps next no = 
+| nes = Saber T
+| ps = Sabretooth
+| = Sabertooth
+| psp = Sabertooth
+| psp location = 
+| nes location = [[Mirage Tower]]
+| ps location = [[Mirage Tower]]
+| location = World Map, Plains area on the [[Onrac]] continent, [[Mirage Tower]]
+| psp hp = 200
+| psp attack = 24
+| psp intelligence = 18
+| psp defense = 8
+| psp magic defense = 106
+| psp agility = 21
+| psp accuracy = 50
+| psp evasion = 42
+| psp exp = 843
+| psp gil = 500
+| hp = 200
+| attack = 24
+| intellect = 18
+| defense = 8
+| magic defense = 106
+| agility = 21
+| accuracy = 50
+| evasion = 42
+| exp = 843
+| gil = 500
+| ps hp = 200
+| ps attack = 20
+| ps defense = 8
+| ps magic defense = 106
+| ps exp = 843
+| ps gil = 500
+| nes hp = 200
+| nes attack = 24 - 48
+| nes defense = 8
+| nes magic defense = 106
+| nes evasion = 42
+| nes accuracy = 50
+| nes exp = 843
+| nes gil = 500
+| psp fire = 
+| psp lightning = 
+| psp ice = 
+| psp dia = 
+| fire = -
+| lightning = 
+| ice = -
+| dia = Misses
+| ps fire = -
+| ps lightning = -
+| ps ice = -
+| ps dia = -
+| nes fire = -
+| nes lightning = -
+| nes ice = -
+| nes dia = -
+| psp drop = 
+| psp abilities = 
+| psp resistance = 
+| drop = None
+| abilities = N/A
+| resistance = None
+| ps abilities = N/A
+| ps resistance = N/A
+| nes abilities = N/A
+| nes resistance = N/A
+}}
+
+== Gallery ==
+<gallery>
+Amano FF1 Sabertooth.gif|Artwork by [[Yoshitaka Amano]].
+</gallery>
+
+== Etymology ==
+{{etym|Sabertooth}}
+
+== Related enemies ==
+* [[Lesser Tiger]]
+* [[Blood Tiger]]
+
+[[de:Säbelzahntiger]]
+[[Category:Enemies in Final Fantasy]]
+

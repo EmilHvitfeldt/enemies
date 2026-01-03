@@ -1,0 +1,160 @@
+{{DISPLAYTITLE:Pyrolisk (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Pyrolisk
+| japanese = ピロリスク
+| romaji = Pirorisuku
+| lit = 
+| image = <gallery>
+Pyrolisk from FFI Pixel Remaster sprite.png|PR
+Pyrolisk from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Pyrolisk from FFI Dawn of Souls sprite.png|GBA
+Pyrolisk from FFI Origins sprite.png|PS
+PERILISK from FFI NES sprite.png|NES
+</gallery>
+| location = [[Mount Gulg (Final Fantasy)|Mount Gulg]], [[Mirage Tower]], [[Waterfall Cavern]]
+| type = 
+| formations = 
+| aiscript = true
+|recurring appearance=Pyrolisk
+}}
+The '''Pyrolisk''', also known as '''Perilisk''' in the [[Nintendo Entertainment System]] version, is an enemy in the original ''[[Final Fantasy]]'' found in [[Mount Gulg (Final Fantasy)|Mount Gulg]], and in the [[Mirage Tower]]. It is an easy monster in the Mirage Tower, because the [[party]] is more [[Level|leveled up]] by this point. In the [[Waterfall Cavern]], on the south part of this cave, there is a room with many [[Treasure chest (object)|chests]] and a robot; a group of Pyrolisks, Cockatrices, and [[Mummy (Final Fantasy)|Mummies]] guard the room.
+
+While a frail foe, the Pyrolisk should nonetheless be dealt with quickly, as it can try to instantly kill a party member through its [[Gaze (Final Fantasy)|Gaze]] attack. [[Blizzara (Final Fantasy)|Blizzara]] can make short work of a group of Pyrolisks, and can be cast for free using the [[Black Robe (Final Fantasy)|Black Robe]].
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Horned Devil (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 059
+| psp next = Fire Elemental (Final Fantasy)
+| psp next no = 
+| prev = Horned Devil (Final Fantasy)
+| prev no = 
+| bestiary = 059
+| next = Fire Elemental (Final Fantasy)
+| next no = 
+| ps prev = Horned Devil (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 059
+| ps next = Fire Elemental (Final Fantasy)
+| ps next no = 
+| nes = PERILISK
+| ps = Pyrolisk
+| = Pyrolisk
+| psp = Pyrolisk
+| psp location = [[Mount Gulg (Final Fantasy)|Mount Gulg]], [[Mirage Tower]]
+| nes location = [[Mount Gulg (Final Fantasy)|Gurgu Volcano]]
+| ps location = [[Mount Gulg (Final Fantasy)|Mt. Gulg]]
+| location = [[Mount Gulg (Final Fantasy)|Mount Gulug]], [[Mirage Tower]]
+| psp hp = 44
+| psp attack = 20
+| psp intelligence = 15
+| psp defense = 4
+| psp magic defense = 45
+| psp agility = 36
+| psp accuracy = 11
+| psp evasion = 72
+| psp exp = 423
+| psp gil = 500
+| hp = 44
+| attack = 20
+| intellect = 15
+| defense = 4
+| magic defense = 45
+| agility = 36
+| accuracy = 11
+| evasion = 72
+| exp = 423
+| gil = 500
+| ps hp = 44
+| ps attack = 20
+| ps defense = 4
+| ps magic defense = 45
+| ps exp = 423
+| ps gil = 500
+| nes hp = 44
+| nes attack = 20 - 40
+| nes defense = 4
+| nes magic defense = 45
+| nes evasion = 72
+| nes accuracy = 11
+| nes exp = 423
+| nes gil = 500
+| psp fire = Resist
+| psp lightning = 
+| psp ice = Weak
+| psp dia = 
+| fire = Resist
+| lightning = 
+| ice = Weak
+| dia = Misses
+| ps fire = Resist
+| ps lightning = -
+| ps ice = Weak
+| ps dia = Misses
+| nes fire = Resist
+| nes lightning = -
+| nes ice = Weak
+| nes dia = Misses
+| psp drop = [[Gold Needle (Final Fantasy)|Gold Needle]]
+| psp abilities = 
+| psp resistance = [[Earth (element)|Quake]]
+| drop = [[Gold Needle (Final Fantasy)|Gold Needle]]
+| abilities = [[Gaze (ability)|Gaze]]
+| resistance = [[Earth (element)|Quake]]
+| ps abilities = [[Gaze (ability)|Gaze]]
+| ps resistance = [[Earth (element)|Quake]]
+| nes abilities = [[Gaze (ability)|SQUINT]]
+| nes resistance = [[Earth (element)|QAKE]]
+}}
+== AI script ==
+{| class="article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 73.53%
+|-
+| [[Gaze (Final Fantasy)|Gaze (Death)]]
+| style="text-align:right;" | 24.51%
+|-
+| Flee
+| style="text-align:right;" | 1.96%
+|}
+
+Prior to ''[[Pixel Remaster]]'':
+{| class="article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 75.00%
+|-
+| [[Gaze (Final Fantasy)|Gaze (Death)]]
+| style="text-align:right;" | 25.00%
+|}
+In versions before ''[[Pixel Remaster]]'', Pyrolisk has 124 [[morale (Final Fantasy)|morale]], and only gains a chance to run away if the lead party member is Lv23 or higher.
+
+== Battle ==
+Pyrolisks appear in groups, and sometimes run away.
+
+The Pyrolisk's physical attacks are slightly stronger than their cousin the [[Cockatrice (Final Fantasy)|Cockatrice]]'s, although they do not cause [[Stone (Final Fantasy status)|petrification]]. This does not mean Pyrolisks are unable to petrify the unwary; rather, the Pyrolisk uses its [[Gaze (ability)|Gaze]] skill to kill its enemies instantly, which the [[Gold Needle (Final Fantasy)|Gold Needle]] it [[Item drop|drops]] will most-assuredly not cure.
+
+Despite being based on a creature that causes spontaneous combustion with its gaze, its Squint instant death ability is Death-elemental and not Fire-elemental, so only [[NulDeath (Final Fantasy)|NulDeath]] and gear with Death resistance will block its special ability.
+
+Pyrolisks, being creatures of [[Fire (Final Fantasy element)|Fire]], are resistant to Fire-based magic but suffer a weakness from [[Ice (Final Fantasy element)|Ice]]-based magic. Even without Ice magic, they are not strong creatures and can be killed easily with strong physical attacks.
+
+== Etymology ==
+{{etym|Pyrolisk}}
+
+== Related enemies ==
+* [[Cockatrice (Final Fantasy)|Cockatrice]]
+* [[Poison Eagle (Final Fantasy)|Poison Eagle]]
+
+[[de:Pyrolisk (FFI)]]
+[[es:Pirolisco (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

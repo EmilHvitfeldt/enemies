@@ -1,0 +1,222 @@
+{{infobox enemy
+| release = FFI
+| name = Ochre Jelly
+| japanese = オーカーゼリー
+| romaji = Ōkāzerī
+| aka = OOZE
+| image = <gallery>
+Ochre Jelly from FFI Pixel Remaster sprite.png|PR
+Ochre Jelly from FFI 20th Anniversary Edition sprite.png|20th
+Ochre Jelly from FFI Dawn of Souls sprite.png|GBA
+Ochre Jelly from FFI Origins sprite.png|PS
+OOZE from FFI NES sprite.png|NES
+</gallery>
+| location =[[Cavern of Earth]]
+| formations = true
+| aiscript = true
+}}
+The '''Ochre Jelly''', also known as the '''OOZE''', is an enemy in ''[[Final Fantasy]]''. It is a very rare enemy encountered only within the [[Cavern of Earth]]. It possesses low HP and is susceptible to [[Fire (Final Fantasy element)|Fire]] and [[Ice (Final Fantasy element)|Ice]]-based spells, while resisting [[Lightning (Final Fantasy)|Lightning]]-based spells.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Wight (Final Fantasy)
+| prev no =043 
+| bestiary = 044
+| next = Cockatrice (Final Fantasy)
+| next no =045 
+| name = Ochre Jelly<br>'''NES:''' OOZE
+| location = [[Cavern of Earth]]
+| hp = 76
+| attack = 32
+| intellect = 3
+| defense = 6
+| magic defense = 55
+| agility = 3
+| accuracy = 19
+| evasion = 6
+| exp = 252
+| gil = 70
+| hits = 1
+| crit = 1
+| morale = 144
+| luck = 2
+| fire = Weak
+| ice = Weak
+| silence = Resists
+| sleep = Resists
+| paralysis = Resists
+| darkness = Resists
+| confuse = Resists
+| poison status = Resists
+| stone = Resists
+| poison element = -<br>{{note|reference=Resists prior to pixel remaster.|name=poison element}}
+| lightning = Resists
+| earth = Resists
+| spirit = Resists
+| instant death = Resists
+}}
+{{annotations}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|411}}
+|[[Tarantula (Final Fantasy)|Tarantula]] x4, Ochre Jelly x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|412}}
+|[[Tarantula (Final Fantasy)|Tarantula]] x5, Ochre Jelly x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B5
+|20
+|-
+!rowspan="2"|{{A|413}}
+|rowspan="2"|[[Tarantula (Final Fantasy)|Tarantula]] x3, Ochre Jelly x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B4
+|50
+|-
+|[[Cavern of Earth]] B5
+|60
+|-
+!rowspan="2"|{{A|414}}
+|rowspan="2"|[[Tarantula (Final Fantasy)|Tarantula]] x2, Ochre Jelly x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B3
+|70
+|-
+|[[Cavern of Earth]] B4
+|80
+|-
+!{{A|415}}
+|Ochre Jelly x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B3
+|80
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="3"|{{A|146}}
+|rowspan="3"|Ochre Jelly x2-5, [[Tarantula (Final Fantasy)|Tarantula]] x0-5
+|rowspan="3"|9 small
+|rowspan="3"|{{y}}
+|rowspan="3"|55
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B3
+|1
+|-
+|[[Cavern of Earth]] B4
+|1
+|-
+|[[Cavern of Earth]] B5
+|3
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 144
+| 33
+| —
+| 70.59%
+| 65
+| —
+| 68.63%
+|-
+! 1
+! 104
+| 13
+| 38
+| 100%
+| 25
+| 75
+| 100%
+|-
+! 2
+! 64
+| 1
+| 18
+| 100%
+| 1
+| 35
+| 100%
+|-
+! 3
+! 24
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Ochre Jelly}}
+
+== Related enemies ==
+* [[Green Slime (Final Fantasy)|Green Slime]]
+* [[Gray Ooze (Final Fantasy)|Gray Ooze]]
+* [[Black Flan (Final Fantasy)|Black Flan]]
+* [[Red Flan (Final Fantasy)|Red Flan]]
+
+[[de:Eiterschleim]]
+[[es:Jalea ocre (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

@@ -1,0 +1,124 @@
+{{DISPLAYTITLE:Wyrm (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Wyrm
+| japanese = ウィルム
+| romaji = Wirumu
+| lit = 
+| image = <gallery>
+Wyrm from FFI Pixel Remaster sprite.png|PR
+Wyrm from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Wyrm from FFI Dawn of Souls sprite.png|GBA
+Wyrm from FFI Origins sprite.png|PS
+WYRM from FFI NES sprite.png|NES
+</gallery>
+| location = Around [[Onrac]] and the [[Mirage Tower]]
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Wyrm (enemy)
+}}
+The '''Wyrm''' is an enemy in the original ''[[Final Fantasy]]''. It is an upgraded version of the [[Wyvern (Final Fantasy)|Wyvern]], having slightly higher stats than its blue cousin, and appears around [[Onrac]] and the [[Mirage Tower]]. Around Onrac they come in groups up to four; in the [[Mirage Tower]] they come with Wyverns. [[KO (Final Fantasy)|Instant defeat]] spells, like [[Quake (Final Fantasy)|Quake]], will miss because the Wyrm is flying. 
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Wyvern (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 079
+| psp next = Manticore (Final Fantasy)
+| psp next no = 
+| prev = Wyvern (Final Fantasy)
+| prev no = 
+| bestiary = 079
+| next = Manticore (Final Fantasy)
+| next no = 
+| ps prev = Wyvern (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 079
+| ps next = Manticore (Final Fantasy)
+| ps next no = 
+| nes = WYRM
+| ps = Wyrm
+| = Wyrm
+| psp = Wyrm
+| psp location = 
+| nes location = [[Mirage Tower]], around [[Onrac]]
+| ps location = [[Mirage Tower]], around [[Onrac]]
+| location = World Map, near [[Onrac]], [[Mirage Tower]]
+| psp hp = 250
+| psp attack = 40
+| psp intelligence = 24
+| psp defense = 22
+| psp magic defense = 131
+| psp agility = 30
+| psp accuracy = 65
+| psp evasion = 60
+| psp exp = 1218
+| psp gil = 502
+| hp = 260
+| attack = 40
+| intellect = 24
+| defense = 22
+| magic defense = 131
+| agility = 30
+| accuracy = 65
+| evasion = 60
+| exp = 1,218
+| gil = 502
+| ps hp = 260
+| ps attack = 40
+| ps defense = 65
+| ps magic defense = 131
+| ps exp = 1,218
+| ps gil = 502
+| nes hp = 260
+| nes attack = 40 - 80
+| nes defense = 22
+| nes magic defense = 131
+| nes evasion = 30
+| nes accuracy = 65
+| nes exp = 1,218
+| nes gil = 502
+| psp fire = 
+| psp lightning = 
+| psp ice = 
+| psp dia = 
+| fire = -
+| lightning = 
+| ice = -
+| dia = Misses
+| ps fire = -
+| ps lightning = -
+| ps ice = -
+| ps dia = -
+| nes fire = -
+| nes lightning = -
+| nes ice = -
+| nes dia = -
+| psp drop = 
+| psp abilities = 
+| psp resistance = [[Quake (ability)|Quake]]
+| drop = None
+| abilities = N/A
+| resistance = [[Quake (ability)|Quake]]
+| ps abilities = N/A
+| ps resistance = [[Earth (element)|Quake]]
+| nes abilities = N/A
+| nes resistance = [[Earth (element)|Quake]]
+}}
+
+== Gallery ==
+<gallery>
+Wyrm Brigade.gif|''[[Final Fantasy Airborne Brigade]]''.
+</gallery>
+
+== Etymology ==
+{{Etym|Wyrm}}
+
+== Related enemies ==
+* [[Wyvern (Final Fantasy)|Wyvern]]
+
+[[de:Wyrm (FFI)]]
+[[es:Dracus (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

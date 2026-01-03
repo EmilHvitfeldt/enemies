@@ -1,0 +1,133 @@
+{{DISPLAYTITLE:Wraith (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Wraith
+| japanese = レイス
+| romaji = Reisu
+| lit = 
+| image = <gallery>
+Wraith from FFI Pixel Remaster sprite.png|PR
+Wraith from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Wraith from FFI Dawn of Souls sprite.png|GBA
+Wraith from FFI Origins sprite.png|PS
+FFI Wraith MSX.gif|MSX
+IMAGE from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cavern of Earth]], [[Western Keep]], [[Cavern of Ice]]
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Wraith (enemy)
+}}
+The '''Wraith''', known as the '''IMAGE''' in the localized release of the [[Nintendo Entertainment System|NES]] version, is an enemy in the original ''[[Final Fantasy]]''. '''Wraith''' is also the name used in the original NES translation to refer to the [[Specter (Final Fantasy)|Specter]].
+
+Like similar ghostly foes, the Wraith's touch causes [[Paralysis (Final Fantasy status)|Paralysis]]. It has the same vulnerabilities and resistances as most [[undead]] enemies, and thus a quick [[Fire (Final Fantasy)|Fire]] or [[Dia (Final Fantasy)|Dia]] spell defeats them, and [[Fira (Fira)|Fira]] can destroy an army of them.
+
+It appears in the [[Cavern of Earth]] and in the [[Western Keep]], in a room with three chests, guarding the front of the center [[Treasure chest (object)|chest]]. They often appear in groups.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Mummy (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 035
+| psp next = Anaconda (Final Fantasy)
+| psp next no = 
+| prev = Mummy (Final Fantasy)
+| prev no = 
+| bestiary = 035
+| next = Anaconda (Final Fantasy)
+| next no = 
+| ps prev = Mummy (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 035
+| ps next = Anaconda (Final Fantasy)
+| ps next no = 
+| nes = IMAGE
+| ps = Wraith
+| = Wraith
+| psp = Wraith
+| psp location = 
+| nes location = [[Western Keep]], [[Cavern of Earth|Earth Cave]]
+| ps location = [[Western Keep]], [[Cavern of Earth|Terra Cavern]]
+| location = [[Western Keep]], [[Cavern of Earth]]
+| psp hp = 86
+| psp attack = 22
+| psp intelligence = 18
+| psp defense = 4
+| psp magic defense = 52
+| psp agility = 45
+| psp accuracy = 22
+| psp evasion = 90
+| psp exp = 231
+| psp gil = 231
+| hp = 86
+| attack = 22
+| intellect = 18
+| defense = 4
+| magic defense = 52
+| agility = 45
+| accuracy = 22
+| evasion = 90
+| exp = 231
+| gil = 231
+| ps hp = 86
+| ps attack = 22
+| ps defense = 4
+| ps magic defense = 52
+| ps exp = 300
+| ps gil = 300
+| nes hp = 86
+| nes attack = 22 - 44
+| nes defense = 12
+| nes magic defense = 67
+| nes evasion = 108
+| nes accuracy = 29
+| nes exp = 231
+| nes gil = 231
+| psp fire = Weak
+| psp lightning = 
+| psp ice = Resist
+| psp dia = Weak
+| fire = Weak
+| lightning = 
+| ice = Resist
+| dia = Weak
+| ps fire = Weak
+| ps lightning = -
+| ps ice = Resist
+| ps dia = Weak
+| nes fire = Weak
+| nes lightning = -
+| nes ice = Resist
+| nes dia = Weak
+| psp drop = [[Crosier (Final Fantasy)|Crosier]]
+| psp abilities = Attacks may inflict Paralysis
+| psp resistance = [[Earth (element)|Quake]], [[Death (ability)|Death]], [[Confuse (status)|Confuse]], [[Paralysis]], [[Petrify (status)|Stone]], [[Poison (status)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], Mind.
+| drop = [[Crosier (Final Fantasy)|Crosier]]
+| abilities = Attacks may inflict Paralysis
+| resistance = [[Earth (element)|Quake]], [[Death (ability)|Death]], [[Confuse (status)|Confuse]], [[Paralysis]], [[Petrify (status)|Stone]], [[Poison (status)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], Mind.
+| ps abilities = Attacks May Inflict Paralysis
+| ps resistance = [[Earth (element)|Quake]], [[Ice (element)|Ice]], [[Instant Death|Death]], [[Confuse (status)|Confuse]], [[Paralysis]]
+| nes abilities = N/A
+| nes resistance = All statuses, Ice, Earth
+}}
+
+==Other appearances==
+===''[[Final Fantasy Record Keeper]]''===
+[[File:FFRK Wraith FFI.png|right]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+== Etymology ==
+{{Etym|Wraith}}
+
+== Related enemies ==
+* [[Shadow (Final Fantasy)|Shadow]]
+* [[Specter (Final Fantasy)|Specter]]
+* [[Ghost (Final Fantasy)|Ghost]]
+* [[Reaper (Final Fantasy)|Reaper]]
+
+[[de:Todesabt (FFI)]]
+[[es:Caronte (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

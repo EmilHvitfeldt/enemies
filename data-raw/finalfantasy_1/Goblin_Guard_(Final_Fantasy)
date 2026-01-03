@@ -1,0 +1,342 @@
+{{DISPLAYTITLE:Goblin Guard (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Goblin Guard
+| japanese = ゴブリンガード
+| romaji = Goburingādo
+| aka = GrIMP, GREY IMP<ref name="Enemy Identification Chart">''[https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABJE.pdf Final Fantasy Explorer's Handbook]'', p.86, "Enemy Identification Chart"</ref>
+| image = <gallery>
+Goblin Guard from FFI Pixel Remaster sprite.png|PR
+Goblin Guard from FFI 20th Anniversary Edition sprite.png|20th
+Goblin Guard from FFI Dawn of Souls sprite.png|GBA
+Goblin Guard from FFI Origins sprite.png|PS
+FFI Goblin Guard MSX.gif|MSX
+GrIMP from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cavern of Earth]]<br>[[Cavern of Ice]] region<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>Chaos Shrine region<br>[[Cornelia (Final Fantasy)|Cornelia]] region<br>[[Cornelia Bridge]] region<br>[[Earthgift Shrine]] region<br>[[Marsh Cave]] region<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]] region<br>[[Pravoka]] region<br>[[Whisperwind Cove (Final Fantasy)|Whisperwind Cove]] region
+| formations = true
+| aiscript = true
+|recurring appearance=Goblin Guard
+}}
+The '''Goblin Guard''', also known as the '''GrIMP''' or '''GREY IMP'''<ref name="Enemy Identification Chart"/>, is an enemy in ''[[Final Fantasy]]''. It is a common enemy in the early portions of the game, being stronger than the regular [[Goblin (Final Fantasy)|Goblin]] but still easily defeated by even fledgling adventurers.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Goblin (Final Fantasy)
+| prev no = 001
+| bestiary = 002
+| next = Wolf (Final Fantasy)
+| next no = 003
+| name = Goblin Guard<br>'''NES:''' GrIMP/GREY IMP<ref name="Enemy Identification Chart"/>
+| type = Giant <small>(pre-[[pixel remaster|PR]])</small>
+| location = [[Cavern of Earth]]<br>[[Cavern of Ice]] region<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>Chaos Shrine region<br>[[Cornelia (Final Fantasy)|Cornelia]] region<br>[[Cornelia Bridge]] region<br>[[Earthgift Shrine]] region<br>[[Marsh Cave]] region<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]] region<br>[[Pravoka]] region<br>[[Whisperwind Cove (Final Fantasy)|Whisperwind Cove]] region
+| hp = 16
+| attack = 8
+| intellect = 3
+| defense = 6
+| magic defense = 23
+| agility = 5
+| accuracy = 4
+| evasion = 9
+| exp = 18
+| gil = 18
+| morale = 120
+| hits = 1
+| crit = 1
+| luck = 2
+| drop = [[Potion (Final Fantasy)|Potion]] (3%)
+}}
+
+==Formations==
+;''Pixel Remaster''
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="2"|{{A|007}}
+|rowspan="2"|[[Goblin (Final Fantasy)|Goblin]] x2, [[Warg Wolf (Final Fantasy)|Warg Wolf]] x2, [[Wolf (Final Fantasy)|Wolf]] x2, [[Goblin Guard (Final Fantasy)|Goblin Guard]] x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+|30
+|-
+|[[Pravoka]] region
+|40
+|-
+!rowspan="2"|{{A|008}}
+|rowspan="2"|[[Goblin (Final Fantasy)|Goblin]] x1, [[Warg Wolf (Final Fantasy)|Warg Wolf]] x1, [[Goblin Guard (Final Fantasy)|Goblin Guard]] x2, [[Wolf (Final Fantasy)|Wolf]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+|50
+|-
+|[[Pravoka]] region
+|70
+|-
+!{{A|009}}
+|[[Goblin Guard (Final Fantasy)|Goblin Guard]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|045}}
+|[[Werewolf (Final Fantasy)|Werewolf]] x3, [[Goblin Guard (Final Fantasy)|Goblin Guard]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B4
+|30
+|-
+!{{A|046}}
+|[[Lizard (Final Fantasy)|Lizard]] x2, [[Werewolf (Final Fantasy)|Werewolf]] x2, [[Goblin Guard (Final Fantasy)|Goblin Guard]] x3, [[Hill Gigas (Final Fantasy)|Hill Gigas]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B4
+|20
+|-
+!rowspan="2"|{{A|351}}
+|rowspan="2"|[[Goblin Guard (Final Fantasy)|Goblin Guard]] x3, [[Goblin (Final Fantasy)|Goblin]] x6
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] region
+|30
+|-
+|[[Cornelia Bridge]] region
+|30
+|-
+!rowspan="2"|{{A|352}}
+|rowspan="2"|[[Goblin Guard (Final Fantasy)|Goblin Guard]] x2, [[Goblin (Final Fantasy)|Goblin]] x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] region
+|60
+|-
+|[[Cornelia Bridge]] region
+|60
+|-
+!rowspan="2"|{{A|357}}
+|rowspan="2"|[[Goblin Guard (Final Fantasy)|Goblin Guard]] x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] region
+|60
+|-
+|[[Cornelia Bridge]] region
+|80
+|-
+!rowspan="2"|{{A|358}}
+|rowspan="2"|[[Goblin Guard (Final Fantasy)|Goblin Guard]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] region
+|60
+|-
+|[[Cornelia Bridge]] region
+|80
+|-
+!{{A|359}}
+|[[Goblin Guard (Final Fantasy)|Goblin Guard]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cornelia Bridge]] region
+|100
+|-
+!rowspan="3"|{{A|396}}
+|rowspan="3"|[[Werewolf (Final Fantasy)|Werewolf]] x2, [[Goblin Guard (Final Fantasy)|Goblin Guard]] x5
+|rowspan="3"|{{y}}
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+|40
+|-
+|[[Cavern of Ice]]-[[Marsh Cave]]-[[Mount Gulg (Final Fantasy)|Mount Gulg]] region
+|50
+|-
+|Western [[Cavern of Ice]] region
+|60
+|-
+!rowspan="3"|{{A|397}}
+|rowspan="3"|[[Werewolf (Final Fantasy)|Werewolf]] x1, [[Goblin Guard (Final Fantasy)|Goblin Guard]] x3
+|rowspan="3"|{{y}}
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+|60
+|-
+|[[Cavern of Ice]]-[[Marsh Cave]]-[[Mount Gulg (Final Fantasy)|Mount Gulg]] region
+|100
+|-
+|Western [[Cavern of Ice]] region
+|60
+|-
+!{{A|398}}
+|[[Goblin Guard (Final Fantasy)|Goblin Guard]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+|80
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|002}}
+|rowspan="2"|[[Goblin Guard (Final Fantasy)|Goblin Guard]] x1-3, [[Wolf (Final Fantasy)|Wolf]] x0-2, [[Warg Wolf (Final Fantasy)|Warg Wolf]] x0-2, [[Goblin (Final Fantasy)|Goblin]] x0-2
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+|3
+|-
+|[[Pravoka]] region
+|12
+|-
+!{{A|014}}
+|[[Goblin Guard (Final Fantasy)|Goblin Guard]] x0-5, [[Werewolf (Final Fantasy)|Werewolf]] x1-3, [[Hill Gigas (Final Fantasy)|Hill Gigas]] x0-2, [[Lizard (Final Fantasy)|Lizard]] x0-2
+|2 large 6 small
+|{{y}}
+|33
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B4
+|9
+|-
+!rowspan="2"|{{A|128}}
+|rowspan="2"|[[Goblin (Final Fantasy)|Goblin]] x3-6, [[Goblin Guard (Final Fantasy)|Goblin Guard]] x0-4
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] region
+|3
+|-
+|[[Cornelia (Final Fantasy)|Cornelia]]-[[Cornelia Bridge]]-[[Earthgift Shrine]] region
+|1
+|-
+!rowspan="3"|{{A|142}}
+|rowspan="3"|[[Goblin Guard (Final Fantasy)|Goblin Guard]] x2-5, [[Werewolf (Final Fantasy)|Werewolf]] x0-2
+|rowspan="3"|9 small
+|rowspan="3"|{{y}}
+|rowspan="3"|33
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|Western [[Cavern of Ice]] region
+|24
+|-
+|[[Cavern of Ice]]-[[Marsh Cave]]-[[Mount Gulg (Final Fantasy)|Mount Gulg]]-[[Whisperwind Cove (Final Fantasy)|Whisperwind Cove]] region
+|12
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+|1
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 1
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 2
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 3
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+==Other appearances==
+===''[[Final Fantasy Record Keeper]]''===
+[[File:FFRK Goblin Guard FFI.png|thumb|150x150px]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{Clear}}
+
+===''[[Final Fantasy Brave Exvius]]''===
+[[File:Goblin Guard FFI from FFBE enemy sprite.png|thumb|150x150px]]
+{{enemy section|Final Fantasy Brave Exvius}}
+{{clear}}
+
+== Etymology ==
+{{Etym|Goblin}}
+
+{{Etym|Imp}}
+
+== Related enemies ==
+* [[Black Goblin (Final Fantasy)|Black Goblin]]
+* [[Goblin (Final Fantasy)|Goblin]]
+* [[Knocker (Final Fantasy)|Knocker]]
+
+==Citations==
+{{citations}}
+
+[[Category:Enemies in Final Fantasy]]
+
+[[de:Goblin-Wächter]]
+[[es:Duende guardia (Final Fantasy)]]
+[[pl:Goblin Guard (Final Fantasy)]]
+

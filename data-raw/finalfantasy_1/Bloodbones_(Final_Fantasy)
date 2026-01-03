@@ -1,0 +1,262 @@
+{{DISPLAYTITLE:Bloodbones (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Bloodbones
+| japanese = ブラッディボーン
+| romaji = Buraddibōn
+| lit = Bloody Bone
+| aka = R.BONE, RED BONE<ref name="Enemy Identification Chart">''[https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABJE.pdf Final Fantasy Explorer's Handbook]'', "Enemy Identification Chart"</ref>
+| image = <gallery>
+Bloodbones from FFI Pixel Remaster sprite.png|PR
+Bloodbones from FFI 20th Anniversary Edition sprite.png|20th
+Bloodbones from FFI Dawn of Souls sprite.png|GBA
+Bloodbones from FFI Origins sprite.png|PS
+R.BONE from FFI MSX sprite.png|MSX
+R.BONE from FFI NES sprite.png|NES
+</gallery>
+| aiscript = true
+| formations = true
+| location = [[Cavern of Ice]]<br>[[Marsh Cave]]
+| recurring appearance = Bloodbones
+}}
+
+The '''Bloodbones''', also known as the '''R.BONE''' or '''RED BONE'''<ref name="Enemy Identification Chart"/>, is an enemy in  ''[[Final Fantasy]]''. It is an [[undead]] enemy that appears in the [[Marsh Cave]] and [[Cavern of Ice]]. Although itsbehavior is simple, consisting exclusively of physical attacks, it can present a challenge if the player encounters them in the [[Marsh Cave]], as its attack power and HP are among the highest of all enemies in that area. It appears in groups with [[Skeleton (Final Fantasy)|Skeletons]] and [[Crawler (Final Fantasy)|Crawlers]].
+
+==Stats==
+{{infobox enemy stats FFI
+|  prev = Gargoyle (Final Fantasy)
+|  prev no = 030
+|  bestiary = 031
+|  next = Piscodemon (Final Fantasy)
+|  next no = 032
+|  name = Bloodbones<br>'''NES:''' R.BONE/RED BONE<ref name="Enemy Identification Chart"/>
+|  type = Undead
+|  location = [[Cavern of Ice]]<br>[[Marsh Cave]]
+|  hp = 144
+|  attack = 26
+|  intellect = 6
+|  defense = 12
+|  magic defense = 76
+|  agility = 21
+|  accuracy = 36
+|  hit = 1
+|  evasion = 42
+|  crit = 1
+|  luck = 2
+|  exp = 378
+|  gil = 378
+|  morale = 156
+|  silence = Resists
+|  sleep = Resists
+|  paralysis = Resists
+|  darkness = Resists
+|  poison status = Resists
+|  stone = Resists
+|  confuse = Resists
+|  fire = Weak
+|  dia = Weak
+|  ice = Resists
+|  spirit = Resists
+|  instant death = Resists
+|  poison element = -<br>{{note|reference=Resists prior to pixel remaster.|name=poison element}}
+}}
+{{annotations}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|120}}
+|[[Skeleton (Final Fantasy)|Skeleton]] x4, [[Crawler (Final Fantasy)|Crawler]] x1, [[Bloodbones (Final Fantasy)|Bloodbones]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B3
+|30
+|-
+!rowspan="2"|{{A|121}}
+|rowspan="2"|[[Crawler (Final Fantasy)|Crawler]] x1, [[Skeleton (Final Fantasy)|Skeleton]] x3, [[Bloodbones (Final Fantasy)|Bloodbones]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B2
+|40
+|-
+|[[Marsh Cave]] B3
+|50
+|-
+!{{A|122}}
+|[[Crawler (Final Fantasy)|Crawler]] x1, [[Skeleton (Final Fantasy)|Skeleton]] x2, [[Bloodbones (Final Fantasy)|Bloodbones]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B2
+|60
+|-
+!{{A|504}}
+|[[Bloodbones (Final Fantasy)|Bloodbones]] x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B3
+|55
+|-
+!{{A|505}}
+|[[Bloodbones (Final Fantasy)|Bloodbones]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B3
+|65
+|-
+!{{A|506}}
+|[[Bloodbones (Final Fantasy)|Bloodbones]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B1
+|70
+|-
+!{{A|507}}
+|[[Bloodbones (Final Fantasy)|Bloodbones]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B1
+|70
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|043}}
+|rowspan="2"|[[Bloodbones (Final Fantasy)|Bloodbones]] x1, [[Skeleton (Final Fantasy)|Skeleton]] x2-4, [[Crawler (Final Fantasy)|Crawler]] x1
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B2
+|6
+|-
+|[[Marsh Cave]] B3
+|12
+|-
+!rowspan="2"|{{A|171}}
+|rowspan="2"|[[Bloodbones (Final Fantasy)|Bloodbones]] x3-6
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B1
+|6
+|-
+|[[Cavern of Ice]] B3
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 156
+| 39
+| —
+| 47.06%
+| 77
+| —
+| 45.10%
+|-
+! 1
+! 116
+| 19
+| 44
+| 100%
+| 37
+| 87
+| 100%
+|-
+! 2
+! 76
+| 1
+| 24
+| 100%
+| 1
+| 47
+| 100%
+|-
+! 3
+! 36
+| 1
+| 4
+| 100%
+| 1
+| 7
+| 100%
+|-
+! 4
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+== Etymology ==
+{{Etym|Bloody Bones}}
+
+== Related enemies ==
+* [[Skeleton (Final Fantasy)|Skeleton]]
+* [[Bonesnatch (Final Fantasy)|Bonesnatch]]
+* [[Skuldier (Final Fantasy)|Skuldier]]
+
+==Citations==
+{{citations}}
+
+[[Category:Enemies in Final Fantasy]]
+
+[[es:Hueso rojo (Final Fantasy)]]
+

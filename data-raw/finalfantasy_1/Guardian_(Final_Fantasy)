@@ -1,0 +1,255 @@
+{{DISPLAYTITLE:Guardian (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Guardian
+| japanese = ガーディアン
+| romaji = Gādian
+| aka = GUARD
+| image = <gallery>
+Guardian from FFI Pixel Remaster sprite.png|PR
+Guardian from FFI 20th Anniversary Edition sprite.png|20th
+Guardian from FFI Dawn of Souls sprite.png|GBA
+Guardian from FFI Origins sprite.png|PS
+GUARD from FFI NES sprite.png|NES
+</gallery>
+| location = [[Flying Fortress]]<br>[[Mirage Tower]]
+| formations = true
+| aiscript = true
+|recurring appearance = Guardian
+}}
+
+The '''Guardian''', also known as the '''GUARD''', is an enemy in ''[[Final Fantasy]]''.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Chimera (Final Fantasy)
+| prev no = 105
+| bestiary = 106
+| next = Blue Dragon (Final Fantasy)
+| next no = 107
+| name = Guardian<br>'''NES:''' GUARD
+| location = [[Flying Fortress]]<br>[[Mirage Tower]]
+| hp = 200
+| attack = 25
+| intellect = 24
+| defense = 40
+| magic defense = 110
+| agility = 36
+| accuracy = 50
+| evasion = 72
+| exp = 1,224
+| gil = 400
+| morale = 200
+| hits = 2
+| crit = 1
+| luck = 2
+| lightning = Weak
+| silence = Resists
+| sleep = Resists
+| paralysis = Resists
+| darkness = Resists
+| stone = Resists
+| poison status = Resists
+| confuse = Resists
+| spirit = Resists
+| instant death = Resists
+| poison element = -<br>{{note|reference=Resists prior to pixel remaster.|name=poison element}}
+| abilities = Attacks may inflict [[Paralysis (Final Fantasy status)|Paralysis]]
+}}
+{{annotations}}
+
+==Formations==
+[[File:Guardian ff1.jpg|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|231}}
+|Guardian x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 2F
+|50
+|-
+!{{A|232}}
+|Guardian x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!rowspan="2"|{{A|233}}
+|rowspan="2"|Guardian x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|80
+|-
+|[[Mirage Tower]] 1F
+|90
+|-
+!{{A|234}}
+|Guardian x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|80
+|-
+!rowspan="2"|{{A|639}}
+|rowspan="2"|[[Soldier (Final Fantasy)|Soldier]] x1, Guardian x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 3F
+|60
+|-
+|[[Flying Fortress]] 4F
+|80
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|076}}
+|rowspan="2"|Guardian x2-5
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|6
+|-
+|[[Mirage Tower]] 2F
+|12
+|-
+!rowspan="2"|{{A|204}}
+|rowspan="2"|Guardian x0-1, [[Soldier (Final Fantasy)|Soldier]] x1
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 3F
+|12
+|-
+|[[Flying Fortress]] 4F
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+| 81
+| —
+| 37.25%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+===''[[Final Fantasy Brave Exvius]]''===
+[[File:Guardian FFI from FFBE enemy sprite.png|thumb|150x150px]]
+{{Enemy section|Final Fantasy Brave Exvius}}
+{{clear}}
+
+== Related enemies ==
+* [[Prototype (Final Fantasy)|Prototype]]
+* [[Soldier (Final Fantasy)|Soldier]]
+
+[[de:Wächter (FFI)]]
+[[es:Guardián (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

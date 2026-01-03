@@ -1,0 +1,154 @@
+{{DISPLAYTITLE:Sand Worm (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Sand Worm
+| japanese = サンドウォーム
+| romaji = Sandowōmu
+| lit = 
+| image = <gallery>
+Sand Worm from FFI Pixel Remaster sprite.png|PR
+Sand Worm from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Sand Worm from FFI Dawn of Souls sprite.png|GBA
+Sand Worm from FFI Origins sprite.png|PS
+FFI Sand Worm MSX.png|MSX
+Sand W from FFI NES sprite.png|NES
+</gallery>
+| location = Every northern desert as well as the [[Cardian Islands]], [[Flying Fortress]]
+| type = 
+| formations = 
+| aiscript = true
+|recurring appearance=Sand Worm
+}}
+The '''Sand Worm''', also known as the '''Sand W''' in the [[Nintendo Entertainment System]], is an enemy in the original ''[[Final Fantasy]]''. It is a rare enemy that appears in every northern desert as well as the [[Cardian Islands]], also known as Bahamut Islands. It appears in groups of up to two enemies. It can also appear very rarely on the lowest floor of the [[Flying Fortress]] only in the ''Pixel Remaster'' version.
+
+Sand Worm has overall low stats, but its attacks can cause [[Poison (Final Fantasy status)|Poison]] and they use [[Earthquake (Final Fantasy)|Earthquake]] to try for an [[Earth (Final Fantasy)|earth-element]] [[KO (Final Fantasy)|instant kill]] on the whole party. It is recommended to just use regular attacks.
+
+The Sand Worm is possibly a reference to the giant sandworms from the sci-fi novel ''Dune'', by Frank Herbert. It could also be a reference to the unconfirmed real-life cryptic creature called the "Mongolian Death Worm".
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Weretiger (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 085
+| psp next = Minotaur Zombie (Final Fantasy)
+| psp next no = 
+| prev = Weretiger (Final Fantasy)
+| prev no = 
+| bestiary = 085
+| next = Minotaur Zombie (Final Fantasy)
+| next no = 
+| ps prev = Weretiger (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 085
+| ps next = Minotaur Zombie (Final Fantasy)
+| ps next no = 
+| nes = Sand W
+| ps = Sand Worm
+| = Sand Worm
+| psp = Sand Worm
+| psp location = 
+| nes location = Desert near [[Onrac]], [[Ryukahn Desert]], Great Desert, [[Cardian Islands]]
+| ps location = Desert near [[Onrac]], [[Ryukahn Desert]], Great Desert, [[Cardian Islands]]
+| location = Desert near [[Onrac]], [[Ryukahn Desert]], Great Desert, [[Cardian Islands]]
+| psp hp = 200
+| psp attack = 46
+| psp intelligence = 18
+| psp defense = 14
+| psp magic defense = 103
+| psp agility = 31
+| psp accuracy = 50
+| psp evasion = 62
+| psp exp = 2683
+| psp gil = 900
+| hp = 200
+| attack = 46
+| intellect = 18
+| defense = 14
+| magic defense = 103
+| agility = 31
+| accuracy = 50
+| evasion = 62
+| exp = 2,683
+| gil = 900
+| ps hp = 200
+| ps attack = 46
+| ps defense = 14
+| ps magic defense = 103
+| ps exp = 2,683
+| ps gil = 900
+| nes hp = 200
+| nes attack = 46 - 92
+| nes defense = 14
+| nes magic defense = 103
+| nes evasion = 62
+| nes accuracy = 50
+| nes exp = 2,683
+| nes gil = 900
+| psp fire = 
+| psp lightning = 
+| psp ice = 
+| psp dia = 
+| fire = -
+| lightning = 
+| ice = -
+| dia = Misses
+| ps fire = -
+| ps lightning = -
+| ps ice = -
+| ps dia = -
+| nes fire = -
+| nes lightning = -
+| nes ice = -
+| nes dia = -
+| psp drop = 
+| psp abilities = 
+| psp resistance = [[Earth (element)|Quake]]
+| drop = None
+| abilities = [[Earthquake]], Attacks may inflict [[Poison (status)|Poison]]
+| resistance = [[Earth (element)|Quake]]
+| ps abilities = [[Earthquake|Crack]]
+| ps resistance = [[Earth (element)|Quake]]
+| nes abilities = [[Earthquake|Crack]]
+| nes resistance = [[Earth (element)|Quake]]
+}}
+
+== AI script ==
+
+{| class="quarter-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 60.00%
+|-
+| [[Earthquake (Final Fantasy)|Earthquake]]
+| style="text-align:right;" | 35.00%
+|-
+| Flee
+| style="text-align:right;" | 5.00%
+|}
+
+Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'':
+
+{| class="quarter-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 50.00%
+|-
+| [[Earthquake (Final Fantasy)|Earthquake]]
+| style="text-align:right;" | 50.00%
+|}
+
+In older versions, Sand Worm has 124 [[morale (Final Fantasy)|morale]], and only gains a chance to run away if the lead party member is Lv23 or higher.
+== Related enemies ==
+* [[Lava Worm (Final Fantasy)|Lava Worm]]
+* [[Purple Worm (Final Fantasy)|Purple Worm]]
+* [[Abyss Worm (Final Fantasy)|Abyss Worm]]
+
+[[de:Sandwurm (FFI)]]
+[[Category:Enemies in Final Fantasy]]
+

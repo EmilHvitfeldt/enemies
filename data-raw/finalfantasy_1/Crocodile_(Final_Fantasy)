@@ -1,0 +1,273 @@
+{{DISPLAYTITLE:Crocodile (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Crocodile
+| japanese = クロコダイル
+| romaji = Kurokodairu
+| aka = GATOR
+| image = <gallery>
+Crocodile from FFI Pixel Remaster sprite.png|PR
+Crocodile from FFI 20th Anniversary Edition sprite.png|20th
+Crocodile from FFI Dawn of Souls sprite.png|GBA
+Crocodile from FFI Origins sprite.png|PS
+GATOR from FFI NES sprite.png|NES
+</gallery>
+| aiscript = true
+| formations = true
+| location = [[Canoe#Final Fantasy|Rivers]]
+}}
+The '''Crocodile''', also known as the '''GATOR''', is an enemy in ''[[Final Fantasy]]''. It appears in rivers all along the [[world map|world]]. It can appear in groups with the [[Hydra (Final Fantasy)|Hydra]], [[Ochu (Final Fantasy)|Ochu]], or [[Piranha (Final Fantasy)|Piranha]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Red Piranha (Final Fantasy)
+| prev no = 052
+| bestiary = 053
+| next = White Croc
+| next no = 054
+| name = Crocodile<br>'''NES:''' GATOR
+| type = Aquatic <small>([[Pixel Remaster|PR]])</small>
+| location = [[Canoe#Final Fantasy|Rivers]]
+| hp = 184
+| attack = 42
+| intellect = 9
+| defense = 16
+| magic defense = 103
+| agility = 24
+| accuracy = 46
+| hits = 2
+| evasion = 48
+| crit = 1
+| exp = 900
+| gil = 816
+| morale = 138
+| lightning = Weak
+| fire = Resists
+| earth = Resists
+| drop = [[Cottage (Final Fantasy)|Cottage]] (3%)
+}}
+
+==Formations==
+[[File:Amano FF1 Crocodile.gif|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;''Pixel Remaster''
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|297}}
+|[[Piranha (Final Fantasy)|Piranha]] x2, Crocodile x2, [[Ochu (Final Fantasy)|Ochu]] x1, [[Hydra (Final Fantasy)|Hydra]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|30
+|-
+!{{A|298}}
+|Crocodile x1, [[Piranha (Final Fantasy)|Piranha]] x1, [[Ochu (Final Fantasy)|Ochu]] x1, [[Hydra (Final Fantasy)|Hydra]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|50
+|-
+!{{A|468}}
+|Crocodile x3, [[Hydra (Final Fantasy)|Hydra]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|20
+|-
+!{{A|469}}
+|Crocodile x2, [[Hydra (Final Fantasy)|Hydra]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|20
+|-
+!{{A|470}}
+|Crocodile x2, [[Hydra (Final Fantasy)|Hydra]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|50
+|-
+!{{A|471}}
+|Crocodile x1, [[Hydra (Final Fantasy)|Hydra]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|718}}
+|Crocodile x2, [[Piranha (Final Fantasy)|Piranha]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|719}}
+|Crocodile x2, [[Piranha (Final Fantasy)|Piranha]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|720}}
+|Crocodile x2, [[Piranha (Final Fantasy)|Piranha]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|721}}
+|Crocodile x1, [[Piranha (Final Fantasy)|Piranha]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|722}}
+|Crocodile x1, [[Piranha (Final Fantasy)|Piranha]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|723}}
+|[[Piranha (Final Fantasy)|Piranha]] x2, Crocodile x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+!Notes
+|-
+!{{A|101}}
+|[[Piranha (Final Fantasy)|Piranha]] x0-2, Crocodile x0-2, [[Ochu (Final Fantasy)|Ochu]] x1, [[Hydra (Final Fantasy)|Hydra]] x0-1
+|2 large 6 small
+|{{y}}
+|30
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|18
+|{{note|reference=In the Famicom, NES, and MSX releases, this encounter occurs only in northern rivers; in all other releases it appears in both northern and southern rivers.|name=northern rivers}}
+|-
+!{{A|160}}
+|[[Hydra (Final Fantasy)|Hydra]] x1-4, Crocodile x0-3
+|2 large 6 small
+|{{y}}
+|27
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|24
+|{{note|name=northern rivers}}<br>{{note|reference=Despite having a coded maximum of 4 Hydras, this formation allows a maximum of 2 large enemies; as such, a maximum of 2 Hydras may appear, but the range makes it more likely that the maximum will appear.}}
+|-
+!{{A|229}}
+|[[Piranha (Final Fantasy)|Piranha]] x2-4, Crocodile x0-2
+|9 small
+|{{y}}
+|30
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|1
+|{{note|reference=This encounter only occurs in southern rivers in the Famicom, NES, and MSX releases; it is dummied in all other releases.|name=southern rivers}}
+|}
+{{annotations}}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 138
+| 30
+| —
+| 82.35%
+| 59
+| —
+| 80.39%
+|-
+! 1
+! 98
+| 10
+| 35
+| 100%
+| 19
+| 69
+| 100%
+|-
+! 2
+! 58
+| 1
+| 15
+| 100%
+| 1
+| 29
+| 100%
+|-
+! 3
+! 18
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+==Non-''Final Fantasy'' guest appearances==
+===''[[wikipedia:Captain N: The Game Master|Captain N: The Game Master]]''===
+[[File:Captain N - Gator.png|150px|right]]
+Three crocodiles try to catch Kid Icarus<!--character's name within the show--> and Mega Man as they fly over the moat of [[Western Keep|Astos Castle]].
+{{clear}}
+
+== Related enemies ==
+* [[White Croc]]
+
+[[de:Krokodil]]
+[[es:Cocodrilo (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

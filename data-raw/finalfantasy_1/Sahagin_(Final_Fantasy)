@@ -1,0 +1,156 @@
+{{DISPLAYTITLE:Sahagin (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Sahagin
+| japanese = サハギン
+| romaji = Sahagin
+| lit = 
+| image = <gallery>
+Sahagin from FFI Pixel Remaster sprite.png|PR
+Sahagin from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Sahagin from FFI Dawn of Souls sprite.png|GBA
+Sahagin from FFI Origins sprite.png|PS
+FFI Sahagin MSX.png|MSX
+SAHAG from FFI NES sprite.png|NES
+</gallery>
+| location = [[world map#Final Fantasy|World Map]] - [[Sea (location)|Sea]]
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Sahagin
+}}
+The '''Sahagin''', also known as the '''SAHAG''' in the [[NES]] version, is an enemy in the original ''[[Final Fantasy]]''. It appears in the sea, when the player is navigating with the [[ship]]. They are notorious for their high Agility level. They attack with a weak physical attack, and should not be hard to defeat. They appear in groups, so a quick [[Thundara (Final Fantasy)|Thundara]] will destroy them all with ease.
+
+==Stats==
+{{infobox enemy stats FFI
+| pr prev = Pirate (Final Fantasy)
+| pr prev no = 
+| pr bestiary = 018
+| pr next no = 
+| pr next = Sahagin Chief (Final Fantasy)
+| psp prev = Pirate (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 018
+| psp next = Sahagin Chief (Final Fantasy)
+| psp next no = 
+| prev = Pirate (Final Fantasy)
+| prev no = 
+| bestiary = 018
+| next = Sahagin Chief (Final Fantasy)
+| next no = 
+| ps prev = Pirate (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 018
+| ps next = Sahagin Chief (Final Fantasy)
+| ps next no = 
+| nes = SAHAG
+| ps = Sahagin
+| = Sahagin
+| psp = Sahagin
+| psp location = [[world map#Final Fantasy|World Map]] - [[Sea (location)|Sea]]
+| nes location = Sea
+| ps location = Sea
+| location = In the ship.
+| psp hp = 28
+| psp attack = 10
+| psp intelligence = 4
+| psp defense = 4
+| psp magic defense = 28
+| psp agility = 36
+| psp accuracy = 7
+| psp evasion = 72
+| psp exp = 30
+| psp gil = 30
+| hp = 44
+| attack = 10
+| intellect = 4
+| defense = 4
+| magic defense = 28
+| agility = 36
+| accuracy = 7
+| evasion = 72
+| exp = 30
+| gil = 130
+| ps hp = 28
+| ps attack = 10
+| ps defense = 4
+| ps magic defense = 28
+| ps exp = 123
+| ps gil = 50
+| nes hp = 28
+| nes attack = 10 - 20
+| nes defense = 4
+| nes magic defense = 28
+| nes evasion = 72
+| nes accuracy = 7
+| nes exp = 30
+| nes gil = 30
+| psp fire = Resist
+| psp lightning = Weak
+| psp ice = 
+| psp dia = 
+| fire = Resist
+| lightning = 
+| ice = -
+| dia = Misses
+| ps fire = Resist
+| ps lightning = Weak
+| ps ice = -
+| ps dia = -
+| nes fire = Resist
+| nes lightning = Weak
+| nes ice = -
+| nes dia = Misses
+| psp drop = [[Potion (Final Fantasy)|Potion]]
+| psp abilities = 
+| psp resistance = [[Earth (element)|Quake]]
+| drop = [[Potion (Final Fantasy)|Potion]]
+| abilities = N/A
+| resistance = [[Earth (element)|Quake]]
+| ps abilities = N/A
+| ps resistance = [[Earth (element)|Quake]], [[Fire (element)|Fire]]
+| nes abilities = -
+| nes resistance = [[Earth (element)|Quake]], [[Fire (element)|Fire]]
+| pr = Sahagin
+| pr hp = 28
+| pr attack = 10
+| pr defense = 4
+| pr accuracy = 7
+| pr agility = 36
+| pr intellect = 4
+| pr evasion = 72
+| pr magic defense = 28
+| pr gil = 30
+| pr exp = 30
+| pr drop = [[Potion (item)#Final Fantasy|Potion]]
+| pr type = Aquatic
+| pr fire = Resist
+| pr lightning = Weak
+| pr ice = 
+| pr dia = 
+| pr resistance = 
+| pr location = 
+| pr abilities = 
+}}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+== Gallery ==
+<gallery>
+Sahagin ff1.jpg|Artwork by [[Yoshitaka Amano]].
+</gallery>
+
+== Etymology ==
+{{Etym|Sahagin}}
+
+== Related enemies ==
+* [[Sahagin Chief (Final Fantasy)|Sahagin Chief]]
+* [[Sahagin Prince (Final Fantasy)|Sahagin Prince]]
+* [[Sahagin Queen]]
+
+[[de:Sahagin (FFI)]]
+[[es:Gurami (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

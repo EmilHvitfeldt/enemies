@@ -1,0 +1,117 @@
+{{infobox enemy
+| release = FFI
+| name = White Croc
+| japanese = ホワイトダイル
+| romaji = HowaitoDairu
+| lit = 
+| image = <gallery>
+White Croc from FFI Pixel Remaster sprite.png|PR
+White Croc from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+White Croc from FFI Dawn of Souls sprite.png|GBA
+White Croc from FFI Origins sprite.png|PS
+FrGATOR from FFI NES sprite.png|NES
+</gallery>
+| location = 
+| type = 
+| formations = 
+| aiscript = 
+}}
+The '''White Croc''', also known as the '''FrGATOR''' in the [[Nintendo Entertainment System]], is an enemy in the original ''[[Final Fantasy]]''. White Crocs are much stronger than their cousins, the standard [[Crocodile (Final Fantasy)|Crocodiles]]. Unlike Crocodiles, White Crocs are adorned with white scales with purple back-ridges. Like Crocodiles and many other aquatic foes, they are weak to [[Lightning (element)|Lightning]]-based spells. A [[Thundara (Final Fantasy)|Thundara]] spell [[group-cast|spread out across the enemy group]] will usually not be powerful enough to kill a band of White Crocs, so a [[Thundaga (Final Fantasy)|Thundaga]] spell will be necessary for a one-hit KO.
+
+They may appear in groups with [[Red Piranha (Final Fantasy)|Red Piranha]]s, or occasionally alone.
+
+Despite its original name, White Croc is not affiliated with the [[Ice (element)|Ice]] element.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Crocodile (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 054
+| psp next = Ochu (Final Fantasy)
+| psp next no = 
+| prev = Crocodile (Final Fantasy)
+| prev no = 
+| bestiary = 054
+| next = Ochu (Final Fantasy)
+| next no = 
+| ps prev = Crocodile (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 054
+| ps next = Ochu (Final Fantasy)
+| ps next no = 
+| nes = FrGATOR
+| ps = White Croc
+| = White Croc
+| psp = White Croc
+| psp location = 
+| nes location = Rivers on the World Map.
+| ps location = Rivers on the World Map.
+| location = Rivers on the World Map.
+| psp hp = 288
+| psp attack = 56
+| psp intelligence = 16
+| psp defense = 20
+| psp magic defense = 143
+| psp agility = 24
+| psp accuracy = 72
+| psp evasion = 48
+| psp exp = 2000
+| psp gil = 2000
+| hp = 288
+| attack = 56
+| intellect = 16
+| defense = 20
+| magic defense = 143
+| agility = 24
+| accuracy = 72
+| evasion = 48
+| exp = 1,890
+| gil = 2,000
+| ps hp = 288
+| ps attack = 56
+| ps defense = 20
+| ps magic defense = 143
+| ps exp = 1,890
+| ps gil = 2,000
+| nes hp = 288
+| nes attack = 56
+| nes defense = 20
+| nes magic defense = 143
+| nes evasion = 48
+| nes accuracy = 72
+| nes exp = 1,890
+| nes gil = 2,000
+| psp fire = Resist
+| psp lightning = Weak
+| psp ice = 
+| psp dia = Misses
+| fire = Resist
+| lightning = Weak
+| ice = -
+| dia = Misses
+| ps fire = Resist
+| ps lightning = Weak
+| ps ice = -
+| ps dia = -
+| nes fire = Resist
+| nes lightning = Weak
+| nes ice = -
+| nes dia = -
+| psp drop = 
+| psp abilities = 
+| psp resistance = [[Earth (element)|Quake]]
+| drop = [[Hi-Potion (Final Fantasy)|Hi-Potion]]
+| abilities = N/A
+| resistance = [[Earth (element)|Quake]]
+| ps abilities = N/A
+| ps resistance = [[Quake (ability)|Quake]]
+| nes abilities = N/A
+| nes resistance = Ice, Quake
+}}
+
+== Related enemies ==
+* [[Crocodile (Final Fantasy)|Crocodile]]
+
+[[de:Alligator (FFI)]]
+[[Category:Enemies in Final Fantasy]]
+

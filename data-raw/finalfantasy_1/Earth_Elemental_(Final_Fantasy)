@@ -1,0 +1,245 @@
+{{DISPLAYTITLE:Earth Elemental (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Earth Elemental
+| japanese = アースエレメント
+| romaji = Āsueremento
+| aka = Gnoma, EARTH
+| image = <gallery>
+Earth Elemental from FFI Pixel Remaster sprite.png|PR
+Earth Elemental from FFI 20th Anniversary Edition sprite.png|20th
+Earth Elemental from FFI Dawn of Souls sprite.png|GBA
+Gnoma from FFI Origins sprite.png|PS
+EARTH from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cavern of Earth]]<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| recurring appearance = Earth Elemental
+| aiscript = true
+| formation = true
+}}
+
+The '''Earth Elemental''', also known as the '''Gnoma''' or '''EARTH''', is an enemy in ''[[Final Fantasy]]'', fought in the [[Cavern of Earth]] and [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]. The Earth Elemental is weak to [[Fire (Final Fantasy element)|Fire]], but resists most other magical attacks.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Hill Gigas (Final Fantasy)
+| prev no = 040
+| bestiary = 041
+| next = Troll (Final Fantasy)
+| next no = 042
+| name = Earth Elemental<br>'''PS:''' Gnoma<br>'''NES:''' EARTH
+| type = Magic
+| location = [[Cavern of Earth]]<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| hp = 288
+| attack = 66
+| intellect = 18
+| defense = 20
+| magic defense = 130
+| agility = 9
+| accuracy = 72
+| evasion = 18
+| morale = 200
+| hit = 1
+| crit = 1
+| luck = 2
+| exp = 1,536
+| gil = 768
+| fire = Weak
+| earth = Resists
+| lightning = Resists
+| ice = Resists
+| stone = Resists
+| poison status = Resists
+| paralysis = Resists
+| darkness = Resists
+| sleep = Resists
+| silence = Resists
+| confuse = Resists
+| spirit = Resists
+| instant death = Resists
+| poison element = -<br>{{note|reference=Resists prior to pixel remaster.|name=poison element}}
+| drop = [[Remedy (Final Fantasy)|Remedy]] (3%)
+}}
+{{annotations}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="3"|{{A|102}}
+|rowspan="3"|[[Earth Elemental (Final Fantasy)|Earth Elemental]] x1
+|rowspan="3"|{{x}}
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|Fixed
+|-
+|[[Cavern of Earth]] B2
+|Fixed
+|-
+|[[Cavern of Earth]] B3
+|Fixed
+|-
+!{{A|473}}
+|[[Earth Elemental (Final Fantasy)|Earth Elemental]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|60
+|-
+!{{A|474}}
+|[[Earth Elemental (Final Fantasy)|Earth Elemental]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|70
+|-
+!{{A|475}}
+|[[Earth Elemental (Final Fantasy)|Earth Elemental]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|80
+|-
+!{{A|476}}
+|[[Earth Elemental (Final Fantasy)|Earth Elemental]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|80
+|-
+!{{A|799}}
+|[[Earth Elemental (Final Fantasy)|Earth Elemental]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B5
+|60
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="4"|{{A|033}}
+|rowspan="4"|[[Earth Elemental (Final Fantasy)|Earth Elemental]] x1
+|rowspan="4"|4 large
+|rowspan="4"|{{x}}
+|rowspan="4"|4
+|rowspan="4"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|Fixed
+|-
+|[[Cavern of Earth]] B2
+|Fixed
+|-
+|[[Cavern of Earth]] B3
+|Fixed
+|-
+|[[Cavern of Earth]] B5
+|1
+|-
+!{{A|161}}
+|[[Earth Elemental (Final Fantasy)|Earth Elemental]] x2-4
+|4 large
+|{{x}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|15
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check{{note|reference=Earth Elementals will only make a Morale check in the NES release; other Morale-based releases prevent all Earth Elemental formations from fleeing.|name=morale}}
+|}
+
+;Morale check
+{| class="article-table"
+! # [[Fear (Final Fantasy)|Fear]]
+! [[Morale (Final Fantasy)|Morale]]
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+|}
+{{annotations}}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+== Etymology ==
+{{Etym|Elemental}}
+
+{{Etym|Gnoma}}
+
+== Related enemies ==
+* [[Dark Elemental (Final Fantasy)|Dark Elemental]]
+* [[Fire Elemental (Final Fantasy)|Fire Elemental]]
+
+[[de:Erdelementar (FFI)]]
+[[es:Elemental Gaia (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

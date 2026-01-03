@@ -1,0 +1,255 @@
+{{DISPLAYTITLE:Ankheg (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Ankheg
+| japanese = アンクヘッグ
+| romaji = Ankuheggu
+| lit = 
+| aka = Centipede, PEDE
+| image = <gallery>
+Ankheg from FFI Pixel Remaster sprite.png|PR
+Ankheg from FFI 20th Anniversary Edition sprite.png|20th
+Ankheg from FFI Dawn of Souls sprite.png|GBA
+Centipede from FFI Origins sprite.png|PS
+PEDE from FFI NES sprite.png|NES
+</gallery>
+| location = [[Crescent Lake]] region<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]<br>[[Ryukahn Desert]] region
+| aiscript = true
+| formations = true
+| recurring appearance = Ankheg
+}}
+The '''Ankheg''', also known as the '''Centipede''' or '''PEDE''', is an enemy in ''[[Final Fantasy]]''. Its attacks may inflict [[Poison (Final Fantasy status)|Poison]]. As they do not have any elemental weaknesses, physical blows are recommended. They have only 222 HP, so it's easier to attack with the entire [[party]] rather than [[Heal (ability)|healing]] or using [[Magic (Final Fantasy)|magic]]. They are found commonly around [[Crescent Lake]] and within [[Mount Gulg (Final Fantasy)|Mount Gulg]]. As with many of the same type of enemy, they appear in groups of one to four. The player should watch their party's HP, as it may dwindle quickly.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Lich (Final Fantasy)
+| prev no = 049
+| bestiary = 050
+| next = Piranha (Final Fantasy)
+| next no = 051
+| name = Ankheg<br>'''PS:''' Centipede<br>'''NES:''' PEDE
+| location = [[Crescent Lake]] region<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]<br>[[Ryukahn Desert]] region
+| hp = 222
+| attack = 39
+| intellect = 10
+| defense = 20
+| magic defense = 116
+| agility = 24
+| accuracy = 56
+| hits = 1
+| evasion = 48
+| crit = 1
+| luck = 2
+| exp = 1,194
+| gil = 300
+| morale = 111
+| abilities = Attacks may inflict [[Poison (Final Fantasy status)|Poison]]
+}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+|{{A|071}}
+|[[Ankheg (Final Fantasy)|Ankheg]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Crescent Lake]]-[[Ryukahn Desert]] region
+|160
+|-
+|{{A|072}}
+|[[Ankheg (Final Fantasy)|Ankheg]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+|{{A|073}}
+|[[Ankheg (Final Fantasy)|Ankheg]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Crescent Lake]]-[[Ryukahn Desert]] region
+|60
+|-
+|{{A|074}}
+|[[Ankheg (Final Fantasy)|Ankheg]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Crescent Lake]]-[[Ryukahn Desert]] region
+|60
+|-
+|{{A|430}}
+|[[Ankheg (Final Fantasy)|Ankheg]] x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+|{{A|431}}
+|[[Ankheg (Final Fantasy)|Ankheg]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B2
+|30
+|-
+|{{A|432}}
+|[[Ankheg (Final Fantasy)|Ankheg]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B2
+|70
+|-
+|{{A|433}}
+|[[Ankheg (Final Fantasy)|Ankheg]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|60
+|-
+|{{A|434}}
+|[[Ankheg (Final Fantasy)|Ankheg]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|70
+|-
+|{{A|435}}
+|[[Ankheg (Final Fantasy)|Ankheg]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|70
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!{{A|023}}
+|[[Ankheg (Final Fantasy)|Ankheg]] x1-4
+|4 large
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Crescent Lake]]-[[Ryukahn Desert]] region
+|12
+|-
+!rowspan="2"|{{A|151}}
+|rowspan="2"|[[Ankheg (Final Fantasy)|Ankheg]] x1-4
+|rowspan="2"|4 large
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|6
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B2
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 111
+| 16
+| 41
+| 100%
+| 32
+| 82
+| 100%
+|-
+! 1
+! 71
+| 1
+| 21
+| 100%
+| 1
+| 42
+| 100%
+|-
+! 2
+! 31
+| 1
+| 1
+| 100%
+| 1
+| 2
+| 100%
+|-
+! 3
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Other appearances ==
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Ankheg FFI.png|right]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+== Etymology ==
+{{Etym|Ankheg}}
+
+== Related enemies ==
+* [[Hundlegs (Final Fantasy)|Hundlegs]]
+* [[Remorazz (Final Fantasy)|Remorazz]]
+* [[Undergrounder (Final Fantasy)|Undergrounder]]
+
+== Annotations ==
+{{annotations}}
+
+[[Category:Enemies in Final Fantasy]]
+
+[[de:Tausendfüßler (FFI)]]
+[[es:Ankek (Final Fantasy)]]
+

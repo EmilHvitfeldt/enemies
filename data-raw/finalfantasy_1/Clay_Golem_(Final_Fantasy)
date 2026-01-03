@@ -1,0 +1,353 @@
+{{DISPLAYTITLE:Clay Golem (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Clay Golem
+| japanese = クレイゴーレム
+| romaji = Kureigōremu
+| aka = MudGOL, MUDGOL<ref name="Enemy Identification Chart">''[https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABJE.pdf Final Fantasy Explorer's Handbook]'', "Enemy Identification Chart"</ref>
+| image = <gallery>
+Clay Golem from FFI Pixel Remaster sprite.png|PR
+Clay Golem from FFI 20th Anniversary Edition sprite.png|20th
+Clay Golem from FFI Dawn of Souls sprite.png|GBA
+Clay Golem from FFI Origins sprite.png|PS
+MudGOL from FFI NES sprite.png|NES
+</gallery>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Citadel of Trials]]<br>[[Flying Fortress]]<br>[[Waterfall Cavern]]
+| aiscript = true
+| formations = true
+| recurring appearance = Clay Golem
+}}
+The '''Clay Golem''', also known as the '''MudGOL''' or '''MUDGOL'''<ref name="Enemy Identification Chart"/>, is an enemy in ''[[Final Fantasy]]''. First encountered as a [[fixed encounter]] in the [[Citadel of Trials]], they can later be encountered as regular enemies in the [[Waterfall Cavern]], [[Flying Fortress]] and [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], where they may be encountered alongside the [[Mindflayer (Final Fantasy)|Mindflayer]] or [[Stone Golem (Final Fantasy)|Stone Golem]]. Despite their sturdy appearance, they have a very low [[Defense (stat)|Defense]] stat and can be defeated quite easily with physical attacks. Magical attacks do not work as well due to the Clay Golem's numerous resistances and high [[Magic Defense (stat)|Magic Defense]] stat.
+
+Though they have poor defense, Clay Golems have reasonable HP and access to the [[Haste (Final Fantasy enemy ability)|Haste]] spell. Their attacks are fairly potent and can inflict [[Poison (Final Fantasy status)|Poison]], which can be exacerbated if they are allowed to Haste themselves.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Rakshasa (Final Fantasy)
+| prev no = 089
+| bestiary = 090
+| next = Nightmare (Final Fantasy)
+| next no = 091
+| name = Clay Golem<br>'''NES:''' MudGOL/MUDGOL<ref name="Enemy Identification Chart"/><br>
+| type = Mage <small>(Pre-[[Pixel Remaster|PR]])</small><br>Magic
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Citadel of Trials]]<br>[[Flying Fortress]]<br>[[Waterfall Cavern]]
+| hp = 176
+| attack = 64
+| intellect = 16
+| defense = 7
+| magic defense = 93
+| agility = 14
+| accuracy = 44
+| hits = 1
+| evasion = 28
+| crit = 1
+| luck = 2
+| exp = 1,257
+| gil = 800
+| morale = 200
+| silence = Resists
+| sleep = Resists
+| paralysis = Resists
+| darkness = Resists
+| poison status = Resists
+| stone = Resists
+| confuse = Resists
+| fire = Resists
+| ice = Resists
+| lightning = Resists
+| spirit = Resists
+| instant death = Resists
+| poison element = -<br>{{note|reference=Resists prior to ''Pixel Remaster''.|name=poison element}}
+| drop = [[Potion (Final Fantasy)|Potion]] (1%)
+| abilities = Attacks may inflict [[Poison (Final Fantasy status)|Poison]]<br>[[Haste (Final Fantasy enemy ability)|Haste]]
+}}
+{{annotations}}
+
+==Formations==
+[[File:Amano FF1 Golem.gif|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;''Pixel Remaster''
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|175}}
+|Clay Golem x3
+|{{x}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 3F
+|Fixed
+|-
+!{{A|176}}
+|Clay Golem x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Waterfall Cavern]]
+|80
+|-
+!{{A|177}}
+|Clay Golem x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Waterfall Cavern]]
+|80
+|-
+!{{A|549}}
+|[[Mindflayer (Final Fantasy)|Mindflayer]] x6, Clay Golem x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 5F
+|30
+|-
+!{{A|550}}
+|[[Mindflayer (Final Fantasy)|Mindflayer]] x5, Clay Golem x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 5F
+|30
+|-
+!{{A|551}}
+|[[Mindflayer (Final Fantasy)|Mindflayer]] x4, Clay Golem x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|552}}
+|[[Mindflayer (Final Fantasy)|Mindflayer]] x3, Clay Golem x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 4F
+|30
+|-
+!{{A|553}}
+|[[Mindflayer (Final Fantasy)|Mindflayer]] x2, Clay Golem x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|554}}
+|[[Mindflayer (Final Fantasy)|Mindflayer]] x1, Clay Golem x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|583}}
+|[[Stone Golem (Final Fantasy)|Stone Golem]] x3, Clay Golem x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|40
+|-
+!{{A|584}}
+|[[Stone Golem (Final Fantasy)|Stone Golem]] x2, Clay Golem x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|50
+|-
+!{{A|585}}
+|[[Stone Golem (Final Fantasy)|Stone Golem]] x2, Clay Golem x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|50
+|-
+!{{A|586}}
+|[[Stone Golem (Final Fantasy)|Stone Golem]] x1, Clay Golem x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|80
+|-
+!{{A|587}}
+|[[Stone Golem (Final Fantasy)|Stone Golem]] x1, Clay Golem x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|588}}
+|[[Stone Golem (Final Fantasy)|Stone Golem]] x3, Clay Golem x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|70
+|-
+!{{A|811}}
+|Clay Golem x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Waterfall Cavern]]
+|60
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+!Notes
+|-
+!rowspan="2"|{{A|063}}
+|rowspan="2"|Clay Golem x1-3
+|rowspan="2"|4 large
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|Fixed
+|-
+|[[Waterfall Cavern]]
+|24
+|-
+!rowspan="2"|{{A|181}}
+|rowspan="2"|[[Mindflayer (Final Fantasy)|Mindflayer]] x1-6, Clay Golem x1-2
+|rowspan="2"|2 large 6 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 4F
+|6
+|-
+|[[Flying Fortress]] 5F
+|12
+|-
+!{{A|191}}
+|Clay Golem x1-4, [[Stone Golem (Final Fantasy)|Stone Golem]] x1-3
+|4 large
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|24
+|{{note|reference=Despite having a coded minimum of 1 Stone Golem, this formation allows a maximum of 4 large enemies; since the number of Clay Golems is determined first, it is possible that no Stone Golem will appear despite the minimum, but a Stone Golem will always appear if there is any space left after the Clay Golems are determined.}}
+|}
+{{annotations}}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="3"|Probability
+|-
+! PR
+! WSC-''20th''
+! Famicom-NES
+|-
+| Attack
+| 59.70%
+| 84%
+| 75%
+|-
+| Haste
+| 37.31%
+| 16%
+| 25%
+|-
+| Flee
+| 2.99%
+| colspan="2"|Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+| 81
+| —
+| 37.25%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Other appearances ==
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Clay Golem FFI.png|right]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+== Etymology ==
+{{Etym|Golem}}
+
+== Related enemies ==
+* [[Iron Golem (Final Fantasy)|Iron Golem]]
+* [[Mythril Golem (Final Fantasy)|Mythril Golem]]
+* [[Stone Golem (Final Fantasy)|Stone Golem]]
+
+==Citations==
+{{citations}}
+
+[[de:Ton-Golem (FFI)]]
+[[Category:Enemies in Final Fantasy]]
+

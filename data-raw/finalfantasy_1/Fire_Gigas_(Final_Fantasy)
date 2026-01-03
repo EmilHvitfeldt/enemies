@@ -1,0 +1,253 @@
+{{DISPLAYTITLE:Fire Gigas (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Fire Gigas
+| japanese = ファイアギガース
+| romaji = Faiagigāsu
+| aka = R.GIANT, RED GIANT<ref name="Enemy Identification Chart">''[https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABJE.pdf Final Fantasy Explorer's Handbook]'', p.86, "Enemy Identification Chart"</ref>
+| image = <gallery>
+Fire Gigas from FFI Pixel Remaster sprite.png|PR
+Fire Gigas from FFI 20th Anniversary Edition sprite.png|20th
+Fire Gigas from FFI Dawn of Souls sprite.png|GBA
+Fire Gigas from FFI Origins sprite.png|PS
+R.GIANT from FFI NES sprite.png|NES
+</gallery>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]
+| recurring appearance = Fire Gigas
+| aiscript = true
+| formations = true
+}}
+The '''Fire Gigas''', also known as the '''R.GIANT''' or '''RED GIANT'''<ref name="Enemy Identification Chart"/>, is an enemy in ''[[Final Fantasy]]''.It is a stronger enemy, with relatively high [[HP (stat)|HP]] and [[stats]]. Its lack of a special attack and tendency to appear alone make it easy to beat with standard physical attacks. Using [[Ice (element)|Ice]]-based spells is recommended and can easily finish it off.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Fire Lizard (Final Fantasy)
+| prev no = 064
+| bestiary = 065
+| next = Red Dragon (Final Fantasy)
+| next no = 066
+| name = Fire Gigas<br>'''NES:''' R.GIANT<br>RED GIANT<ref name="Enemy Identification Chart"/>
+| type = Giant
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]
+| hp = 300
+| attack = 73
+| intellect = 12
+| defense = 20
+| magic defense = 135
+| agility = 24
+| accuracy = 83
+| evasion = 48
+| morale = 200
+| hits = 1
+| crit = 1
+| exp = 1,506
+| gil = 1,506
+| luck = 2
+| ice = Weak
+| fire = Resists
+}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="2"|{{A|113}}
+|rowspan="2"|[[Fire Gigas (Final Fantasy)|Fire Gigas]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B4
+|80
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B5
+|70
+|-
+!rowspan="2"|{{A|114}}
+|rowspan="2"|[[Fire Gigas (Final Fantasy)|Fire Gigas]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B4
+|80
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B5
+|80
+|-
+!{{A|489}}
+|[[Fire Lizard (Final Fantasy)|Fire Lizard]] x3, [[Fire Gigas (Final Fantasy)|Fire Gigas]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B2
+|60
+|-
+!{{A|490}}
+|[[Fire Lizard (Final Fantasy)|Fire Lizard]] x2, [[Fire Gigas (Final Fantasy)|Fire Gigas]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B2
+|60
+|-
+!{{A|491}}
+|[[Fire Lizard (Final Fantasy)|Fire Lizard]] x1, [[Fire Gigas (Final Fantasy)|Fire Gigas]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B2
+|70
+|-
+!{{A|492}}
+|[[Fire Gigas (Final Fantasy)|Fire Gigas]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B2
+|80
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|038}}
+|rowspan="2"|[[Fire Gigas (Final Fantasy)|Fire Gigas]] x1-2
+|rowspan="2"|4 large
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B4
+|6
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B5
+|12
+|-
+!{{A|166}}
+|[[Fire Gigas (Final Fantasy)|Fire Gigas]] x1, [[Fire Lizard (Final Fantasy)|Fire Lizard]] x0-3
+|4 large
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B2
+|24
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+| 81
+| —
+| 37.25%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Other appearances ==
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Fire Gigas FFI.png|right]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+== Etymology ==
+{{etym|Fire}}
+
+{{Etym|Gigas}}
+
+== Related enemies ==
+* [[Elm Gigas (Final Fantasy)|Elm Gigas]]
+* [[Flare Gigas]]
+* [[Hill Gigas (Final Fantasy)|Hill Gigas]]
+* [[Ice Gigas (Final Fantasy)|Ice Gigas]]
+
+== Citations ==
+{{citations}}
+
+[[de:Feuer-Gigas]]
+[[Category:Enemies in Final Fantasy]]
+

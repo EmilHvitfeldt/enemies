@@ -1,0 +1,121 @@
+{{DISPLAYTITLE:Tarantula (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Tarantula
+| japanese = タランチュラ
+| romaji = Taranchura
+| lit = 
+| image = <gallery>
+Tarantula from FFI Pixel Remaster sprite.png|PR
+Tarantula from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Tarantula from FFI Dawn of Souls sprite.png|GBA
+Tarantula from FFI Origins sprite.png|PS
+FFI Tarantula MSX.gif|MSX
+ARACHNID from FFI NES sprite.png|NES
+</gallery>
+| location = [[world map#Final Fantasy|World Map]]<br> - near [[Elfheim]]<br/>[[Marsh Cave]]<br/>[[Cavern of Earth]]
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Tarantula
+}}
+The '''Tarantula''', also known as the '''ARACHNID''' in the [[Nintendo Entertainment System|NES]] version, is an enemy in the original ''[[Final Fantasy]]''. It is common in caves and some forests around the time the [[Warriors of Light]] restore the [[Earth Crystal (term)|Earth Crystal]], and its attacks cause [[Poison (status)|Poison]]. It is best to carry some [[Antidote (item)|Antidotes]] when traveling through these areas.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Bigeyes (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 023
+| psp next = Ghast (Final Fantasy)
+| psp next no = 
+| prev = Bigeyes (Final Fantasy)
+| prev no = 
+| bestiary = 023
+| next = Ghast (Final Fantasy)
+| next no = 
+| ps prev = Bigeyes (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 023
+| ps next = Ghast (Final Fantasy)
+| ps next no = 
+| nes = ARACHNID
+| ps = Tarantula
+| = Tarantula
+| psp = Tarantula
+| psp location = [[world map#Final Fantasy|World Map]]<br> - near [[Elfheim]]<br/>[[Marsh Cave]]<br/>[[Cavern of Earth]]
+| nes location = Outside [[Elfheim]], [[Marsh Cave]]
+| ps location = Outside [[Elfheim]], [[Marsh Cave]], [[Cavern of Earth|Terra Cavern]]
+| location = [[Marsh Cave]], [[Cavern of Earth]]
+| psp hp = 64
+| psp attack = 5
+| psp intelligence = 3
+| psp defense = 12
+| psp magic defense = 46
+| psp agility = 3
+| psp accuracy = 16
+| psp evasion = 24
+| psp exp = 141
+| psp gil = 50
+| hp = 64
+| attack = 5
+| intellect = 3
+| defense = 12
+| magic defense = 46
+| agility = 12
+| accuracy = 16
+| evasion = 24
+| exp = 141
+| gil = 50
+| ps hp = 64
+| ps attack = 5
+| ps defense = 12
+| ps magic defense = 46
+| ps exp = 141
+| ps gil = 50
+| nes hp = 64
+| nes attack = 5 - 10
+| nes defense = 12
+| nes magic defense = 46
+| nes evasion = 24
+| nes accuracy = 15
+| nes exp = 141
+| nes gil = 50
+| psp fire = 
+| psp lightning = 
+| psp ice = 
+| psp dia = 
+| fire = -
+| lightning = 
+| ice = -
+| dia = Misses
+| ps fire = -
+| ps lightning = -
+| ps ice = -
+| ps dia = -
+| nes fire = -
+| nes lightning = -
+| nes ice = -
+| nes dia = -
+| psp drop = 
+| psp abilities = Attack may inflict [[Poison (Final Fantasy status)|Poison]].
+| psp resistance = 
+| drop = None
+| abilities = Attack may inflict [[Poison (Final Fantasy status)|Poison]].
+| resistance = None
+| ps abilities = Attack may inflict [[Poison (Final Fantasy status)|Poison]].
+| ps resistance = None
+| nes abilities = Attack may inflict [[Poison (Final Fantasy status)|Poison]].
+| nes resistance = N/A
+}}
+
+== Etymology ==
+{{Etym|Tarantula}}
+
+== Related enemies ==
+* [[Black Widow (Final Fantasy)|Black Widow]]
+* [[Gloom Widow (Final Fantasy)|Gloom Widow]]
+
+[[de:Tarantel (FFI)]]
+[[es:Tarántula (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

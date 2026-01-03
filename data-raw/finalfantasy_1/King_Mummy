@@ -1,0 +1,470 @@
+{{infobox enemy
+| release = FFI
+| name = King Mummy
+| japanese = キングマミー
+| romaji = Kingumamī
+| aka = WzMUMMY, WIZARD MUMMY<ref name="Enemy Identification Chart">''[https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABJE.pdf Final Fantasy Explorer's Handbook]'', p.86, "Enemy Identification Chart"</ref>
+| image = <gallery>
+King Mummy from FFI Pixel Remaster sprite.png|PR
+King Mummy from FFI 20th Anniversary Edition sprite.png|20th
+King Mummy from FFI Dawn of Souls sprite.png|GBA
+King Mummy from FFI Origins sprite.png|PS
+WzMUMMY from FFI NES sprite.png|NES
+</gallery>
+| location = [[Citadel of Trials]]<br>[[Mirage Tower]]<br>[[Sunken Shrine]]<br>[[Waterfall Cavern]]
+| formations = true
+| aiscript = true
+}}
+The '''King Mummy''', also known as the '''WzMUMMY''' or '''WIZARD MUMMY'''<ref name="Enemy Identification Chart"/>, is an enemy in ''[[Final Fantasy]]''. It is a common enemy appearing in several mid- to late-game dungeons, appearing in large groups alongside [[Mummy (Final Fantasy)|Mummies]], [[Cockatrice (Final Fantasy)|Cockatrices]], and [[Pyrolisk (Final Fantasy)|Pyrolisks]]. It can inflict [[Sleep (Final Fantasy status)|Sleep]] with its basic attacks, though notably this checks for resistance to the [[Poison (Final Fantasy element)|Poison]] element rather than the [[Spirit (Final Fantasy)|Spirit]] element Sleep is normally associated with.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Minotaur Zombie (Final Fantasy)
+| prev no =086 
+| bestiary = 087
+| next = Medusa (Final Fantasy)
+| next no =088 
+| name = King Mummy<br>'''NES:''' WzMUMMY/WIZARD MUMMY<ref name="Enemy Identification Chart"/>
+| type = Undead
+| location = [[Citadel of Trials]]<br>[[Mirage Tower]]<br>[[Sunken Shrine]]<br>[[Waterfall Cavern]]
+| hp = 188
+| attack = 43
+| intellect = 24
+| defense = 24
+| magic defense = 195
+| agility = 12
+| accuracy = 47
+| evasion = 24
+| exp = 984
+| gil = 1,000
+| morale = 148
+| hits = 1
+| crit = 1
+| luck = 2
+| fire = Weak
+| dia = Weak
+| silence = Resists
+| sleep = Resists
+| paralysis = Resists
+| darkness = Resists
+| confuse = Resists
+| poison status = Resists
+| stone = Resists
+| ice = Resists
+| spirit = Resists
+| instant death = Resists
+| poison element = -<br>{{note|reference=Resists prior to pixel remaster.|name=poison element}}
+| abilities = Attacks may inflict [[Sleep (Final Fantasy status)|Sleep]]
+}}
+{{annotations}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|205}}
+|[[Cockatrice (Final Fantasy)|Cockatrice]] x8, [[King Mummy]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 3F
+|30
+|-
+!{{A|206}}
+|[[Pyrolisk (Final Fantasy)|Pyrolisk]] x8, [[King Mummy]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 3F
+|30
+|-
+!{{A|207}}
+|[[Mummy (Final Fantasy)|Mummy]] x8, [[King Mummy]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 3F
+|50
+|-
+!{{A|208}}
+|[[Mummy (Final Fantasy)|Mummy]] x2, [[King Mummy]] x1, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x3, [[Cockatrice (Final Fantasy)|Cockatrice]] x3
+|{{x}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Sunken Shrine]] 2F
+|Fixed
+|-
+!{{A|209}}
+|[[King Mummy]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 2F
+|50
+|-
+!{{A|210}}
+|[[Mummy (Final Fantasy)|Mummy]] x6, [[King Mummy]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 3F
+|50
+|-
+!{{A|211}}
+|[[Pyrolisk (Final Fantasy)|Pyrolisk]] x2, [[King Mummy]] x1, [[Cockatrice (Final Fantasy)|Cockatrice]] x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|212}}
+|[[Pyrolisk (Final Fantasy)|Pyrolisk]] x5, [[King Mummy]] x1, [[Cockatrice (Final Fantasy)|Cockatrice]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 3F
+|30
+|-
+!{{A|213}}
+|[[Mummy (Final Fantasy)|Mummy]] x3, [[King Mummy]] x1, [[Cockatrice (Final Fantasy)|Cockatrice]] x2, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!rowspan="2"|{{A|214}}
+|rowspan="2"|[[King Mummy]] x1, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x3, [[Cockatrice (Final Fantasy)|Cockatrice]] x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 2F
+|40
+|-
+|[[Mirage Tower]] 3F
+|30
+|-
+!{{A|215}}
+|[[Mummy (Final Fantasy)|Mummy]] x2, [[King Mummy]] x1, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x2, [[Cockatrice (Final Fantasy)|Cockatrice]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!rowspan="2"|{{A|216}}
+|rowspan="2"|[[Pyrolisk (Final Fantasy)|Pyrolisk]] x3, [[King Mummy]] x1, [[Cockatrice (Final Fantasy)|Cockatrice]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 2F
+|50
+|-
+|[[Mirage Tower]] 3F
+|40
+|-
+!{{A|217}}
+|[[Mummy (Final Fantasy)|Mummy]] x3, [[Cockatrice (Final Fantasy)|Cockatrice]] x2, [[King Mummy]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|218}}
+|[[Mummy (Final Fantasy)|Mummy]] x3, [[King Mummy]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 2F
+|50
+|-
+!{{A|219}}
+|[[King Mummy]] x1, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x3, [[Cockatrice (Final Fantasy)|Cockatrice]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|220}}
+|[[Mummy (Final Fantasy)|Mummy]] x1, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x1, [[Cockatrice (Final Fantasy)|Cockatrice]] x1, [[King Mummy]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|221}}
+|[[King Mummy]] x1, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x2, [[Cockatrice (Final Fantasy)|Cockatrice]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|222}}
+|[[King Mummy]] x1, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 2F
+|60
+|-
+!{{A|223}}
+|[[King Mummy]] x1, [[Cockatrice (Final Fantasy)|Cockatrice]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|224}}
+|[[Cockatrice (Final Fantasy)|Cockatrice]] x2, [[King Mummy]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|225}}
+|[[Pyrolisk (Final Fantasy)|Pyrolisk]] x2, [[King Mummy]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 2F
+|90
+|-
+!{{A|226}}
+|[[Mummy (Final Fantasy)|Mummy]] x2, [[King Mummy]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|227}}
+|[[King Mummy]] x1, [[Cockatrice (Final Fantasy)|Cockatrice]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|228}}
+|[[King Mummy]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|456}}
+|[[King Mummy]] x1, [[Mummy (Final Fantasy)|Mummy]] x7
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 3F
+|50
+|-
+!{{A|457}}
+|[[King Mummy]] x1, [[Mummy (Final Fantasy)|Mummy]] x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 3F
+|70
+|-
+!{{A|458}}
+|[[Mummy (Final Fantasy)|Mummy]] x5, [[King Mummy]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 3F
+|70
+|-
+!{{A|459}}
+|[[King Mummy]] x1, [[Mummy (Final Fantasy)|Mummy]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|50
+|-
+!{{A|460}}
+|[[King Mummy]] x1, [[Mummy (Final Fantasy)|Mummy]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|70
+|-
+!{{A|630}}
+|[[Mummy (Final Fantasy)|Mummy]] x6, [[King Mummy]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Waterfall Cavern]]
+|40
+|-
+!{{A|631}}
+|[[Mummy (Final Fantasy)|Mummy]] x5, [[King Mummy]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Waterfall Cavern]]
+|50
+|-
+!{{A|632}}
+|[[Mummy (Final Fantasy)|Mummy]] x4, [[King Mummy]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Waterfall Cavern]]
+|50
+|-
+!{{A|633}}
+|[[Mummy (Final Fantasy)|Mummy]] x3, [[King Mummy]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Waterfall Cavern]]
+|50
+|-
+!{{A|634}}
+|[[Mummy (Final Fantasy)|Mummy]] x2, [[King Mummy]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Waterfall Cavern]]
+|70
+|-
+!{{A|635}}
+|[[Mummy (Final Fantasy)|Mummy]] x1, [[King Mummy]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Waterfall Cavern]]
+|80
+|-
+!{{A|827}}
+|[[Mummy (Final Fantasy)|Mummy]] x2, [[King Mummy]] x1, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x3, [[Cockatrice (Final Fantasy)|Cockatrice]] x3
+|{{x}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Waterfall Cavern]]
+|Fixed
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="4"|{{A|074}}
+|rowspan="4"|[[Cockatrice (Final Fantasy)|Cockatrice]] x0-8, [[Pyrolisk (Final Fantasy)|Pyrolisk]] x0-8, [[King Mummy]] x1-5, [[Mummy (Final Fantasy)|Mummy]] x0-8
+|rowspan="4"|9 small
+|rowspan="4"|{{y}}
+|rowspan="4"|4
+|rowspan="4"|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 2F
+|6
+|-
+|[[Mirage Tower]] 3F
+|12
+|-
+|[[Sunken Shrine]] 2F
+|Fixed
+|-
+|[[Waterfall Cavern]]
+|Fixed
+|-
+!rowspan="2"|{{A|157}}
+|rowspan="2"|[[Mummy (Final Fantasy)|Mummy]] x3-7, [[King Mummy]] x1
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|6
+|-
+|[[Citadel of Trials]] 3F
+|18
+|-
+!{{A|202}}
+|[[King Mummy]] x1-2, [[Mummy (Final Fantasy)|Mummy]] x1-6
+|9 small
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Waterfall Cavern]]
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 148
+| 35
+| —
+| 62.75%
+| 69
+| —
+| 60.78%
+|-
+! 1
+! 108
+| 15
+| 40
+| 100%
+| 29
+| 79
+| 100%
+|-
+! 2
+! 68
+| 1
+| 20
+| 100%
+| 1
+| 39
+| 100%
+|-
+! 3
+! 28
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+==Other appearances==
+===''[[Final Fantasy Brave Exvius]]''===
+[[File:King Mummy FFI from FFBE enemy sprite.png|thumb|150x150px]]
+{{Enemy section|Final Fantasy Brave Exvius}}
+{{clear}}
+
+== Etymology ==
+{{Etym|Mummy}}
+
+== Related enemies ==
+* [[Mummy (Final Fantasy)|Mummy]]
+* [[Pharaoh (Final Fantasy)|Pharaoh]]
+
+==Citations==
+{{citations}}
+
+[[de:Königsmumie]]
+[[Category:Enemies in Final Fantasy]]
+

@@ -1,0 +1,228 @@
+{{DISPLAYTITLE:Neochu (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Neochu
+| japanese = ネオチュー
+| romaji = Neochū
+| aka = NAOCHO
+| image = <gallery>
+Neochu from FFI Pixel Remaster sprite.png|PR
+Neochu from FFI 20th Anniversary Edition sprite.png|20th
+Neochu from FFI Dawn of Souls sprite.png|GBA
+Neochu from FFI Origins sprite.png|PS
+NAOCHO from FFI NES sprite.png|NES
+</gallery>
+| location = [[Flying Fortress]]<br>[[Canoe#Final Fantasy|Rivers]]
+| formations = true
+| aiscript = true
+}}
+The '''Neochu''', also known as the '''NAOCHO''' , is an enemy in ''[[Final Fantasy]]'', encountered in rivers and the [[Flying Fortress]].
+
+Originally encountered in the rivers of the northern continents in early releases, it has appeared in all rivers since; as it was originally intended to be encountered later, it can be dangerous when navigating the rivers of the southern continents after first obtaining the [[Canoe (Final Fantasy)|Canoe]]. Its attacks 3 attacks per turn may inflict [[Poison (Final Fantasy status)|Poison]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Ochu (Final Fantasy)
+| prev no = 055
+| bestiary = 056
+| next = Hydra (Final Fantasy)
+| next no = 057
+| name = Neochu<br>'''NES:''' NAOCHO
+| location = [[Flying Fortress]]<br>[[Canoe#Final Fantasy|Rivers]]
+| hp = 344
+| attack = 35
+| intellect = 14
+| defense = 32
+| magic defense = 116
+| agility = 12
+| accuracy = 86
+| evasion = 36
+| exp = 915
+| gil = 150
+| hits = 3
+| crit = 1
+| morale = 200
+| luck = 2
+| abilities = Attacks may inflict [[Poison (Final Fantasy status)|Poison]]
+}}
+
+==Formations==
+;''Pixel Remaster''
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|182}}
+|[[Neochu (Final Fantasy)|Neochu]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|150
+|-
+!rowspan="2"|{{A|593}}
+|rowspan="2"|[[Neochu (Final Fantasy)|Neochu]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 4F
+|80
+|-
+|[[Flying Fortress]] 5F
+|80
+|-
+!{{A|594}}
+|[[Neochu (Final Fantasy)|Neochu]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+!Notes
+|-
+!{{A|065}}
+|[[Neochu (Final Fantasy)|Neochu]] x1
+|4 large
+|{{y}}
+|33
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|12
+|{{note|reference=In the Famicom, NES, and MSX releases, this encounter occurs only in northern rivers; in all other releases it appears in both northern and southern rivers.|name=northern rivers}}
+|-
+!rowspan="2"|{{A|193}}
+|rowspan="2"|[[Neochu (Final Fantasy)|Neochu]] x1-2
+|rowspan="2"|4 large
+|rowspan="2"|{{y}}
+|rowspan="2"|33
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 4F
+|12
+|
+|-
+|[[Flying Fortress]] 5F
+|12
+|
+|}
+{{annotations}}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+| 81
+| —
+| 37.25%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Other appearances ==
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK_Ultimate_Neochu_FFI.png|thumb|150x150px]]
+{{Enemy section|Final Fantasy Record Keeper}}{{clear}}
+
+== Etymology ==
+{{etym|Neo}}
+
+{{Etym|Ochu}}
+
+== Related enemies ==
+* [[Ochu (Final Fantasy)|Ochu]]
+* [[Earth Plant]]
+
+[[de:Schmatzer]]
+[[es:Neochu (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

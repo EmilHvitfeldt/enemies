@@ -1,0 +1,365 @@
+{{DISPLAYTITLE:Ogre Chief (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Ogre Chief
+| japanese = オーガチーフ
+| romaji = Ōgachīfu
+| aka = GrOGRE, GREEN OGRE<ref name="Enemy Identification Chart">''[https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABJE.pdf Final Fantasy Explorer's Handbook]'', p.86, "Enemy Identification Chart"</ref>, Ogre Chieftain
+| image = <gallery>
+Ogre Chief from FFI Pixel Remaster sprite.png|PR
+Ogre Chief from FFI 20th Anniversary Edition sprite.png|20th
+Ogre Chief from FFI Dawn of Souls sprite.png|GBA
+Ogre Chieftain from FFI Origins sprite.png|PS
+FFI Ogre Chief MSX.gif|MSX
+GrOGRE from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cavern of Earth]]<br>[[Cavern of Earth]] region<br>[[Cavern of Ice]] region<br>[[Elfheim]] region<br>[[Giant's Cave]]<br>[[Giant's Cave]] region<br>[[Lifespring Grotto]] region<br>[[Marsh Cave]] region<br>[[Matoya's Cave (Final Fantasy)|Matoya's Cave]] region<br>[[Melmond]] region<br>[[Mount Duergar]] region<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]] region<br>[[Sage's Cave]] region<br>[[Western Keep]] region<br>[[Whisperwind Cove (Final Fantasy)|Whisperwind Cove]] region
+| formations = true
+| aiscript = true
+}}
+The '''Ogre Chief''', also known as the '''GrOGRE''', '''GREEN OGRE'''<ref name="Enemy Identification Chart"/>, or '''Ogre Chieftain''', is an enemy in ''[[Final Fantasy]]''. Like the weaker [[Ogre (Final Fantasy)|Ogre]], it is a common enemy encountered throughout the southern continents, as well as within the [[Cavern of Earth]], [[Giant's Cave]], and [[Mount Gulg (Final Fantasy)|Mount Gulg]] dungeons. It can be dangerous when first encountered around [[Elfheim]] or [[Matoya's Cave (Final Fantasy)|Matoya's Cave]], particularly given it often appears in groups with other Ogres, but becomes a nuisance as it is encountered later on.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Ogre (Final Fantasy)
+| prev no = 014
+| bestiary = 015
+| next = Lizard (Final Fantasy)
+| next no = 016
+| name = Ogre Chief<br>'''PS:''' Ogre Chieftain<br>'''NES:''' GrOGRE/GREEN OGRE<ref name="Enemy Identification Chart"/>
+| type = Giant
+| location = [[Cavern of Earth]]<br>[[Cavern of Earth]] region<br>[[Cavern of Ice]] region<br>[[Elfheim]] region<br>[[Giant's Cave]]<br>[[Giant's Cave]] region<br>[[Lifespring Grotto]] region<br>[[Marsh Cave]] region<br>[[Matoya's Cave (Final Fantasy)|Matoya's Cave]] region<br>[[Melmond]] region<br>[[Mount Duergar]] region<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]] region<br>[[Sage's Cave]] region<br>[[Western Keep]] region<br>[[Whisperwind Cove (Final Fantasy)|Whisperwind Cove]] region
+| hp = 132
+| attack = 23
+| intellect = 6
+| defense = 14
+| magic defense = 70
+| agility = 15
+| accuracy = 33
+| evasion = 30
+| exp = 282
+| gil = 300
+| hits = 1
+| crit = 1
+| luck = 2
+| morale = 126
+}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="4"|{{A|061}}
+|rowspan="4"|Ogre Chief x1, [[Ogre (Final Fantasy)|Ogre]] x2
+|rowspan="4"|{{y}}
+|rowspan="4"|[[Battle (Final Fantasy)|Battle]]
+|[[Giant's Cave]]
+|110
+|-
+|[[Elfheim]]-[[Matoya's Cave (Final Fantasy)|Matoya's Cave]]-[[Mount Duergar]]-[[Western Keep]] region
+|60
+|-
+|[[Cavern of Earth]]-[[Giant's Cave]]-[[Melmond]] region
+|60
+|-
+|[[Cavern of Ice]]-[[Marsh Cave]]-[[Mount Gulg (Final Fantasy)|Mount Gulg]] region
+|60
+|-
+!{{A|062}}
+|[[Ogre (Final Fantasy)|Ogre]] x1, Ogre Chief x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Giant's Cave]]
+|110
+|-
+!{{A|325}}
+|[[Hyenadon]] x7, Ogre Chief x1, [[Ogre Mage (Final Fantasy)|Ogre Mage]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B3
+|30
+|-
+!rowspan="2"|{{A|326}}
+|rowspan="2"|[[Hyenadon]] x4, Ogre Chief x1, [[Ogre Mage (Final Fantasy)|Ogre Mage]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B2
+|30
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B3
+|50
+|-
+!{{A|327}}
+|[[Hyenadon]] x2, Ogre Chief x1, [[Ogre Mage (Final Fantasy)|Ogre Mage]] x1
+|{{x}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B4
+|Fixed
+|-
+!{{A|328}}
+|Ogre Chief x1, [[Ogre Mage (Final Fantasy)|Ogre Mage]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|70
+|-
+!{{A|416}}
+|[[Ogre (Final Fantasy)|Ogre]] x2, Ogre Chief x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B3
+|50
+|-
+!rowspan="2"|{{A|417}}
+|rowspan="2"|[[Ogre (Final Fantasy)|Ogre]] x1, Ogre Chief x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B2
+|70
+|-
+|[[Cavern of Earth]] B3
+|70
+|-
+!rowspan="2"|{{A|418}}
+|rowspan="2"|Ogre Chief x1, [[Ogre (Final Fantasy)|Ogre]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|70
+|-
+|[[Cavern of Earth]] B2
+|60
+|-
+!{{A|419}}
+|Ogre Chief x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|70
+|-
+!{{A|763}}
+|Ogre Chief x2, [[Ogre Mage (Final Fantasy)|Ogre Mage]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B5
+|50
+|-
+!{{A|764}}
+|Ogre Chief x2, [[Ogre Mage (Final Fantasy)|Ogre Mage]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B4
+|70
+|-
+!{{A|765}}
+|Ogre Chief x2, [[Ogre Mage (Final Fantasy)|Ogre Mage]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B3
+|70
+|-
+!{{A|766}}
+|Ogre Chief x1, [[Ogre Mage (Final Fantasy)|Ogre Mage]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B5
+|70
+|-
+!{{A|767}}
+|Ogre Chief x1, [[Ogre Mage (Final Fantasy)|Ogre Mage]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B4
+|80
+|-
+!{{A|768}}
+|Ogre Chief x1, [[Ogre Mage (Final Fantasy)|Ogre Mage]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B3
+|70
+|-
+!rowspan="2"|{{A|808}}
+|rowspan="2"|[[Hyenadon]] x2, Ogre Chief x1, [[Ogre Mage (Final Fantasy)|Ogre Mage]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|70
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B2
+|70
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="5"|{{A|019}}
+|rowspan="5"|Ogre Chief x1, [[Ogre (Final Fantasy)|Ogre]] x1-2
+|rowspan="5"|4 large
+|rowspan="5"|{{y}}
+|rowspan="5"|4
+|rowspan="5"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]]-[[Giant's Cave]]-[[Melmond]]-[[Sage's Cave]] region
+|12
+|-
+|[[Cavern of Ice]]-[[Marsh Cave]]-[[Mount Gulg (Final Fantasy)|Mount Gulg]]-[[Whisperwind Cove (Final Fantasy)|Whisperwind Cove]] region
+|3
+|-
+|[[Elfheim]]-[[Lifespring Grotto]]-[[Melmond]]-[[Mount Duergar]]-[[Western Keep]] region
+|1
+|-
+|[[Giant's Cave]]
+|24
+|-
+|[[Matoya's Cave (Final Fantasy)|Matoya's Cave]] region
+|1
+|-
+!rowspan="4"|{{A|110}}
+|rowspan="4"|[[Ogre Mage (Final Fantasy)|Ogre Mage]] x1, Ogre Chief x1, [[Hyenadon]] x0-7
+|rowspan="4"|4 large
+|rowspan="4"|{{y}}
+|rowspan="4"|4
+|rowspan="4"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B4
+|Fixed
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|12
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B2
+|12
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B3
+|12
+|-
+!rowspan="3"|{{A|147}}
+|rowspan="3"|Ogre Chief x1-4, [[Ogre (Final Fantasy)|Ogre]] x0-2
+|rowspan="3"|4 large
+|rowspan="3"|{{y}}
+|rowspan="3"|4
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|6
+|-
+|[[Cavern of Earth]] B2
+|12
+|-
+|[[Cavern of Earth]] B3
+|12
+|-
+!rowspan="3"|{{A|238}}
+|rowspan="3"|[[Ogre Mage (Final Fantasy)|Ogre Mage]] x1-3, Ogre Chief x0-2
+|rowspan="3"|4 large
+|rowspan="3"|{{y}}
+|rowspan="3"|4
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B3
+|3
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B4
+|6
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B5
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 126
+| 24
+| 49
+| 100%
+| 47
+| 97
+| 100%
+|-
+! 1
+! 86
+| 4
+| 29
+| 100%
+| 7
+| 57
+| 100%
+|-
+! 2
+! 46
+| 1
+| 9
+| 100%
+| 1
+| 17
+| 100%
+|-
+! 3
+! 6
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Ogre}}
+
+== Related enemies ==
+* [[Ogre (Final Fantasy)|Ogre]]
+* [[Ogre Mage (Final Fantasy)|Ogre Mage]]
+* [[Yellow Ogre (Final Fantasy)|Yellow Ogre]]
+* [[Mad Ogre (Final Fantasy)|Mad Ogre]]
+
+== Citations ==
+{{citations}}
+
+[[es:Ogro jefe (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

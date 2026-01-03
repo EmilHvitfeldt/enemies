@@ -1,0 +1,247 @@
+{{DISPLAYTITLE:Basilisk (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Basilisk
+| japanese = バシリスク
+| romaji = Bashirisuku
+| lit = 
+| aka = SAURIA
+| image = <gallery>
+Basilisk from FFI Pixel Remaster sprite.png|PR
+Basilisk from FFI 20th Anniversary Edition sprite.png|20th
+Basilisk from FFI Dawn of Souls sprite.png|GBA
+Basilisk from FFI Origins sprite.png|PS
+SAURIA from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cardian Islands]] region<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Citadel of Trials]] region swamp
+| aiscript = true
+| formations = true
+| recurring appearance = Basilisk
+}}
+The '''Basilisk''', also known as the '''SAURIA''', is an enemy in the original ''[[Final Fantasy]]''. They may first be encountered in the [[Cardian Islands]] and [[Citadel of Trials]] regions in the swamp. They later appear in [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], on floor B1, as a rare [[random encounter|encounter]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Baretta (Final Fantasy)
+| prev no = 081
+| bestiary = 082
+| next = Allosaurus (Final Fantasy)
+| next no = 083
+| name = Basilisk<br>SAURIA<sup>NES</sup>
+| type = Dragon
+| location = [[Cardian Islands]] region<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Citadel of Trials]] region
+| hp = 196
+| attack = 30
+| intellect = 12
+| defense = 20
+| magic defense = 91
+| agility = 12
+| accuracy = 54
+| hits = 1
+| evasion = 24
+| crit = 1
+| luck = 2
+| exp = 1,977
+| gil = 658
+| morale = 200
+| drop = [[Gold Needle (Final Fantasy)|Gold Needle]] (7%)
+| abilities = [[Gaze (Final Fantasy)|Gaze]]
+}}
+
+== Strategy ==
+[[File:Basilisk FF1.jpg|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+[[Attack (command)#Final Fantasy|Physical attacks]] are the primary way to defeat these enemies; magic can be saved for the more difficult encounters in the Chaos Shrine. Due to their average Defense, Basilisks are not hard to defeat. Basilisks use Gaze to [[Stone (Final Fantasy status)|petrify]] party members, but they also [[item drop|drop]] [[Gold Needle (Final Fantasy)|Gold Needle]]s upon defeat.
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+|rowspan="2"|{{A|167}}
+|rowspan="2"|[[Basilisk (Final Fantasy)|Basilisk]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|Northern [[Citadel of Trials]] region
+|70
+|-
+|[[Cardian Islands]]-[[Citadel of Trials]] region
+|60
+|-
+|rowspan="2"|{{A|168}}
+|rowspan="2"|[[Basilisk (Final Fantasy)|Basilisk]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|Northern [[Citadel of Trials]] region
+|70
+|-
+|[[Cardian Islands]]-[[Citadel of Trials]] region
+|70
+|-
+|{{A|568}}
+|[[Basilisk (Final Fantasy)|Basilisk]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|70
+|-
+|{{A|569}}
+|[[Basilisk (Final Fantasy)|Basilisk]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|70
+|-
+|{{A|570}}
+|[[Basilisk (Final Fantasy)|Basilisk]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|80
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|058}}
+|rowspan="2"|[[Basilisk (Final Fantasy)|Basilisk]] x1-2
+|rowspan="2"|4 large
+|rowspan="2"|{{y}}
+|rowspan="2"|27
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cardian Islands]]-[[Citadel of Trials]] region
+|6
+|-
+|Northern [[Citadel of Trials]] region
+|1
+|-
+!{{A|186}}
+|[[Basilisk (Final Fantasy)|Basilisk]] x2-4
+|4 large
+|{{y}}
+|27
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|1
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 60%
+| 50%
+|-
+| Gaze
+| 35%
+| 50%
+|-
+| Flee
+| 5%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+| 81
+| —
+| 37.25%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Basilisk}}
+
+In the NES version, the Basilisk was called Sauria. Sauria derives from ''saura'', which means "reptile" in Greek.
+
+== Related enemies ==
+* [[Catoblepas (Final Fantasy)|Catoblepas]]
+* [[Fire Lizard (Final Fantasy)|Fire Lizard]]
+* [[Lizard (Final Fantasy)|Lizard]]
+
+[[Category:Enemies in Final Fantasy]]
+
+[[de:Basilisk (FFI)]]
+[[es:Basilisco (Final Fantasy)]]
+

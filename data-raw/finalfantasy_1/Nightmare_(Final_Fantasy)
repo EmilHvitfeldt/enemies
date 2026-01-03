@@ -1,0 +1,334 @@
+{{DISPLAYTITLE:Nightmare (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Nightmare
+| japanese = ナイトメア
+| romaji = Naitomea
+| aka = NITEMARE
+| image = <gallery>
+Nightmare from FFI Pixel Remaster sprite.png|PR
+Nightmare from FFI 20th Anniversary Edition sprite.png|20th
+Nightmare from FFI Dawn of Souls sprite.png|GBA
+Nightmare from FFI Origins sprite.png|PS
+NITEMARE from FFI NES sprite.png|NES
+</gallery>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Citadel of Trials]]<br>[[Flying Fortress]]<br>[[Mirage Tower]]<br>[[Waterfall Cavern]]
+| formations = true
+| aiscript = true
+|recurring appearance=Nightmare (enemy)
+}}
+The '''Nightmare''', also known as the '''NITEMARE''', is an enemy in ''[[Final Fantasy]]''. First encountered as a [[fixed encounter]] in the [[Citadel of Trials]], it can later be fought as a [[random encounter]] in various late-game dungeons.
+
+It is not a very powerful enemy, but can inflict the [[Darkness (Final Fantasy status)|darkness]] status with its [[Snort (Final Fantasy)|Snort]] attack. Physical [[Attack (command)|attacks]] are more than enough to defeat it, but if the player wishes to defeat it quickly, then they may use [[Ice (Final Fantasy element)|ice]]-based attacks such as [[Blizzara (Final Fantasy)|Blizzara]] and utilize the [[Black Robe (Final Fantasy)|Black Robe]] to conserve [[MP (stat)|MP]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Clay Golem (Final Fantasy)
+| prev no = 090
+| bestiary = 091
+| next = Dragon Zombie (Final Fantasy)
+| next no = 092
+| name = Nightmare<br>'''NES:''' NITEMARE
+| type = Magic
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Citadel of Trials]]<br>[[Flying Fortress]]<br>[[Mirage Tower]]<br>[[Waterfall Cavern]]
+| hp = 200
+| attack = 30
+| intellect = 20
+| defense = 24
+| magic defense = 100
+| agility = 66
+| accuracy = 50
+| evasion = 132
+| exp = 1,272
+| gil = 700
+| hits = 3
+| crit = 1
+| morale = 200
+| luck = 2
+| ice = Weak
+| earth = Resists
+| lightning = Resists
+| fire = Resists
+| stone = Resists
+| poison status = Resists
+| paralysis = Resists
+| darkness = Resists
+| sleep = Resists
+| silence = Resists
+| confuse = Resists
+| spirit = Resists
+| instant death = Resists
+| poison element = -<br>{{note|reference=Resists prior to pixel remaster.|name=poison element}}
+| abilities = [[Snort (Final Fantasy)|Snort]]
+}}
+{{annotations}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|240}}
+|Nightmare x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Waterfall Cavern]]
+|60
+|-
+!{{A|241}}
+|Nightmare x2
+|{{x}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 3F
+|Fixed
+|-
+!{{A|242}}
+|Nightmare x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Waterfall Cavern]]
+|80
+|-
+!rowspan="2"|{{A|255}}
+|rowspan="2"|Nightmare x2, [[Death Knight (Final Fantasy)|Death Knight]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|60
+|-
+|[[Flying Fortress]] 2F
+|60
+|-
+!rowspan="2"|{{A|256}}
+|rowspan="2"|Nightmare x1, [[Death Knight (Final Fantasy)|Death Knight]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|70
+|-
+|[[Flying Fortress]] 2F
+|60
+|-
+!{{A|646}}
+|[[Black Knight (Final Fantasy)|Black Knight]] x2, Nightmare x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|60
+|-
+!{{A|647}}
+|Nightmare x2, [[Black Knight (Final Fantasy)|Black Knight]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|80
+|-
+!{{A|648}}
+|[[Black Knight (Final Fantasy)|Black Knight]] x2, Nightmare x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|80
+|-
+!{{A|649}}
+|[[Black Knight (Final Fantasy)|Black Knight]] x1, Nightmare x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|80
+|-
+!{{A|666}}
+|Nightmare x2, [[Death Knight (Final Fantasy)|Death Knight]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|60
+|-
+!rowspan="2"|{{A|667}}
+|rowspan="2"|[[Death Knight (Final Fantasy)|Death Knight]] x2, Nightmare x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B4
+|70
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|60
+|-
+!{{A|668}}
+|Nightmare x2, [[Death Knight (Final Fantasy)|Death Knight]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!rowspan="2"|{{A|669}}
+|rowspan="2"|Nightmare x1, [[Death Knight (Final Fantasy)|Death Knight]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B4
+|80
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|70
+|-
+!{{A|807}}
+|Nightmare x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Waterfall Cavern]]
+|80
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|079}}
+|rowspan="2"|Nightmare x1-3
+|rowspan="2"|2 large 6 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 3F
+|Fixed
+|-
+|[[Waterfall Cavern]]
+|24
+|-
+!rowspan="2"|{{A|084}}
+|rowspan="2"|[[Death Knight (Final Fantasy)|Death Knight]] x1, Nightmare x1-2
+|rowspan="2"|2 large 6 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|6
+|-
+|[[Flying Fortress]] 2F
+|6
+|-
+!{{A|207}}
+|Nightmare x1-2, [[Black Knight (Final Fantasy)|Black Knight]] x1-2
+|2 large 6 small
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|24
+|-
+!rowspan="2"|{{A|212}}
+|rowspan="2"|[[Death Knight (Final Fantasy)|Death Knight]] x1-2, Nightmare x1-2
+|rowspan="2"|2 large 6 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B4
+|6
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 48.08%
+| 75%
+|-
+| Snort
+| 48.08%
+| 25%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! # [[Fear (Final Fantasy)|Fear]]
+! [[Morale (Final Fantasy)|Morale]]
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+|}
+{{annotations}}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+== Gallery ==
+<gallery>
+FFI Snort PS.png|Snort in the ''Origins'' version.
+FFI Snort 2 GBA.png|Snort in the ''Advance'' version.
+</gallery>
+
+== Etymology ==
+{{Etym|Nightmare (equine)}}
+
+== Related enemies ==
+* [[Crazy Horse (Final Fantasy)|Crazy Horse]]
+* [[Unicorn (Final Fantasy)|Unicorn]]
+
+[[de:Höllenross]]
+[[es:Pesadilla (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

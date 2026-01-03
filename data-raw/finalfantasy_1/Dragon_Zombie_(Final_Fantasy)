@@ -1,0 +1,343 @@
+{{DISPLAYTITLE:Dragon Zombie (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Dragon Zombie
+| japanese = ドラゴンゾンビ
+| romaji = Doragonzonbi
+| aka = ZombieD, ZOMBIE DRAGON<ref name="Enemy Identification Chart">''[https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABJE.pdf Final Fantasy Explorer's Handbook]'', p.86, "Enemy Identification Chart"</ref>
+| image = <gallery>
+Dragon Zombie from FFI Pixel Remaster sprite.png|PR
+Dragon Zombie from FFI 20th Anniversary Edition sprite.png|20th
+Dragon Zombie from FFI Dawn of Souls sprite.png|GBA
+Dragon Zombie from FFI Origins sprite.png|PS
+ZombieD from FFI NES sprite.png|NES
+</gallery>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Citadel of Trials]]<br>[[Lifespring Grotto]]
+| recurring appearance = Dragon Zombie
+| aiscript = true
+| formations = true
+}}
+
+The '''Dragon Zombie''', also known as the '''ZombieD''' or '''ZOMBIE DRAGON'''<ref name="Enemy Identification Chart"/>, is an enemy in ''[[Final Fantasy]]''. It is found in the [[Citadel of Trials]] and the [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]. Like most [[undead]], the Zombie Dragon is weak to Fire and Dia. In the ''[[Dawn of Souls]]'' and ''[[20th Anniversary]]'' releases it has a low chance of dropping invaluable [[Megalixir (Final Fantasy)|Megalixirs]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Nightmare (Final Fantasy)
+| prev no = 091
+| bestiary = 092
+| next = Sahagin Prince (Final Fantasy)
+| next no = 093
+| name = Dragon Zombie<br>'''NES:''' ZombieD/ZOMBIE DRAGON<ref name="Enemy Identification Chart"/>
+| type = Dragon<br>Undead
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Citadel of Trials]]<br>[[Lifespring Grotto]]
+| hp = 268
+| attack = 56
+| intellect = 26
+| defense = 30
+| magic defense = 135
+| agility = 12
+| accuracy = 67
+| evasion = 24
+| morale = 200
+| luck = 2
+| hits = 1
+| crit = 1
+| exp = 2,331
+| gil = 999
+| fire = Weak
+| dia = Weak
+| silence = Resists
+| sleep = Resists
+| paralysis = Resists
+| darkness = Resists
+| poison status = Resists
+| poison element = -<br>{{note|reference=Resists prior to pixel remaster.|name=posion element}}
+| stone = Resists
+| confuse = Resists
+| ice = Resists
+| earth = Resists
+| spirit = Resists
+| instant death = Resists
+| drop = [[Megalixir (Final Fantasy)|Megalixir]] (1%) <small>(GBA/20th)</small>
+| abilities = Attacks may inflict [[Paralysis (Final Fantasy status)|Paralysis]]
+}}
+{{annotations}}
+
+==Formations==
+[[File:Dragon ff1.jpg|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|229}}
+|[[Dragon Zombie (Final Fantasy)|Dragon Zombie]] x2
+|{{x}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 3F
+|Fixed
+|-
+!rowspan="2"|{{A|230}}
+|rowspan="2"|[[Dragon Zombie (Final Fantasy)|Dragon Zombie]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|70
+|-
+|[[Citadel of Trials]] 2F
+|80
+|-
+!{{A|636}}
+|[[Dragon Zombie (Final Fantasy)|Dragon Zombie]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|70
+|-
+!{{A|637}}
+|[[Dragon Zombie (Final Fantasy)|Dragon Zombie]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|80
+|-
+!{{A|638}}
+|[[Dragon Zombie (Final Fantasy)|Dragon Zombie]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|90
+|-
+!rowspan="4"|{{A|663}}
+|rowspan="4"|[[Dragon Zombie (Final Fantasy)|Dragon Zombie]] x2, [[Vampire Lord (Final Fantasy)|Vampire Lord]] x3
+|rowspan="4"|{{y}}
+|rowspan="4"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|50
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F
+|70
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B4
+|50
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|60
+|-
+!rowspan="4"|{{A|664}}
+|rowspan="4"|[[Dragon Zombie (Final Fantasy)|Dragon Zombie]] x1, [[Vampire Lord (Final Fantasy)|Vampire Lord]] x2
+|rowspan="4"|{{y}}
+|rowspan="4"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|80
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F
+|100
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B4
+|70
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|70
+|-
+!rowspan="2"|{{A|665}}
+|rowspan="2"|[[Dragon Zombie (Final Fantasy)|Dragon Zombie]] x1, [[Vampire Lord (Final Fantasy)|Vampire Lord]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F
+|100
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|70
+|-
+!{{A|805}}
+|[[Dragon Zombie (Final Fantasy)|Dragon Zombie]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|60
+|-
+!{{A|814}}
+|[[Dragon Zombie (Final Fantasy)|Dragon Zombie]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 3F
+|80
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|075}}
+|rowspan="2"|[[Dragon Zombie (Final Fantasy)|Dragon Zombie]] x1-2
+|rowspan="2"|4 large
+|rowspan="2"|{{x}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|1
+|-
+|[[Citadel of Trials]] 3F
+|Fixed, 1
+|-
+!{{A|203}}
+|[[Dragon Zombie (Final Fantasy)|Dragon Zombie]] x2-4
+|4 large
+|{{x}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|24
+|-
+!rowspan="4"|{{A|211}}
+|rowspan="4"|[[Vampire Lord (Final Fantasy)|Vampire Lord]] x1-3, [[Dragon Zombie (Final Fantasy)|Dragon Zombie]] x1-2
+|rowspan="4"|2 large 6 small
+|rowspan="4"|{{y}}
+|rowspan="4"|4
+|rowspan="4"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2F
+|1
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F
+|1
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B4
+|6
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|6
+|-
+!{{A|363}}
+|[[Dragon Zombie (Final Fantasy)|Dragon Zombie]] x1
+|4 large
+|{{x}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Lifespring Grotto]] - Dragon Caves
+|Fixed
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+| 81
+| —
+| 37.25%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Other appearances ==
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Dragon Zombie FFI.png|right]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+== Etymology ==
+{{Etym|Dragon}}
+
+{{Etym|Zombie}}
+
+== Related enemies ==
+* [[Red Dragon (Final Fantasy)|Red Dragon]]
+* [[White Dragon (Final Fantasy)|White Dragon]]
+* [[Silver Dragon (Final Fantasy)|Silver Dragon]]
+* [[Black Dragon (Final Fantasy)|Black Dragon]]
+
+== Citations ==
+{{citations}}
+
+[[de:Drachenzombie (FFI)]]
+[[Category:Enemies in Final Fantasy]]
+

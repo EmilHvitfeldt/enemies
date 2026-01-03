@@ -1,0 +1,261 @@
+{{infobox enemy
+| release = FFI
+| name = Death Eye
+| japanese = デスアイ
+| romaji = Desuai
+| aka = PHANTOM, [[#Behind the scenes|"Death Beholder"]] {{J|デスビホルダー|Desubihorudā}}
+| image = <gallery>
+Death Eye from FFI Pixel Remaster sprite.png|PR
+Death Eye from FFI 20th Anniversary Edition sprite.png|20th
+Death Eye from FFI Dawn of Souls sprite.png|GBA
+Death Eye from FFI Origins sprite.png|PS
+PHANTOM from FFI NES sprite.png|NES
+</gallery>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| aiscript = true
+| formations = true
+}}
+
+The '''Death Eye''', also known as the '''PHANTOM''', is an enemy from ''[[Final Fantasy]]''. It is a [[fixed encounter]] the party must face before they can access the lower levels of the [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]. It can also appear as a random encounter on the final floor of the Chaos Shrine in version where encounters are enabled on that floor.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Rhyos (Final Fantasy)
+| prev no = 120
+| bestiary = 121
+| next = Purple Worm (Final Fantasy)
+| next no = 122
+| name = Death Eye<br>'''NES:''' PHANTOM
+| type = Magic<br>Regenerative<br>Undead
+| location =  [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| hp = 360
+| attack = 120
+| intellect = 35
+| defense = 60
+| magic defense = 160
+| agility = 12
+| accuracy = 150
+| evasion = 24
+| hits = 1
+| crit = 40
+| luck = 2
+| exp = 1
+| gil = 1
+| morale = 200
+| fire = Weak
+| dia = Weak
+| silence = Resists
+| sleep = Resists
+| paralysis = Resists
+| darkness = Resists
+| poison status = Resists
+| stone = Resists
+| confuse = Resists
+| ice= Resists
+| earth = Resists
+| spirit = Resists
+| instant death = Resists
+|  poison element = -<br>{{note|reference=Resists prior to pixel remaster.|name=posion element}}
+| drop = [[Elixir (Final Fantasy)|Elixir]] (1%)
+| abilities = Attacks may inflict [[Paralysis (Final Fantasy status)|Paralysis]]<br>[[Break (Final Fantasy enemy ability)|Break]]<br>[[Death (Final Fantasy enemy ability)|Death]]<br>[[Dispel (Final Fantasy enemy ability)|Dispel]]<br>[[Gaze (Final Fantasy)|Gaze]]<br>[[Hold (Final Fantasy enemy ability)|Hold]]<br>[[Silence (Final Fantasy enemy ability)|Silence]]<br>[[Slow (Final Fantasy enemy ability)|Slow]]<br>[[Stop (Final Fantasy enemy ability)|Stop]]<br>[[Warp (Final Fantasy enemy ability)|Warp]]
+}}
+{{annotations}}
+
+== Battle ==
+Due to its low [[HP (stat)|HP]], the Death Eye is typically not a threat. However, it can break resistances via [[Dispel (Final Fantasy)|Dispel]], then follow up with several status and [[instant death]] attacks. Using [[Diaga (Final Fantasy)|Diaga]] or [[Firaga (Final Fantasy)|Firaga]] is recommended to dispose of it quickly.
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|197}}
+|Death Eye x1
+|{{x}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F
+|Fixed
+|-
+!{{A|830}}
+|Death Eye x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|60
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|070}}
+|rowspan="2"|Death Eye x1
+|rowspan="2"|2 large 6 small
+|rowspan="2"|{{x}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F
+|Fixed
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|6
+|}
+
+==AI script==
+{{Multicol-begin}}
+;Pixel remaster
+{| class="article-table"
+|-
+! Action
+! Probability
+|-
+| Attack
+| 40.00%
+|-
+| Silence
+| 10.00%
+|-
+| Slow
+| 10.00%
+|-
+| Dispel
+| 9.00%
+|-
+| Hold
+| 6.00%
+|-
+| Stop
+| 6.00%
+|-
+| Flee
+| 5.00%
+|-
+| Death
+| 4.00%
+|-
+| Break
+| 4.00%
+|-
+| Gaze
+| 4.00%
+|-
+| Warp
+| 2.00%
+|}
+{{Multicol-separator}}
+;Other releases
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+! rowspan="2"|Cycle
+|-
+! WSC-''20th''
+! Famicom-NES
+|-
+| Attack
+| 34%
+| 25%
+|
+|-
+| Magic
+| 32%
+| 50%
+| Stop → Warp → Dispel → Break → Death → Hold → Silence → Slow ↻
+|-
+| Gaze
+| 34%
+| 25%
+| 
+|-
+| Flee
+| colspan="3"|Morale check{{note|reference=Death Eyes will only make a Morale check in the NES release; other Morale-based releases prevent all Death Eye formations from fleeing.|name=morale}}
+|}
+{{Multicol-end}}
+
+;Morale check
+{| class="article-table"
+! # [[Fear (Final Fantasy)|Fear]]
+! [[Morale (Final Fantasy)|Morale]]
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+|}
+{{annotations}}
+
+== Other appearances ==
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Death Eye FFI.png|right]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+===''[[Final Fantasy Brave Exvius]]''===
+[[File:Death Eye FFI from FFBE enemy sprite.png|thumb|150x150px]]
+{{Enemy section|Final Fantasy Brave Exvius}}{{clear}}
+
+==Behind the scenes==
+[[File:PHANTOM from FFI Famicom sprite.png|PHANTOM's original Famicom sprite.|thumb]]
+Much like the [[Evil Eye (Final Fantasy)|EYE]], in the game's original Japanese release the PHANTOM, then named {{J|デスビホルダー|Desubihorudā|Death Beholder|fmt=j (r)}}, so resembled the Beholders from ''Dungeons & Dragons'' that Nintendo redesigned the shared sprite between the two monsters before bringing the game to the US.
+{{clear}}
+
+== Etymology ==
+{{Etym|Phantom}}
+
+== Related enemies ==
+* [[Bloody Eye (Final Fantasy)|Bloody Eye]]
+* [[Evil Eye (Final Fantasy)|Evil Eye]]
+
+[[de:Todesauge (FFI)]]
+[[es:Ojo letal (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

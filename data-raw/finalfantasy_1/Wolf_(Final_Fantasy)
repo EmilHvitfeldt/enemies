@@ -1,0 +1,154 @@
+{{DISPLAYTITLE:Wolf (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Wolf
+| japanese = ウルフ
+| romaji = Urufu
+| lit = 
+| image = <gallery>
+Wolf from FFI Pixel Remaster sprite.png|PR
+Wolf from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Wolf from FFI Dawn of Souls sprite.png|GBA
+Wolf from FFI Origins sprite.png|PS
+FFI Wolf MSX.png|MSX
+WOLF from FFI NES sprite.png|NES
+</gallery>
+| location = [[world map#Final Fantasy|World Map]]<br>- near [[Pravoka]]<br>- near [[Elfheim]]<br>- near the [[Earthgift Shrine]]<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Wolf (enemy)
+}}
+The '''Wolf''' is an enemy from the original ''[[Final Fantasy]]''. It attacks in large groups, sometimes alongside [[Warg Wolf (Final Fantasy)|Warg Wolves]], and can easily defeat a [[party]] that has just begun; [[level]]ing up two or three times should help the party overcome them easily. Wolves are found around [[Cornelia (Final Fantasy)|Cornelia]] and in grassy areas near the beginning of the game. Since they are encountered before [[Group-cast|multi-targeting magic]] is available, defeating them can be somewhat painful. The [[Magic (Final Fantasy)|Black Magic]] spell Sleep can make early fights with them easier.
+
+==Stats==
+{{infobox enemy stats FFI
+| pr prev = Goblin Guard (Final Fantasy)
+| pr prev no = 002
+| pr bestiary = 003
+| pr next no = 004
+| pr next = Crazy Horse (Final Fantasy)
+| psp prev = Goblin Guard (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 003
+| psp next = Crazy Horse (Final Fantasy)
+| psp next no = 
+| prev = Goblin Guard (Final Fantasy)
+| prev no = 
+| bestiary = 003
+| next = Crazy Horse (Final Fantasy)
+| next no = 
+| ps prev = Goblin Guard (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 003
+| ps next = Crazy Horse (Final Fantasy)
+| ps next no = 
+| nes = WOLF
+| ps = Wolf
+| = Wolf
+| psp = Wolf
+| psp location = [[world map#Final Fantasy|World Map]]<br>- near [[Pravoka]]<br>- near [[Elfheim]]<br>- near the [[Earthgift Shrine]]<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| nes location = In grass around Elfheim and Cornelia
+| ps location = Various, abundant outside [[Cornelia (Final Fantasy)|Cornelia]], [[Pravoka]], [[Elfheim]]
+| location = All grassy areas, woods, and caves
+| psp hp = 20
+| psp attack = 8
+| psp intelligence = 1
+| psp defense = 0
+| psp magic defense = 28
+| psp agility = 18
+| psp accuracy = 5
+| psp evasion = 36
+| psp exp = 24
+| psp gil = 6
+| hp = 20
+| attack = 8
+| intellect = 1
+| defense = 0
+| magic defense = 28
+| agility = 18
+| accuracy = 5
+| evasion = 36
+| exp = 24
+| gil = 6
+| ps hp = 20
+| ps attack = 8
+| ps defense = 0
+| ps magic defense = 28
+| ps exp = 24
+| ps gil = 6
+| nes hp = 20
+| nes attack = 8 - 16
+| nes defense = 0
+| nes magic defense = 28
+| nes evasion = 36
+| nes accuracy = 5
+| nes exp = 24
+| nes gil = 6
+| psp fire = 
+| psp lightning = 
+| psp ice = 
+| psp dia = 
+| fire = None
+| lightning = 
+| ice = None
+| dia = Misses
+| ps fire = -
+| ps lightning = -
+| ps ice = -
+| ps dia = Misses
+| nes fire = -
+| nes lightning = -
+| nes ice = -
+| nes dia = Misses
+| psp drop = 
+| psp abilities = 
+| psp resistance = 
+| drop = N/A
+| abilities = N/A
+| resistance = None
+| ps abilities = N/A
+| ps resistance = None
+| nes abilities = N/A
+| nes resistance = N/A
+| pr = Wolf
+| pr hp = 20
+| pr attack = 8
+| pr defense = 0
+| pr accuracy = 5
+| pr agility = 18
+| pr intellect = 1
+| pr evasion = 36
+| pr magic defense = 28
+| pr gil = 6
+| pr exp = 24
+| pr drop = 
+| pr type = Beast
+| pr fire = 
+| pr lightning = 
+| pr ice = 
+| pr dia = 
+| pr resistance = 
+| pr location = 
+| pr abilities = 
+}}
+
+==Other appearances==
+===''[[Final Fantasy Brave Exvius]]''===
+[[File:Wolf FFI from FFBE enemy sprite.png|thumb|150x150px]]
+{{enemy section|Final Fantasy Brave Exvius}}
+{{clear}}
+
+== Related enemies ==
+* [[Warg Wolf (Final Fantasy)|Warg Wolf]]
+* [[Werewolf (Final Fantasy)|Werewolf]]
+* [[Winter Wolf]]
+* [[Wild Nakk (Final Fantasy)|Wild Nakk]]
+* [[Dark Wolf (Final Fantasy)|Dark Wolf]]
+
+
+[[de:Wolf (FFI)]]
+[[es:Lobo (Final Fantasy)]]
+[[pl:Wolf (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

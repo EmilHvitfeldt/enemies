@@ -1,0 +1,269 @@
+{{DISPLAYTITLE:Earth Medusa (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Earth Medusa
+| japanese = アースメデューサ
+| romaji = Āsumedyūsa
+| aka = GrMEDUSA, GREEN MEDUSA<ref name="Enemy Identification Chart">''[https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABJE.pdf Final Fantasy Explorer's Handbook]'', p.86, "Enemy Identification Chart"</ref>
+| image = <gallery>
+Earth Medusa from FFI Pixel Remaster sprite.png|PR
+Earth Medusa from FFI 20th Anniversary Edition sprite.png|20th
+Earth Medusa from FFI Dawn of Souls sprite.png|GBA
+Earth Medusa from FFI Origins sprite.png|PS
+GrMEDUSA from FFI NES sprite.png|NES
+</gallery>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Flying Fortress]]
+| aiscript = true
+| formations = true
+}}
+The '''Earth Medusa''', also known as the '''GrMEDUSA''' or '''GREEN MEDUSA''',<ref name="Enemy Identification Chart"/> is an enemy from ''[[Final Fantasy]]''. It is found in the [[Flying Fortress]] and [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]. They can be dangerous when encountered in groups, as their [[Gaze (Final Fantasy)|Gaze]] can inflict [[Stone (Final Fantasy status)|Stone]], while their staggering 10 hits have a high chance of inflicting [[Paralysis (Final Fantasy status)|Paralysis]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Death Knight (Final Fantasy)
+| prev no = 112
+| bestiary = 113
+| next = Black Flan (Final Fantasy)
+| next no = 114
+| name = Earth Medusa<br>'''NES:''' GrMEDUSA/GREEN MEDUSA<ref name="Enemy Identification Chart"/>
+| type = Magic
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Flying Fortress]]
+| hp = 96
+| attack = 11
+| intellect = 24
+| defense = 12
+| magic defense = 70
+| agility = 36
+| accuracy = 24
+| evasion = 72
+| morale = 200
+| hits = 10
+| crit = 1
+| luck = 2
+| exp = 1,218
+| gil = 1,218
+| fire = Weak
+| earth = Resists
+| ice = Resists
+| abilities = Attacks may inflict [[Paralysis (Final Fantasy status)|Paralysis]]<br>[[Gaze (Final Fantasy)|Gaze]]
+}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|178}}
+|Earth Medusa x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 2F
+|80
+|-
+!rowspan="2"|{{A|179}}
+|rowspan="2"|Earth Medusa x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|60
+|-
+|[[Flying Fortress]] 2F
+|70
+|-
+!{{A|180}}
+|Earth Medusa x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|70
+|-
+!{{A|181}}
+|Earth Medusa x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|80
+|-
+!{{A|589}}
+|Earth Medusa x7
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|40
+|-
+!{{A|590}}
+|Earth Medusa x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|50
+|-
+!{{A|591}}
+|Earth Medusa x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|50
+|-
+!{{A|592}}
+|Earth Medusa x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|60
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|064}}
+|rowspan="2"|Earth Medusa x1-4
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|3
+|-
+|[[Flying Fortress]] 2F
+|6
+|-
+!{{A|192}}
+|Earth Medusa x4-7
+|9 small
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B1
+|24
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 60%
+| 50%
+|-
+| Gaze
+| 35%
+| 50%
+|-
+| Flee
+| 5%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+| 81
+| —
+| 37.25%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+==Behind the scenes==
+{{Multiple image
+|image1 = GrMEDUSA from FFI Famicom sprite.png
+|image2 = GrMEDUSA from FFI NES sprite.png
+|width = 66
+|footer = The GrMEDUSA on Famicom (left) and NES (right).
+}}
+The GrMEDUSA is topless, along with the [[Medusa (Final Fantasy)|MEDUSA]], is topless in the original Famicom release. This is [[Censorship|censored]] in the American NES version and all subsequent releases.
+
+== Etymology ==
+{{Etym|Medusa}}
+
+== Related enemies ==
+* [[Medusa (Final Fantasy)|Medusa]]
+
+== Citations ==
+{{citations}}
+
+[[de:Erd-Medusa]]
+
+
+[[Category:Enemies in Final Fantasy]]
+

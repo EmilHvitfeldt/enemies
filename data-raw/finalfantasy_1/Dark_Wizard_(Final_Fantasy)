@@ -1,0 +1,314 @@
+{{DISPLAYTITLE:Dark Wizard (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Dark Wizard
+| japanese = ダークウィザード
+| romaji = Dākuwizādo
+| aka = MAGE
+| image = <gallery>
+Dark Wizard from FFI Pixel Remaster sprite.png|PR
+Dark Wizard from FFI 20th Anniversary Edition sprite.png|20th
+Dark Wizard from FFI Dawn of Souls sprite.png|GBA
+Dark Wizard from FFI Origins sprite.png|PS
+MAGE from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cavern of Ice]]<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| aiscript = true
+| formations = true
+}}
+{{Quote|People are always getting me confused with [[Dark Fighter]].|[[Final Fantasy I & II: Dawn of Souls]], in [[Final Fantasy|the former title]]'s [[Whisperwind Cove (Final_Fantasy)|Whisperwind Cove]]}}
+The '''Dark Wizard''', also known as the '''MAGE''', is an enemy in ''[[Final Fantasy]]''. Appearing in the [[Cavern of Ice]] and the [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], they are powerful spellcasters capable of casting several high-level [[Black Magic]] spells, and may appear alongside their [[White Magic]] counterpart, the [[Dark Fighter]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Remorazz (Final Fantasy)
+| prev no = 073
+| bestiary = 074
+| next = Evil Eye (Final Fantasy)
+| next no = 075
+| name = Dark Wizard<br>'''NES:''' MAGE
+| type = Mage
+| location = [[Cavern of Ice]]<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| hp = 105
+| attack = 26
+| intellect = 24
+| defense = 40
+| magic defense = 170
+| agility = 39
+| accuracy = 27
+| hits = 1
+| evasion = 78
+| crit = 1
+| luck = 2
+| exp = 1,095
+| gil = 1,095
+| morale = 200
+| drop = [[Red Curtain]] (3%) <small>(GBA/20th)</small>
+| abilities = [[Death (Final Fantasy enemy ability)|Death]]<br>[[Firaga (Final Fantasy enemy ability)|Firaga]]<br>[[Scourge (Final Fantasy enemy ability)|Scourge]]<br>[[Slowra (Final Fantasy enemy ability)|Slowra]]<br>[[Stun (Final Fantasy enemy ability)|Stun]]<br>[[Thundaga (Final Fantasy enemy ability)|Thundaga]]
+}}
+
+== Battle ==
+The Dark Wizard uses powerful black magic spells capable of hitting the entire party and/or inflicting [[instant death]]. It is particularly dangerous in the NES release, where [[Death (Final Fantasy)|Death]] is always the first spell it casts at a time when the party does not have access to protection from [[Instant Death (Final Fantasy)|Instant Death]]. However, the Wizard is also frail and will quickly go down to any attack.
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|134}}
+|[[Dark Wizard (Final Fantasy)|Dark Wizard]] x4
+|{{x}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B2
+|Fixed
+|-
+!rowspan="2"|{{A|135}}
+|rowspan="2"|[[Dark Wizard (Final Fantasy)|Dark Wizard]] x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B2
+|55
+|-
+|[[Cavern of Ice]] B3
+|55
+|-
+!{{A|136}}
+|[[Dark Wizard (Final Fantasy)|Dark Wizard]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B2
+|55
+|-
+!{{A|137}}
+|[[Dark Wizard (Final Fantasy)|Dark Wizard]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!rowspan="2"|{{A|521}}
+|rowspan="2"|[[Dark Fighter]] x1, [[Dark Wizard (Final Fantasy)|Dark Wizard]] x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F
+|110
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|70
+|-
+!rowspan="2"|{{A|522}}
+|rowspan="2"|[[Dark Wizard (Final Fantasy)|Dark Wizard]] x2, [[Dark Fighter]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F
+|110
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|70
+|-
+!{{A|816}}
+|[[Dark Wizard (Final Fantasy)|Dark Wizard]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B3
+|50
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|047}}
+|rowspan="2"|[[Dark Wizard (Final Fantasy)|Dark Wizard]] x1-4
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|75
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B2
+|Fixed, 6
+|-
+|[[Cavern of Ice]] B3
+|12
+|-
+!rowspan="2"|{{A|175}}
+|rowspan="2"|[[Dark Wizard (Final Fantasy)|Dark Wizard]] x2-3, [[Dark Fighter]] x1
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|75
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F
+|9
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|1
+|}
+
+==AI script==
+{{Multicol-begin}}
+;Pixel remaster
+{| class="article-table"
+|-
+! Action
+! Probability
+|-
+| Attack
+| 20.65%
+|-
+| Slow
+| 15%
+|-
+| Firaga
+| 10%
+|-
+| Thundaga
+| 10%
+|-
+| Stun
+| 5%
+|-
+| Flee
+| 5%
+|-
+| Scourge
+| 3%
+|-
+| Death
+| 2%
+|}
+{{Multicol-separator}}
+;WonderSwan Color to ''20th Anniversary''
+{| class="article-table"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| 68%
+|
+|-
+| Magic
+| 32%
+| Firaga → Scourge → Thundaga → Slowra → Firaga → Stun → Thundaga → Death ↻
+|-
+| Flee
+| colspan="3"|Morale check
+|}
+{{Multicol-separator}}
+;Famicom to NES
+{| class="article-table"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| 50%
+|
+|-
+| Magic
+| 50%
+| Death → Thundaga → Firaga → Scourge → Slowra → Firaga → Stun → Thundaga ↻
+|-
+| Flee
+| colspan="3"|Morale check
+|}
+{{Multicol-end}}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+| 81
+| —
+| 37.25%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+==Etymology==
+{{Etym|Wizard}}
+
+== Related enemies ==
+* [[Astos]]
+* [[Dark Fighter]]
+* [[Devil Wizard]]
+
+==Annotations==
+{{annotations}}
+
+[[De:Dunkelmagier]]
+[[Category:Enemies in Final Fantasy]]
+

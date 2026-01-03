@@ -1,0 +1,125 @@
+{{DISPLAYTITLE:Shadow (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Shadow
+| japanese = シャドウ
+| romaji = Shadou
+| lit = 
+| image = <gallery>
+Shadow from FFI Pixel Remaster sprite.png|PR
+Shadow from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Shadow from FFI Dawn of Souls sprite.png|GBA
+Shadow from FFI Origins sprite.png|PS
+FFI Shadow MSX.png|MSX
+SHADOW from FFI NES sprite.png|NES
+</gallery>
+| location = [[Marsh Cave]], [[Melmond]]
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Shadow (enemy)
+}}
+The '''Shadow''' is an enemy in the original ''[[Final Fantasy]]''. Its attacks may cause [[Final Fantasy statuses#Darkness|darkness]], which may be troublesome if it hits the party's physical attackers. It appears in large groups, along with other [[undead]] enemies. Casting [[Dia (Final Fantasy)|Dia]] or [[Fire (Final Fantasy)|Fire]] is the best tactic, and [[Firaga (Final Fantasy)|Firaga]] can easily take out a group of Shadows and similar undead enemies.
+
+It can be rarely found near the town of [[Melmond]] but are commonly found inside [[Marsh Cave]].
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Scorpion (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 026
+| psp next = Green Slime (Final Fantasy)
+| psp next no = 
+| prev = Scorpion (Final Fantasy)
+| prev no = 
+| bestiary = 026
+| next = Green Slime (Final Fantasy)
+| next no = 
+| ps prev = Scorpion (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 026
+| ps next = Green Slime (Final Fantasy)
+| ps next no = 
+| nes = SHADOW
+| ps = Shadow
+| = Shadow
+| psp = Shadow
+| psp location = 
+| nes location = [[Marsh Cave]], [[Melmond]]
+| ps location = Outside [[Melmond]], [[Marsh Cave]]
+| location = [[Marsh Cave]], around [[Melmond]]
+| psp hp = 50
+| psp attack = 10
+| psp intelligence = 12
+| psp defense = 0
+| psp magic defense = 37
+| psp agility = 18
+| psp accuracy = 13
+| psp evasion = 36
+| psp exp = 90
+| psp gil = 45
+| hp = 50
+| attack = 10
+| intellect = 12
+| defense = 0
+| magic defense = 37
+| agility = 18
+| accuracy = 13
+| evasion = 36
+| exp = 90
+| gil = 45
+| ps hp = 50
+| ps attack = 10
+| ps defense = 0
+| ps magic defense = 37
+| ps exp = 90
+| ps gil = 45
+| nes hp = 50
+| nes attack = 10 - 20
+| nes defense = 0
+| nes magic defense = 37
+| nes evasion = 36
+| nes accuracy = 13
+| nes exp = 90
+| nes gil = 45
+| psp fire = Weak
+| psp lightning = 
+| psp ice = Resist
+| psp dia = Weak
+| fire = Weak
+| lightning = 
+| ice = Resist
+| dia = Weak
+| ps fire = Weak
+| ps lightning = -
+| ps ice = Resist
+| ps dia = Weak
+| nes fire = Weak
+| nes lightning = -
+| nes ice = Resist
+| nes dia = Weak
+| psp drop = 
+| psp abilities = Attacks may inflict Darkness
+| psp resistance = [[Earth (element)|Quake]], [[Death (ability)|Death]], [[Confuse (status)|Confuse]], [[Paralysis]], [[Petrify (status)|Stone]], [[Poison (status)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], [[Spirit (Final Fantasy)|Mind]]
+| drop = None
+| abilities = Attacks may inflict Darkness
+| resistance = [[Earth (element)|Quake]], [[Death (ability)|Death]], [[Confuse (status)|Confuse]], [[Paralysis]], [[Petrify (status)|Stone]], [[Poison (status)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], [[Spirit (Final Fantasy)|Mind]]
+| ps abilities = Attacks may inflict Darkness
+| ps resistance = [[Earth (element)|Quake]], [[Ice (element)|Ice]], [[Instant Death|Death]], [[Confuse (status)|Confuse]], [[Paralysis]]
+| nes abilities = N/A
+| nes resistance = All statuses, Earth
+}}
+
+== Etymology ==
+{{etym|Shadow}}
+
+== Related enemies ==
+* [[Wraith (Final Fantasy)|Wraith]]
+* [[Specter (Final Fantasy)|Specter]]
+* [[Ghost (Final Fantasy)|Ghost]]
+* [[Reaper (Final Fantasy)|Reaper]]
+
+[[de:Schatten (FFI)]]
+[[es:Sombra (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

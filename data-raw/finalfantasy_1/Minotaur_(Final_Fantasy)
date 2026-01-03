@@ -1,0 +1,331 @@
+{{DISPLAYTITLE:Minotaur (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Minotaur
+| japanese = ミノタウロス
+| romaji = Minotaurosu
+| aka = BULL
+| image = <gallery>
+Minotaur from FFI Pixel Remaster sprite.png|PR
+Minotaur from FFI 20th Anniversary Edition sprite.png|20th
+Minotaur from FFI Dawn of Souls sprite.png|GBA
+Minotaur from FFI Origins sprite‎.png|PS
+FFI Minotaur MSX.gif|MSX
+BULL from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cavern of Earth]]<br>[[Crescent Lake]] region<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]<br>[[Ryukahn Desert]] region
+| formations = true
+| aiscript = true
+| recurring appearance = Minotaur
+}}
+The '''Minotaur''', also known as the '''BULL''' , is an enemy in ''[[Final Fantasy]]''. It gets up to two hits per attack and has [[Attack (Final Fantasy stat)|Attack]] and [[HP (Final Fantasy)|HP]], making it one of the more dangerous enemies in the [[Cavern of Earth]] where it is first encountered. It can also be found in [[Mount Gulg (Final Fantasy)|Mount Gulg]] and the [[Crescent Lake]]/[[Ryukahn Desert]] regions, by which time it will pose a significantly lesser threat to the party.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Lesser Tiger
+| prev no = 038 
+| bestiary = 039
+| next = Hill Gigas (Final Fantasy)
+| next no = 040 
+| name = Minotaur<br>'''NES:''' BULL
+| location = [[Cavern of Earth]]<br>[[Crescent Lake]] region<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]<br>[[Ryukahn Desert]] region
+| hp = 164
+| attack = 22
+| intellect = 8
+| defense = 4
+| magic defense = 95
+| agility = 48
+| accuracy = 41
+| evasion = 48
+| exp = 489
+| gil = 489
+| hits = 2
+| crit = 1
+| morale = 124
+| luck = 2
+| drop = [[Knife (Final Fantasy)|Knife]] (6%)
+}}
+
+==Formations==
+[[File:Minotaur ff1.jpg|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="2"|{{A|086}}
+|rowspan="2"|'''Minotaur''' x1, [[Troll (Final Fantasy)|Troll]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B2
+|60
+|-
+|[[Cavern of Earth]] B5
+|70
+|-
+!rowspan="2"|{{A|295}}
+|rowspan="2"|'''Minotaur''' x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|70
+|-
+|[[Cavern of Earth]] B2
+|70
+|-
+!rowspan="2"|{{A|296}}
+|rowspan="2"|'''Minotaur''' x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|70
+|-
+|[[Cavern of Earth]] B2
+|80
+|-
+!rowspan="2"|{{A|444}}
+|rowspan="2"|[[Scorpion (Final Fantasy)|Scorpion]] x6, '''Minotaur''' x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|30
+|-
+|[[Crescent Lake]]-[[Ryukahn Desert]] region
+|60
+|-
+!{{A|445}}
+|[[Scorpion (Final Fantasy)|Scorpion]] x4, '''Minotaur''' x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|50
+|-
+!rowspan="2"|{{A|446}}
+|rowspan="2"|[[Scorpion (Final Fantasy)|Scorpion]] x3, '''Minotaur''' x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|70
+|-
+|[[Crescent Lake]]-[[Ryukahn Desert]] region
+|60
+|-
+!rowspan="2"|{{A|447}}
+|rowspan="2"|[[Scorpion (Final Fantasy)|Scorpion]] x2, '''Minotaur''' x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|60
+|-
+|[[Crescent Lake]]-[[Ryukahn Desert]] region
+|60
+|-
+!{{A|448}}
+|'''Minotaur''' x2, [[Troll (Final Fantasy)|Troll]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Crescent Lake]]-[[Ryukahn Desert]] region
+|60
+|-
+!{{A|449}}
+|[[Troll (Final Fantasy)|Troll]] x2, '''Minotaur''' x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|450}}
+|[[Troll (Final Fantasy)|Troll]] x1, '''Minotaur''' x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Crescent Lake]]-[[Ryukahn Desert]] region
+|60
+|-
+!{{A|451}}
+|'''Minotaur''' x1, [[Troll (Final Fantasy)|Troll]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Crescent Lake]]-[[Ryukahn Desert]] region
+|60
+|-
+!{{A|715}}
+|'''Minotaur''' x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B5
+|60
+|-
+!rowspan="2"|{{A|716}}
+|rowspan="2"|'''Minotaur''' x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B4
+|80
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B5
+|70
+|-
+!{{A|717}}
+|'''Minotaur''' x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B4
+|70
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|027}}
+|rowspan="2"|[[Troll (Final Fantasy)|Troll]] x1-2, '''Minotaur''' x0-1
+|rowspan="2"|4 large
+|rowspan="2"|{{y}}
+|rowspan="2"|27
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B2
+|3
+|-
+|[[Cavern of Earth]] B5
+|12
+|-
+!rowspan="2"|{{A|100}}
+|rowspan="2"|'''Minotaur''' x1-2
+|rowspan="2"|4 large
+|rowspan="2"|{{y}}
+|rowspan="2"|27
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|12
+|-
+|[[Cavern of Earth]] B2
+|12
+|-
+!rowspan="2"|{{A|154}}
+|rowspan="2"|[[Scorpion (Final Fantasy)|Scorpion]] x2-6, '''Minotaur''' x1-2
+|rowspan="2"|2 large 6 small
+|rowspan="2"|{{y}}
+|rowspan="2"|27
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Crescent Lake]]-[[Ryukahn Desert]] region
+|1
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|9
+|-
+!{{A|155}}
+|[[Troll (Final Fantasy)|Troll]] x1-2, '''Minotaur''' x0-2
+|4 large
+|{{y}}
+|27
+|[[Battle (Final Fantasy)|Battle]]
+|[[Crescent Lake]]-[[Ryukahn Desert]] region
+|9
+|-
+!rowspan="2"|{{A|228}}
+|rowspan="2"|'''Minotaur''' x2-4
+|rowspan="2"|4 large
+|rowspan="2"|{{y}}
+|rowspan="2"|27
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B4
+|12
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B5
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 124
+| 23
+| 48
+| 100%
+| 45
+| 95
+| 100%
+|-
+! 1
+! 84
+| 3
+| 28
+| 100%
+| 5
+| 55
+| 100%
+|-
+! 2
+! 44
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 3
+! 4
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Minotaur}}
+
+== Related enemies ==
+* [[Minotaur Zombie (Final Fantasy)|Minotaur Zombie]]
+* [[Sekhret (Final Fantasy)|Sekhret]]
+
+
+[[de:Minotaurus (FFI)]]
+[[es:Minotauro (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

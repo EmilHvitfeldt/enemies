@@ -1,0 +1,274 @@
+{{infobox enemy
+| release = FFI
+| name = Astos
+| japanese = アストス
+| romaji = Asutosu
+| lit = 
+| image = <gallery>
+Astos from FFI Pixel Remaster battle sprite.png|PR
+Astos from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Astos from FFI Dawn of Souls sprite.png|GBA
+Astos from FFI Origins sprite.png|PS
+ASTOS from FFI NES sprite.png|NES
+</gallery>
+|sprite=[[File:Astos-ff1-msx.png|Field Sprite (MSX).]] [[File:Astos-map-psx.png|Field Sprite (PS).]] [[File:Astos-map-gba.png|Field Sprite (GBA).]] [[File:Astos-map.png|Field Sprite (PSP and iOS).]] [[File:Astos from FFI Pixel Remaster field sprite.png|Field Sprite (PR).]]
+| location = [[Western Keep]]
+| type =Boss 
+| formations = 
+| aiscript = true
+}}
+{{Quote|The curse of Astos will follow you to your dying day!|Astos}}
+'''Astos''' is the evil king of the [[Dark Elf (Final Fantasy)|Dark Elves]] in the original ''[[Final Fantasy]]''. He is fought as a boss in the [[Western Keep]] where he is found disguised as a king.
+
+From ''[[Final Fantasy I & II: Dawn of Souls]]'' to ''[[Final Fantasy 20th Anniversary|20th Anniversary Edition]]'', Astos reappears in the [[Whisperwind Cove (Final Fantasy)|Whisperwind Cove]]. 
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Piscodemon (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 033
+| psp next = Mummy (Final Fantasy)
+| psp next no = 
+| prev = Piscodemon (Final Fantasy)
+| prev no = 
+| bestiary = 033
+| next = Mummy (Final Fantasy)
+| next no = 
+| ps prev = Piscodemon (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 033
+| ps next = Mummy (Final Fantasy)
+| ps next no = 
+| nes = ASTOS
+| ps = Astos
+| = Astos
+| psp = Astos
+| psp location = [[Western Keep]]
+| nes location = [[Western Keep|Northwest Castle]]
+| ps location = [[Western Keep]]
+| location = [[Western Keep]]
+| psp hp = 420
+| psp attack = 30
+| psp intelligence = 24
+| psp defense = 18
+| psp magic defense = 170
+| psp agility = 39
+| psp accuracy = 42
+| psp evasion = 78
+| psp exp = 2,250
+| psp gil = 2,000
+| hp = 420
+| attack = 30
+| intellect = 24
+| defense = 18
+| magic defense = 170
+| agility = 39
+| accuracy = 42
+| evasion = 78
+| exp = 2,250
+| gil = 2,000
+| ps hp = 168
+| ps attack = 26
+| ps defense = 40
+| ps magic defense = 170
+| ps exp = 2,250
+| ps gil = 2,000
+| nes hp = 168
+| nes attack = 26 - 52
+| nes defense = 40
+| nes magic defense = 170
+| nes evasion = 78
+| nes accuracy = 42
+| nes exp = 2,250
+| nes gil = 2,000
+| psp fire = 
+| psp lightning = 
+| psp ice = 
+| psp dia = 
+| fire = -
+| lightning = 
+| ice = -
+| dia = Misses
+| ps fire = -
+| ps lightning = -
+| ps ice = -
+| ps dia = -
+| nes fire = -
+| nes lightning = -
+| nes ice = -
+| nes dia = -
+| psp drop = [[Mythril Sword (Final Fantasy)|Mythril Sword]]
+| psp abilities = 
+| psp resistance = None
+| drop = [[Mythril Sword (Final Fantasy)|Mythril Sword]]
+| abilities = Death, Slow, Slowra, Dark, Sleep, Haste, Fira, Thundara
+| resistance = None
+| ps abilities = Reaper, Slow1, Slow2, Fog, Sleep1, Haste, Fire2, Bolt2
+| ps resistance = None
+| nes abilities = RUB, SLOW, SLO2, DARK, SLEP, FAST, FIR2, LIT2
+| nes resistance = N/A
+}}
+== AI script ==
+{| class="quarter-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 11.11%
+|-
+| [[Sleep (Final Fantasy)|Sleep]]
+| style="text-align:right;" | 11.11%
+|-
+| [[Dark (Final Fantasy)|Dark]]
+| style="text-align:right;" | 11.11%
+|-
+| [[Slow (Final Fantasy)|Slow]]
+| style="text-align:right;" | 11.11%
+|-
+| [[Fira (Final Fantasy)|Fira]]
+| style="text-align:right;" | 11.11%
+|-
+| [[Thundara (Final Fantasy)|Thundara]]
+| style="text-align:right;" | 11.11%
+|-
+| [[Haste (Final Fantasy)|Haste]]
+| style="text-align:right;" | 11.11%
+|-
+| [[Slowra (Final Fantasy)|Slowra]]
+| style="text-align:right;" | 11.11%
+|-
+| [[Death (Final Fantasy)|Death]]
+| style="text-align:right;" | 11.11%
+|}
+
+Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'' and starting from the WonderSwan Color version (including PS1, GBA and PSP):
+
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 52.00%
+|-
+| Magic
+| style="text-align:right;" | 48.00%
+| [[Death (Final Fantasy)|Death]] → [[Slowra (Final Fantasy)|Slowra]] → [[Haste (Final Fantasy)|Haste]] → [[Fira (Final Fantasy)|Fira]] → [[Thundara (Final Fantasy)|Thundara]] → [[Slow (Final Fantasy)|Slow]] → [[Dark (Final Fantasy)|Dark]] → [[Sleep (Final Fantasy)|Sleep]]
+|}
+
+Prior to WSC (including NES):
+
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 25.00%
+|-
+| Magic
+| style="text-align:right;" | 75.00%
+| [[Death (Final Fantasy)|Death]] → [[Slowra (Final Fantasy)|Slowra]] → [[Haste (Final Fantasy)|Haste]] → [[Fira (Final Fantasy)|Fira]] → [[Thundara (Final Fantasy)|Thundara]] → [[Slow (Final Fantasy)|Slow]] → [[Dark (Final Fantasy)|Dark]] → [[Sleep (Final Fantasy)|Sleep]]
+|}
+== Story ==
+[[File:Astos-FFI.JPG|Astos reveals his true nature.|thumb]]
+Astos and his cronies attack [[Elfheim]] before the [[Final Fantasy characters|Warriors of Light]] arrive, placing a curse on the [[Prince of Elfheim]] (that puts him in an endless sleep) and sacking the treasury. He steals [[Matoya (Final Fantasy)|Matoya's]] [[Crystal Eye (item)|Crystal Eye]] to prevent her from making a potion to revive the Prince, and poses as a weak old king in the Western Keep and tricks the Warriors of Light into recovering the [[Crown (Final Fantasy)|Crown]] from the dangerous depths of the [[Marsh Cave]]. When the Warriors return, Astos shows his true form, but the Light Warriors destroy him.
+
+Within the Whisperwind Cove, in a room with flame-like spirits that must be calmed so they can go rest in peace, one of those souls is Astos, seeking revenge and attacking the party. After his soul is destroyed, he curses the [[Warriors of Light]] before fading away.
+
+== Battle ==
+Unlike [[Garland (Final Fantasy)|Garland]], Astos is the first truly challenging boss players are likely to face, particularly in the NES, MSX and "classic mode" ''[[Final Fantasy Origins]]'' versions. While his HP pool is still unimpressive, his physical and magical defense are high.
+
+Astos tends to lead off with [[Death (Final Fantasy)|Death]], which will most likely kill a party member as the spell is almost guaranteed to succeed. If the fight drags on Astos can cast Death repeatedly, which can make short work of a party and leave them unable to damage him fast enough to win. Astos can use [[Slow (Final Fantasy)|Slowra]] alongside both [[Fira (Final Fantasy)|Fira]] and [[Thundara (Final Fantasy)|Thundara]].
+
+If Astos is encountered in the Whisperwind Cove, he will retain the same stats and attacks as before, and since the Light Warriors will have grown more powerful by this point, the fight will be short.
+
+=== Strategy ===
+Being on [[level]] 8 or 9, with a generous helping of [[Mythril Sword (Final Fantasy)|Mythril Swords]] on those who can use them, is typically the recommended level for Astos to not present much of a roadblock.
+
+If the player has a [[Red Mage (Final Fantasy)|Red]] or [[White Mage (Final Fantasy)|White Mage]] they can cast [[Silence (Final Fantasy)|Silence]] at the beginning of the battle to prevent Astos's spells, particularly Death; without them, he simply has an average-for-his-level physical attack, even when hasted.
+
+Either way, physical attackers should use [[Attack (command)|Attack]] after having [[Haste (Final Fantasy)|Haste]] cast upon them. If Astos is not silenced, Red and White Mages should spread around [[NulShock (Final Fantasy)|NulShock]] and [[NulBlaze (Final Fantasy)|NulBlaze]], and heal where necessary. [[Black Mage (Final Fantasy)|Black Mages]] should prioritize Haste and can then follow up with tier 2 attack magic. In versions where it is not [[Magic bugs#Final Fantasy|bugged]], they can also grant [[Temper (Final Fantasy)|Temper]] stacks to allied physical fighters.
+
+From ''Dawn of Souls'' and onward, [[Phoenix Down (Final Fantasy)|Phoenix Downs]] or the spell [[Life (Final Fantasy)|Life]] can be used in case Astos lands Death; however, players of the NES, MSX or ''Origins'' (normal) versions, will simply have to adapt (or reset; using a [[Tent (Final Fantasy)|Tent]] outside Astos's Castle is recommended for "save-scumming" the initial Death use).
+
+From ''Dawn of Souls'' to ''[[Final Fantasy 20th Anniversary|20th Anniversary Edition]]'', the player can attain a [[Cockatrice Claw]] by finishing in third place in the ship's [[15 Puzzle]]. This item has a small chance of an [[KO (Final Fantasy)|instant KO]].
+
+== Other appearances ==
+=== ''[[Pictlogica Final Fantasy]]'' ===
+[[File:PFF Astos.png|right]]
+{{Enemy section|Pictlogica Final Fantasy}}
+{{Clear}}
+
+=== ''[[Final Fantasy Airborne Brigade]]'' ===
+[[File:Astos Brigade.png|100px|right]]
+Astos appears in ''Final Fantasy Airborne Brigade''.
+{{Character section|Final Fantasy Airborne Brigade}}
+{{Clear}}
+
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Astos FFI.png|right|70px]]
+Astos appears as an enemy.
+{{Clear|left}}
+
+===''[[Mobius Final Fantasy]]''===
+[[File:MFF Astos.jpg|right|150px]]
+{{Section|Mobius Final Fantasy}}
+{{Clear}}
+
+===''[[Stranger of Paradise Final Fantasy Origin]]''===
+{{Main|Astos (Stranger of Paradise)}}
+[[File:Astos from Stranger of Paradise.png|right|100px]]
+Astos appears as one of the main supporting characters in ''Stranger of Paradise Final Fantasy Origin''.
+
+The party seeks out Astos at the Western keep, because they believe that he knows the location of the four crystals. After they meet him he spends the rest of the game subtly guiding Jack and the Party to achieve their goals. Upon meeting him, Astos claims to be king of the dark elves, but in reality he was originally an elf who was kidnapped by the [[Lufenian|Lufenians]]. He was then altered and mass produced into an organic reconnaissance unit tasked with measuring darkness and assisting the Lufenians wherever they saw fit.
+Astos later appears as one of the last bosses of the main game in the form of [[Ultima Weapon (creature)|Ultima Weapon origin]].
+{{Clear}}
+
+== Non-''Final Fantasy'' appearances ==
+=== ''[[wikipedia:Captain N: The Game Master|Captain N: The Game Master]]'' ===
+Astos appears in the 34th episode "The Fractured Fantasy of Captain N" under the disguise of a friar who has the Light Crystal guarded within his castle, trying to overthrow the Prince and take his kingdom. His true form is revealed by the light of the crystal. Astos wields a sword like a staff and the sword's design is similar to the North American version of the ''[[Final Fantasy IV]]'' logo of the Super Nintendo. His sword function as a normal sword, but the pommel of the sword is a magical jewel that can shoot a beam of energy and cast enchantments.
+<gallery>
+Captain N - Friar Astos.png|Friar Astos.
+Captain N - Friar Astos Sword.png|Full view of Astos's sword.
+Captain N - Astos.png|Astos's true form.
+</gallery>
+
+==Behind the scenes==
+Astos's likeness inspired the appearance of the [[Dark Elf (Final Fantasy IV)|Dark Elf]] in ''[[Final Fantasy IV]]''. The PSP battle sprites of the two are identical.
+
+While decidedly different in appearance, Astos and the other dark elves are based on the drow from ''Dungeons and Dragons''.
+
+== Gallery ==
+<gallery>
+Astos.jpg|Artwork by [[Yoshitaka Amano]].
+Astos Nintendo Power.jpg|Artwork from ''Nintendo Power'' of Astos in disguise.
+FFI Astos Battle.png|The party faces Astos.
+FFI Death EA.png|Death in the ''20th Anniversary'' version.
+FF1 3DS Astos2.jpg|
+FF1 3DS Astos.jpg|
+FF1 3DS Death.jpg|
+</gallery>
+
+== Related enemies ==
+* [[Dark Wizard (Final Fantasy)|Dark Wizard]]
+* [[Dark Fighter]]
+* [[Devil Wizard]]
+
+{{navbox characters FFI}}
+
+
+[[de:Astos]]
+[[es:Astos (Final Fantasy)]]
+[[it:Astos]]
+[[pl:Astos]]
+[[pt-br:Astos]]
+[[ru:Астос]]
+[[Category:Characters in Final Fantasy]]
+[[Category:Bosses in Final Fantasy]]
+[[Category:Antagonists]]
+[[Category:Kings]]
+

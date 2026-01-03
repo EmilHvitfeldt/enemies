@@ -1,0 +1,254 @@
+{{DISPLAYTITLE:Manticore (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Manticore
+| japanese = マンティコア
+| romaji = Mantikoa
+| aka = MANTICOR
+| image = <gallery>
+Manticore from FFI Pixel Remaster sprite.png|PR
+Manticore from FFI 20th Anniversary Edition sprite.png|20th
+Manticore from FFI Dawn of Souls sprite.png|GBA
+Manticore from FFI Origins sprite.png|PS
+MANTICOR from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cardian Islands]] region<br>[[Flying Fortress]]<br>[[Gaia (Final Fantasy)|Gaia]] region<br>[[Onrac]] region<br>[[Waterfall Cavern]] region
+| formations = true
+| aiscript = true
+|recurring appearance=Manticore
+}}
+The '''Manticore''', also known as the '''MANTICOR''', is an enemy from ''[[Final Fantasy]]''. It appears in the [[Flying Fortress]] and in the northwestern regions of the world map. It appears in groups of up to four. Its [[Poison Darts (Final Fantasy)|Poison Darts]] ability can inflict [[Poison (Final Fantasy status)|Poison]] on the entire party.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Wyrm (Final Fantasy)
+| prev no = 079
+| bestiary = 080
+| next = Baretta (Final Fantasy)
+| next no = 081
+| name = Manticore<br>'''NES:''' MANTICOR
+| type = Beast <small>(PR)</small>
+| location = [[Cardian Islands]] region<br>[[Flying Fortress]]<br>[[Gaia (Final Fantasy)|Gaia]] region<br>[[Onrac]] region<br>[[Waterfall Cavern]] region
+| hp = 164
+| attack = 22
+| intellect = 8
+| defense = 8
+| magic defense = 95
+| agility = 36
+| accuracy = 41
+| evasion = 72
+| exp = 1,317
+| gil = 650
+| morale = 150
+| hits = 2
+| crit = 1
+| luck = 2
+| earth = Resists
+| abilities = [[Poison Darts (Final Fantasy)|Poison Darts]]
+| drop = [[Tent (Final Fantasy)|Tent]] (3%)
+}}
+
+==Formations==
+[[File:Amano FF1 Manticore.gif|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="2"|{{A|155}}
+|rowspan="2"|[[Manticore (Final Fantasy)|Manticore]] x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Gaia (Final Fantasy)|Gaia]]-[[Onrac]]-[[Waterfall Cavern]] region
+|60
+|-
+|Southwestern [[Cardian Islands]] region
+|60
+|-
+!rowspan="2"|{{A|156}}
+|rowspan="2"|[[Manticore (Final Fantasy)|Manticore]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Gaia (Final Fantasy)|Gaia]]-[[Onrac]]-[[Waterfall Cavern]] region
+|60
+|-
+|Southwestern [[Cardian Islands]] region
+|80
+|-
+!rowspan="2"|{{A|157}}
+|rowspan="2"|[[Manticore (Final Fantasy)|Manticore]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Gaia (Final Fantasy)|Gaia]]-[[Onrac]]-[[Waterfall Cavern]] region
+|60
+|-
+|Southwestern [[Cardian Islands]] region
+|60
+|-
+!rowspan="3"|{{A|555}}
+|rowspan="3"|[[Manticore (Final Fantasy)|Manticore]] x4
+|rowspan="3"|{{y}}
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|60
+|-
+|[[Flying Fortress]] 2F
+|60
+|-
+|[[Flying Fortress]] 3F
+|60
+|-
+!rowspan="3"|{{A|556}}
+|rowspan="3"|[[Manticore (Final Fantasy)|Manticore]] x3
+|rowspan="3"|{{y}}
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|70
+|-
+|[[Flying Fortress]] 2F
+|70
+|-
+|[[Flying Fortress]] 3F
+|70
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+!Notes
+|-
+!rowspan="2"|{{A|054}}
+|rowspan="2"|[[Manticore (Final Fantasy)|Manticore]] x1-3
+|rowspan="2"|4 large
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Gaia (Final Fantasy)|Gaia]]-[[Onrac]]-[[Waterfall Cavern]] region
+|3
+|{{note|reference=This encounter has an increased rate of 9 in deserts in the ''[[Dawn of Souls]]'' and ''[[20th Anniversary]]'' releases.|name=desert}}
+|-
+|Southwestern [[Cardian Islands]] region
+|12
+|
+|-
+!rowspan="3"|{{A|182}}
+|rowspan="3"|[[Manticore (Final Fantasy)|Manticore]] x3-4
+|rowspan="3"|4 large
+|rowspan="3"|{{y}}
+|rowspan="3"|4
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|6
+|
+|-
+|[[Flying Fortress]] 2F
+|12
+|
+|-
+|[[Flying Fortress]] 3F
+|12
+|
+|}
+{{annotations}}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 48.08%
+| 50%
+|-
+| Blaze
+| 48.08%
+| 50%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 150
+| 36
+| —
+| 58.23%
+| 71
+| —
+| 56.86%
+|-
+! 1
+! 110
+| 16
+| 41
+| 100%
+| 31
+| 81
+| 100%
+|-
+! 2
+! 70
+| 1
+| 21
+| 100%
+| 1
+| 41
+| 100%
+|-
+! 3
+! 30
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+== Etymology ==
+{{Etym|Manticore}}
+
+== Related enemies ==
+* [[Death Manticore]]
+* [[Sphinx (Final Fantasy)|Sphinx]]
+
+[[de:Gorgo]]
+[[es:Manticora (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

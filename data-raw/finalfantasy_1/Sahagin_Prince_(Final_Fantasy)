@@ -1,0 +1,126 @@
+{{DISPLAYTITLE:Sahagin Prince (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Sahagin Prince
+| japanese = サハギンプリンス
+| romaji = Sahaginpurinsu
+| lit = 
+| image = <gallery>
+Sahagin Prince from FFI Pixel Remaster sprite.png|PR
+Sahagin Prince from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Sahagin Prince from FFI Dawn of Souls sprite.png|GBA
+Sahagin Prince from FFI Origins sprite.png|PS
+WzSAHAG from FFI NES sprite.png|NES
+</gallery>
+| location = [[Sunken Shrine]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], [[Lifespring Grotto]]
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Sahagin Prince
+}}
+The '''Sahagin Prince''', also known as the '''WzSahag''' and the '''Sahagin Priest''' in the [[Nintendo Entertainment System|NES]] and the [[Game Boy Advance|GBA]] versions, is an enemy in the original ''[[Final Fantasy]]''. It is found in the [[Sunken Shrine]] and the [[Lifespring Grotto]].
+
+Sahagin Prince is a blue palette swap of the [[Sahagin (Final Fantasy)|original Sahagin]]. In the NES version the color scheme is the other way around. Also, despite the name in the NES version, it does not use spells. Sahagin Princes come in large packs, sometimes over seven. They are individually weak and a whole group can be defeated with a [[Thundara (Final Fantasy)|Thundara]] spell.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Dragon Zombie (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 093
+| psp next = White Shark (Final Fantasy)
+| psp next no = 
+| prev = Dragon Zombie (Final Fantasy)
+| prev no = 
+| bestiary = 093
+| next = White Shark (Final Fantasy)
+| next no = 
+| ps prev = Dragon Zombie (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 093
+| ps next = White Shark (Final Fantasy)
+| ps next no = 
+| nes = WzSAHAG
+| ps = Sahagin Prince
+| = Sahagin Priest
+| psp = Sahagin Prince
+| psp location = 
+| nes location = [[Sunken Shrine|Sea Shrine]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| ps location = [[Sunken Shrine|Sea Shrine]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| location = [[Sunken Shrine]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], [[Lifespring Grotto]]
+| psp hp = 204
+| psp attack = 47
+| psp intelligence = 15
+| psp defense = 20
+| psp magic defense = 101
+| psp agility = 48
+| psp accuracy = 51
+| psp evasion = 96
+| psp exp = 882
+| psp gil = 882
+| hp = 204
+| attack = 47
+| intellect = 15
+| defense = 20
+| magic defense = 101
+| agility = 48
+| accuracy = 51
+| evasion = 96
+| exp = 882
+| gil = 882
+| ps hp = 204
+| ps attack = 47
+| ps defense = 20
+| ps magic defense = 101
+| ps exp = 882
+| ps gil = 882
+| nes hp = 204
+| nes attack = 47 - 94
+| nes defense = 20
+| nes magic defense = 101
+| nes evasion = 48
+| nes accuracy = 51
+| nes exp = 882
+| nes gil = 882
+| psp fire = Resist
+| psp lightning = Weak
+| psp ice = 
+| psp dia = 
+| fire = Resist
+| lightning = 
+| ice = -
+| dia = Misses
+| ps fire = Resist
+| ps lightning = Weak
+| ps ice = -
+| ps dia = Misses
+| nes fire = Resist
+| nes lightning = Weak
+| nes ice = -
+| nes dia = Misses
+| psp drop = 
+| psp abilities = 
+| psp resistance = [[Earth (Final Fantasy)|Quake]]
+| drop = None
+| abilities = None
+| resistance = [[Earth (Final Fantasy)|Quake]]
+| ps abilities = None
+| ps resistance = [[Earth (Final Fantasy)|Quake]]
+| nes abilities = None
+| nes resistance = [[Earth (Final Fantasy)|Quake]]
+}}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+== Etymology ==
+{{Etym|Sahagin}}
+
+== Related enemies ==
+* [[Sahagin (Final Fantasy)|Sahagin]]
+* [[Sahagin Chief (Final Fantasy)|Sahagin Chief]]
+* [[Sahagin Queen]]
+
+[[de:Sahagin-Prinz (FFI)]]
+[[Category:Enemies in Final Fantasy]]
+

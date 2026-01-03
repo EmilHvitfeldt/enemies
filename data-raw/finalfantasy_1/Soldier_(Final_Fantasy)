@@ -1,0 +1,129 @@
+{{DISPLAYTITLE:Soldier (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Soldier
+| japanese = ソルジャー
+| romaji = Sorujā
+| lit = 
+| image = <gallery>
+Soldier from FFI Pixel Remaster sprite.png|PR
+Soldier from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Soldier from FFI Dawn of Souls sprite.png|GBA
+Soldier from FFI Origins sprite.png|PS
+SENTRY from FFI NES sprite.png|NES
+</gallery>
+| location = [[Flying Fortress]] 3F & 4F
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Soldier
+}}
+The '''Soldier''', also known as the '''Sentry''', is an enemy in the original ''[[Final Fantasy]]''. It is a moderately powerful enemy at the time it is fought, but can be dealt with [[Lightning (Final Fantasy)|Lightning]]-elemental items and spells, or a constant barrage of physical attacks.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Black Flan (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 115
+| psp next = Vampire Lord (Final Fantasy)
+| psp next no = 
+| prev = Black Flan (Final Fantasy)
+| prev no = 
+| bestiary = 115
+| next = Vampire Lord (Final Fantasy)
+| next no = 
+| ps prev = Black Flan (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 115
+| ps next = Vampire Lord (Final Fantasy)
+| ps next no = 
+| nes = SENTRY
+| ps = Soldier
+| = Soldier
+| psp = Soldier
+| psp location = 
+| nes location = [[Flying Fortress|Sky Castle]]
+| ps location = [[Flying Fortress]]
+| location = [[Flying Fortress]] 4F
+| psp hp = 400
+| psp attack = 102
+| psp intelligence = 28
+| psp defense = 48
+| psp magic defense = 160
+| psp agility = 48
+| psp accuracy = 90
+| psp evasion = 96
+| psp exp = 4000
+| psp gil = 2000
+| hp = 400
+| attack = 102
+| intellect = 28
+| defense = 48
+| magic defense = 160
+| agility = 48
+| accuracy = 90
+| evasion = 96
+| exp = 4,000
+| gil = 2,000
+| ps hp = 400
+| ps attack = 102
+| ps defense = 48
+| ps magic defense = 160
+| ps exp = 1,224
+| ps gil = 400
+| nes hp = 400
+| nes attack = 102 - 204
+| nes defense = 40
+| nes magic defense = 160
+| nes evasion = 72
+| nes accuracy = 50
+| nes exp = 4,000
+| nes gil = 2,000
+| psp fire = Resist
+| psp lightning = Weak
+| psp ice = Resist
+| psp dia = Misses
+| fire = Resist
+| lightning = Weak
+| ice = Resist
+| dia = Misses
+| ps fire = Resist
+| ps lightning = Weak
+| ps ice = Resist
+| ps dia = -
+| nes fire = Resist
+| nes lightning = Weak
+| nes ice = Resist
+| nes dia = -
+| psp drop = [[Phoenix Down (Final Fantasy)|Phoenix Down]]
+| psp abilities = 
+| psp resistance = [[Earth (element)|Quake]], [[Petrify (status)|Stone]], [[Paralysis]], [[Poison (status)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], [[Confuse (status)|Confuse]], Mind, [[Death (ability)|Death]]
+| drop = [[Phoenix Down (Final Fantasy)|Phoenix Down]]
+| abilities = N/A
+| resistance = [[Earth (element)|Quake]], [[Petrify (status)|Stone]], [[Paralysis]], [[Poison (status)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], [[Confuse (status)|Confuse]], Mind, [[Death (ability)|Death]]
+| ps abilities = N/A
+| ps resistance = All statuses, Fire, Quake, Ice
+| nes abilities = N/A
+| nes resistance = All statuses, Fire, Quake, Ice
+}}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+===''[[Final Fantasy Brave Exvius]]''===
+[[File:Soldier FFI from FFBE enemy sprite.png|thumb|150x150px]]
+{{enemy section|Final Fantasy Brave Exvius}}
+{{clear}}
+
+==Etymology==
+{{Etym|Soldier}}
+
+== Related enemies ==
+* [[Guardian (Final Fantasy)|Guardian]]
+* [[Prototype (Final Fantasy)|Prototype]]
+
+[[de:Söldner]]
+[[es:Soldado (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

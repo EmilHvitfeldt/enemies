@@ -1,0 +1,125 @@
+{{DISPLAYTITLE:Red Piranha (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Red Piranha
+| japanese = レッドピラニア
+| romaji = ReddoPirania
+| lit = 
+| image = <gallery>
+Red Piranha from FFI Pixel Remaster sprite.png|PR
+Red Piranha from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Red Piranha from FFI Dawn of Souls sprite.png|GBA
+Red Piranha from FFI Origins sprite.png|PS
+R.CARIBE from FFI NES sprite.png|NES
+</gallery>
+| location = 
+| type = 
+| formations = 
+| aiscript = 
+}}
+The '''Red Piranha''', also known as the '''R.CARIBE''' in the ''[[Nintendo Entertainment System|NES]]'' version, is an enemy in the original ''[[Final Fantasy]]''. It appears in all the river areas in the world, sometimes occasionally alongside [[Piranha (Final Fantasy)|Piranhas]], or the enemy [[White Croc]] once the [[party]] obtains the [[canoe]] from the [[Circle of Sages]] in [[Crescent Lake]]. It is the complementary palette swap of the Piranha, having green fins and a red body. It has more [[HP (stat)|HP]] than its counterpart, and has some [[Defense (stat)|Defense]]. It is also stronger because it does not have a [[Thunder (ability)|Thunder]] weakness. However, it is still relatively weak.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Piranha (Final Fantasy)
+| psp prev no =051 
+| psp bestiary = 052
+| psp next = Crocodile (Final Fantasy)
+| psp next no =053 
+| prev = Piranha (Final Fantasy)
+| prev no =051 
+| bestiary = 052
+| next = Crocodile (Final Fantasy)
+| next no =053 
+| ps prev = Piranha (Final Fantasy)
+| ps prev no =051 
+| ps bestiary = 052
+| ps next = Crocodile (Final Fantasy)
+| ps next no =053 
+| nes = R.CARIBE
+| ps = Red Piranha
+| = Red Piranha
+| psp = Red Piranha
+| psp location = 
+| nes location = Rivers in all the world, with the canoe.
+| ps location = Rivers in all the world, with the canoe.
+| location = Rivers in all the world, with the canoe.
+| psp hp = 172
+| psp attack = 37
+| psp intelligence = 13
+| psp defense = 20
+| psp magic defense = 83
+| psp agility = 36
+| psp accuracy = 43
+| psp evasion = 72
+| psp exp = 546
+| psp gil = 46
+| hp = 172
+| attack = 37
+| intellect = 13
+| defense = 20
+| magic defense = 83
+| agility = 36
+| accuracy = 43
+| evasion = 72
+| exp = 546
+| gil = 46
+| ps hp = 172
+| ps attack = 37
+| ps defense = 20
+| ps magic defense = 83
+| ps exp = 546
+| ps gil = 46
+| nes hp = 172
+| nes attack = 37 - 74
+| nes defense = 20
+| nes magic defense = 83
+| nes evasion = 36
+| nes accuracy = 43
+| nes exp = 546
+| nes gil = 46
+| psp fire =- 
+| psp lightning =- 
+| psp ice =- 
+| psp dia =- 
+| fire = -
+| lightning =- 
+| ice = -
+| dia = Misses
+| ps fire = -
+| ps lightning = -
+| ps ice = -
+| ps dia = Misses
+| nes fire = -
+| nes lightning = -
+| nes ice = -
+| nes dia = Misses
+| psp drop = 
+| psp abilities =N/A 
+| psp resistance = 
+| drop = None
+| abilities = None
+| resistance = None
+| ps abilities = None
+| ps resistance = None
+| nes abilities = None
+| nes resistance = None
+}}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+
+{{Enemy section|Pictlogica Final Fantasy}}
+
+== Etymology ==
+{{Etym|Piranha}} In Venezuela, Piranhas are known as caribe.
+
+== Related enemies ==
+* [[Piranha (Final Fantasy)|Piranha]]
+
+[[Category:Enemies in Final Fantasy]]
+
+[[de:Rotpiranha]]
+[[es:Piraña roja (Final Fantasy)]]
+[[it:Piranha rosso]]
+

@@ -1,0 +1,344 @@
+{{DISPLAYTITLE:Piranha (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Piranha
+| japanese = ピラニア
+| romaji = Pirania
+| aka = CARIBE
+| image = <gallery>
+Piranha from FFI Pixel Remaster sprite.png|PR
+Piranha from FFI 20th Anniversary Edition sprite.png|20th
+Piranha from FFI Dawn of Souls sprite.png|GBA
+Piranha from FFI Origins sprite.png|PS
+CARIBE from FFI NES sprite.png|NES
+</gallery>
+| location = [[Canoe#Final Fantasy|Rivers]]
+| formations = true
+| aiscript = true
+| recurring appearance = Piranha
+}}
+The '''Piranha''', also known as the '''CARIBE''', is an enemy in ''[[Final Fantasy]]''. It is found in the rivers around the world, once the player's [[party]] obtain the [[canoe]] from the [[Circle of Sages]]. It is a somewhat uncommon enemy, as most Piranha [[#Formations|formations]] have been [[dummied]] since early releases due to rivers on the southern continents no longer having a unique encounter set.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Ankheg (Final Fantasy)
+| prev no = 050
+| bestiary = 051
+| next = Red Piranha (Final Fantasy)
+| next no = 052
+| name = Piranha<br>'''NES:''' CARIBE
+| type = Aquatic <small>([[Pixel Remaster|PR]])</small>
+| location = [[Canoe#Final Fantasy|Rivers]]
+| hp = 92
+| attack = 22
+| intellect = 10
+| defense = 0
+| magic defense = 68
+| agility = 36
+| accuracy = 23
+| evasion = 72
+| exp = 240
+| gil = 20
+| hits = 1
+| crit = 1
+| morale = 138
+| luck = 2
+| fire = Resists
+| lightning = Weak
+| earth = Resists
+}}
+
+==Formations==
+;''Pixel Remaster''
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|281}}
+|Piranha x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|282}}
+|Piranha x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|283}}
+|Piranha x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|297}}
+|Piranha x2, [[Crocodile (Final Fantasy)|Crocodile]] x2, [[Ochu (Final Fantasy)|Ochu]] x1, [[Hydra (Final Fantasy)|Hydra]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|30
+|-
+!{{A|298}}
+|[[Crocodile (Final Fantasy)|Crocodile]] x1, Piranha x1, [[Ochu (Final Fantasy)|Ochu]] x1, [[Hydra (Final Fantasy)|Hydra]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|50
+|-
+!{{A|486}}
+|Piranha x2, [[Ochu (Final Fantasy)|Ochu]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|487}}
+|Piranha x1, [[Ochu (Final Fantasy)|Ochu]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|699}}
+|Piranha x8
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|700}}
+|Piranha x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|701}}
+|Piranha x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|718}}
+|[[Crocodile (Final Fantasy)|Crocodile]] x2, Piranha x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|719}}
+|[[Crocodile (Final Fantasy)|Crocodile]] x2, Piranha x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|720}}
+|[[Crocodile (Final Fantasy)|Crocodile]] x2, Piranha x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|721}}
+|[[Crocodile (Final Fantasy)|Crocodile]] x1, Piranha x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|722}}
+|[[Crocodile (Final Fantasy)|Crocodile]] x1, Piranha x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|723}}
+|Piranha x2, [[Crocodile (Final Fantasy)|Crocodile]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|724}}
+|Piranha x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|725}}
+|Piranha x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|726}}
+|Piranha x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+!Notes
+|-
+!{{A|095}}
+|Piranha x2-6
+|9 small
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|24
+|{{note|reference=This encounter only occurs in southern rivers in the Famicom, NES, and MSX releases; it is dummied in all other releases.|name=southern rivers}}
+|-
+!{{A|101}}
+|Piranha x0-2, [[Crocodile (Final Fantasy)|Crocodile]] x0-2, [[Ochu (Final Fantasy)|Ochu]] x1, [[Hydra (Final Fantasy)|Hydra]] x0-1
+|2 large 6 small
+|{{y}}
+|30
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|18
+|{{note|reference=In the Famicom, NES, and MSX releases, this encounter occurs only in northern rivers; in all other releases it appears in both northern and southern rivers.|name=northern rivers}}
+|-
+!{{A|165}}
+|[[Ochu (Final Fantasy)|Ochu]] x1, Piranha x0-2
+|2 large 6 small
+|{{y}}
+|33
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|6
+|{{note|name=southern rivers}}
+|-
+!{{A|223}}
+|Piranha x3-8
+|9 small
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|3
+|{{note|name=southern rivers}}
+|-
+!{{A|229}}
+|Piranha x2-4, [[Crocodile (Final Fantasy)|Crocodile]] x0-2
+|9 small
+|{{y}}
+|30
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|1
+|{{note|name=southern rivers}}
+|}
+{{annotations}}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 138
+| 30
+| —
+| 82.35%
+| 59
+| —
+| 80.39%
+|-
+! 1
+! 98
+| 10
+| 35
+| 100%
+| 19
+| 69
+| 100%
+|-
+! 2
+! 58
+| 1
+| 15
+| 100%
+| 1
+| 29
+| 100%
+|-
+! 3
+! 18
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+== Etymology ==
+{{Etym|Piranha}}
+
+== Related enemies ==
+* [[Red Piranha (Final Fantasy)|Red Piranha]]
+
+[[de:Piranha (FFI)]]
+[[es:Piraña (Final Fantasy)]]
+[[it:Piranha (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

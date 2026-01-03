@@ -1,0 +1,232 @@
+{{DISPLAYTITLE:Fire Hydra (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Fire Hydra
+| japanese = ファイアヒドラ
+| romaji = Faiahidora
+| aka = R.HYDRA, RED HYDRA<ref name="Enemy Identification Chart">''[https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABJE.pdf Final Fantasy Explorer's Handbook]'', p.86, "Enemy Identification Chart"</ref>
+| image = <gallery>
+Fire Hydra from FFI Pixel Remaster sprite.png|PR
+Fire Hydra from FFI 20th Anniversary Edition sprite.png|20th
+Fire Hydra from FFI Dawn of Souls sprite.png|GBA
+Fire Hydra from FFI Origins sprite.png|PS
+R.HYDRA from FFI NES sprite.png|NES
+</gallery>
+| location = [[Flying Fortress]]<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]
+| aiscript = true
+| formations = true
+}}
+The '''Fire Hydra''', also known as the '''R.HYDRA''' or '''RED HYDRA'''<ref name="Enemy Identification Chart"/>, is an enemy in ''[[Final Fantasy]]''. They may [[Attack (command)|attack]] with their multiple heads up to three times, but their attacks are relatively weak. They may also use their [[Blaze (Final Fantasy)|Blaze]] attack, which can deal [[Fire (Final Fantasy element)|fire]] damage to the [[party]]. Some normal attacks and [[Ice (Final Fantasy element)|Ice]] spells will defeat this enemy.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Fire Elemental (Final Fantasy)
+| prev no = 060
+| bestiary = 061
+| next = Lava Worm (Final Fantasy)
+| next no = 062
+| name = Fire Hydra<br>'''NES:''' R.HYDRA/RED HYDRA<ref name="Enemy Identification Chart"/>
+| type = Dragon
+| location = [[Flying Fortress]]<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]
+| hp = 182
+| attack = 20
+| intellect = 16
+| defense = 14
+| magic defense = 103
+| agility = 18
+| accuracy = 46
+| evasion = 36
+| morale = 152
+| hits = 3
+| crit = 1
+| exp = 1,215
+| gil = 400
+| luck = 2
+| ice = Weak
+| fire = Resists
+| drop = [[Red Fang (Final Fantasy)|Red Fang]] (2%) <small>([[Final Fantasy I & II: Dawn of Souls|GBA]]/[[Final Fantasy 20th Anniversary|20th]])</small>
+| abilities = [[Blaze (Final Fantasy)|Blaze]]
+}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="3"|{{A|109}}
+|rowspan="3"|Fire Hydra x1
+|rowspan="3"|{{y}}
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B2
+|80
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B3
+|70
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B4
+|80
+|-
+!rowspan="2"|{{A|485}}
+|rowspan="2"|Fire Hydra x4
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 3F
+|60
+|-
+|[[Flying Fortress]] 5F
+|80
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="3"|{{A|036}}
+|rowspan="3"|Fire Hydra x1
+|rowspan="3"|4 large
+|rowspan="3"|{{y}}
+|rowspan="3"|4
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B2
+|6
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B3
+|12
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B4
+|12
+|-
+!rowspan="2"|{{A|164}}
+|rowspan="2"|Fire Hydra x4
+|rowspan="2"|4 large
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 3F
+|6
+|-
+|[[Flying Fortress]] 5F
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 48.08%
+| 50%
+|-
+| Blaze
+| 48.08%
+| 50%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 152
+| 37
+| —
+| 54.9%
+| 73
+| —
+| 52.94%
+|-
+! 1
+! 112
+| 17
+| 42
+| 100%
+| 33
+| 83
+| 100%
+|-
+! 2
+! 72
+| 1
+| 22
+| 100%
+| 1
+| 43
+| 100%
+|-
+! 3
+! 32
+| 1
+| 2
+| 100%
+| 1
+| 3
+| 100%
+|-
+! 4
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Other appearances ==
+
+=== ''[[Pictlogica Final Fantasy]]'' ===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK_Ultimate++_Marilith_&_Fire_Hydra_FFI.png|right|180px]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+== Etymology ==
+{{etym|Fire}}
+
+{{Etym|Hydra}}
+
+== Related enemies ==
+* [[Hydra (Final Fantasy)|Hydra]]
+* [[Yamatano Orochi (Final Fantasy)|Yamatano Orochi]]
+
+== Citations ==
+{{citations}}
+
+[[de:Feuerhydra]]
+[[Category:Enemies in Final Fantasy]]
+

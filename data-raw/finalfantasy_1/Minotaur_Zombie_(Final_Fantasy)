@@ -1,0 +1,259 @@
+{{DISPLAYTITLE:Minotaur Zombie (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Minotaur Zombie
+| japanese = ミノタウロゾンビ
+| romaji = Minotaurozonbi
+| aka = ZomBULL, ZOMBULL<ref name="Enemy Identification Chart">''[https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABJE.pdf Final Fantasy Explorer's Handbook]'', p.86, "Enemy Identification Chart"</ref>, Necrotaur
+| image = <gallery>
+Minotaur Zombie from FFI Pixel Remaster sprite.png|PR
+Minotaur Zombie from FFI 20th Anniversary Edition sprite.png|20th
+Minotaur Zombie from FFI Dawn of Souls sprite.png|GBA
+Necrotaur from FFI Origins sprite.png|PS
+ZomBULL from FFI NES sprite.png|NES
+</gallery>
+| location = [[Citadel of Trials]]<br>[[Lufenia (Final Fantasy)|Lufenia]] region
+| type = 
+| formations = 
+| aiscript = 
+}}
+The '''Minotaur Zombie''', also known as the '''ZomBULL''', '''ZOMBULL'''<ref name="Enemy Identification Chart"/>, or '''Necrotaur''', is an enemy in ''[[Final Fantasy]]''. It is an [[undead]] version of the [[Minotaur (Final Fantasy)|Minotaur]] with pale green skin.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Sand Worm (Final Fantasy)
+| prev no = 085
+| bestiary = 086
+| next = King Mummy
+| next no = 087
+| name = Minotaur Zombie<br>'''PS:''' Necrotaur<br>'''NES:''' ZomBULL/ZOMBULL<ref name="Enemy Identification Chart"/>
+| type = Undead
+| location = [[Citadel of Trials]]<br>[[Lufenia (Final Fantasy)|Lufenia]] region
+| hp = 224
+| attack = 40
+| intellect = 1
+| defense = 14
+| magic defense = 116
+| agility = 18
+| accuracy = 56
+| evasion = 36
+| exp = 1,050
+| gil = 1,050
+| hits = 1
+| crit = 1
+| luck = 2
+| morale = 136
+| fire = Weak
+| dia = Weak
+| silence = Resists
+| sleep = Resists
+| paralysis = Resists
+| darkness = Resists
+| poison status = Resists
+| stone = Resists
+| confuse = Resists
+| ice = Resists
+| spirit = Resists
+| instant death = Resists
+| poison element = -<br>{{note|reference=Resists prior to pixel remaster.|name=poison element}}
+| drop = [[Great Axe (Final Fantasy)|Great Axe]] (1%)
+}}
+{{annotations}}
+
+== Battle ==
+[[File:Minotaur ff1.jpg|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+As it is undead, the Minotaur Zombie is susceptible to [[Fire (element)|Fire]] and [[Dia (ability)|Dia]]. It has high Magic Defense, but low Weapon Defense. It attacks in groups of up to two at a time. It is found when going to [[Lufenia (Final Fantasy)|Lufenia]] and on the second floor of the [[Citadel of Trials]]. It is one of the best [[Experience point|experience]] and [[gil]] farms on the [[Peninsula of Power]], especially when found with [[Troll (Final Fantasy)|Trolls]] as a well-placed fire-elemental spell can deal significant damage to all of them.
+
+=== Strategy ===
+To quickly end a battle among a group of Minotaur Zombies, the player should let spell-casting [[party]] members attack with elemental weakness spells. Overall, they are not difficult enemies (unless fought on the Peninsula of Power much earlier than they are intended to be encountered), and they are easy to defeat, especially if the party has two or more physical attackers.
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|141}}
+|Minotaur Zombie x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|60
+|-
+!{{A|142}}
+|Minotaur Zombie x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|80
+|-
+!{{A|143}}
+|Minotaur Zombie x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|80
+|-
+!{{A|527}}
+|[[Troll (Final Fantasy)|Troll]] x2, Minotaur Zombie x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Lufenia (Final Fantasy)|Lufenia]] region
+|60
+|-
+!{{A|528}}
+|[[Troll (Final Fantasy)|Troll]] x2, Minotaur Zombie x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Lufenia (Final Fantasy)|Lufenia]] region
+|60
+|-
+!{{A|529}}
+|[[Troll (Final Fantasy)|Troll]] x1, Minotaur Zombie x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Lufenia (Final Fantasy)|Lufenia]] region
+|60
+|-
+!{{A|530}}
+|[[Troll (Final Fantasy)|Troll]] x2, Minotaur Zombie x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Lufenia (Final Fantasy)|Lufenia]] region
+|60
+|-
+!{{A|531}}
+|[[Troll (Final Fantasy)|Troll]] x1, Minotaur Zombie x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Lufenia (Final Fantasy)|Lufenia]] region
+|60
+|-
+!{{A|532}}
+|Minotaur Zombie x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!{{A|050}}
+|Minotaur Zombie x1-3
+|4 large
+|{{x}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|24
+|-
+!{{A|178}}
+|Minotaur Zombie x1-4, [[Troll (Final Fantasy)|Troll]] x0-2
+|4 large
+|{{x}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Lufenia (Final Fantasy)|Lufenia]] region
+|24
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 136
+| 29
+| —
+| 86.27%
+| 57
+| —
+| 84.31%
+|-
+! 1
+! 96
+| 9
+| 34
+| 100%
+| 17
+| 67
+| 100%
+|-
+! 2
+! 56
+| 1
+| 14
+| 100%
+| 1
+| 27
+| 100%
+|-
+! 3
+! 16
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Minotaur}}
+
+{{Etym|Zombie}}
+
+== Related enemies ==
+* [[Minotaur (Final Fantasy)|Minotaur]]
+* [[Sekhret (Final Fantasy)|Sekhret]]
+
+== Citations ==
+{{citations}}
+
+[[de:Minotaur-Zombie]]
+[[Category:Enemies in Final Fantasy]]
+

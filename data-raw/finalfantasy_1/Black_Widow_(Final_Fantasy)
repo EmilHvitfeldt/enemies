@@ -1,0 +1,301 @@
+{{DISPLAYTITLE:Black Widow (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Black Widow
+| japanese = ブラックウィドウ
+| romaji = Burakkuwidō
+| aka = SPIDER
+| image = <gallery>
+Black Widow from FFI Pixel Remaster sprite.png|PR
+Black Widow from FFI 20th Anniversary Edition sprite.png|20th
+Black Widow from FFI Dawn of Souls sprite.png|GBA
+Black Widow from FFI Origins sprite.png|PS
+SPIDER from FFI MSX sprite.png|MSX
+SPIDER from FFI NES sprite.png|NES
+</gallery>
+| aiscript = true
+| formations = true
+| location = [[Cavern of Earth]]<br>Cavern of Earth region<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>Chaos Shrine region<br>[[Giant's Cave]] region<br>[[Marsh Cave]]<br>[[Melmond]] region<br>[[Sage's Cave]] region
+| recurring appearance = Black Widow
+}}
+The '''Black Widow''', also known as the '''SPIDER''', is an enemy in ''[[Final Fantasy]]''. It is a common enemy encountered in several regions and dungeons early in the game, and may be encountered alongside the [[Green Slime (Final Fantasy)|Green Slime]], [[Gray Ooze (Final Fantasy)|Gray Ooze]], or [[Tarantula (Final Fantasy)|Tarantula]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Skeleton (Final Fantasy)
+| prev no = 5
+| bestiary = 6
+| next no = 7
+| next = Gigas Worm (Final Fantasy)
+| name = Black Widow<br>'''NES:''' SPIDER
+| location = [[Cavern of Earth]]<br>Cavern of Earth region<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>Chaos Shrine region<br>[[Giant's Cave]] region<br>[[Marsh Cave]]<br>[[Melmond]] region<br>[[Sage's Cave]] region
+| hp = 28
+| attack = 10
+| intellect = 10
+| defense = 0
+| magic defense = 28
+| agility = 15
+| accuracy = 7
+| hits = 1
+| evasion = 30
+| crit = 1
+| luck = 2
+| exp = 30
+| gil = 8
+| morale = 109
+}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="2"|{{A|015}}
+|rowspan="2"|[[Black Widow (Final Fantasy)|Black Widow]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+|60
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] region
+|60
+|-
+!rowspan="2"|{{A|016}}
+|rowspan="2"|[[Black Widow (Final Fantasy)|Black Widow]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+|70
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] region
+|60
+|-
+!{{A|301}}
+|[[Green Slime (Final Fantasy)|Green Slime]] x1, [[Black Widow (Final Fantasy)|Black Widow]] x2, [[Gray Ooze (Final Fantasy)|Gray Ooze]] x1, [[Tarantula (Final Fantasy)|Tarantula]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B3
+|30
+|-
+!rowspan="2"|{{A|302}}
+|rowspan="2"|[[Gray Ooze (Final Fantasy)|Gray Ooze]] x1, [[Black Widow (Final Fantasy)|Black Widow]] x1, [[Tarantula (Final Fantasy)|Tarantula]] x1, [[Green Slime (Final Fantasy)|Green Slime]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B2
+|60
+|-
+|[[Marsh Cave]] B3
+|60
+|-
+!rowspan="2"|{{A|303}}
+|rowspan="2"|[[Black Widow (Final Fantasy)|Black Widow]] x1, [[Tarantula (Final Fantasy)|Tarantula]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B1
+|80
+|-
+|[[Marsh Cave]] B2
+|80
+|-
+!rowspan="2"|{{A|727}}
+|rowspan="2"|[[Black Widow (Final Fantasy)|Black Widow]] x2, [[Tarantula (Final Fantasy)|Tarantula]] x6
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|30
+|-
+|[[Cavern of Earth]]-[[Giant's Cave]]-[[Melmond]] region
+|40
+|-
+!{{A|728}}
+|[[Black Widow (Final Fantasy)|Black Widow]] x2, [[Tarantula (Final Fantasy)|Tarantula]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|729}}
+|[[Black Widow (Final Fantasy)|Black Widow]] x2, [[Tarantula (Final Fantasy)|Tarantula]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|50
+|-
+!{{A|730}}
+|[[Black Widow (Final Fantasy)|Black Widow]] x2, [[Tarantula (Final Fantasy)|Tarantula]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]]-[[Giant's Cave]]-[[Melmond]] region
+|60
+|-
+!{{A|731}}
+|[[Black Widow (Final Fantasy)|Black Widow]] x1, [[Tarantula (Final Fantasy)|Tarantula]] x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|732}}
+|[[Tarantula (Final Fantasy)|Tarantula]] x5, [[Black Widow (Final Fantasy)|Black Widow]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|733}}
+|[[Black Widow (Final Fantasy)|Black Widow]] x1, [[Tarantula (Final Fantasy)|Tarantula]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]]-[[Giant's Cave]]-[[Melmond]] region
+|60
+|-
+!{{A|734}}
+|[[Black Widow (Final Fantasy)|Black Widow]] x1, [[Tarantula (Final Fantasy)|Tarantula]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|005}}
+|rowspan="2"|[[Black Widow (Final Fantasy)|Black Widow]] x1-2
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|55
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+|12
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] region
+|12
+|-
+!rowspan="3"|{{A|102}}
+|rowspan="3"|[[Tarantula (Final Fantasy)|Tarantula]] x1-2, [[Black Widow (Final Fantasy)|Black Widow]] x0-2, [[Green Slime (Final Fantasy)|Green Slime]] x0-2, [[Gray Ooze (Final Fantasy)|Gray Ooze]] x0-2
+|rowspan="3"|9 small
+|rowspan="3"|{{y}}
+|rowspan="3"|55
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B1
+|6
+|-
+|[[Marsh Cave]] B2
+|6
+|-
+|[[Marsh Cave]] B3
+|6
+|-
+!rowspan="2"|{{A|230}}
+|rowspan="2"|[[Tarantula (Final Fantasy)|Tarantula]] x3-6, [[Black Widow (Final Fantasy)|Black Widow]] x0-2
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|55
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B1
+|3
+|-
+|[[Cavern of Earth]]-[[Giant's Cave]]-[[Melmond]]-[[Sage's Cave]] region
+|1
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 109
+| 15
+| 40
+| 100%
+| 30
+| 80
+| 100%
+|-
+! 1
+! 69
+| 1
+| 20
+| 100%
+| 1
+| 40
+| 100%
+|-
+! 2
+! 29
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Other appearances ==
+=== ''[[Pictlogica Final Fantasy]]'' ===
+[[File:PFF Black Widow FFI.png|thumb|150x150px]]
+{{Enemy section|Pictlogica Final Fantasy}}
+{{clear}}
+
+===''[[Final Fantasy Record Keeper]]''===
+[[File:FFRK Black Widow FFI.png|thumb|150x150px]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+== Etymology ==
+{{Etym|Black Widow}}
+
+== Related enemies ==
+* [[Gloom Widow (Final Fantasy)|Gloom Widow]]
+* [[Tarantula (Final Fantasy)|Tarantula]]
+
+[[Category:Enemies in Final Fantasy]]
+
+[[de:Schwarze Witwe (FFI)]]
+[[es:Viuda negra (Final Fantasy)]]
+[[pl:Black Widow (Final Fantasy)]]
+

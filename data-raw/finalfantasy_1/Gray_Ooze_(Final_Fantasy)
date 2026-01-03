@@ -1,0 +1,289 @@
+{{DISPLAYTITLE:Gray Ooze (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Gray Ooze
+| japanese = グレイウーズ
+| romaji = Gureiūzu
+| image = <gallery>
+Gray Ooze from FFI Pixel Remaster sprite.png|PR
+Gray Ooze from FFI 20th Anniversary Edition sprite.png|20th
+Gray Ooze from FFI Dawn of Souls sprite.png|GBA
+Gray Ooze from FFI Origins sprite.png|PS
+FFI Gray Ooze.gif|MSX
+MUCK from FFI NES sprite.png|NES
+</gallery>
+| location = [[Marsh Cave]]<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]
+| formations = true 
+| aiscript = true
+}}
+The '''Gray Ooze''', also known as the '''MUCK''', is an enemy in ''[[Final Fantasy]]''.  Unlike the other Slime-type enemies, its [[Defense (stat)|Defense]] stat is a measly 7, making it highly vulnerable to physical attacks. Its own physical attacks, however, are strong enough to pose a threat at the time it is encountered, so players would be wise not to write it off completely.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Crawler (Final Fantasy)
+| prev no = 028
+| bestiary = 029
+| next = Gargoyle (Final Fantasy)
+| next no = 030
+| name = Gray Ooze<br>'''NES:''' MUCK
+| location = [[Marsh Cave]]<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]
+| hp = 76
+| attack = 30
+| intellect = 0
+| defense = 7
+| magic defense = 55
+| agility = 2
+| accuracy = 19
+| evasion = 4
+| exp = 255
+| gil = 70
+| morale = 152
+| hits = 1
+| crit = 1
+| luck = 2
+| lightning = Weak
+| silence = Resists
+| sleep = Resists
+| paralysis = Resists
+| darkness = Resists
+| poison status = Resists
+| stone = Resists
+| confuse = Resists
+| fire = Resists
+| ice = Resists
+| earth = Resists
+| spirit = Resists
+| instant death = Resists
+| poison element = -<br>{{note|reference=Resists prior to pixel remaster.|name=poison element}}
+}}
+{{annotations}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|301}}
+|[[Green Slime (Final Fantasy)|Green Slime]] x1, [[Black Widow (Final Fantasy)|Black Widow]] x2, [[Gray Ooze (Final Fantasy)|Gray Ooze]] x1, [[Tarantula (Final Fantasy)|Tarantula]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B3
+|30
+|-
+!rowspan="2"|{{A|302}}
+|rowspan="2"|[[Gray Ooze (Final Fantasy)|Gray Ooze]] x1, [[Black Widow (Final Fantasy)|Black Widow]] x1, [[Tarantula (Final Fantasy)|Tarantula]] x1, [[Green Slime (Final Fantasy)|Green Slime]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B2
+|60
+|-
+|[[Marsh Cave]] B3
+|60
+|-
+!{{A|317}}
+|[[Gray Ooze (Final Fantasy)|Gray Ooze]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B3
+|90
+|-
+!rowspan="2"|{{A|318}}
+|rowspan="2"|[[Gray Ooze (Final Fantasy)|Gray Ooze]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B1
+|80
+|-
+|[[Marsh Cave]] B3
+|90
+|-
+!{{A|319}}
+|[[Gray Ooze (Final Fantasy)|Gray Ooze]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B1
+|100
+|-
+!{{A|754}}
+|[[Gray Ooze (Final Fantasy)|Gray Ooze]] x7
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B2
+|30
+|-
+!{{A|755}}
+|[[Gray Ooze (Final Fantasy)|Gray Ooze]] x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B2
+|40
+|-
+!{{A|756}}
+|[[Gray Ooze (Final Fantasy)|Gray Ooze]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|60
+|-
+!{{A|757}}
+|[[Gray Ooze (Final Fantasy)|Gray Ooze]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|60
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="3"|{{A|102}}
+|rowspan="3"|[[Tarantula (Final Fantasy)|Tarantula]] x1-2, [[Black Widow (Final Fantasy)|Black Widow]] x0-2, [[Green Slime (Final Fantasy)|Green Slime]] x0-2, [[Gray Ooze (Final Fantasy)|Gray Ooze]] x0-2
+|rowspan="3"|9 small
+|rowspan="3"|{{y}}
+|rowspan="3"|55
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B1
+|6
+|-
+|[[Marsh Cave]] B2
+|6
+|-
+|[[Marsh Cave]] B3
+|6
+|-
+!rowspan="2"|{{A|107}}
+|rowspan="2"|[[Gray Ooze (Final Fantasy)|Gray Ooze]] x1-3
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B1
+|3
+|-
+|[[Marsh Cave]] B3
+|12
+|-
+!rowspan="2"|{{A|235}}
+|rowspan="2"|[[Gray Ooze (Final Fantasy)|Gray Ooze]] x4-7
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|1
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B2
+|3
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 152
+| 37
+| —
+| 54.9%
+| 73
+| —
+| 52.94%
+|-
+! 1
+! 112
+| 17
+| 42
+| 100%
+| 33
+| 83
+| 100%
+|-
+! 2
+! 72
+| 1
+| 22
+| 100%
+| 1
+| 43
+| 100%
+|-
+! 3
+! 42
+| 1
+| 2
+| 100%
+| 1
+| 3
+| 100%
+|-
+! 4
+! 2
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+
+{{Enemy section|Pictlogica Final Fantasy}}
+
+==Etymology==
+{{Etym|Gray Ooze}}
+
+== Related enemies ==
+* [[Black Flan (Final Fantasy)|Black Flan]]
+* [[Green Slime (Final Fantasy)|Green Slime]]
+* [[Ochre Jelly]]
+* [[Red Flan (Final Fantasy)|Red Flan]]
+
+
+[[es:Lodo gris (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

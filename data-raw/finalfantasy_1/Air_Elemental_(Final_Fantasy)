@@ -1,0 +1,330 @@
+{{DISPLAYTITLE:Air Elemental (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Air Elemental
+| japanese = エアエレメンタル
+| romaji = Eaerementaru
+| aka = Aeros, AIR
+| image = <gallery>
+Air Elemental from FFI Pixel Remaster sprite.png|PR
+Air Elemental from FFI 20th Anniversary Edition sprite.png|20th
+Air Elemental from FFI Dawn of Souls sprite.png|GBA
+Aeros from FFI Origins sprite.png|PS
+AIR from FFI NES sprite.png|NES
+</gallery>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Flying Fortress]]
+| formations = true
+| aiscript = true
+| recurring appearance = Air Elemental
+}}
+The '''Air Elemental''', also known as the '''AIR''' or '''Aeros''', is an enemy from the original ''[[Final Fantasy]]''. It first appears in the [[Flying Fortress]]. It boasts the highest evasion of all enemies. It may be encountered alongside the [[Spirit Naga]].
+
+==Stats==
+{{infobox enemy stats FFI
+|  prev = Stone Golem (Final Fantasy)
+|  prev no = 109
+|  bestiary = 110
+|  next = Spirit Naga
+|  next no = 111
+|  name = Air Elemental<br>'''PS:''' Aeros<br>'''NES:''' AIR
+|  location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Flying Fortress]]
+|  type = Magic
+|  hp = 358
+|  attack = 53
+|  intellect = 40
+|  defense = 4 
+|  magic defense = 130
+|  agility = 72
+|  accuracy = 62
+|  hits = 1
+|  evasion = 144
+|  crit = 1
+|  luck = 2
+|  exp = 1,614
+|  gil = 807
+|  morale = 200
+|  silence = Resists
+|  sleep = Resists
+|  paralysis = Resists
+|  darkness = Resists
+|  poison status = Resists
+|  stone = Resists
+|  confuse = Resists
+|  earth = Resists
+|  spirit = Resists
+|  instant death = Resists
+|  poison element = -<br>{{note|reference=Resists prior to pixel remaster.|name=posion element}}
+|  drop = [[Ether (Final Fantasy)|Ether]] (2%)
+}}
+{{annotations}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="2"|{{A|247}}
+|rowspan="2"|[[Air Elemental (Final Fantasy)|Air Elemental]] x4
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 4F
+|60
+|-
+|[[Flying Fortress]] 5F
+|80
+|-
+!{{A|248}}
+|[[Air Elemental (Final Fantasy)|Air Elemental]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!rowspan="2"|{{A|249}}
+|rowspan="2"|[[Air Elemental (Final Fantasy)|Air Elemental]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 4F
+|80
+|-
+|[[Flying Fortress]] 5F
+|90
+|-
+!rowspan="2"|{{A|250}}
+|rowspan="2"|[[Air Elemental (Final Fantasy)|Air Elemental]] x1, [[Spirit Naga]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|60
+|-
+|[[Flying Fortress]] 2F
+|60
+|-
+!{{A|655}}
+|[[Air Elemental (Final Fantasy)|Air Elemental]] x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B4
+|60
+|-
+!{{A|656}}
+|[[Air Elemental (Final Fantasy)|Air Elemental]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|657}}
+|[[Air Elemental (Final Fantasy)|Air Elemental]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B4
+|90
+|-
+!{{A|658}}
+|[[Air Elemental (Final Fantasy)|Air Elemental]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!rowspan="2"|{{A|659}}
+|rowspan="2"|[[Air Elemental (Final Fantasy)|Air Elemental]] x3, [[Spirit Naga]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 4F
+|70
+|-
+|[[Flying Fortress]] 5F
+|80
+|-
+!rowspan="2"|{{A|660}}
+|rowspan="2"|[[Air Elemental (Final Fantasy)|Air Elemental]] x2, [[Spirit Naga]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 4F
+|80
+|-
+|[[Flying Fortress]] 5F
+|90
+|-
+!{{A|661}}
+|[[Air Elemental (Final Fantasy)|Air Elemental]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|662}}
+|[[Air Elemental (Final Fantasy)|Air Elemental]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|081}}
+|rowspan="2"|[[Air Elemental (Final Fantasy)|Air Elemental]] x2-4
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 4F
+|12
+|-
+|[[Flying Fortress]] 5F
+|12
+|-
+!rowspan="2"|{{A|082}}
+|rowspan="2"|[[Spirit Naga]] x1, [[Air Elemental (Final Fantasy)|Air Elemental]] x0-1
+|rowspan="2"|2 large 6 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|12
+|-
+|[[Flying Fortress]] 2F
+|12
+|-
+!{{A|209}}
+|[[Air Elemental (Final Fantasy)|Air Elemental]] x3-6
+|9 small
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B4
+|12
+|-
+!rowspan="2"|{{A|210}}
+|rowspan="2"|[[Spirit Naga]] x0-1, [[Air Elemental (Final Fantasy)|Air Elemental]] x1-3
+|rowspan="2"|2 large 6 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 4F
+|3
+|-
+|[[Flying Fortress]] 5F
+|6
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+| 81
+| —
+| 37.25%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Elemental}}
+
+{{Etym|Aero}}
+
+== Related enemies ==
+* [[Death Elemental]]
+* [[Water Elemental (Final Fantasy)|Water Elemental]]
+
+[[Category:Enemies in Final Fantasy]]
+
+[[de:Luftelementar]]
+[[es:Elemental Aire (Final Fantasy)]]
+

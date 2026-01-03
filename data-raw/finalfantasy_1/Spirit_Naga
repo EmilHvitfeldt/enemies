@@ -1,0 +1,187 @@
+{{infobox enemy
+| release = FFI
+| name = Spirit Naga
+| japanese = スピリットナーガ
+| romaji = Supirittonāga
+| lit = 
+| image = <gallery>
+Spirit Naga from FFI Pixel Remaster sprite.png|PR
+Spirit Naga from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Spirit Naga from FFI Dawn of Souls sprite.png|GBA
+Spirit Naga from FFI Origins sprite.png|PS
+GrNAGA from FFI NES sprite.png|NES
+</gallery>
+| location =Flying Fortress (1F, 2F, 4F, 5F) 
+| type = 
+| formations = 
+| aiscript = true
+}}
+The '''Spirit Naga''', known as the '''GrNAGA''' in the NES version, is an enemy in the original ''[[Final Fantasy]]''. It it quite rare and is only found around the highest floors of the Flying Fortress. It usually refrains from using physical attacks and uses the Poison Gas move. It is a palette swap of the other Naga enemies.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Air Elemental (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 111
+| psp next = Death Knight (Final Fantasy)
+| psp next no = 
+| prev = Air Elemental (Final Fantasy)
+| prev no = 
+| bestiary = 111
+| next = Death Knight (Final Fantasy)
+| next no = 
+| ps prev = Air Elemental (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 111
+| ps next = Death Knight (Final Fantasy)
+| ps next no = 
+| nes = GrNAGA
+| ps = Spirit Naga
+| = Spirit Naga
+| psp = Spirit Naga
+| psp location = 
+| nes location = [[Flying Fortress|Sky Castle]]
+| ps location = [[Flying Fortress]]
+| location = [[Flying Fortress]]
+| psp hp = 420
+| psp attack = 7
+| psp intelligence = 32
+| psp defense = 16
+| psp magic defense = 143
+| psp agility = 24
+| psp accuracy = 88
+| psp evasion = 48
+| psp exp = 3489
+| psp gil = 4000
+| hp = 420
+| attack = 7
+| intellect = 32
+| defense = 16
+| magic defense = 143
+| agility = 24
+| accuracy = 88
+| evasion = 48
+| exp = 3,489
+| gil = 4,000
+| ps hp = 420
+| ps attack = 7
+| ps defense = 16
+| ps magic defense = 143
+| ps exp = 3,489
+| ps gil = 4,000
+| nes hp = 420
+| nes attack = 7 - 14
+| nes defense = 16
+| nes magic defense = 143
+| nes evasion = 48
+| nes accuracy = 88
+| nes exp = 3,489
+| nes gil = 4,000
+| psp fire = 
+| psp lightning = 
+| psp ice = 
+| psp dia = 
+| fire = -
+| lightning = 
+| ice = -
+| dia = Misses
+| ps fire = -
+| ps lightning = -
+| ps ice = -
+| ps dia = -
+| nes fire = -
+| nes lightning = -
+| nes ice = -
+| nes dia = -
+| psp drop = 
+| psp abilities = 
+| psp resistance = 
+| drop = None
+| abilities = [[Slow (ability)|Slow]], [[Sleep (ability)|Sleep]], [[Fire (ability)|Fire]], [[Thunder (ability)|Thunder]], [[Heal (ability)|Heal]], [[Blink (ability)|Blink]], [[Blind (ability)|Dark]], [[Silence (ability)|Silence]], Poison Gas
+| resistance = None
+| ps abilities = [[Slow (ability)|Slow1]], [[Sleep (ability)|Sleep1]], [[Fire (ability)|Fire]], [[Thunder (ability)|Bolt1]], [[Heal (ability)|Heal1]], [[Blink (ability)|Blink]], [[Silence (ability)|Silence]], [[Blind (ability)|Dark]],Poison Gas
+| ps resistance = N/A
+| nes abilities = RUSE, MUTE, SLOW, DARK, SLEP, FIRE, LIT, HEAL
+| nes resistance = N/A
+}}
+== AI script ==
+{| class="quarter-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 10.68%
+|-
+| [[Blink (Final Fantasy)|Blink]]
+| style="text-align:right;" | 10.68%
+|-
+| [[Fire (Final Fantasy)|Fire]]
+| style="text-align:right;" | 10.68%
+|-
+| [[Sleep (Final Fantasy)|Sleep]]
+| style="text-align:right;" | 10.68%
+|-
+| [[Thunder (Final Fantasy)|Thunder]]
+| style="text-align:right;" | 10.68%
+|-
+| [[Silence (Final Fantasy)|Silence]]
+| style="text-align:right;" | 10.68%
+|-
+| [[Dark (Final Fantasy)|Dark]]
+| style="text-align:right;" | 10.68%
+|-
+| [[Slow (Final Fantasy)|Slow]]
+| style="text-align:right;" | 10.68%
+|-
+| [[Heal (Final Fantasy)|Heal]]
+| style="text-align:right;" | 10.68%
+|-
+| Flee
+| style="text-align:right;" | 3.85%
+|}
+Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'', Spirit Naga has 154 [[morale (Final Fantasy)|morale]], and only gains a chance to run away if the lead party member is Lv38 or higher.
+<br />
+Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'' and starting from the WonderSwan Color version (including PS1, GBA and PSP):
+
+{| class="quarter-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 52.00%
+|-
+| Magic
+| style="text-align:right;" | 48.00%
+| [[Blink (Final Fantasy)|Blink]] → [[Silence (Final Fantasy)|Silence]] → [[Slow (Final Fantasy)|Slow]] → [[Dark (Final Fantasy)|Dark]] → [[Sleep (Final Fantasy)|Sleep]] → [[Fire (Final Fantasy)|Fire]] → [[Thunder (Final Fantasy)|Thunder]] → [[Heal (Final Fantasy)|Heal]]
+|}
+
+Prior to WSC (including NES):
+
+{| class="quarter-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 25.00%
+|-
+| Magic
+| style="text-align:right;" | 75.00%
+| [[Blink (Final Fantasy)|Blink]] → [[Silence (Final Fantasy)|Silence]] → [[Slow (Final Fantasy)|Slow]] → [[Dark (Final Fantasy)|Dark]] → [[Sleep (Final Fantasy)|Sleep]] → [[Fire (Final Fantasy)|Fire]] → [[Thunder (Final Fantasy)|Thunder]] → [[Heal (Final Fantasy)|Heal]]
+|}
+== Etymology ==
+{{etym|Spirit}}
+
+{{Etym|Naga}}
+
+== Related enemies ==
+* [[Water Naga]]
+* [[Poison Naga]]
+
+[[de:Tatzelwurm (FFI)]]
+[[Category:Enemies in Final Fantasy]]
+

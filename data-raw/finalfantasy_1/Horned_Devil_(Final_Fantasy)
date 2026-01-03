@@ -1,0 +1,307 @@
+{{DISPLAYTITLE:Horned Devil (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Horned Devil
+| japanese = ホーンドデビル
+| romaji = Hōndodebiru
+| aka = R.GOYLE, RED GARGOYLE<ref name="Enemy Identification Chart">''[https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABJE.pdf Final Fantasy Explorer's Handbook]'', p.86, "Enemy Identification Chart"</ref>
+| image = <gallery>
+Horned Devil from FFI Pixel Remaster sprite.png|PR
+Horned Devil from FFI 20th Anniversary Edition sprite.png|20th
+Horned Devil from FFI Dawn of Souls sprite.png|GBA
+Horned Devil from FFI Origins sprite.png|PS
+R.GOYLE from FFI NES sprite.png|NES
+</gallery>
+| location = [[Citadel of Trials]]<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]
+| formations = true
+| aiscript = true
+| recurring appearance = Horned Devil
+}}
+The '''Horned Devil''', also known as the '''R.GOYLE''' or '''RED GARGOYLE'''<ref name="Enemy Identification Chart"/>, is an enemy in ''[[Final Fantasy]]''. It can be a dangerous enemy, as it is capable of attacking up to four times per round and casting a variety of magic, and always attacks in groups.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Hydra (Final Fantasy)
+| prev no = 057
+| bestiary = 058
+| next = Pyrolisk (Final Fantasy)
+| next no = 059
+| name = Horned Devil<br>'''NES:''' R.GOYLE/RED GARGOYLE<ref name="Enemy Identification Chart"/>
+| type = Magic
+| location = [[Citadel of Trials]]<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]
+| hp = 94
+| attack = 10
+| intellect = 17
+| defense = 32
+| magic defense = 127
+| agility = 36
+| accuracy = 24
+| evasion = 72
+| exp = 387
+| gil = 387
+| morale = 134
+| hits = 4
+| crit = 1
+| luck = 2
+| fire = Resists
+| ice = Resists
+| earth = Resists
+| abilities = [[Fira (Final Fantasy enemy ability)|Fira]]<br>[[Fire (Final Fantasy enemy ability)|Fire]]<br>[[Hold (Final Fantasy enemy ability)|Hold]]
+}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|313}}
+|[[Horned Devil (Final Fantasy)|Horned Devil]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B2
+|40
+|-
+!rowspan="2"|{{A|314}}
+|rowspan="2"|[[Horned Devil (Final Fantasy)|Horned Devil]] x4
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|60
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B2
+|70
+|-
+!{{A|315}}
+|[[Horned Devil (Final Fantasy)|Horned Devil]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|60
+|-
+!{{A|316}}
+|[[Horned Devil (Final Fantasy)|Horned Devil]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|70
+|-
+!{{A|749}}
+|[[Horned Devil (Final Fantasy)|Horned Devil]] x7
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 3F
+|60
+|-
+!{{A|750}}
+|[[Horned Devil (Final Fantasy)|Horned Devil]] x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 3F
+|80
+|-
+!{{A|751}}
+|[[Horned Devil (Final Fantasy)|Horned Devil]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 3F
+|100
+|-
+!{{A|752}}
+|[[Horned Devil (Final Fantasy)|Horned Devil]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|60
+|-
+!{{A|753}}
+|[[Horned Devil (Final Fantasy)|Horned Devil]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|70
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|106}}
+|rowspan="2"|[[Horned Devil (Final Fantasy)|Horned Devil]] x2-5
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B1
+|12
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B2
+|12
+|-
+!rowspan="2"|{{A|234}}
+|rowspan="2"|[[Horned Devil (Final Fantasy)|Horned Devil]] x3-7
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|12
+|-
+|[[Citadel of Trials]] 3F
+|12
+|}
+
+==AI script==
+{{Multicol-begin}}
+;Pixel remaster
+{| class="article-table"
+|-
+! Action
+! Probability
+|-
+| Fira
+| 31.78%
+|-
+| Fire
+| 31.78%
+|-
+| Attack
+| 21.19%
+|-
+| Hold
+| 10.59%
+|-
+| Flee
+| 4.66%
+|}
+{{Multicol-separator}}
+;WonderSwan Color to ''20th Anniversary''
+{| class="article-table"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| 68%
+|
+|-
+| Magic
+| 32%
+| Fire → Hold → Fira → Fire ↻
+|-
+| Flee
+| colspan="2"|Morale check
+|}
+{{Multicol-separator}}
+;Famicom to NES
+{| class="article-table"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| 50%
+|
+|-
+| Magic
+| 50%
+| Fira → Hold → Fire → Fire ↻
+|-
+| Flee
+| colspan="2"|Morale check
+|}
+{{multicol-end}}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 134
+| 28
+| —
+| 90.12%
+| 55
+| —
+| 88.24%
+|-
+! 1
+! 94
+| 8
+| 33
+| 100%
+| 15
+| 65
+| 100%
+|-
+! 2
+! 54
+| 1
+| 13
+| 100%
+| 1
+| 25
+| 100%
+|-
+! 3
+! 14
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Other appearances ==
+=== ''[[Pictlogica Final Fantasy]]'' ===
+[[File:PFF Horned Devil FFI.png|thumb|150x150px]]
+{{Enemy section|Pictlogica Final Fantasy}}
+{{clear}}
+
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Horned Devil FFI.png|thumb|150x150px]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+== Behind the scenes ==
+At one point in development, the Horned Devil's physical attacks may have been intended to inflict [[Poison (Final Fantasy status)|Poison]] or [[Stone (Final Fantasy status)|Stone]], as its attacks are flagged to check for resistance to the [[Poison (Final Fantasy element)|Poison]] element similar to enemies capable of inflicting those statuses, but no status is assigned to the Horned Devil. This quirk is present in all releases.
+
+== Etymology ==
+{{Etym|Horned devil}}
+
+== Related enemies ==
+* [[Gargoyle (Final Fantasy)|Gargoyle]]
+* [[Rock Gargoyle (Final Fantasy)|Rock Gargoyle]]
+
+==Citations==
+{{citations}}
+
+[[de:Dämon (FFI)]]
+[[Category:Enemies in Final Fantasy]]
+

@@ -1,0 +1,157 @@
+{{DISPLAYTITLE:Garland (''Final Fantasy'' boss)}}
+{{infobox enemy
+| release = FFI
+| name = Garland
+| japanese = ガーランド
+| romaji = Gārando
+| lit = 
+| image = <gallery>
+Garland from FFI Pixel Remaster battle sprite.png|PR
+Garland from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Garland from FFI Dawn of Souls sprite.png|GBA
+Garland from FFI Origins sprite.png|PS
+FFI Garland MSX Battle.gif|MSX
+GARLAND from FFI NES sprite.png|NES
+</gallery>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| type = Boss
+| formations = 
+| aiscript = 
+|character=Garland (Final Fantasy)
+}}
+'''Garland''' is the first [[boss]] in the original ''[[Final Fantasy]]''.
+
+==Stats==
+{{infobox enemy stats FFI
+| pr prev = Ghoul (Final Fantasy)
+| pr prev no = 
+| pr bestiary = 012
+| pr next no = 
+| pr next = Cobra (Final Fantasy)
+| psp prev = Ghoul (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 012
+| psp next = Cobra (Final Fantasy)
+| psp next no = 
+| prev = Ghoul (Final Fantasy)
+| prev no = 
+| bestiary = 012
+| next = Cobra (Final Fantasy)
+| next no = 
+| ps prev = Ghoul (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 012
+| ps next = Cobra (Final Fantasy)
+| ps next no = 
+| nes = GARLAND
+| ps = Garland
+| = Garland
+| psp = Garland
+| psp location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| nes location = [[Chaos Shrine (Final Fantasy)|Temple of Fiends]]
+| ps location = [[Chaos Shrine (Final Fantasy)|Temple of Chaos]]
+| location = [[Chaos Shrine (Final Fantasy)|Temple of Chaos]]
+| psp hp = 212
+| psp attack = 15
+| psp intelligence = 12
+| psp defense = 8
+| psp magic defense = 64
+| psp agility = 6
+| psp accuracy = 27
+| psp evasion = 12
+| psp exp = 130
+| psp gil = 250
+| hp = 212
+| attack = 15
+| intellect = 12
+| defense = 8
+| magic defense = 64
+| agility = 6
+| accuracy = 27
+| evasion = 12
+| exp = 130
+| gil = 250
+| ps hp = 106
+| ps attack = 15
+| ps defense = 10
+| ps magic defense = 64
+| ps exp = 130
+| ps gil = 250
+| nes hp = 106
+| nes attack = 15 - 30
+| nes defense = 10
+| nes magic defense = 64
+| nes evasion = 12
+| nes accuracy = 27
+| nes exp = 130
+| nes gil = 250
+| psp fire = 
+| psp lightning = 
+| psp ice = 
+| psp dia = Misses
+| fire = -
+| lightning = 
+| ice = -
+| dia = Misses
+| ps fire = -
+| ps lightning = -
+| ps ice = -
+| ps dia = Misses
+| nes fire = -
+| nes lightning = -
+| nes ice = -
+| nes dia = Misses
+| psp drop = [[Longsword (Final Fantasy)|Longsword]]
+| psp abilities = 
+| psp resistance = None
+| drop = [[Longsword (Final Fantasy)|Longsword]]
+| abilities = None
+| resistance = None
+| ps abilities = None
+| ps resistance = None
+| nes abilities = None
+| nes resistance = None
+| pr = Garland
+| pr hp = 212
+| pr attack = 15
+| pr defense = 8
+| pr accuracy = 27
+| pr agility = 6
+| pr intellect = 12
+| pr evasion = 12
+| pr magic defense = 64
+| pr gil = 250
+| pr exp = 130
+| pr drop = [[Longsword#Final Fantasy|Longsword]]
+| pr type = 
+| pr fire = 
+| pr lightning = 
+| pr ice = 
+| pr dia = 
+| pr resistance = 
+| pr location =  [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| pr abilities = 
+
+}}
+
+== Battle ==
+Garland solely relies on physical attacks throughout the battle.
+
+=== Strategy ===
+This is not a difficult fight to win, providing the player gets a [[Cure (Final Fantasy)|Cure]] spell for a [[White Mage (Final Fantasy)|White]] or [[Red Mage (Final Fantasy)|Red Mage]]. The [[Warrior (Final Fantasy)|Warrior]]/[[Thief (Final Fantasy)|Thief]]/[[Monk (Final Fantasy)|Monk]] should attack Garland head on while the [[Black Mage (Final Fantasy)|Black Mage]] uses any [[Magic (Final Fantasy)|spells]] they know and the White Mage cures when the [[party]] is injured.
+
+If the party has two Black Magic users giving each a damaging spell will easily win the match in two turns, regardless of the party's [[level]].
+
+== Other appearances ==
+=== ''[[Final Fantasy All the Bravest]]'' ===
+[[File:Garland ATB.png|right]] Garland is fought in Cornelia's Tract. He uses Sweep and drops the Enhancer weapon upon defeat. His description reads: ''"...You will die here and I will continue to live for eternity!"''
+{{clear}}
+
+== Etymology ==
+{{etym|Garland}}
+
+
+[[pl:Garland (boss w Final Fantasy)]]
+[[pt-br:Garland (Chefe de Final Fantasy)]]
+[[Category:Bosses in Final Fantasy]]
+

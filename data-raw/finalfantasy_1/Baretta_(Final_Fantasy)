@@ -1,0 +1,225 @@
+{{DISPLAYTITLE:Baretta (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Baretta
+| japanese = バレッテ
+| romaji = Barette
+| lit = 
+| aka = R.ANKYLO, RED ANKYLO<ref name="Enemy Identification Chart">''[https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABJE.pdf Final Fantasy Explorer's Handbook]'', p.86, "Enemy Identification Chart"</ref>
+| image = <gallery>
+Baretta from FFI Pixel Remaster sprite.png|PR
+Baretta from FFI 20th Anniversary Edition sprite.png|20th
+Baretta from FFI Dawn of Souls sprite.png|GBA
+Baretta from FFI Origins sprite.png|PS
+R.ANKYLO from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cardian Islands]] region<br>[[Yahnikurm Desert]] region
+| recurring appearance = Bulette
+}}
+The '''Baretta''', also known as the '''R.ANKYLO''' or '''RED ANKYLO'''<ref name="Enemy Identification Chart"/>, is an enemy from ''[[Final Fantasy]]''. They are rare enemies that appear in the [[Yahnikurm Desert]] and [[Cardian Islands]] regions. They appear in groups of two or four and are palette swaps of their stronger brothers, the [[Desert Baretta (Final Fantasy)|Desert Baretta]]s.
+
+It is easiest to defeat them with regular [[Attack (command)|physical attacks]] with the [[Warrior (Final Fantasy)|Warrior]]. They resist magic, and do not possess any [[Element (term)|elemental]] weaknesses, thus making physical attacks useful.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Manticore (Final Fantasy)
+| prev no = 080
+| bestiary = 081
+| next = Basilisk (Final Fantasy)
+| next no = 082
+| name = Baretta<br>'''NES:''' R.ANKYLO/RED ANKYLO<ref name="Enemy Identification Chart"/>
+| location = [[Cardian Islands]] region<br>[[Yahnikurm Desert]] region
+| hp = 256
+| attack = 60
+| intellect = 16
+| defense = 38
+| magic defense = 130
+| agility = 28
+| accuracy = 64
+| hits = 3
+| evasion = 56
+| crit = 1
+| luck = 2
+| exp = 300
+| gil = 1,428
+| morale = 146
+}}
+
+==Formations==
+[[File:Baretta-ff1-art.png|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+|{{A|161}}
+|[[Baretta (Final Fantasy)|Baretta]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Southwestern [[Cardian Islands]] region
+|80
+|-
+|{{A|162}}
+|[[Baretta (Final Fantasy)|Baretta]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Southwestern [[Cardian Islands]] region
+|100
+|-
+|{{A|163}}
+|[[Baretta (Final Fantasy)|Baretta]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Southwestern [[Cardian Islands]] region
+|60
+|-
+|{{A|560}}
+|[[Baretta (Final Fantasy)|Baretta]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Yahnikurm Desert]] region
+|90
+|-
+|{{A|561}}
+|[[Baretta (Final Fantasy)|Baretta]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Yahnikurm Desert]] region
+|100
+|-
+|{{A|562}}
+|[[Baretta (Final Fantasy)|Baretta]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Yahnikurm Desert]] region
+|90
+|-
+|{{A|563}}
+|[[Baretta (Final Fantasy)|Baretta]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Yahnikurm Desert]] region
+|90
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!{{A|056}}
+|[[Baretta (Final Fantasy)|Baretta]] x1-3
+|4 large
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cardian Islands]] region
+|3
+|-
+!{{A|184}}
+|[[Baretta (Final Fantasy)|Baretta]] x1-4
+|4 large
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Yahnikurm Desert]] region
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 146
+| 34
+| —
+| 66.67%
+| 67
+| —
+| 64.71%
+|-
+! 1
+! 106
+| 14
+| 39
+| 100%
+| 27
+| 77
+| 100%
+|-
+! 2
+! 66
+| 1
+| 19
+| 100%
+| 1
+| 37
+| 100%
+|-
+! 3
+! 26
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Bulette}}
+
+Its localized [[Nintendo Entertainment System|NES]] name is short for "Red Ankylosaurus", a red variation of the regular [[Bulette (Final Fantasy V)|Ankylo]] from that localization. {{Etym|Ankylosaurus}}
+
+== Related enemies ==
+* [[Desert Baretta (Final Fantasy)|Desert Baretta]]
+
+==Citations==
+{{citations}}
+
+[[Category:Enemies in Final Fantasy]]
+
+[[de:Baretaurus]]
+[[es:Boroto (Final Fantasy)]]
+

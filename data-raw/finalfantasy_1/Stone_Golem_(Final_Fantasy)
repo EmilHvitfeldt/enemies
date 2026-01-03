@@ -1,0 +1,165 @@
+{{DISPLAYTITLE:Stone Golem (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Stone Golem
+| japanese = ストーンゴーレム
+| romaji = Sutōngōremu
+| lit = 
+| image = <gallery>
+Stone Golem from FFI Pixel Remaster sprite.png|PR
+Stone Golem from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Stone Golem from FFI Dawn of Souls sprite.png|GBA
+Stone Golem from FFI Origins sprite.png|PS
+RockGOL from FFI NES sprite.png|NES
+</gallery>
+| location =Flying Fortress (2F, 3F), Chaos Shrine (past - B1, B4) 
+| type = 
+| formations = 
+| aiscript = true
+|recurring appearance=Stone Golem
+}}
+The '''Stone Golem''', also known as '''RockGol''', is an enemy in the original ''[[Final Fantasy]]''. Like other Golems, it is resistant to all [[status effect]]s and [[Element (term)|elements]]. [[Attack (command)|Physical attacks]] are best, despite the enemy's armored appearance.
+
+If not dealt with quickly, fights with it can actually drag on, since it can inflict [[Final Fantasy statuses#Slow|Slow]] and reduce your party's attack rate. Regardless of whether you choose to engage it physically or with magic, it is best to deal with it quickly as a result. Fortunately, it is somewhat weak for how late in the game it appears.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Green Dragon (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 109
+| psp next = Air Elemental (Final Fantasy)
+| psp next no = 
+| prev = Green Dragon (Final Fantasy)
+| prev no = 
+| bestiary = 109
+| next = Air Elemental (Final Fantasy)
+| next no = 
+| ps prev = Green Dragon (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 109
+| ps next = Air Elemental (Final Fantasy)
+| ps next no = 
+| nes = RockGOL
+| ps = Stone Golem
+| = Stone Golem
+| psp = Stone Golem
+| psp location = 
+| nes location = [[Flying Fortress|Sky Castle]]
+| ps location = [[Flying Fortress]]
+| location = [[Flying Fortress]]
+| psp hp = 200
+| psp attack = 70
+| psp intelligence = 21
+| psp defense = 16
+| psp magic defense = 110
+| psp agility = 12
+| psp accuracy = 50
+| psp evasion = 24
+| psp exp = 2385
+| psp gil = 1000
+| hp = 200
+| attack = 70
+| intellect = 21
+| defense = 16
+| magic defense = 110
+| agility = 12
+| accuracy = 50
+| evasion = 24
+| exp = 2,385
+| gil = 1,000
+| ps hp = 200
+| ps attack = 70
+| ps defense = 16
+| ps magic defense = 110
+| ps exp = 2,385
+| ps gil = 1,000
+| nes hp = 200
+| nes attack = 70 - 140
+| nes defense = 16
+| nes magic defense = 110
+| nes evasion = 24
+| nes accuracy = 50
+| nes exp = 2,385
+| nes gil = 1,000
+| psp fire = Resist
+| psp lightning = Resist
+| psp ice = Resist
+| psp dia = Misses
+| fire = Resist
+| lightning = Resist
+| ice = Resist
+| dia = Misses
+| ps fire = Resist
+| ps lightning = Resist
+| ps ice = Resist
+| ps dia = -
+| nes fire = Resist
+| nes lightning = Resist
+| nes ice = Resist
+| nes dia = -
+| psp drop = 
+| psp abilities = 
+| psp resistance = [[Earth (element)|Quake]], [[Petrify (status)|Petrify]], [[Paralysis]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], [[Confuse (status)|Confuse]], Mind, [[Death (ability)|Death]]
+| drop = None
+| abilities = [[Slow (ability)|Slow]]
+| resistance = [[Earth (element)|Quake]], [[Petrify (status)|Petrify]], [[Paralysis]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], [[Confuse (status)|Confuse]], Mind, [[Death (ability)|Death]]
+| ps abilities = [[Slow (ability)|Slow]]
+| ps resistance = All statuses, [[Earth (element)|Quake]]
+| nes abilities = [[Slow (ability)|SLOW]]
+| nes resistance = All statuses, [[Earth (element)|Quake]]
+}}
+== AI script ==
+{| class="quarter-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 64.94%
+|-
+| [[Slow (Final Fantasy)|Slow]]
+| style="text-align:right;" | 32.47%
+|-
+| Flee
+| style="text-align:right;" | 2.60%
+|}
+
+Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'' and starting from the WonderSwan Color version (includes PS1, GBA and PSP):
+
+{| class="article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 76.00%
+|-
+| [[Slow (Final Fantasy)|Slow]]
+| style="text-align:right;" | 24.00%
+|}
+
+Prior to WSC (includes NES):
+
+{| class="article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 62.50%
+|-
+| [[Slow (Final Fantasy)|Slow]]
+| style="text-align:right;" | 37.50%
+|}
+
+== Etymology ==
+{{Etym|Golem}}
+
+== Related enemies ==
+* [[Clay Golem (Final Fantasy)|Clay Golem]]
+* [[Iron Golem (Final Fantasy)|Iron Golem]]
+* [[Mythril Golem (Final Fantasy)|Mythril Golem]]
+
+[[de:Stein-Golem (FFI)]]
+[[Category:Enemies in Final Fantasy]]
+

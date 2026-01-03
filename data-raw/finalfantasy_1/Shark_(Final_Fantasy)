@@ -1,0 +1,130 @@
+{{DISPLAYTITLE:Shark (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Shark
+| japanese = シャーク
+| romaji = Shāku
+| lit = 
+| image = <gallery>
+Shark from FFI Pixel Remaster sprite.png|PR
+Shark from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Shark from FFI Dawn of Souls sprite.png|GBA
+Shark from FFI Origins sprite.png|PS
+FFI Shark MSX.png|MSX
+SHARK from FFI NES sprite.png|NES
+</gallery>
+| location = [[world map#Final Fantasy|World Map]] - [[Sea (location)|Sea]]<br/>[[Sunken Shrine]]
+| type = 
+| formations = 
+| aiscript = 
+}}
+The '''Shark''' is an enemy in the original ''[[Final Fantasy]]''. It appears in groups of two or alone. Due to its high Attack power, it is the most dangerous enemy in the [[Aldean Sea|ocean]] when the [[Final Fantasy characters#The Light Warriors|Warriors of Light]] first set sail on their [[ship]]. Every version of the sprite is facing right, instead of left like in the original drawing.
+
+Physical attacks work well, but if the player struggles, [[Thunder (Final Fantasy)|Thunder]] may be better (or, if there are more than one, [[Thundara (Final Fantasy)|Thundara]]). Shark is the strongest enemy in the game at the point where the party first obtains the ship, so it's advised to head straight for [[Elfheim]] not worrying about fights until the party has purchased Thundara. 
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Buccaneer (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 021
+| psp next = Bigeyes (Final Fantasy)
+| psp next no = 
+| prev = Buccaneer (Final Fantasy)
+| prev no = 
+| bestiary = 021
+| next = Bigeyes (Final Fantasy)
+| next no = 
+| ps prev = Buccaneer (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 021
+| ps next = Bigeyes (Final Fantasy)
+| ps next no = 
+| nes = SHARK
+| ps = Shark
+| = Shark
+| psp = Shark
+| psp location = [[world map#Final Fantasy|World Map]] - [[Sea (location)|Sea]]<br/>[[Sunken Shrine]]
+| nes location = Sea, [[Sunken Shrine]]
+| ps location = Sea, [[Sunken Shrine]]
+| location = In the ship, [[Sunken Shrine]]
+| psp hp = 120
+| psp attack = 22
+| psp intelligence = 8
+| psp defense = 0
+| psp magic defense = 70
+| psp agility = 36
+| psp accuracy = 30
+| psp evasion = 72
+| psp exp = 267
+| psp gil = 66
+| hp = 120
+| attack = 22
+| intellect = 8
+| defense = 0
+| magic defense = 70
+| agility = 36
+| accuracy = 30
+| evasion = 72
+| exp = 267
+| gil = 66
+| ps hp = 120
+| ps attack = 22
+| ps defense = 0
+| ps magic defense = 70
+| ps exp = 267
+| ps gil = 66
+| nes hp = 120
+| nes attack = 22 - 44
+| nes defense = 0
+| nes magic defense = 70
+| nes evasion = 72
+| nes accuracy = 30
+| nes exp = 267
+| nes gil = 66
+| psp fire = Resist
+| psp lightning = Weak
+| psp ice = 
+| psp dia = 
+| fire = Resist
+| lightning = Weak
+| ice = -
+| dia = Misses
+| ps fire = Resist
+| ps lightning = Weak
+| ps ice = -
+| ps dia = -
+| nes fire = Resist
+| nes lightning = Weak
+| nes ice = -
+| nes dia = -
+| psp drop = 
+| psp abilities = 
+| psp resistance = [[Earth (element)|Quake]]
+| drop = None
+| abilities = N/A
+| resistance = [[Earth (element)|Quake]]
+| ps abilities = N/A
+| ps resistance = [[Earth (element)|Quake]], [[Fire (element)|Fire]]
+| nes abilities = None
+| nes resistance = [[Quake (ability)|Quake]], [[Fire (element)]]
+}}
+
+== Other appearances ==
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK_Ultimate+_Kraken_&_Shark_FFI.png|right]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+== Gallery ==
+<gallery>
+Shark ff1.jpg|Artwork by [[Yoshitaka Amano]].
+</gallery>
+
+== Related enemies ==
+* [[White Shark (Final Fantasy)|White Shark]]
+* [[Killer Shark (Final Fantasy)|Killer Shark]]
+
+[[de:Hai]]
+[[es:Tiburón (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

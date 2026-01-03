@@ -1,0 +1,332 @@
+{{DISPLAYTITLE:Medusa (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Medusa
+| japanese = メデューサ
+| romaji = Medyūsa
+| aka = MEDUSA
+| image = <gallery>
+Medusa from FFI Pixel Remaster sprite.png|PR
+Medusa from FFI 20th Anniversary Edition sprite.png|20th
+Medusa from FFI Dawn of Souls sprite.png|GBA
+Medusa from FFI Origins sprite.png|PS
+MEDUSA from FFI NES sprite.png|NES
+MEDUSA from FFI Famicom sprite.png|Famicom
+</gallery>
+| location = [[Citadel of Trials]]<br>[[Flying Fortress]]<br>[[Mirage Tower]]
+| formations = true
+| aiscript = true
+|recurring appearance=Medusa
+}}
+The '''Medusa''', also known as the '''MEDUSA''', is an enemy from the original ''[[Final Fantasy]]''. Its physical [[Attack (command)|attacks]] are nothing to worry about, though it can inflict [[Stone (Final Fantasy status)|Stone]] with its [[Gaze (Final Fantasy)|Gaze]] attack. It is recommended to bring lots of [[Gold Needle (Final Fantasy)|Gold Needle]]s when traversing the areas that they appear in, and to defeat all of them as quickly as possible, as they tend to appear in groups.
+
+In the original Japanese Famicom version, the Medusa's sprite was topless. This was [[Censorship|changed]] during localization.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = King Mummy
+| prev no = 087
+| bestiary = 088
+| next = Rakshasa (Final Fantasy)
+| next no = 089
+| name= Medusa<br>'''NES:''' MEDUSA
+| location = [[Citadel of Trials]]<br>[[Flying Fortress]]<br>[[Mirage Tower]]
+| hp = 68
+| attack = 20
+| intellect = 16
+| defense = 10
+| magic defense = 55
+| agility = 18
+| accuracy = 17
+| evasion = 36
+| exp = 699
+| gil = 699
+| morale = 150
+| hits = 1
+| crit = 1
+| luck = 2
+| abilities = Attacks may inflict [[Poison (Final Fantasy status)|Poison]]<br>[[Gaze (Final Fantasy)|Gaze]]
+}}
+
+==Formations==
+[[File:Medusa ff1.jpg|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|147}}
+|'''Medusa''' x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 3F
+|80
+|-
+!{{A|148}}
+|'''Medusa''' x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 3F
+|100
+|-
+!{{A|149}}
+|'''Medusa''' x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|70
+|-
+!{{A|150}}
+|'''Medusa''' x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|70
+|-
+!{{A|533}}
+|'''Medusa''' x2, [[Rakshasa (Final Fantasy)|Rakshasa]] x7
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|534}}
+|'''Medusa''' x3, [[Rakshasa (Final Fantasy)|Rakshasa]] x6
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 4F
+|30
+|-
+!{{A|535}}
+|'''Medusa''' x4, [[Rakshasa (Final Fantasy)|Rakshasa]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 4F
+|30
+|-
+!{{A|536}}
+|'''Medusa''' x5, [[Rakshasa (Final Fantasy)|Rakshasa]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!rowspan="2"|{{A|537}}
+|rowspan="2"|'''Medusa''' x3, [[Rakshasa (Final Fantasy)|Rakshasa]] x4
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 3F
+|40
+|-
+|[[Flying Fortress]] 4F
+|40
+|-
+!{{A|538}}
+|'''Medusa''' x1, [[Rakshasa (Final Fantasy)|Rakshasa]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 3F
+|70
+|-
+!{{A|541}}
+|'''Medusa''' x4, [[Rakshasa (Final Fantasy)|Rakshasa]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|542}}
+|'''Medusa''' x2, [[Rakshasa (Final Fantasy)|Rakshasa]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 3F
+|50
+|-
+!{{A|543}}
+|'''Medusa''' x3, [[Rakshasa (Final Fantasy)|Rakshasa]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|544}}
+|'''Medusa''' x4, [[Rakshasa (Final Fantasy)|Rakshasa]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|545}}
+|'''Medusa''' x6, [[Sabertooth (Final Fantasy)|Sabertooth]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 3F
+|50
+|-
+!{{A|546}}
+|'''Medusa''' x5, [[Sabertooth (Final Fantasy)|Sabertooth]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!rowspan="2"|{{A|547}}
+|rowspan="2"|'''Medusa''' x4, [[Sabertooth (Final Fantasy)|Sabertooth]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|50
+|-
+|[[Mirage Tower]] 3F
+|70
+|-
+!{{A|548}}
+|'''Medusa''' x3, [[Sabertooth (Final Fantasy)|Sabertooth]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|60
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|052}}
+|rowspan="2"|'''Medusa''' x2-5
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|27
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|12
+|-
+|[[Citadel of Trials]] 3F
+|12
+|-
+!rowspan="2"|{{A|179}}
+|rowspan="2"|[[Rakshasa (Final Fantasy)|Rakshasa]] x3-7, '''Medusa''' x0-5
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 3F
+|12
+|-
+|[[Flying Fortress]] 4F
+|12
+|-
+!rowspan="2"|{{A|180}}
+|rowspan="2"|'''Medusa''' x3-6, [[Sabertooth (Final Fantasy)|Sabertooth]] x1-2
+|rowspan="2"|2 large 6 small
+|rowspan="2"|{{y}}
+|rowspan="2"|27
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|6
+|-
+|[[Mirage Tower]] 3F
+|6
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 60%
+| 50%
+|-
+| Gaze
+| 35%
+| 50%
+|-
+| Flee
+| 5%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 150
+| 36
+| —
+| 58.23%
+| 71
+| —
+| 56.86%
+|-
+! 1
+! 110
+| 16
+| 41
+| 100%
+| 31
+| 81
+| 100%
+|-
+! 2
+! 70
+| 1
+| 21
+| 100%
+| 1
+| 41
+| 100%
+|-
+! 3
+! 30
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+==Other appearances==
+===''[[Final Fantasy Brave Exvius]]''===
+[[File:Medusa FFI from FFBE enemy sprite.png|thumb|150x150px]]
+{{Enemy section|Final Fantasy Brave Exvius}}{{clear}}
+
+== Etymology ==
+{{Etym|Medusa}}
+
+== Related enemies ==
+* [[Earth Medusa (Final Fantasy)|Earth Medusa]]
+
+[[de:Medusa (FFI)]]
+[[es:Medusa (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

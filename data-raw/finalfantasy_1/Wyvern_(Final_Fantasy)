@@ -1,0 +1,127 @@
+{{DISPLAYTITLE:Wyvern (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Wyvern
+| japanese = ワイバーン
+| romaji = Waibān
+| lit = 
+| image = <gallery>
+Wyvern from FFI Pixel Remaster sprite.png|PR
+Wyvern from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Wyvern from FFI Dawn of Souls sprite.png|GBA
+Wyvern from FFI Origins sprite.png|PS
+WYVERN from FFI NES sprite.png|NES
+</gallery>
+| location = Around [[Onrac]], [[Yahnikurm Desert]], [[Mirage Tower]]
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Wyvern (enemy)
+}}
+The '''Wyvern''' is an enemy in the original ''[[Final Fantasy]]''. It is the weaker cousin of the [[Wyrm (Final Fantasy)|Wyrm]] with lower stats. It is blue with red stripes and appears groups of up to four around [[Onrac]], with [[Allosaurus (Final Fantasy)|Allosaurus]] in the [[Yahnikurm Desert]], and with Wyrms on the second level of the [[Mirage Tower]]. Wyvern is a flying enemy immune to [[Quake (Final Fantasy)|Quake]]. It appears in large numbers with other strong enemies. but normal strategies work fine. The player's [[party]] should have [[Job system|upgraded classes]] by that point, so they are not a problem.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Sabertooth (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 078
+| psp next = Wyrm (Final Fantasy)
+| psp next no = 
+| prev = Sabertooth (Final Fantasy)
+| prev no = 
+| bestiary = 078
+| next = Wyrm (Final Fantasy)
+| next no = 
+| ps prev = Sabertooth (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 078
+| ps next = Wyrm (Final Fantasy)
+| ps next no = 
+| nes = WYVERN
+| ps = Wyvern
+| = Wyvern
+| psp = Wyvern
+| psp location = 
+| nes location = [[Mirage Tower]], [[Onrac]], [[Yahnikurm Desert]]
+| ps location = [[Mirage Tower]], [[Onrac]], [[Yahnikurm Desert]]
+| location = World Map, near [[Onrac]], [[Yahnikurm Desert]], [[Mirage Tower]]
+| psp hp = 212
+| psp attack = 30
+| psp intelligence = 16
+| psp defense = 12
+| psp magic defense = 115
+| psp agility = 48
+| psp accuracy = 53
+| psp evasion = 96
+| psp exp = 50
+| psp gil = 1173
+| hp = 212
+| attack = 30
+| intellect = 16
+| defense = 12
+| magic defense = 115
+| agility = 48
+| accuracy = 53
+| evasion = 96
+| exp = 1,173
+| gil = 50
+| ps hp = 212
+| ps attack = 30
+| ps defense = 12
+| ps magic defense = 115
+| ps exp = 1,173
+| ps gil = 50
+| nes hp = 212
+| nes attack = 30 - 60
+| nes defense = 12
+| nes magic defense = 115
+| nes evasion = 96
+| nes accuracy = 53
+| nes exp = 1,173
+| nes gil = 50
+| psp fire = 
+| psp lightning = 
+| psp ice = 
+| psp dia = 
+| fire = -
+| lightning = 
+| ice = -
+| dia = Misses
+| ps fire = -
+| ps lightning = -
+| ps ice = -
+| ps dia = -
+| nes fire = -
+| nes lightning = -
+| nes ice = -
+| nes dia = -
+| psp drop = 
+| psp abilities = 
+| psp resistance = [[Quake (ability)|Quake]]
+| drop = None
+| abilities = N/A
+| resistance = [[Quake (ability)|Quake]]
+| ps abilities = N/A
+| ps resistance = Quake (ability)
+| nes abilities = N/A
+| nes resistance = Quake (ability)
+}}
+
+==Behind the scenes==
+The Wyvern's concept art became the basis for the Raptors in ''[[Final Fantasy XI]]''.
+
+== Gallery ==
+<gallery>
+Wyvern ff1.jpg|Artwork by [[Yoshitaka Amano]].
+</gallery>
+
+== Etymology ==
+{{Etym|Wyvern}}
+
+== Related enemies ==
+* [[Wyrm (Final Fantasy)|Wyrm]]
+
+[[de:Wyvern (FFI)]]
+[[es:Drago (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

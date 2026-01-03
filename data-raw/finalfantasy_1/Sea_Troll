@@ -1,0 +1,124 @@
+{{infobox enemy
+| release = FFI
+| name = Sea Troll
+| japanese = シートロル
+| romaji = Shītororu
+| lit = 
+| image = <gallery>
+Sea Troll from FFI Pixel Remaster sprite.png|PR
+Sea Troll from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Sea Troll from FFI Dawn of Souls sprite.png|GBA
+Sea Troll from FFI Origins sprite.png|PS
+SeaTROLL from FFI NES sprite.png|NES
+</gallery>
+| location = [[Sunken Shrine]]<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| type = 
+| formations = 
+| aiscript = 
+}}
+The '''Sea Troll''' is an enemy in the original ''[[Final Fantasy]]''. It is a water-based enemy and regenerates a small amount of [[HP (stat)|HP]] each turn. They are otherwise easy to dispatch. Due to a [[Graphical bug|glitch]] in the NES version, occasionally the Sea Troll's sprite will be a lighter color than intended.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Sea Scorpion (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 098
+| psp next = Ghost (Final Fantasy)
+| psp next no = 
+| prev = Sea Scorpion (Final Fantasy)
+| prev no = 
+| bestiary = 098
+| next = Ghost (Final Fantasy)
+| next no = 
+| ps prev = Sea Scorpion (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 098
+| ps next = Ghost (Final Fantasy)
+| ps next no = 
+| nes = SeaTROLL
+| ps = Sea Troll
+| = Sea Troll
+| psp = Sea Troll
+| psp location = [[Sunken Shrine]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| nes location = [[Sunken Shrine]], [[Chaos Shrine (Final Fantasy)|Temple of Fiends]]
+| ps location = [[Sunken Shrine]], [[Chaos Shrine (Final Fantasy)|Temple of Chaos]]
+| location = [[Sunken Shrine]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| psp hp = 216
+| psp attack = 40
+| psp intelligence = 10
+| psp defense = 20
+| psp magic defense = 110
+| psp agility = 24
+| psp accuracy = 54
+| psp evasion = 48
+| psp exp = 852
+| psp gil = 852
+| hp = 216
+| attack = 40
+| intellect = 10
+| defense = 20
+| magic defense = 110
+| agility = 24
+| accuracy = 54
+| evasion = 48
+| exp = 852
+| gil = 852
+| ps hp = 216
+| ps attack = 40
+| ps defense = 20
+| ps magic defense = 110
+| ps exp = 852
+| ps gil = 852
+| nes hp = 216
+| nes attack = 24 - 48
+| nes defense = 20
+| nes magic defense = 110
+| nes evasion = 48
+| nes accuracy = 54
+| nes exp = 852
+| nes gil = 852
+| psp fire = -
+| psp lightning = Weak
+| psp ice = 
+| psp dia = Misses
+| fire = -
+| lightning = Weak
+| ice = -
+| dia = Misses
+| ps fire = -
+| ps lightning = Weak
+| ps ice = -
+| ps dia = Misses
+| nes fire = -
+| nes lightning = Weak
+| nes ice = -
+| nes dia = Misses
+| psp drop = None
+| psp abilities = Regenerates HP each turn
+| psp resistance = [[Quake (ability)|Quake]]
+| drop = None
+| abilities = Regenerates HP each turn
+| resistance = [[Quake (ability)|Quake]]
+| ps abilities = Regenerates HP each turn
+| ps resistance = Quake
+| nes abilities = Regenerates HP
+| nes resistance = [[Quake (ability)|QAKE]]
+}}
+
+== Gallery ==
+<gallery>
+FFI Sea Troll NES Glitch.png|The Sea Troll's glitched sprite.
+</gallery>
+
+== Etymology ==
+{{Etym|Troll}}
+
+== Related enemies ==
+* [[Troll (Final Fantasy)|Troll]]
+* [[Blue Troll]]
+* [[Earth Troll]]
+
+[[Category:Enemies in Final Fantasy]]
+
+[[de:Seetroll]]
+

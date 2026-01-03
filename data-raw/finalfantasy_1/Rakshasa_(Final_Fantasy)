@@ -1,0 +1,187 @@
+{{DISPLAYTITLE:Rakshasa (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Rakshasa
+| japanese = ラクシャーサ
+| romaji = Rakushāsa
+| lit = 
+| image = <gallery>
+Rakshasa from FFI Pixel Remaster sprite.png|PR
+Rakshasa from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Rakshasa from FFI Dawn of Souls sprite.png|GBA
+Rakshasa from FFI Origins sprite.png|PS
+MANCAT from FFI NES sprite.png|NES
+</gallery>
+| location =[[Citadel of Trials]], [[Flying Fortress]] (3F) 
+| type = 
+| formations = 
+| aiscript = true
+| recurring appearance = Rakshasa
+}}
+The '''Rakshasa''', also known as the '''ManCat''' in the [[Nintendo Entertainment System]], is an enemy from the original ''[[Final Fantasy]]''. It is not a powerful enemy, but will try to inflict many status ailments to the entire [[party]], as they cast a wide array of spells, like [[Slow (ability)|slow]]. Wearing [[Ribbon (Final Fantasy)|Ribbons]] protects against these inflictions. Its most dangerous attack is [[Fira (ability)|Fira]], but that is negligible and they can still be taken care of with physical attacks alone.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Medusa (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 089
+| psp next = Clay Golem (Final Fantasy)
+| psp next no = 
+| prev = Medusa (Final Fantasy)
+| prev no = 
+| bestiary = 089
+| next = Clay Golem (Final Fantasy)
+| next no = 
+| ps prev = Medusa (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 089
+| ps next = Clay Golem (Final Fantasy)
+| ps next no = 
+| nes = MANCAT
+| ps = Rakshasa
+| psp = Rakshasa
+| psp location = 
+| nes location = [[Citadel of Trials]], [[Flying Fortress|Sky Castle]]
+| ps location = [[Citadel of Trials]], [[Flying Fortress]]
+| location = [[Citadel of Trials]] 2F, [[Flying Fortress]] 3F
+| psp hp = 110
+| psp attack = 20
+| psp intelligence = 15
+| psp defense = 30
+| psp magic defense = 62
+| psp agility = 30
+| psp accuracy = 28
+| psp evasion = 60
+| psp exp = 603
+| psp gil = 800
+| hp = 110
+| attack = 20
+| intellect = 15
+| defense = 30
+| magic defense = 62
+| agility = 30
+| accuracy = 28
+| evasion = 60
+| exp = 603
+| gil = 800
+| ps hp = 110
+| ps attack = 20
+| ps defense = 28
+| ps magic defense = 62
+| ps exp = 603
+| ps gil = 800
+| nes hp = 110
+| nes attack = 20 - 40
+| nes defense = 30
+| nes magic defense = 62
+| nes evasion = 60
+| nes accuracy = 28
+| nes exp = 603
+| nes gil = 800
+| psp fire = Resist
+| psp lightning = Resist
+| psp ice = Resist
+| psp dia = Misses
+| fire = Resist
+| lightning = 
+| ice = Resist
+| dia = Misses
+| ps fire = Resist
+| ps lightning = Resist
+| ps ice = Resist
+| ps dia = -
+| nes fire = Resist
+| nes lightning = Resist
+| nes ice = Resist
+| nes dia = Miss
+| psp drop = 
+| psp abilities = 
+| psp resistance = [[Earth (element)|Quake]], [[Petrify (status)|Stone]], [[Paralysis]], [[Poison (status)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], [[Confuse (status)|Confuse]], Mind, [[Death (ability)|Death]]
+| drop = None
+| abilities = [[Fira (ability)|Fira]], [[Fire (ability)|Fire]], [[Blind (ability)|Dark]], [[Cure (ability)|Cure]], [[Sleep (ability)|Sleep]], [[Slow (ability)|Slow]]
+| resistance = [[Earth (element)|Quake]], [[Petrify (status)|Stone]], [[Paralysis]], [[Poison (status)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], [[Confuse (status)|Confuse]], Mind, [[Death (ability)|Death]]
+| ps abilities = [[Fira (ability)|Fire2]], [[Slow (ability)|Slow1]], [[Blind (ability)|Fog]], [[Cure (ability)|Cure1]], [[Sleep (ability)|Sleep1]], [[Fire (ability)|Fire1]], [[Thunder (ability)|Bolt1]]
+| ps resistance = All statuses
+| nes abilities = [[Fira (ability)|FIR2]], [[Slow (ability)|SLOW]], [[Blind (ability)|DARK]], [[Sleep (ability)|SLEP]], [[Fire (ability)|FIRE]], [[Thunder (ability)|LIT]], [[Cure (ability)|CURE]]
+| nes resistance = All statuses
+}}
+== AI script ==
+{| class="quarter-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| [[Fire (Final Fantasy)|Fire]]
+| style="text-align:right;" | 18.87%
+|-
+| [[Thunder (Final Fantasy)|Thunder]]
+| style="text-align:right;" | 18.87%
+|-
+| Attack
+| style="text-align:right;" | 11.79%
+|-
+| [[Dark (Final Fantasy)|Dark]]
+| style="text-align:right;" | 11.79%
+|-
+| [[Slow (Final Fantasy)|Slow]]
+| style="text-align:right;" | 11.79%
+|-
+| [[Fira (Final Fantasy)|Fira]]
+| style="text-align:right;" | 10.61%
+|-
+| [[Sleep (Final Fantasy)|Sleep]]
+| style="text-align:right;" | 8.25%
+|-
+| [[Curaja (Final Fantasy)|Curaja]]
+| style="text-align:right;" | 5.90%
+|-
+| Flee
+| style="text-align:right;" | 2.12%
+|}
+
+Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'', Rakshasa has 150 [[morale (Final Fantasy)|morale]], and only gains a chance to run away if the lead party member is Lv36 or higher.
+<br />
+Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'' and starting from the WonderSwan Color version (includes PS1, GBA and PSP):
+
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 52.00%
+|-
+| Magic
+| style="text-align:right;" | 48.00%
+| [[Fire (Final Fantasy)|Fire]]  → [[Slow (Final Fantasy)|Slow]] → [[Dark (Final Fantasy)|Dark]] → [[Sleep (Final Fantasy)|Sleep]] → [[Fira (Final Fantasy)|Fira]] → [[Thunder (Final Fantasy)|Thunder]] → [[Curaja (Final Fantasy)|Curaja]] → [[Sleep (Final Fantasy)|Sleep]]
+|}
+
+Prior to WSC (includes NES):
+
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 25.00%
+|-
+| Magic
+| style="text-align:right;" | 75.00%
+| [[Fira (Final Fantasy)|Fira]] → [[Slow (Final Fantasy)|Slow]] → [[Dark (Final Fantasy)|Dark]] → [[Sleep (Final Fantasy)|Sleep]] → [[Fire (Final Fantasy)|Fire]] → [[Thunder (Final Fantasy)|Thunder]] → [[Cure (Final Fantasy)|Cure]] → [[Sleep (Final Fantasy)|Sleep]]
+|}
+
+== Etymology and origin==
+{{Etym|Rakshasa}}
+
+In ''Dungeons & Dragons'', [[wikipedia:Rakshasa (Dungeons & Dragons)|Rakshasa]] are evil shapeshifting fiends, tall humanoids whose natural forms commonly have the head of a tiger. They are powerful users of magic. The original ''Final Fantasy'' derives a lot of influence from ''D&D''.
+
+== Related enemies ==
+* [[Weretiger (Final Fantasy)|Weretiger]]
+
+[[de:Rakshasa]]
+[[es:Raksasa (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

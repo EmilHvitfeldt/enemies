@@ -1,0 +1,123 @@
+{{DISPLAYTITLE:Water Elemental (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Water Elemental
+| japanese = ウォーター
+| romaji = Wōtā
+| lit = 
+| image = <gallery>
+Water Elemental from FFI Pixel Remaster sprite.png|PR
+Water Elemental from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Water Elemental from FFI Dawn of Souls sprite.png|GBA
+Aquos from FFI Origins sprite.png|PS
+WATER from FFI NES sprite.png|NES
+</gallery>
+| location = [[Sunken Shrine]]<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Water Elemental
+}}
+The '''Water Elemental''', also known as '''Water''' or '''Aquos''', is an enemy in the original ''[[Final Fantasy]]'' found in the [[Sunken Shrine]]. It is one of the only enemies there not weak to [[Lightning (Final Fantasy)|Thunder]]-based attacks, and instead is weak to [[Ice (Final Fantasy element)|Ice]].
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Ghost (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 100
+| psp next = Water Naga
+| psp next no = 
+| prev = Ghost (Final Fantasy)
+| prev no = 
+| bestiary = 100
+| next = Water Naga
+| next no = 
+| ps prev = Ghost (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 100
+| ps next = Water Naga
+| ps next no = 
+| nes = WATER
+| ps = Aquos
+| = Water Elemental
+| psp = Water Elemental
+| psp location = 
+| nes location = [[Sunken Shrine|Sea Shrine]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| ps location = [[Sunken Shrine]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| location = [[Sunken Shrine]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| psp hp = 300
+| psp attack = 69
+| psp intelligence = 32
+| psp defense = 20
+| psp magic defense = 130
+| psp agility = 36
+| psp accuracy = 68
+| psp evasion = 72
+| psp exp = 1962
+| psp gil = 800
+| hp = 300
+| attack = 69
+| intellect = 32
+| defense = 20
+| magic defense = 130
+| agility = 36
+| accuracy = 68
+| evasion = 72
+| exp = 1,962
+| gil = 800
+| ps hp = 300
+| ps attack = 69
+| ps defense = 20
+| ps magic defense = 130
+| ps exp = 1,962
+| ps gil = 800
+| nes hp = 300
+| nes attack = 69 - 138
+| nes defense = 20
+| nes magic defense = 130
+| nes evasion = 72
+| nes accuracy = 68
+| nes exp = 1,962
+| nes gil = 800
+| psp fire = Resist
+| psp lightning = 
+| psp ice = Weak
+| psp dia = Misses
+| fire = Resist
+| lightning = 
+| ice = Weak
+| dia = Misses
+| ps fire = Resist
+| ps lightning = -
+| ps ice = Weak
+| ps dia = -
+| nes fire = Resist
+| nes lightning = -
+| nes ice = Weak
+| nes dia = -
+| psp drop = 
+| psp abilities = 
+| psp resistance = [[Earth (Final Fantasy)|Quake]], [[Confuse (Final Fantasy status)|Confuse]], [[Paralysis (Final Fantasy status)|Paralysis]], [[KO (Final Fantasy)|Death]], [[Stone (Final Fantasy status)|Petrify]], [[Darkness (Final Fantasy status)|Darkness]], [[Sleep (Final Fantasy status)|Sleep]], [[Silence (Final Fantasy status)|Silence]], [[Mind (Final Fantasy)|Mind]]
+| drop = None
+| abilities = N/A
+| resistance = [[Earth (Final Fantasy)|Quake]], [[Confuse (Final Fantasy status)|Confuse]], [[Paralysis (Final Fantasy status)|Paralysis]], [[KO (Final Fantasy)|Death]], [[Stone (Final Fantasy status)|Petrify]], [[Darkness (Final Fantasy status)|Darkness]], [[Sleep (Final Fantasy status)|Sleep]], [[Silence (Final Fantasy status)|Silence]], [[Mind (Final Fantasy)|Mind]]
+| ps abilities = N/A
+| ps resistance = All statuses, [[Quake (Final Fantasy)|Quake]]
+| nes abilities = N/A
+| nes resistance = [[Earth (Final Fantasy)|Earth]], all statuses
+}}
+
+== Etymology ==
+{{Etym|Elemental}}
+
+== Related enemies ==
+* [[Air Elemental (Final Fantasy)|Air Elemental]]
+* [[Dark Elemental (Final Fantasy)|Dark Elemental]]
+* [[Death Elemental]]
+* [[Earth Elemental (Final Fantasy)|Earth Elemental]]
+* [[Fire Elemental (Final Fantasy)|Fire Elemental]]
+
+[[de:Wasserelementar (FFI)]]
+[[es:Elemental Agua (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

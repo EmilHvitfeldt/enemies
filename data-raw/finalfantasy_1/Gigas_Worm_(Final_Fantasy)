@@ -1,0 +1,225 @@
+{{DISPLAYTITLE:Gigas Worm (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Gigas Worm
+| japanese = ギガースウォーム
+| romaji = Gigāsuwōmu
+| aka = CREEP
+| image = <gallery>
+Gigas Worm from FFI Pixel Remaster sprite.png|PR
+Gigas Worm from FFI 20th Anniversary Edition sprite.png|20th
+Gigas Worm from FFI Dawn of Souls sprite.png|GBA
+Gigas Worm from FFI Origins sprite.png|PS
+CREEP from FFI NES sprite.png|NES
+</gallery>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>Chaos Shrine region<br>[[Elfheim]] region<br>[[Lifespring Grotto]] region<br>[[Matoya's Cave (Final Fantasy)|Matoya's Cave]] region<br>[[Mount Duergar]] region<br>[[Pravoka]] region<br>[[Western Keep]] region
+| recurring appearance = Gigas Worm
+}}
+
+The '''Gigas Worm''', also known as the '''CREEP''', is an enemy in ''[[Final Fantasy]]''. It is weak to [[Fire (element)|Fire]], so casting [[Fire (ability)|Fire]] is the easy way to defeat this enemy. Gigas Worms appear early in the game, and, although they may prove troublesome to a very low-leveled [[party]], the threat they pose quickly drops as the player's party levels up. They appear in the [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] in the present, and outside towns such as [[Pravoka]] and [[Elfheim]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Black Widow (Final Fantasy)
+| prev no = 006
+| bestiary = 007
+| next = Warg Wolf (Final Fantasy)
+| next no = 008
+| name = Gigas Worm<br>'''NES:''' CREEP
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>Chaos Shrine region<br>[[Elfheim]] region<br>[[Lifespring Grotto]] region<br>[[Matoya's Cave (Final Fantasy)|Matoya's Cave]] region<br>[[Mount Duergar]] region<br>[[Pravoka]] region<br>[[Western Keep]] region
+| hp = 56
+| attack = 17
+| intellect = 9
+| defense = 8
+| magic defense = 40
+| agility = 12
+| accuracy = 14
+| evasion = 24
+| exp = 63
+| gil = 15
+| morale = 104
+| hits = 1
+| crit = 1
+| luck = 2
+| fire = Weak
+}}
+
+==Formations==
+[[File:Amano Gigas Worm.gif|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="3"|{{A|018}}
+|rowspan="3"|[[Gigas Worm (Final Fantasy)|Gigas Worm]] x2
+|rowspan="3"|{{y}}
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+|70
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] region
+|60
+|-
+|[[Pravoka]] region
+|60
+|-
+!rowspan="2"|{{A|019}}
+|rowspan="2"|[[Gigas Worm (Final Fantasy)|Gigas Worm]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+|80
+|-
+|[[Pravoka]] region
+|60
+|-
+!rowspan="2"|{{A|373}}
+|rowspan="2"|[[Ogre (Final Fantasy)|Ogre]] x1, [[Gigas Worm (Final Fantasy)|Gigas Worm]] x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Elfheim]]-[[Matoya's Cave (Final Fantasy)|Matoya's Cave]]-[[Mount Duergar]]-[[Western Keep]] region
+|60
+|-
+|[[Pravoka]] region
+|60
+|-
+!rowspan="2"|{{A|374}}
+|rowspan="2"|[[Gigas Worm (Final Fantasy)|Gigas Worm]] x2, [[Ogre (Final Fantasy)|Ogre]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Elfheim]]-[[Matoya's Cave (Final Fantasy)|Matoya's Cave]]-[[Mount Duergar]]-[[Western Keep]] region
+|60
+|-
+|[[Pravoka]] region
+|60
+|-
+!{{A|375}}
+|[[Gigas Worm (Final Fantasy)|Gigas Worm]] x1, [[Ogre (Final Fantasy)|Ogre]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Pravoka]] region
+|60
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="3"|{{A|007}}
+|rowspan="3"|[[Gigas Worm (Final Fantasy)|Gigas Worm]] x1-2
+|rowspan="3"|9 small
+|rowspan="3"|{{y}}
+|rowspan="3"|4
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+|6
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] region
+|6
+|-
+|[[Pravoka]] region
+|12
+|-
+!rowspan="3"|{{A|135}}
+|rowspan="3"|[[Gigas Worm (Final Fantasy)|Gigas Worm]] x1-3, [[Ogre (Final Fantasy)|Ogre]] x1
+|rowspan="3"|2 large 6 small
+|rowspan="3"|{{y}}
+|rowspan="3"|4
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Elfheim]]-[[Lifespring Grotto]]-[[Melmond]]-[[Mount Duergar]]-[[Western Keep]] region
+|18
+|-
+|[[Matoya's Cave (Final Fantasy)|Matoya's Cave]] region
+|18
+|-
+|[[Pravoka]] region
+|1
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 104
+| 13
+| 38
+| 100%
+| 25
+| 75
+| 100%
+|-
+! 1
+! 64
+| 1
+| 18
+| 100%
+| 1
+| 35
+| 100%
+|-
+! 2
+! 24
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Gigas}}
+
+== Related enemies ==
+* [[Crawler (Final Fantasy)|Crawler]]
+* [[Flood Gigas]]
+
+
+[[de:Gigas-Wurm (FFI)]]
+[[es:Gusano gigas (Final Fantasy)]]
+[[pl:Gigas Worm (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

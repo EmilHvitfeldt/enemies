@@ -1,0 +1,353 @@
+{{DISPLAYTITLE:Marilith (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Marilith
+| japanese = マリリス
+| romaji = Maririsu
+| lit = 
+| image = <gallery>
+Marilith from FFI Pixel Remaster battle sprite.png|PR
+Marilith psp.png|PSP/Mobile
+Marilith from FFI Dawn of Souls sprite.png|GBA
+Marilith from FFI Origins sprite.png|PS
+KARY from FFI NES sprite.png|NES
+</gallery>
+|sprite=[[File:Marilith Icon.PNG|Field Sprite (GBA).]] [[File:Marilith-map.png|Field Sprite (PSP and iOS).]] [[File:Marilith from FFI Pixel Remaster field sprite.png|Field Sprite (PR).]] [[File:Marilith Pixel Remaster fiend.png|60px|Field Sprite (PR).]]
+| location = [[Mount Gulg (Final Fantasy)|Mount Gulg]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] (past)
+| type = Boss
+| formations = 
+| aiscript = true
+|recurring appearance=Marilith
+}}
+{{Quote|The Fiend of Fire, who uses the many limbs of her serpentine body to wield deadly weapons.|Description}}
+'''Marilith''', also known as '''KARY''' (a mistranslation of [[Kali]]) or '''Marylis''', is the [[Four Fiends (Final Fantasy)|Fiend of Fire]] from the original ''[[Final Fantasy]]''. She appears in [[Mount Gulg (Final Fantasy)|Mount Gulg]] as a woman with the lower body of a snake and has six arms, each wielding a sword.
+
+== Stats ==
+{{infobox enemy stats FFI
+| 1 psp prev = Red Dragon (Final Fantasy)
+| 1 psp prev no = 
+| 1 psp bestiary = 067
+| 1 psp next = White Dragon (Final Fantasy)
+| 1 psp next no = 
+| 1 prev = Red Dragon (Final Fantasy)
+| 1 prev no = 
+| 1 bestiary = 067
+| 1 next = White Dragon (Final Fantasy)
+| 1 next no = 
+| 1 ps prev = Red Dragon (Final Fantasy)
+| 1 ps prev no = 
+| 1 ps bestiary = 067
+| 1 ps next = White Dragon (Final Fantasy)
+| 1 ps next no = 
+| 1 nes = KARY
+| 1 ps = Marilith
+| 1 = Marilith
+| 1 psp = Marilith
+| 1 psp location = [[Mount Gulg (Final Fantasy)|Mount Gulg]]
+| 1 nes location = [[Mount Gulg (Final Fantasy)|Gurgu Volcano]]
+| 1 ps location = [[Mount Gulg (Final Fantasy)|Mount Gulug]]
+| 1 location = [[Mount Gulg (Final Fantasy)|Mount Gulug]]
+| 1 psp hp = 1440
+| 1 psp attack = 40
+| 1 psp intelligence = 32
+| 1 psp defense = 50
+| 1 psp magic defense = 183
+| 1 psp agility = 24
+| 1 psp accuracy = 63
+| 1 psp evasion = 48
+| 1 psp exp = 2475
+| 1 psp gil = 3000
+| 1 hp = 1440
+| 1 attack = 40
+| 1 intellect = 32
+| 1 defense = 50
+| 1 magic defense = 183
+| 1 agility = 24
+| 1 accuracy = 63
+| 1 evasion = 48
+| 1 exp = 2475
+| 1 gil = 3000
+| 1 ps hp = 1200
+| 1 ps attack = 40
+| 1 ps defense = 50
+| 1 ps magic defense = 183
+| 1 ps exp = 2475
+| 1 ps gil = 3000
+| 1 nes hp = 600
+| 1 nes attack = 40 - 80
+| 1 nes defense = 50
+| 1 nes magic defense = 183
+| 1 nes evasion = N/A
+| 1 nes accuracy = 63
+| 1 nes exp = 2475
+| 1 nes gil = 3000
+| 1 psp fire = Resist
+| 1 psp lightning = Resist
+| 1 psp ice = -
+| 1 psp dia = Misses
+| 1 fire = Resist
+| 1 lightning = Resist
+| 1 ice = -
+| 1 dia = Misses
+| 1 ps fire = 
+| 1 ps lightning = 
+| 1 ps ice = 
+| 1 ps dia = 
+| 1 nes fire = 
+| 1 nes lightning = 
+| 1 nes ice = 
+| 1 nes dia = 
+| 1 psp drop = [[Final Fantasy items#Golden Apple|Golden Apple]]
+| 1 psp abilities = [[Fira (ability)|Fira]], [[Dark (Final Fantasy)|Dark]], [[Hold]]
+| 1 psp resistance = [[Petrify (status)|Stone]], [[Poison (status)|Poison]]
+| 1 drop = [[Final Fantasy items#Golden Apple|Golden Apple]]
+| 1 abilities = [[Fira (ability)|Fira]], [[Dark (Final Fantasy)|Dark]], [[Hold]]
+| 1 resistance = [[Petrify (status)|Stone]], [[Poison (status)|Poison]]
+| 1 ps abilities = [[Fira (ability)|Fire2]], [[Protect (ability)|Fog]]
+| 1 ps resistance = [[Fire (element)|Fire]], [[Lightning (element)|Lightning]], [[Ice (element)|Ice]], [[Petrify (status)|Stone]], [[Poison (status)|Poison]]
+| 1 nes abilities = FIR2, DARK, HOLD
+| 1 nes resistance = [[Poison (status)|Poison]], [[Fire (element)|Fire]], [[Ice (element)|Ice]], [[Lightning (element)|Lit]]
+| 2 psp prev = Lich (Final Fantasy)
+| 2 psp prev no = 
+| 2 psp bestiary = 125
+| 2 psp next = Kraken (Final Fantasy)
+| 2 psp next no = 
+| 2 prev = Lich (Final Fantasy)
+| 2 prev no = 
+| 2 bestiary = 125
+| 2 next = Kraken (Final Fantasy)
+| 2 next no = 
+| 2 ps prev = Lich (Final Fantasy)
+| 2 ps prev no = 
+| 2 ps bestiary = 125
+| 2 ps next = Kraken (Final Fantasy)
+| 2 ps next no = 
+| 2 nes = KARY
+| 2 ps = Marilith
+| 2 = Marilith
+| 2 psp = Marilith
+| 2 psp location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] (past)
+| 2 nes location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] (past)
+| 2 ps location = Chaos Temple B3
+| 2 location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] (past)
+| 2 psp hp = 3200
+| 2 psp attack = 60
+| 2 psp intelligence = 41
+| 2 psp defense = 80
+| 2 psp magic defense = 183
+| 2 psp agility = 30
+| 2 psp accuracy = 63
+| 2 psp evasion = 60
+| 2 psp exp = 2000
+| 2 psp gil = 1
+| 2 hp = 3200
+| 2 attack = 60
+| 2 intellect = 41
+| 2 defense = 80
+| 2 magic defense = 183
+| 2 agility = 30
+| 2 accuracy = 63
+| 2 evasion = 60
+| 2 exp = 2000
+| 2 gil = 1
+| 2 ps hp = 1400
+| 2 ps attack = 60
+| 2 ps defense = 60
+| 2 ps magic defense = 183
+| 2 ps exp = 2000
+| 2 ps gil = 1
+| 2 nes hp = 700
+| 2 nes attack = 60
+| 2 nes defense = 60
+| 2 nes magic defense = 183
+| 2 nes evasion = N/A
+| 2 nes accuracy = 63
+| 2 nes exp = 2000
+| 2 nes gil = 1
+| 2 psp fire = Resist
+| 2 psp lightning = Resist
+| 2 psp ice = Resist
+| 2 psp dia = Misses
+| 2 fire = Resist
+| 2 lightning = Resist
+| 2 ice = Resist
+| 2 dia = Misses
+| 2 ps fire = 
+| 2 ps lightning = 
+| 2 ps ice = 
+| 2 ps dia = 
+| 2 nes fire = 
+| 2 nes lightning = 
+| 2 nes ice = 
+| 2 nes dia = 
+| 2 psp drop = None
+| 2 psp abilities = [[Firaga (ability)|Firaga]], [[Death (ability)|Death]], [[Stun (ability)|Stun]]
+| 2 psp resistance = [[Petrify (status)|Stone]], [[Poison (status)|Poison]]
+| 2 drop = None
+| 2 abilities = [[Firaga (ability)|Firaga]], [[Death (ability)|Death]], [[Stun (ability)|Stun]]
+| 2 resistance = [[Petrify (status)|Stone]], [[Poison (status)|Poison]]
+| 2 ps abilities = [[Firaga (ability)|Fire3]], [[Death (ability)|Reaper]]
+| 2 ps resistance = 
+| 2 nes abilities = FIR3, RUB, STUN
+| 2 nes resistance = [[Poison (status)|Poison]], [[Fire (element)|Fire]], [[Ice (element)|Ice]], [[Lightning (element)|Lit]]
+}}
+== AI script ==
+=== First battle ===
+{| class="article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 42.86%
+|-
+| [[Fira (Final Fantasy)|Fira]]
+| style="text-align:right;" | 28.57%
+|-
+| [[Dark (Final Fantasy)|Dark]]
+| style="text-align:right;" | 14.29%
+|-
+| [[Hold (Final Fantasy)|Hold]]
+| style="text-align:right;" | 14.29%
+|}
+
+Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'', starting from WSC (including PS1, GBA, and PSP):
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 76.00%
+|-
+| Magic
+| style="text-align:right;" | 24.00%
+| [[Fira (Final Fantasy)|Fira]] → [[Dark (Final Fantasy)|Dark]] → [[Fira (Final Fantasy)|Fira]] → [[Dark (Final Fantasy)|Dark]] → [[Fira (Final Fantasy)|Fira]] → [[Hold (Final Fantasy)|Hold]] → [[Fira (Final Fantasy)|Fira]] → [[Hold (Final Fantasy)|Hold]]
+|}
+
+Prior to WSC (including NES):
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 62.50%
+|-
+| Magic
+| style="text-align:right;" | 37.50%
+| [[Fira (Final Fantasy)|Fira]] → [[Dark (Final Fantasy)|Dark]] → [[Fira (Final Fantasy)|Fira]] → [[Dark (Final Fantasy)|Dark]] → [[Fira (Final Fantasy)|Fira]] → [[Hold (Final Fantasy)|Hold]] → [[Fira (Final Fantasy)|Fira]] → [[Hold (Final Fantasy)|Hold]]
+|}
+=== Second battle ===
+{| class="article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 42.42%
+|-
+| [[Firaga (Final Fantasy)|Firaga]]
+| style="text-align:right;" | 30.30%
+|-
+| [[Stun (Final Fantasy)|Stun]]
+| style="text-align:right;" | 15.15%
+|-
+| [[Death (Final Fantasy)|Death]]
+| style="text-align:right;" | 12.12%
+|}
+
+Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'', starting from WSC (including PS1, GBA, and PSP):
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 76.00%
+|-
+| Magic
+| style="text-align:right;" | 24.00%
+| [[Firaga (Final Fantasy)|Firaga]] → [[Death (Final Fantasy)|Death]] → [[Firaga (Final Fantasy)|Firaga]] → [[Death (Final Fantasy)|Death]] → [[Firaga (Final Fantasy)|Firaga]] → [[Stun (Final Fantasy)|Stun]] → [[Firaga (Final Fantasy)|Firaga]] → [[Stun (Final Fantasy)|Stun]]
+|}
+
+Prior to WSC (including NES):
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 62.50%
+|-
+| Magic
+| style="text-align:right;" | 37.50%
+| [[Firaga (Final Fantasy)|Firaga]] → [[Death (Final Fantasy)|Death]] → [[Firaga (Final Fantasy)|Firaga]] → [[Death (Final Fantasy)|Death]] → [[Firaga (Final Fantasy)|Firaga]] → [[Stun (Final Fantasy)|Stun]] → [[Firaga (Final Fantasy)|Firaga]] → [[Stun (Final Fantasy)|Stun]]
+|}
+== Story ==
+[[File:Marilith-FFI.png|thumb|left|Marilith met in Mt. Gulg.]]
+After defeating the Fiend of Earth, [[Lich (Final Fantasy)|Lich]], the [[Warriors of Light]] travel by ship to [[Crescent Lake]] to seek out the famed [[Circle of Sages]] led by the prophet [[Lukahn (Final Fantasy)|Lukahn]]. One of the sages gives the Warriors of Light a [[canoe]], so they may travel by river to reach the volcano Mount Gulg, where Marilith has lain dormant by the [[Fire Crystal (term)|Fire Crystal]] until Lich's demise disturbed her from slumber, two hundred years before she was due to awaken. She attacks the nearby village in anger upon learning of Lich's fate. At the bottom floor of the lava-ridden volcano, the Warriors of Light defeat Marilith and the Fire Crystal regains its glow.
+
+To truly exterminate the Fiends in the future and prevent them from sending [[Garland (Final Fantasy)|Garland]] back in time, the Warriors of Light have to kill the Four Fiends before their pact with Garland is made. In the [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] of the distant past, the second basement level, known as the "Kary Room", is full of monsters from Mount Gulug. Before heading down the stairs to the next floor, the party must best Marilith at her prime and they defeat her once more.{{clear}}
+
+== Battle ==
+=== First battle ===
+[[File:FF1_3DS_MarilithLocation.jpg|thumb|left|Marilith's location.]]
+Marilith relies on her powerful physical strikes, as she can hit up to 6 times per attack. She uses fire magic and other debilitating spells.
+
+Marilith's battle is not as difficult as Lich's, mainly because she is not stronger in comparison to the Warriors of Light's [[level]]s. 
+
+Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'', Marilith's main weakness was to [[Spirit (Final Fantasy)|status-based elements]].
+
+==== Strategy ====
+It is recommended to start with [[NulBlaze (Final Fantasy)|NulBlaze]] and [[Invisira]]/[[Protera (Final Fantasy)|Protera]] to be safe from her attacks. If the player retrieved the Ice equipment from the Ice Cave, the battle will be easier, as it will help to resist her fire magic.
+
+Without any weakness to exploit, the best strategy to defeat Marilith is to buff physical attackers' strength with [[Temper (Final Fantasy)|Temper]] and [[Haste (Final Fantasy)|Haste]] and attack. 
+
+In versions prior to ''Pixel Remaster'', the player can use [[Silence (Final Fantasy)|Silence]] to stop her use of spells and [[Slow (Final Fantasy)|Slow]] to weaken her physical attacks. The player can also [[Confuse (Final Fantasy)|Confuse]] her or put her to [[Sleep (Final Fantasy)|Sleep]] to have her waste turns, though Sleep will only ever last one turn.
+
+=== Second battle ===
+Marilith of the past has improved stats. Her spell list is upgraded to the next tier of fire and paralysis magic and she adds [[Death (Final Fantasy)|Death]] to her arsenal. Comparing to the first battle in versions prior to ''Pixel Remaster'', she also loses her weakness to the status elements.
+
+The battle is harder, but the same tactics both defensive ([[NulBlaze (Final Fantasy)|NulBlaze]], [[Invisira]], [[Protera (Final Fantasy)|Protera]]) and offensive still work to defeat her.{{clear}}
+
+== Other appearances ==
+=== ''[[Pictlogica Final Fantasy]]'' ===
+[[File:PFF Marilith FFI.png|thumb|150x150px]]
+{{Enemy section|Pictlogica Final Fantasy}}{{clear}}
+
+=== ''[[Final Fantasy Brave Exvius]]'' ===
+[[File:Marilith FFI from FFBE enemy sprite.png|thumb|150x150px]]
+{{enemy section|Final Fantasy Brave Exvius}}{{clear}}
+
+== Gallery ==
+<gallery>
+Marilith ff1.jpg|Artwork by [[Yoshitaka Amano]].
+Marilith Nintendo Power.jpg|Artwork from ''Nintendo Power''.
+Marilith DoS.png|Dawn of Souls artwork.
+FF1_3DS_Marilith.jpg|Encountering Marilith in the 3DS version.
+</gallery>
+
+== Etymology ==
+{{Etym|Marilith}}
+
+"Kary" was a mistranslation of the Hindu Goddess of Destruction Kali; the name change was probably an effort to avoid potential copyright issues with ''Dungeons and Dragons'' source material, similar to the changes made to the Beholder ([[Evil Eye (Final Fantasy)|Evil Eye]]).
+
+== Related enemies ==
+* [[Lich (Final Fantasy)|Lich]]
+* [[Kraken (Final Fantasy)|Kraken]]
+* [[Tiamat (Final Fantasy)|Tiamat]]
+
+{{navbox characters FFI}}
+
+
+[[de:Kali (FFI)]]
+[[es:Marilita (Final Fantasy)]]
+[[pt-br:Marilith (Final Fantasy)]]
+[[Category:Bosses in Final Fantasy]]
+[[Category:Antagonists]]
+

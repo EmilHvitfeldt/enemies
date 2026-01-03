@@ -1,0 +1,162 @@
+{{DISPLAYTITLE:Red Dragon (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Red Dragon
+| japanese = レッドドラゴン
+| romaji = Reddo Doragon
+| lit = 
+| image = <gallery>
+Red Dragon from FFI Pixel Remaster sprite.png|PR
+Red Dragon from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Red Dragon from FFI Dawn of Souls sprite.png|GBA
+Red Dragon from FFI Origins sprite.png|PS
+Red D from FFI NES sprite.png|NES
+</gallery>
+| location = [[Mount Gulg (Final Fantasy)|Mount Gulg]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], [[Lifespring Grotto]]
+| type = 
+| formations = 
+| aiscript = true
+|recurring appearance=Red Dragon
+}}
+The '''Red Dragon''', abbreviated to '''Red D''' in the [[Nintendo Entertainment System]] version, is an enemy in the original ''[[Final Fantasy]]''. It is the first dragon the [[Final Fantasy characters#The Light Warriors|Warriors of Light]] meet and is fairly difficult when first encountered.
+
+The most famous guardian in [[Mount Gulg (Final Fantasy)|Mount Gulg]], the Red Dragon is guarding a [[Treasure chest (object)|chest]] with [[Flame Mail (Final Fantasy)|Flame Mail]], which may come handy in the fight with [[Marilith (Final Fantasy)|Marilith]]. Long after Mount Gulg, the player may find the Red Dragon (among other [[dragon]]s) in the [[Lifespring Grotto]] [[bonus dungeon|optional dungeon]] (which is not available in every version of ''Final Fantasy''). There, [[Bahamut (Final Fantasy)|Dark Bahamut]] gives the heroes the task of defeating a certain number of his dragon disciples.
+
+Red Dragon uses [[Blaze (ability)|Blaze]], which deals [[Fire (Final Fantasy element)|Fire]]-based damage to all [[party]] members. It is also physically powerful. Having the [[Mage (job)|mages]] cast [[Ice (Final Fantasy)|ice]]-based [[Magic (Final Fantasy)|spells]] and strong physical attacks can defeat a Red Dragon with ease.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Fire Gigas (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 066
+| psp next = Marilith (Final Fantasy)
+| psp next no = 
+| prev = Fire Gigas (Final Fantasy)
+| prev no = 
+| bestiary = 066
+| next = Marilith (Final Fantasy)
+| next no = 
+| ps prev = Fire Gigas (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 066
+| ps next = Marilith (Final Fantasy)
+| ps next no = 
+| nes = Red D
+| ps = Red Dragon
+| = Red Dragon
+| psp = Red Dragon
+| psp location = [[Mount Gulg (Final Fantasy)|Mount Gulg]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], [[Lifespring Grotto]]
+| nes location = [[Mount Gulg (Final Fantasy)|Mount Gulg]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| ps location = [[Mount Gulg (Final Fantasy)|Mt. Gulg]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| location = [[Mount Gulg (Final Fantasy)|Mount Gulug]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], [[Lifespring Grotto]]
+| psp hp = 248
+| psp attack = 75
+| psp intelligence = 20
+| psp defense = 30
+| psp magic defense = 200
+| psp agility = 48
+| psp accuracy = 62
+| psp evasion = 96
+| psp exp = 2904
+| psp gil = 4000
+| hp = 248
+| attack = 75 - 150
+| intellect = 20
+| defense = 30
+| magic defense = 200
+| agility = 48
+| accuracy = 62
+| evasion = 96
+| exp = 2,904
+| gil = 4,000
+| ps hp = 248
+| ps attack = 75
+| ps defense = 30
+| ps magic defense = 200
+| ps exp = 2,904
+| ps gil = 4,000
+| nes hp = 248
+| nes attack = 75
+| nes defense = 30
+| nes magic defense = 200
+| nes evasion = 96
+| nes accuracy = 62
+| nes exp = 2,904
+| nes gil = 4,000
+| psp fire = Resist
+| psp lightning = 
+| psp ice = Weak
+| psp dia = Misses
+| fire = Resist
+| lightning = 
+| ice = Weak
+| dia = Misses
+| ps fire = Resist
+| ps lightning = -
+| ps ice = -
+| ps dia = -
+| nes fire = Resist
+| nes lightning = -
+| nes ice = Weak
+| nes dia = -
+| psp drop = 
+| psp abilities = 
+| psp resistance = [[Earth (Final Fantasy)|Quake]]
+| drop = None
+| abilities = [[Blaze (Final Fantasy)|Blaze]]
+| resistance = [[Earth (Final Fantasy)|Quake]]
+| ps abilities = [[Blaze (Final Fantasy)|Blaze]]
+| ps resistance = [[Earth (Final Fantasy)|Quake]]
+| nes abilities = [[Blaze (Final Fantasy)|Blaze]]
+| nes resistance = [[Earth (Final Fantasy)|Quake]]
+}}
+
+== AI script ==
+{| class="article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 48.08%
+|-
+| [[Blaze (Final Fantasy)|Blaze (Blaze)]]
+| style="text-align:right;" | 48.08%
+|-
+| Flee
+| style="text-align:right;" | 3.85%
+|}
+
+Prior to ''[[Pixel Remaster]]'':
+{| class="article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 50.00%
+|-
+| [[Blaze (Final Fantasy)|Blaze (Blaze)]]
+| style="text-align:right;" | 50.00%
+|}
+
+== Gallery ==
+<gallery>
+FFI Blaze 2 PS.png|Blaze in the ''Origins'' version.
+</gallery>
+
+== Etymology ==
+{{Etym|Dragon}}
+
+{{Etym|Chromatic dragon}} Red dragons are the largest and most powerful of the classic chromatic dragons who regard other chromatic dragons as inferior and make home inside active volcanoes or mountains. Red dragons use their powerful breath first, followed by physical strikes, then magical attacks.
+
+== Related enemies ==
+* [[White Dragon (Final Fantasy)|White Dragon]]
+* [[Dragon Zombie (Final Fantasy)|Dragon Zombie]]
+* [[Silver Dragon (Final Fantasy)|Silver Dragon]]
+* [[Black Dragon (Final Fantasy)|Black Dragon]]
+
+[[Category:Enemies in Final Fantasy]]
+
+[[de:Rotdrache]]
+

@@ -1,0 +1,317 @@
+{{DISPLAYTITLE:Hydra (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Hydra
+| japanese = ヒドラ
+| romaji = Hidora
+| aka = HYDRA
+| image = <gallery>
+Hydra from FFI Pixel Remaster sprite.png|PR
+Hydra from FFI 20th Anniversary Edition sprite.png|20th
+Hydra from FFI Dawn of Souls sprite.png|GBA
+Hydra from FFI Origins sprite.png|PS
+HYDRA from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cardian Islands]] region<br>[[Citadel of Trials]] region<br>[[Gaia (Final Fantasy)|Gaia]] region<br>[[Onrac]] region<br>[[Canoe#Final Fantasy|Rivers]]<br>[[Waterfall Cavern]] region
+| formations = true
+| aiscript = true
+|recurring appearance=Hydra
+}}
+The '''Hydra''', also known as the '''HYDRA''', is an enemy in the original ''[[Final Fantasy]]''. Their many heads allow them to get up to three hits per attack.
+
+==Stats==
+{{infobox enemy stats FFI 
+| prev = Ochu (Final Fantasy)
+| prev no = 056
+| bestiary = 057
+| next = Horned Devil (Final Fantasy)
+| next no = 059
+| name = Hydra<br>'''NES:''' HYDRA
+| type = Dragon
+| location = [[Cardian Islands]] region<br>[[Citadel of Trials]] region<br>[[Gaia (Final Fantasy)|Gaia]] region<br>[[Onrac]] region<br>Rivers<br>[[Waterfall Cavern]] region
+| hp = 212
+| attack = 30
+| intellect = 14
+| defense = 14
+| magic defense = 116
+| agility = 18
+| accuracy = 53
+| evasion = 36
+| exp = 915
+| gil = 150
+| morale = 138
+| hits = 3
+| crit = 1
+| luck = 2
+}}
+
+==Formations==
+[[File:Hydra ff1.jpg|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|100}}
+|Hydra x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|101}}
+|Hydra x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!rowspan="3"|{{A|284}}
+|rowspan="3"|[[Ochu (Final Fantasy)|Ochu]] x2, Hydra x2
+|rowspan="3"|{{y}}
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Gaia (Final Fantasy)|Gaia]]-[[Onrac]]-[[Waterfall Cavern]] region
+|60
+|-
+|Northern [[Citadel of Trials]] region
+|70
+|-
+|[[Cardian Islands]]-[[Citadel of Trials]] region
+|60
+|-
+!{{A|285}}
+|Hydra x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Northern [[Citadel of Trials]] region
+|70
+|-
+!{{A|297}}
+|[[Piranha (Final Fantasy)|Piranha]] x2, [[Crocodile (Final Fantasy)|Crocodile]] x2, [[Ochu (Final Fantasy)|Ochu]] x1, Hydra x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|30
+|-
+!{{A|298}}
+|[[Crocodile (Final Fantasy)|Crocodile]] x1, [[Piranha (Final Fantasy)|Piranha]] x1, [[Ochu (Final Fantasy)|Ochu]] x1, Hydra x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|50
+|-
+!{{A|299}}
+|[[Ochu (Final Fantasy)|Ochu]] x1, Hydra x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|468}}
+|[[Crocodile (Final Fantasy)|Crocodile]] x3, Hydra x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|20
+|-
+!{{A|469}}
+|[[Crocodile (Final Fantasy)|Crocodile]] x2, Hydra x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|20
+|-
+!{{A|470}}
+|[[Crocodile (Final Fantasy)|Crocodile]] x2, Hydra x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|50
+|-
+!{{A|471}}
+|[[Crocodile (Final Fantasy)|Crocodile]] x1, Hydra x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|472}}
+|Hydra x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|702}}
+|[[Ochu (Final Fantasy)|Ochu]] x1, Hydra x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|703}}
+|Hydra x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+!Notes
+|-
+!{{A|032}}
+|Hydra x1-2
+|4 large
+|{{y}}
+|27
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|24
+|{{note|reference=This encounter only occurs in southern rivers in the NES release; it is dummied in all other releases.|name=southern rivers}}
+|-
+!rowspan="3"|{{A|096}}
+|rowspan="3"|Hydra x1-2, [[Ochu (Final Fantasy)|Ochu]] x0-2
+|rowspan="3"|4 large
+|rowspan="3"|{{y}}
+|rowspan="3"|33
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Cardian Islands]]-[[Citadel of Trials]] region
+|12
+|
+|-
+|Northern [[Citadel of Trials]] region
+|12
+|{{note|reference=This encounter will not occur in deserts in the ''Dawn of Souls'' and ''20th Anniversary'' releases.|name=deserts}}
+|-
+|[[Gaia (Final Fantasy)|Gaia]]-[[Onrac]]-[[Waterfall Cavern]] region
+|6
+|{{note|name=deserts}}
+|-
+!{{A|101}}
+|[[Piranha (Final Fantasy)|Piranha]] x0-2, [[Crocodile (Final Fantasy)|Crocodile]] x0-2, [[Ochu (Final Fantasy)|Ochu]] x1, Hydra x0-1
+|2 large 6 small
+|{{y}}
+|30
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|18
+|{{note|reference=In the NES releases, this encounter occurs only in northern rivers; in all other releases it appears in both northern and southern rivers.|name=northern rivers}}
+|-
+!{{A|160}}
+|Hydra x1-4, [[Crocodile (Final Fantasy)|Crocodile]] x0-3
+|2 large 6 small
+|{{y}}
+|27
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|24
+|{{note|name=northern rivers}}<br>{{note|reference=Despite having a coded maximum of 4 Hydras, this formation allows a maximum of 2 large enemies; as such, a maximum of 2 Hydras may appear, but the range makes it more likely that the maximum will appear.}}
+|-
+!{{A|224}}
+|Hydra x1, [[Ochu (Final Fantasy)|Ochu]] x0-1
+|4 large
+|{{y}}
+|33
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|6
+|{{note|name=southern rivers}}
+|}
+{{annotations}}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 138
+| 30
+| —
+| 82.35%
+| 59
+| —
+| 80.39%
+|-
+! 1
+! 98
+| 10
+| 35
+| 100%
+| 19
+| 69
+| 100%
+|-
+! 2
+! 58
+| 1
+| 15
+| 100%
+| 1
+| 19
+| 100%
+|-
+! 3
+! 18
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Hydra}}
+
+== Related enemies ==
+* [[Fire Hydra (Final Fantasy)|Fire Hydra]]
+* [[Yamatano Orochi (Final Fantasy)|Yamatano Orochi]]
+
+[[de:Hydra (FFI)]]
+[[es:Hidra (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

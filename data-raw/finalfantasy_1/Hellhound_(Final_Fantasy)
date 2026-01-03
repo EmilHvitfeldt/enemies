@@ -1,0 +1,298 @@
+{{DISPLAYTITLE:Hellhound (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Hellhound
+| japanese = ヘルハウンド
+| romaji = Herūhaundo
+| aka = CEREBUS
+| image = <gallery>
+Hellhound from FFI Pixel Remaster sprite.png|PR
+Hellhound from FFI 20th Anniversary Edition sprite.png|20th
+Hellhound from FFI Dawn of Souls sprite.png|GBA
+Hellhound from FFI Origins sprite.png|PS
+CEREBUS from FFI NES sprite.png|NES
+</gallery>
+| location = [[Caravan (Final Fantasy)|Caravan]] region<br>[[Mirage Tower]]<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]
+| formations = true
+| aiscript = true
+| recurring appearance = Hellhound
+}}
+The '''Hellhound''', also known as the '''CEREBUS''', is an enemy in ''[[Final Fantasy]]''. It is one of the most common enemies in the [[Mount Gulg (Final Fantasy)|Mount Gulg]], often appearing with [[Giant (Final Fantasy enemy type)|giant]] enemies. It is weak to [[Ice (Final Fantasy element)|Ice]], as most of the enemies in the volcano are, and absorbs [[Fire (Final Fantasy element)|Fire]]. It may attack for low damage, or use [[Blaze (Final Fantasy)|Blaze]] to hit the entire party for Fire damage.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Lava Worm (Final Fantasy)
+| prev no = 062
+| bestiary = 063
+| next = Fire Lizard (Final Fantasy)
+| next no = 064
+| name = Hellhound<br>'''NES:''' CEREBUS
+| location = [[Caravan (Final Fantasy)|Caravan]] region<br>[[Mirage Tower]]<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]]
+| hp = 192
+| attack = 30
+| intellect = 13
+| defense = 8
+| magic defense = 103
+| agility = 24
+| accuracy = 48
+| evasion = 48
+| exp = 1,182
+| gil = 600
+| morale = 146
+| hits = 1
+| crit = 1
+| luck = 2
+| ice = Weak
+| fire = Resists
+| abilities = [[Blaze (Final Fantasy)|Blaze]]
+}}
+
+==Formations==
+[[File:Hellhound ff1.jpg|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!rowspan="2"|{{A|103}}
+|rowspan="2"|[[Hellhound (Final Fantasy)|Hellhound]] x1, [[Ogre Mage (Final Fantasy)|Ogre Mage]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B3
+|70
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B5
+|70
+|-
+!rowspan="2"|{{A|323}}
+|rowspan="2"|[[Hellhound (Final Fantasy)|Hellhound]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B3
+|70
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B4
+|80
+|-
+!rowspan="2"|{{A|324}}
+|rowspan="2"|[[Hellhound (Final Fantasy)|Hellhound]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B3
+|70
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B4
+|70
+|-
+!{{A|477}}
+|[[Hellhound (Final Fantasy)|Hellhound]] x3, [[Ogre Mage (Final Fantasy)|Ogre Mage]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Caravan (Final Fantasy)|Caravan]] region
+|60
+|-
+!{{A|478}}
+|[[Hellhound (Final Fantasy)|Hellhound]] x2, [[Ogre Mage (Final Fantasy)|Ogre Mage]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Caravan (Final Fantasy)|Caravan]] region
+|90
+|-
+!{{A|479}}
+|[[Hellhound (Final Fantasy)|Hellhound]] x1, [[Ogre Mage (Final Fantasy)|Ogre Mage]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Caravan (Final Fantasy)|Caravan]] region
+|70
+|-
+!{{A|480}}
+|[[Hellhound (Final Fantasy)|Hellhound]] x1, [[Ogre Mage (Final Fantasy)|Ogre Mage]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Caravan (Final Fantasy)|Caravan]] region
+|70
+|-
+!{{A|481}}
+|[[Hellhound (Final Fantasy)|Hellhound]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Caravan (Final Fantasy)|Caravan]] region
+|70
+|-
+!rowspan="2"|{{A|761}}
+|rowspan="2"|[[Hellhound (Final Fantasy)|Hellhound]] x4
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 2F
+|70
+|-
+|[[Mirage Tower]] 3F
+|100
+|-
+!rowspan="2"|{{A|762}}
+|rowspan="2"|[[Hellhound (Final Fantasy)|Hellhound]] x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 2F
+|90
+|-
+|[[Mirage Tower]] 3F
+|100
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|034}}
+|rowspan="2"|[[Hellhound (Final Fantasy)|Hellhound]] x0-1, [[Ogre Mage (Final Fantasy)|Ogre Mage]] x1-2
+|rowspan="2"|4 large
+|rowspan="2"|{{x}}
+|rowspan="2"|55
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B3
+|6
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B5
+|6
+|-
+!rowspan="2"|{{A|109}}
+|rowspan="2"|[[Hellhound (Final Fantasy)|Hellhound]] x1-2
+|rowspan="2"|4 large
+|rowspan="2"|{{y}}
+|rowspan="2"|55
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B3
+|12
+|-
+|[[Mount Gulg (Final Fantasy)|Mount Gulg]] B4
+|12
+|-
+!{{A|162}}
+|[[Hellhound (Final Fantasy)|Hellhound]] x1-3, [[Ogre Mage (Final Fantasy)|Ogre Mage]] x0-2
+|4 large
+|{{x}}
+|55
+|[[Battle (Final Fantasy)|Battle]]
+|[[Caravan (Final Fantasy)|Caravan]] region
+|24
+|-
+!rowspan="2"|{{A|237}}
+|rowspan="2"|[[Hellhound (Final Fantasy)|Hellhound]] x3-4
+|rowspan="2"|4 large
+|rowspan="2"|{{y}}
+|rowspan="2"|55
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 2F
+|12
+|-
+|[[Mirage Tower]] 3F
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 60%
+| 50%
+|-
+| Blaze
+| 35%
+| 50%
+|-
+| Flee
+| 5%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 146
+| 34
+| —
+| 66.67%
+| 67
+| —
+| 64.71%
+|-
+! 1
+! 106
+| 14
+| 39
+| 100%
+| 27
+| 77
+| 100%
+|-
+! 2
+! 66
+| 1
+| 19
+| 100%
+| 1
+| 37
+| 100%
+|-
+! 3
+! 26
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Other appearances ==
+=== ''[[Pictlogica Final Fantasy]]'' ===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Hellhound FFI.png|thumb|150x150px]]
+{{Enemy section|Final Fantasy Record Keeper}}
+
+== Etymology ==
+{{Etym|Hellhound}}
+
+In the NES version, the name CEREBUS is a contraction of "Cerberus". {{Etym|Cerberus}}
+
+== Related enemies ==
+* [[Devil Hound]]
+* [[Hyenadon]]
+
+[[de:Höllenhund (FFI)]]
+[[Category:Enemies in Final Fantasy]]
+

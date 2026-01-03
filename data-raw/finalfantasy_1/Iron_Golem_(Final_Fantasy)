@@ -1,0 +1,218 @@
+{{DISPLAYTITLE:Iron Golem (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Iron Golem
+| japanese = アイアンゴーレム
+| romaji = Aiangōremu
+| aka = IronGOL, IRONGOL<ref name="Enemy Identification Chart">''[https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABJE.pdf Final Fantasy Explorer's Handbook]'', p.86, "Enemy Identification Chart"</ref>
+| image = <gallery>
+Iron Golem from FFI Pixel Remaster sprite.png|PR
+Iron Golem from FFI 20th Anniversary Edition sprite.png|20th
+Iron Golem from FFI Dawn of Souls sprite.png|GBA
+Iron Golem from FFI Origins sprite.png|PS
+IronGOL from FFI NES sprite.png|NES
+</gallery>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| formations = true
+| aiscript = true
+}}
+The '''Iron Golem''', also known as the '''IronGOL''' or '''IRONGOL'''<ref name="Enemy Identification Chart"/>, is an enemy in ''[[Final Fantasy]]''. The sturdiest of golems in the base game, it is extremely rare, found only on floor B4 of the [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]. It has only a 1/64 chance of appearing in pre-''[[Pixel Remaster]]'' releases, making it one of the rarest enemies in the game; its chance of appearing is greatly increased in the ''Pixel Remaster''.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Purple Worm (Final Fantasy)
+| prev no = 122
+| bestiary = 123
+| next = Lich (Final Fantasy)
+| next no = 124
+| name = Iron Golem<br>'''NES:''' IronGOL/IRONGOL<ref name="Enemy Identification Chart"/>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| type = Magic
+| hp = 304
+| attack = 93
+| intellect = 26
+| defense = 100
+| magic defense = 143
+| agility = 12
+| accuracy = 76
+| evasion = 24
+| exp = 6,717
+| gil = 3,000
+| morale = 200
+| hits = 1
+| crit = 1
+| luck = 2
+| silence = Resists
+| sleep = Resists
+| paralysis = Resists
+| poison status = Resists
+| stone = Resists
+| darkness = Resists
+| confuse = Resists
+| fire = Resists
+| ice = Resists
+| earth = Resists
+| spirit = Resists
+| instant death = Resists
+| poison element = -<br>{{note|reference=Resists prior to ''Pixel Remaster''.|name=poison element}}
+| abilities = [[Deadly Gas]]
+}}
+{{annotations}}
+
+== Battle ==
+The Iron Golem can be extremely dangerous for parties who venture into the Chaos Shrine unprepared. It can use [[Deadly Gas]], an [[instant Death (Final Fantasy)|Instant Death]] element attack that targets the whole party, killing any members who do not resist; this is particularly dangerous in the ''Pixel Remaster'' release, where it has a much greater chance using Deadly Gas. [[Protect Ring (Final Fantasy)|Protect Ring]]s and [[Ribbon (Final Fantasy)|Ribbons]] will help ensure survival, as will [[NulDeath (Final Fantasy)|NulDeath]]. Having much better physical [[Defense (stat)|defense]] compared to the previous two golems, as well as the usual elemental resistances, the [[Flare (Final Fantasy)|Flare]] spell is the most effective against this enemy.
+
+==Formations==
+;''Pixel Remaster''
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|788}}
+|[[Iron Golem (Final Fantasy)|Iron Golem]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B4
+|60
+|-
+!{{A|789}}
+|[[Iron Golem (Final Fantasy)|Iron Golem]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B4
+|70
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!{{A|255}}
+|[[Iron Golem (Final Fantasy)|Iron Golem]] x1-2
+|4 large
+|{{x}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B4
+|1
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 48.08%
+| 87.5%
+|-
+| Deadly Gas
+| 48.08%
+| 12.5%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+| 81
+| —
+| 37.25%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Golem}}
+
+== Related enemies ==
+* [[Clay Golem (Final Fantasy)|Clay Golem]]
+* [[Mythril Golem (Final Fantasy)|Mythril Golem]]
+* [[Stone Golem (Final Fantasy)|Stone Golem]]
+
+== Citations ==
+{{citations}}
+
+[[de:Eisen-Golem]]
+[[es:Gólem férreo (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

@@ -1,0 +1,229 @@
+{{DISPLAYTITLE:Blue Dragon (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Blue Dragon
+| japanese = ブルードラゴン
+| romaji = Burūdoragon
+| aka = Blue D, BLUE DRAGON<ref name="Enemy Identification Chart">''[https://www.nintendo.co.jp/clv/manuals/en/pdf/CLV-P-NABJE.pdf Final Fantasy Explorer's Handbook]'', p.86, "Enemy Identification Chart"</ref>
+| image = <gallery>
+Blue Dragon from FFI Pixel Remaster sprite.png|PR
+Blue Dragon from FFI 20th Anniversary Edition sprite.png|20th
+Blue Dragon from FFI Dawn of Souls sprite.png|GBA
+Blue Dragon from FFI Origins sprite.png|PS
+Blue D from FFI NES sprite.png|NES
+</gallery>
+| location = [[Labyrinth of Time]]<br>[[Lifespring Grotto]]<br>[[Mirage Tower]]
+| formations = true
+| aiscript = true
+| recurring appearance = Blue Dragon
+}}
+
+The '''Blue Dragon''', also known as '''Blue D''' or '''BLUE DRAGON'''<ref name="Enemy Identification Chart"/>, is an enemy in ''[[Final Fantasy]]''. It is a rare enemy that appears in the [[Mirage Tower]], as well as the [[Lifespring Grotto]] and [[Labyrinth of Time]] bonus dungeons in select releases. It is a [[Lightning (element)|lightning]] type enemy, resisting the element and often uses [[Thunderbolt (Final Fantasy)|Thunderbolt]] to deal [[Lightning (Final Fantasy)|lightning]] damage to the party. Blue Dragons have a very high [[Attack (command)|Attack]] stat and are moderately dangerous when the party first encounters it.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Guardian (Final Fantasy)
+| prev no = 106
+| bestiary = 107
+| next = Green Dragon (Final Fantasy)
+| next no = 108
+| name = Blue Dragon<br>'''NES:''' Blue D/BLUE DRAGON<ref name="Enemy Identification Chart"/>
+| type = Dragon
+| location = [[Mirage Tower]]
+| hp = 454
+| attack = 92
+| intellect = 28
+| defense = 20
+| magic defense = 200
+| agility = 48
+| accuracy = 86
+| hits = 1
+| evasion = 96
+| crit = 1
+| luck = 2
+| exp = 3,274
+| gil = 2,000
+| morale = 200
+| earth = Resists
+| lightning = Resists
+| abilities = [[Thunderbolt (Final Fantasy)|Thunderbolt]]
+}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|239}}
+|[[Blue Dragon (Final Fantasy)|Blue Dragon]] x1
+|{{x}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 3F
+|Fixed
+|-
+!{{A|644}}
+|[[Blue Dragon (Final Fantasy)|Blue Dragon]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|645}}
+|[[Blue Dragon (Final Fantasy)|Blue Dragon]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!rowspan="2"|{{A|806}}
+|rowspan="2"|[[Blue Dragon (Final Fantasy)|Blue Dragon]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 2F
+|90
+|-
+|[[Mirage Tower]] 3F
+|100
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|078}}
+|rowspan="2"|[[Blue Dragon (Final Fantasy)|Blue Dragon]] x1
+|rowspan="2"|4 large
+|rowspan="2"|{{x}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 2F
+|1
+|-
+|[[Mirage Tower]] 3F
+|Fixed, 1
+|-
+!{{A|206}}
+|[[Blue Dragon (Final Fantasy)|Blue Dragon]] x2-3
+|4 large
+|{{x}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|362}}
+|[[Blue Dragon (Final Fantasy)|Blue Dragon]] x1
+|4 large
+|{{x}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Lifespring Grotto]] - Dragon Caves
+|Fixed
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 65%
+| 50%
+|-
+| Thunderbolt
+| 30%
+| 50%
+|-
+| Flee
+| 5%
+| Morale check{{note|reference=Blue Dragons will only make a Morale check in the NES release; other Morale-based releases prevent all Blue Dragon formations from fleeing.|name=morale}}
+|}
+
+;Morale check
+{| class="article-table"
+! # [[Fear (Final Fantasy)|Fear]]
+! [[Morale (Final Fantasy)|Morale]]
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+|}
+{{annotations}}
+
+==Other appearances==
+===''[[Final Fantasy Brave Exvius]]''===
+[[File:Blue Dragon FFI from FFBE enemy sprite.png|thumb|150x150px]]
+{{Enemy section|Final Fantasy Brave Exvius}}
+{{clear}}
+
+== Etymology ==
+{{Etym|Dragon}}
+
+{{Etym|Chromatic dragon}} Blue dragons are the second-most powerful of the classic chromatic dragons. They excel in aerial combat, discharge lightning, are powerful at spell craft and adept at burrowing in sand.
+
+== Related enemies ==
+* [[Green Dragon (Final Fantasy)|Green Dragon]]
+* [[Yellow Dragon (Final Fantasy)|Yellow Dragon]]
+* [[Holy Dragon (Final Fantasy)|Holy Dragon]]
+
+==Citations==
+{{citations}}
+
+[[Category:Enemies in Final Fantasy]]
+
+[[de:Blaudrache]]
+[[es:Dragón azul (Final Fantasy)]]
+

@@ -1,0 +1,126 @@
+{{DISPLAYTITLE:Specter (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Specter
+| japanese = スペクター
+| romaji = Supekutā
+| lit = 
+| image = <gallery>
+Specter from FFI Pixel Remaster sprite.png|PR
+Specter from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Specter from FFI Dawn of Souls sprite.png|GBA
+Specter from FFI Origins sprite.png|PS
+WRAITH from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cavern of Ice]]
+| type = 
+| formations = 
+| aiscript = 
+|recurring appearance=Specter (enemy)
+}}
+The '''Specter''', also known as the '''WRAITH''' in the [[Nintendo Entertainment System]] version, is an enemy in the original ''[[Final Fantasy]]''. In the [[Game Boy Advance]] ''[[Dawn of Souls]]'' remake, the Specter and the [[Wraith (Final Fantasy)|Wraith]] are two different enemies. "Specter" is also the name used in the original NES translation to refer to the [[Wight (Final Fantasy)|Wight]].
+
+They only appear as common random encounters in Basement Floors 1 and 2 of the [[Cavern of Ice]]. When the party falls down through a hole in B2F, they land in a small room, where they must fight groups of Specters, Wraiths, and [[Ghast (Final Fantasy)|Ghasts]] to escape.
+
+As with all [[undead]] enemies, Specters are weak to [[Fire (ability)|Fire]] and [[Dia (ability)|Dia]] attacks. Like the other ghost-type enemies, its physical attacks may cause [[Paralysis]]. Strong physical attacks will work as well, due to their low [[Stats|HP]].
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Ice Gigas (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 072
+| psp next = Remorazz (Final Fantasy)
+| psp next no = 
+| prev = Ice Gigas (Final Fantasy)
+| prev no = 
+| bestiary = 072
+| next = Remorazz (Final Fantasy)
+| next no = 
+| ps prev = Ice Gigas (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 072
+| ps next = Remorazz (Final Fantasy)
+| ps next no = 
+| nes = WRAITH
+| ps = Specter
+| = Specter
+| psp = Specter
+| psp location = 
+| nes location = [[Cavern of Ice|Ice Cave]]
+| ps location = [[Cavern of Ice|Ice Cavern]]
+| location = [[Cavern of Ice]]
+| psp hp = 114
+| psp attack = 40
+| psp intelligence = 25
+| psp defense = 12
+| psp magic defense = 67
+| psp agility = 54
+| psp accuracy = 29
+| psp evasion = 108
+| psp exp = 432
+| psp gil = 432
+| hp = 114
+| attack = 40
+| intellect = 25
+| defense = 12
+| magic defense = 67
+| agility = 54
+| accuracy = 29
+| evasion = 108
+| exp = 432
+| gil = 432
+| ps hp = 114
+| ps attack = 40
+| ps defense = 12
+| ps magic defense = 67
+| ps exp = 432
+| ps gil = 432
+| nes hp = 114
+| nes attack = 40 - 80
+| nes defense = 12
+| nes magic defense = 67
+| nes evasion = 108
+| nes accuracy = 29
+| nes exp = 432
+| nes gil = 432
+| psp fire = Weak
+| psp lightning = 
+| psp ice = Resist
+| psp dia = Weak
+| fire = Weak
+| lightning = 
+| ice = Resist
+| dia = Weak
+| ps fire = Weak
+| ps lightning = -
+| ps ice = Resist
+| ps dia = Weak
+| nes fire = Weak
+| nes lightning = -
+| nes ice = Resist
+| nes dia = Weak
+| psp drop = 
+| psp abilities = Attacks may inflict Paralysis
+| psp resistance = [[Earth (element)|Quake]], [[Death (ability)|Death]], [[Confuse (status)|Confuse]], [[Paralysis]], [[Petrify (status)|Petrify]], [[Poison (element)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], Mind
+| drop = None
+| abilities = Attacks may inflict Paralysis
+| resistance = [[Earth (element)|Quake]], [[Death (ability)|Death]], [[Confuse (status)|Confuse]], [[Paralysis]], [[Petrify (status)|Petrify]], [[Poison (element)|Poison]], [[Blind (status)|Darkness]], [[Sleep (status)|Sleep]], [[Silence (status)|Silence]], Mind
+| ps abilities = N/A
+| ps resistance = All statuses, Fire, Quake
+| nes abilities = N/A
+| nes resistance = Quake, Ice, all statuses
+}}
+
+== Etymology ==
+{{Etym|Wraith}}
+
+== Related enemies ==
+* [[Shadow (Final Fantasy)|Shadow]]
+* [[Wraith (Final Fantasy)|Wraith]]
+* [[Ghost (Final Fantasy)|Ghost]]
+* [[Reaper (Final Fantasy)|Reaper]]
+
+[[de:Gespenst (FFI)]]
+[[es:Espectro (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

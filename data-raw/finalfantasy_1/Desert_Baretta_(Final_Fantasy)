@@ -1,0 +1,200 @@
+{{DISPLAYTITLE:Desert Baretta (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Desert Baretta
+| japanese = デザートバレッテ
+| romaji = Dezātobarette
+| aka = ANKYLO
+| image = <gallery>
+Desert Baretta from FFI Pixel Remaster sprite.png|PR
+Desert Baretta from FFI 20th Anniversary Edition sprite.png|20th
+Desert Baretta from FFI Dawn of Souls sprite.png|GBA
+Desert Baretta from FFI Origins sprite.png|PS
+ANKYLO from FFI MSX sprite.png|MSX
+ANKYLO from FFI NES sprite.png|NES
+</gallery>
+| location = [[Caravan (Final Fantasy)|Caravan]] region<br>[[Yahnikurm Desert]] region
+| formations = true
+| aiscript = true
+}}
+The '''Desert Baretta''', also known as the '''ANKYLO''', is an enemy in ''[[Final Fantasy]]''. It is a hard-hitting enemy encountered in the desert regions of the northern continents. While it drops only one [[gil]], it provides substantial [[experience points]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Evil Eye (Final Fantasy)
+| prev no = 075
+| bestiary = 076
+| next = Sabertooth (Final Fantasy)
+| next no = 077
+| nes = '''NES:''' ANKYLO<br>'''PS:''' Desert Baretta
+| location = [[Caravan (Final Fantasy)|Caravan]] region<br>[[Yahnikurm Desert]] region
+| hp = 352
+| morale = 144
+| attack = 98
+| intellect = 12
+| defense = 48
+| magic defense = 156
+| agility = 24
+| accuracy = 88
+| evasion = 48
+| hits = 1
+| crit = 1
+| luck = 2
+| exp = 2,610
+| gil = 1
+}}
+
+==Battle==
+Desert Barettas appear alone in the [[Yahnikurm Desert]], and may be somewhat challenging, especially if the party attacks with [[Magic (command)|magic]], as it does not have any weaknesses and has a pretty high [[Magic Defense (stat)|Magic Defense]] stat. Even though it looks physically armored, the monster has a lower [[Defense (stat)|Defense]] stat than Magic Defense.
+
+===Strategy===
+Desert Barettas have high enough physical defense that using physical attacks may not be efficient unless the [[party]] is sufficiently powerful. Despite their higher magic defense stat, magical attacks deal damage more consistently until the party significantly outlevels the Desert Baretta. Casting [[Protect (Final Fantasy)|Protect]], [[Blink (Final Fantasy)|Blink]], and [[Invis (Final Fantasy)|Invis]] to raise the party's Defense and [[Evasion]] may be useful to defend against its powerful attacks, if necessary. [[Temper (Final Fantasy)|Temper]], [[Saber (Final Fantasy ability)|Saber]], [[Haste (Final Fantasy)|Haste]], and the [[Giant's Gloves (Final Fantasy)|Giant's Gloves]] can help bolster a character's attack power to punch through the Desert Baretta's defenses with physical attacks.
+
+==Formations==
+[[File:Baretta-ff1-art.png|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|334}}
+|[[Desert Baretta (Final Fantasy)|Desert Baretta]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Caravan (Final Fantasy)|Caravan]] region
+|80
+|-
+!{{A|780}}
+|[[Desert Baretta (Final Fantasy)|Desert Baretta]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Yahnikurm Desert]] region
+|90
+|-
+!{{A|781}}
+|[[Desert Baretta (Final Fantasy)|Desert Baretta]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Yahnikurm Desert]] region
+|90
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!{{A|113}}
+|[[Desert Baretta (Final Fantasy)|Desert Baretta]] x1
+|4 large
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Caravan (Final Fantasy)|Caravan]] region
+|24<br>0 (swamp){{note|reference=Enemies only have differing encounter rates in deserts/swamps in the [[WonderSwan family|WonderSwan Color]] through ''[[20th Anniversary]]'' releases.}}
+|-
+!{{A|241}}
+|[[Desert Baretta (Final Fantasy)|Desert Baretta]] x1-2
+|4 large
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Yahnikurm Desert]] region
+|24
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 144
+| 33
+| —
+| 70.59%
+| 65
+| —
+| 68.63%
+|-
+! 1
+! 104
+| 13
+| 38
+| 100%
+| 25
+| 75
+| 100%
+|-
+! 2
+! 64
+| 1
+| 18
+| 100%
+| 1
+| 35
+| 100%
+|-
+! 3
+! 24
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Bulette}}
+
+It's localized [[Nintendo Entertainment System|NES]] name is short for "Ankylosaurus". {{Etym|Ankylosaurus}}
+
+== Related enemies ==
+* [[Baretta (Final Fantasy)|Baretta]]
+
+== Annotations ==
+{{annotations}}
+
+[[de:Wüstenbaret]]
+[[Category:Enemies in Final Fantasy]]
+

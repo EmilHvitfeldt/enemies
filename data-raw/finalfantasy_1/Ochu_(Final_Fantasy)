@@ -1,0 +1,318 @@
+{{DISPLAYTITLE:Ochu (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Ochu
+| japanese = オチュー
+| romaji = Ochū
+| aka = OCHO
+| image = <gallery>
+Ochu from FFI Pixel Remaster sprite.png|PR
+Ochu from FFI 20th Anniversary Edition sprite.png|20th
+Ochu from FFI Dawn of Souls sprite.png|GBA
+Ochu from FFI Origins sprite.png|PS
+OCHO from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cardian Islands]] region<br>[[Citadel of Trials]] region<br>[[Gaia (Final Fantasy)|Gaia]] region<br>[[Onrac]] region<br>[[Canoe#Final Fantasy|Rivers]]<br>[[Waterfall Cavern]] region
+| formations = true
+| aiscript = true
+|recurring appearance=Ochu
+}}
+The '''Ochu''', also known as the '''OCHO''', is an enemy in ''[[Final Fantasy]]''. It is weak to [[Lightning (Final Fantasy)|lightning]]-based spells. Its attacks can inflict [[Poison (Final Fantasy status)|Poison]]. It can be encountered in [[river]]s around the [[world map]] and on land across the northern continents. It is not hard to defeat, but can be more difficult than some common enemies. Using consecutive lightning attacks alongside physical attacks will kill it.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = White Croc
+| prev no = 054
+| bestiary = 055
+| next = Neochu (Final Fantasy)
+| next no = 056
+| name = Ochu<br>'''NES:''' OCHO
+| location = [[Cardian Islands]] region<br>[[Citadel of Trials]] region<br>[[Gaia (Final Fantasy)|Gaia]] region<br>[[Onrac]] region<br>[[Canoe#Final Fantasy|Rivers]]<br>[[Waterfall Cavern]] region
+| hp = 208
+| attack = 20 - 40
+| intellect = 18
+| defense = 24
+| magic defense = 116
+| agility = 12
+| accuracy = 52
+| evasion = 24
+| exp = 1,224
+| gil = 102
+| hits = 3
+| crit = 1
+| morale = 176
+| luck = 2
+| fire = Resists
+| lightning = Weak
+| earth = Resists
+| abilities = Attacks may inflict [[Poison (Final Fantasy status)|Poison]]
+}}
+
+==Formations==
+[[File:Amano FF1 Ochu.gif|thumb|150x150px]]
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|110}}
+|Ochu x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Southwestern [[Cardian Islands]] region
+|60
+|-
+!{{A|111}}
+|Ochu x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Southwestern [[Cardian Islands]] region
+|60
+|-
+!{{A|112}}
+|Ochu x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Southwestern [[Cardian Islands]] region
+|60
+|-
+!rowspan="3"|{{A|284}}
+|rowspan="3"|Ochu x2, [[Hydra (Final Fantasy)|Hydra]] x2
+|rowspan="3"|{{y}}
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Gaia (Final Fantasy)|Gaia]]-[[Onrac]]-[[Waterfall Cavern]] region
+|60
+|-
+|Northern [[Citadel of Trials]] region
+|70
+|-
+|[[Cardian Islands]]-[[Citadel of Trials]] region
+|60
+|-
+!{{A|297}}
+|[[Piranha (Final Fantasy)|Piranha]] x2, [[Crocodile (Final Fantasy)|Crocodile]] x2, Ochu x1, [[Hydra (Final Fantasy)|Hydra]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|30
+|-
+!{{A|298}}
+|[[Crocodile (Final Fantasy)|Crocodile]] x1, [[Piranha (Final Fantasy)|Piranha]] x1, Ochu x1, [[Hydra (Final Fantasy)|Hydra]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|50
+|-
+!{{A|299}}
+|Ochu x1, [[Hydra (Final Fantasy)|Hydra]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|300}}
+|Ochu x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|170
+|-
+!{{A|486}}
+|[[Piranha (Final Fantasy)|Piranha]] x2, Ochu x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|487}}
+|[[Piranha (Final Fantasy)|Piranha]] x1, Ochu x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|488}}
+|Ochu x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|702}}
+|Ochu x1, [[Hydra (Final Fantasy)|Hydra]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+!Notes
+|-
+!{{A|037}}
+|Ochu x1-3
+|4 large
+|{{y}}
+|33
+|[[Battle (Final Fantasy)|Battle]]
+|Southwestern [[Cardian Islands]] region
+|24
+|
+|-
+!rowspan="3"|{{A|096}}
+|rowspan="3"|[[Hydra (Final Fantasy)|Hydra]] x1-2, Ochu x0-2
+|rowspan="3"|4 large
+|rowspan="3"|{{y}}
+|rowspan="3"|33
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Cardian Islands]]-[[Citadel of Trials]] region
+|12
+|rowspan="3"|{{note|reference=This encounter will not occur in deserts in the ''[[Dawn of Souls]]'' and ''[[20th Anniversary]]'' releases.|name=desert}}
+|-
+|Northern [[Citadel of Trials]] region
+|12
+|-
+|[[Gaia (Final Fantasy)|Gaia]]-[[Onrac]]-[[Waterfall Cavern]] region
+|6
+|-
+!{{A|101}}
+|[[Piranha (Final Fantasy)|Piranha]] x0-2, [[Crocodile (Final Fantasy)|Crocodile]] x0-2, Ochu x1, [[Hydra (Final Fantasy)|Hydra]] x0-1
+|2 large 6 small
+|{{y}}
+|30
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|18
+|{{note|reference=In the Famicom, NES, and MSX releases, this encounter occurs only in northern rivers; in all other releases it appears in both northern and southern rivers.|name=northern river}}
+|-
+!{{A|165}}
+|Ochu x1, [[Piranha (Final Fantasy)|Piranha]] x0-2
+|2 large 6 small
+|{{y}}
+|33
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|6
+|{{note|reference=This encounter only occurs in southern rivers in the NES release; it is dummied in all other releases.|name=southern river}}
+|-
+!{{A|224}}
+|[[Hydra (Final Fantasy)|Hydra]] x1, Ochu x0-1
+|4 large
+|{{y}}
+|33
+|[[Battle (Final Fantasy)|Battle]]
+|[[Canoe#Final Fantasy|Rivers]]
+|6
+|{{note|reference=This encounter only occurs in southern rivers in the NES release; it is dummied in all other releases.|name=southern river}}
+|}
+{{annotations}}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 176
+| 49
+| —
+| 7.84%
+| 97
+| —
+| 5.89%
+|-
+! 1
+! 136
+| 29
+| —
+| 86.27%
+| 57
+| —
+| 84.31%
+|-
+! 2
+! 96
+| 9
+| 34
+| 100%
+| 17
+| 67
+| 100%
+|-
+! 3
+! 56
+| 1
+| 14
+| 100%
+| 1
+| 27
+| 100%
+|-
+! 4
+! 16
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Gallery ==
+<gallery>
+Ochu vs Warrior.jpg|[[Final Fantasy concept art|Artwork]] by [[Yoshitaka Amano]] of [[Warriors of Light|Warrior of Light]] fighting an Ochu by jumping inside its mouth.
+</gallery>
+
+== Etymology ==
+{{Etym|Ochu}}
+
+== Related enemies ==
+* [[Neochu (Final Fantasy)|Neochu]]
+* [[Earth Plant]]
+
+[[de:Küsschen (FFI)]]
+[[es:Ochu (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

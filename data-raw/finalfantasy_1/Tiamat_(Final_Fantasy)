@@ -1,0 +1,384 @@
+{{DISPLAYTITLE:Tiamat (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Tiamat
+| japanese = ティアマット
+| romaji = Tiamatto
+| lit = 
+| image = <gallery>
+Tiamat from FFI Pixel Remaster battle sprite.png|PR
+Ffbosstiamatpsp.png|PSP/Mobile
+Tiamat from FFI Dawn of Souls sprite.png|GBA
+Tiamat from FFI Origins sprite.png|PS
+TIAMAT from FFI NES sprite.png|NES
+</gallery>
+|sprite=[[File:Tiamat Icon.PNG|Field Sprite (GBA).]] [[File:Tiamat-map.png|Field Sprite (PSP and iOS).]] [[File:Tiamat from FFI Pixel Remaster field sprite.png|Field Sprite (PR).]] [[File:Tiamat Pixel Remaster fiend.png|60px|Field Sprite (PR).]]
+| location = [[Flying Fortress]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] (past)
+| type = Boss
+| formations = 
+| aiscript = true
+|recurring appearance=Tiamat (creature)
+}}
+{{Quote|The Fiend of Wind, who dominates the heavens from her lofty perch.|Description}}
+'''Tiamat''' is the [[Four Fiends (Final Fantasy)|Fiend of Wind]] from the original ''[[Final Fantasy]]''. She appears atop the [[Flying Fortress]] as a multi-headed dragon.
+
+== Stats ==
+{{infobox enemy stats FFI
+| 1 psp prev = Warmech (Final Fantasy)
+| 1 psp prev no = 
+| 1 psp bestiary = 119
+| 1 psp next = Rhyos (Final Fantasy)
+| 1 psp next no = 
+| 1 prev = Warmech (Final Fantasy)
+| 1 prev no = 
+| 1 bestiary = 119
+| 1 next = Rhyos (Final Fantasy)
+| 1 next no = 
+| 1 ps prev = Warmech (Final Fantasy)
+| 1 ps prev no = 
+| 1 ps bestiary = 119
+| 1 ps next = Rhyos (Final Fantasy)
+| 1 ps next no = 
+| 1 nes = TIAMAT
+| 1 ps = Tiamat
+| 1 = Tiamat
+| 1 psp = Tiamat
+| 1 psp location = [[Flying Fortress]]
+| 1 nes location = [[Flying Fortress|Floating Castle]]
+| 1 ps location = [[Flying Fortress]]
+| 1 location = [[Flying Fortress]]
+| 1 psp hp = 2400
+| 1 psp attack = 53
+| 1 psp intelligence = 45
+| 1 psp defense = 80
+| 1 psp magic defense = 200
+| 1 psp agility = 36
+| 1 psp accuracy = 80
+| 1 psp evasion = 72
+| 1 psp exp = 5496
+| 1 psp gil = 6000
+| 1 hp = 2400
+| 1 attack = 53
+| 1 intellect = 45
+| 1 defense = 80
+| 1 magic defense = 200
+| 1 agility = 36
+| 1 accuracy = 80
+| 1 evasion = 72
+| 1 exp = 5496
+| 1 gil = 6000
+| 1 ps hp = 2000
+| 1 ps attack = 49
+| 1 ps defense = 80
+| 1 ps magic defense = 200
+| 1 ps exp = 5496
+| 1 ps gil = 6000
+| 1 nes hp = 1000
+| 1 nes attack = 49 - 98
+| 1 nes defense = 10
+| 1 nes magic defense = N/A
+| 1 nes evasion = N/A
+| 1 nes accuracy = 27
+| 1 nes exp = 5496
+| 1 nes gil = 6000
+| 1 psp fire = Resist
+| 1 psp lightning = Resist
+| 1 psp ice = Resist
+| 1 psp dia = Misses
+| 1 fire = Resist
+| 1 lightning = Resist
+| 1 ice = Resist
+| 1 dia = Misses
+| 1 ps fire = Resist
+| 1 ps lightning = Resist
+| 1 ps ice = Resist
+| 1 ps dia = -
+| 1 nes fire = Resist
+| 1 nes lightning = Resist
+| 1 nes ice = Resist
+| 1 nes dia = -
+| 1 psp drop = N/A
+| 1 psp abilities = [[Lightning (ability)|Thunderbolt]], [[Blaze (ability)|Blaze]], [[Snowstorm|Icestorm]], [[Poison Gas]]
+| 1 psp resistance = [[Earth (element)|Quake]]
+| 1 drop = N/A
+| 1 abilities = [[Lightning (ability)|Thunderbolt]], [[Blaze (ability)|Blaze]], [[Snowstorm|Icestorm]], [[Poison Gas]]
+| 1 resistance = [[Earth (element)|Quake]]
+| 1 ps abilities = [[Lightning (ability)|Thunderbolt]], [[Blaze (ability)|Blaze]], [[Snowstorm|Icestorm]], Toxin
+| 1 ps resistance = [[Earth (element)|Quake]]
+| 1 nes abilities = [[Lightning (ability)|THUNDER]], POISON, [[Snowstorm|BLIZZARD]], [[Blaze (ability)|BLAZE]]
+| 1 nes resistance = [[Earth (element)|Quake]]
+| 2 psp prev = Kraken (Final Fantasy)
+| 2 psp prev no = 
+| 2 psp bestiary = 127
+| 2 psp next = Chaos (Final Fantasy boss)
+| 2 psp next no = 
+| 2 prev = Kraken (Final Fantasy)
+| 2 prev no = 
+| 2 bestiary = 127
+| 2 next = Chaos (Final Fantasy boss)
+| 2 next no = 
+| 2 ps prev = Kraken (Final Fantasy)
+| 2 ps prev no = 
+| 2 ps bestiary = 127
+| 2 ps next = Chaos (Final Fantasy boss)
+| 2 ps next no = 
+| 2 nes = TIAMAT
+| 2 ps = Tiamat
+| 2 = Tiamat
+| 2 psp = Tiamat
+| 2 psp location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] (past)
+| 2 nes location = [[Chaos Shrine (Final Fantasy)|Final Temple]]
+| 2 ps location = [[Chaos Shrine (Final Fantasy)|Temple of Chaos]]
+| 2 location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] (past)
+| 2 psp hp = 5500
+| 2 psp attack = 75
+| 2 psp intelligence = 38
+| 2 psp defense = 90
+| 2 psp magic defense = 200
+| 2 psp agility = 45
+| 2 psp accuracy = 85
+| 2 psp evasion = 90
+| 2 psp exp = 2000
+| 2 psp gil = 1
+| 2 hp = 5500
+| 2 attack = 75
+| 2 intellect = 38
+| 2 defense = 90
+| 2 magic defense = 200
+| 2 agility = 45
+| 2 accuracy = 85
+| 2 evasion = 90
+| 2 exp = 2000
+| 2 gil = 1
+| 2 ps hp = 2200
+| 2 ps attack = 75
+| 2 ps defense = 90
+| 2 ps magic defense = 200
+| 2 ps exp = 2000
+| 2 ps gil = 1
+| 2 nes hp = 1100
+| 2 nes attack = 75
+| 2 nes defense = 90
+| 2 nes magic defense = 200
+| 2 nes evasion = 90
+| 2 nes accuracy = 85
+| 2 nes exp = 2000
+| 2 nes gil = 1
+| 2 psp fire = Resist
+| 2 psp lightning = Resist
+| 2 psp ice = Resist
+| 2 psp dia = Misses
+| 2 fire = Resist
+| 2 lightning = Resist
+| 2 ice = Resist
+| 2 dia = Misses
+| 2 ps fire = Resist
+| 2 ps lightning = Resist
+| 2 ps ice = Resist
+| 2 ps dia = -
+| 2 nes fire = Resist
+| 2 nes lightning = Resist
+| 2 nes ice = Resist
+| 2 nes dia = -
+| 2 psp drop = [[Rune Staff (Final Fantasy)|Rune Staff]]
+| 2 psp abilities = [[Blizzara (ability)|Blizzara]], [[Thundara (ability)|Thundara]], [[Fira (ability)|Fira]], [[Lightning (ability)|Thunderbolt]], [[Snowstorm|Icestorm]], [[Blaze (ability)|Blaze]], [[Scourge (poison ability)|Scourge]], [[Poison Gas]]
+| 2 psp resistance = [[Earth (element)|Quake]]
+| 2 drop = [[Rune Staff (Final Fantasy)|Rune Staff]]
+| 2 abilities = [[Blizzara (ability)|Blizzara]], [[Thundara (ability)|Thundara]], [[Fira (ability)|Fira]], [[Lightning (ability)|Thunderbolt]], [[Snowstorm|Icestorm]], [[Blaze (ability)|Blaze]], [[Scourge (poison ability)|Scourge]], [[Poison Gas]]
+| 2 resistance = [[Earth (element)|Quake]]
+| 2 ps abilities = [[Blizzara (ability)|Ice2]], [[Thundara (ability)|Bolt2]], [[Fira (ability)|Fire2]], [[Lightning (ability)|Thunder]], Poison, [[Snowstorm|Blizzard]], [[Blaze (ability)|Blaze]], [[Scourge (poison ability)|Poison]]
+| 2 ps resistance = [[Earth (element)|Quake]]
+| 2 nes abilities = [[Scourge (poison ability)|BANE]], [[Blizzara (ability)|ICE2]], [[Thundara (ability)|LIT2]], [[Fira (ability)|FIR2]], [[Lightning (ability)|THUNDER]], Poison, [[Snowstorm|BLIZZARD]], [[Blaze (ability)|BLAZE]]
+| 2 nes resistance = [[Earth (element)|Quake]]
+}}
+== AI script ==
+=== First Battle ===
+{| class="article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 42.86%
+|-
+| [[Icestorm (Final Fantasy)|Icestorm (BLIZZARD)]]
+| style="text-align:right;" | 14.29%
+|-
+| [[Blaze (Final Fantasy)|Blaze (BLAZE)]]
+| style="text-align:right;" | 14.29%
+|-
+| [[Poison Gas (Final Fantasy)|Poison Gas]]
+| style="text-align:right;" | 14.29%
+|-
+| [[Thunderbolt (Final Fantasy)|Thunderbolt]]
+| style="text-align:right;" | 14.29%
+|-
+|}
+
+Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'':
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 50.00%
+|-
+| Enemy-exclusive ability
+| style="text-align:right;" | 50.00%
+| [[Thunderbolt (Final Fantasy)|Thunderbolt]] → [[Poison Gas (Final Fantasy)|Poison Gas]] → [[Icestorm (Final Fantasy)|Icestorm (BLIZZARD)]] → [[Blaze (Final Fantasy)|Blaze (BLAZE)]]
+|}
+=== Second Battle ===
+{| class="article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 25.51%
+|-
+| [[Fira (Final Fantasy)|Fira]]
+| style="text-align:right;" | 14.29%
+|-
+| [[Thundara (Final Fantasy)|Thundara]]
+| style="text-align:right;" | 14.29%
+|-
+| [[Blizzara (Final Fantasy)|Blizzara]]
+| style="text-align:right;" | 14.29%
+|-
+| [[Icestorm (Final Fantasy)|Icestorm (BLIZZARD)]]
+| style="text-align:right;" | 7.14%
+|-
+| [[Blaze (Final Fantasy)|Blaze (BLAZE)]]
+| style="text-align:right;" | 7.14%
+|-
+| [[Poison Gas (Final Fantasy)|Poison Gas]]
+| style="text-align:right;" | 7.14%
+|-
+| [[Thunderbolt (Final Fantasy)|Thunderbolt]]
+| style="text-align:right;" | 7.14%
+|-
+| [[Scourge (Final Fantasy)|Scourge]]
+| style="text-align:right;" | 3.06%
+|}
+
+Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'', starting from WSC (includes PS1, GBA, PSP):
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 34.00%
+|-
+| Magic
+| style="text-align:right;" | 32.00%
+| [[Scourge (Final Fantasy)|Scourge]] → [[Blizzara (Final Fantasy)|Blizzara]] → [[Thundara (Final Fantasy)|Thundara]] → [[Fira (Final Fantasy)|Fira]]
+|-
+| Enemy-exclusive ability
+| style="text-align:right;" | 34.00%
+| [[Thunderbolt (Final Fantasy)|Thunderbolt]] → [[Poison Gas (Final Fantasy)|Poison Gas]] → [[Icestorm (Final Fantasy)|Icestorm (BLIZZARD)]] → [[Blaze (Final Fantasy)|Blaze (BLAZE)]]
+|}
+
+Prior to WSC (includes NES):
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 25.00%
+|-
+| Magic
+| style="text-align:right;" | 50.00%
+| [[Scourge (Final Fantasy)|Scourge]] → [[Blizzara (Final Fantasy)|Blizzara]] → [[Thundara (Final Fantasy)|Thundara]] → [[Fira (Final Fantasy)|Fira]]
+|-
+| Enemy-exclusive ability
+| style="text-align:right;" | 25.00%
+| [[Thunderbolt (Final Fantasy)|Thunderbolt]] → [[Poison Gas (Final Fantasy)|Poison Gas]] → [[Icestorm (Final Fantasy)|Icestorm (BLIZZARD)]] → [[Blaze (Final Fantasy)|Blaze (BLAZE)]]
+|}
+
+== Story ==
+Four hundred years ago Tiamat tossed the [[Lufenian]] civilization into ruin, with only a village, a single [[Airship (term)|airship]], and her personal haunt left standing. With the [[Wind Crystal (term)|Wind Crystal]] under her control, the wind itself began to die down.
+
+As the first fiend to awaken, she is the most powerful of the Four Fiends and uses several powerful attacks. A younger version of her appears in the fourth basement of the [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 2000 years in the past, where she is slightly stronger. Once she is defeated, she dies again, preventing her from ever [[Time travel|journeying to the future]] and wreaking havoc.
+
+== Battle ==
+=== First battle ===
+[[File:FFI Thunderbolt GBA.png|Thunderbolt in the ''Advance'' version.|thumb]]
+Tiamat uses elemental skills and physical prowess. Tiamat resists the basic three magic elements of [[Fire (Final Fantasy element)|fire]], [[Ice (Final Fantasy)|ice]], and [[Lightning (Final Fantasy)|lightning]], in addition to [[Earth (Final Fantasy)|earth]]. She also resists elements that can cause an instant KO, such as [[Stone (Final Fantasy)|stone]], [[Poison (Final Fantasy)|poison]], [[Time (Final Fantasy)|time]], and [[KO (Final Fantasy)|instant death]].
+
+Prior to ''Pixel Remaster'', Tiamat was weak to [[Stone (Final Fantasy)|stone]] and [[Poison (Final Fantasy)|poison]] and did not have resistances against the instant KO elements.
+==== Strategy ====
+Non-elemental magic, such as [[Flare (Final Fantasy)|Flare]] and [[Holy (Final Fantasy)|Holy]], work given her resistances. The Nul- line of spells and Curtains shield against her party-wide elemental attacks. If a party member is poisoned, the party's [[White Mage (Final Fantasy)|White Wizard]] should keep using [[Healara (Final Fantasy)|Healara]] to cure the physical damage instead of wasting turns using [[Poisona (Final Fantasy)|Poisona]].
+
+Otherwise, focusing on physical attacks, buffed with [[Haste]], [[Temper (Final Fantasy)|Temper]], [[Saber (Final Fantasy ability)|Saber]] from the [[Giant's Gloves (Final Fantasy)|Giant's Gloves]], and [[Speed Drink (Final Fantasy)|Speed Drinks]] will defeat her fairly quickly.
+
+Prior to ''Pixel Remaster'', Tiamat's weaknesses mean that she can be instantly killed either by petrifying or poisoning her. Possible spells include [[Scourge (Final Fantasy)|Scourge]] (can be cast with [[Razer (Final Fantasy)|Razer]]) or [[Break (Final Fantasy)|Break]]. From ''[[Final Fantasy I & II: Dawn of Souls|Dawn of Souls]]'' to ''[[Final Fantasy 20th Anniversary|20th Anniversary Edition]]'', a [[Cockatrice Claw]] can be used in place of the Break spell.
+
+=== Second battle ===
+Tiamat is fought in the Chaos Shrine of the past along with the other fiends. She gains the Mage type and adds the tier 2 elemental spells and [[Scourge (Final Fantasy)|Scourge]] to her arsenal.
+
+Comparing against her first battle for versions prior to ''Pixel Remaster'', she loses her weaknesses to [[Stone (Final Fantasy)|stone]] and [[Poison (Final Fantasy)|poison]].
+
+==== Strategy ====
+The same strategies as before should defeat her. Poison resistance is recommended to avoid anyone falling to Scourge.
+
+{{clear}}
+
+== Other appearances ==
+=== ''[[Pictlogica Final Fantasy]]'' ===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+=== ''[[Final Fantasy Record Keeper]]'' ===
+[[File:FFRK Tiamat FFI.png|right]]
+{{Enemy section|Final Fantasy Record Keeper}}
+{{clear}}
+
+===''[[Final Fantasy Brave Exvius]]''===
+[[File:Tiamat FFI from FFBE enemy sprite.png|thumb|150x150px]]
+{{Enemy section|Final Fantasy Brave Exvius}}
+{{clear}}
+
+==Behind the scenes==
+[[File:Tiamat.PNG|Tiamat, as drawn by [[Yoshitaka Amano]].|thumb]]
+Even though Tiamat has six heads in her artwork, only four are visible in her NES/MSX sprites. Later versions are more accurate to the artwork.
+
+In ''[[Dissidia Final Fantasy (2008)|Dissidia Final Fantasy]]'', Tiamat's summon file says she is called the "demonic dragon" and one of the rulers of hell, referring to [[Tiamat (Final Fantasy II)|Tiamat]] being one of the bosses of [[Pandaemonium (Final Fantasy II)|Pandaemonium]] in ''[[Final Fantasy II]]''. The same description holds true to Tiamat's counterpart in ''Dungeons & Dragons'', where she is encountered in the first of the nine planes of Hell.{{clear}}
+
+== Gallery ==
+<gallery>
+Tiamat Nintendo Power.png|Artwork of Tiamat from ''Nintendo Power''.
+Tiamat DoS.png|''Dawn of Souls'' artwork.
+FF1_3DS_Tiamat.jpg|Tiamat in 3DS.
+FF1_3DS_TiamatLocation.jpg|Tiamat's location (3DS).
+FFI Blaze 2 GBA.png|Blaze in the ''Advance'' version.
+FFI Icestorm 2 PS.png|Icestorm in the ''Origins'' version.
+FFI Thunderbolt PS.png|Thunderbolt in the ''Origins'' version.
+FFI Toxin 1 PS.png|Toxin in the ''Origins'' version.
+Tiamat by Creatures Kai.jpg|[[Final Fantasy Creatures|Creatures -Kai-]]
+</gallery>
+
+== Etymology ==
+{{Etym|Tiamat}}
+
+Tiamat in ''Final Fantasy'' refers to the deity of the same name from ''Dungeons & Dragons'', who is depicted as a villainous, five-headed dragon. Both are named after the monster from Ancient Mesopotamian religion, who is often said to be the mother of dragons. Many elements in the original ''Final Fantasy'' are lifted from ''Dungeons & Dragons''.
+
+== Related enemies ==
+* [[Lich (Final Fantasy)|Lich]]
+* [[Marilith (Final Fantasy)|Marilith]]
+* [[Kraken (Final Fantasy)|Kraken]]
+
+{{navbox characters FFI}}
+
+
+[[de:Tiamat (FFI)]]
+[[es:Tiamant (Final Fantasy)]]
+[[it:Tiamath (Final Fantasy)]]
+[[pt-br:Tiamat (Final Fantasy)]]
+[[Category:Bosses in Final Fantasy]]
+[[Category:Antagonists]]
+

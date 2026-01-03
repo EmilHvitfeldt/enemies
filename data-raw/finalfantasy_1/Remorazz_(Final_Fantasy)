@@ -1,0 +1,130 @@
+{{DISPLAYTITLE:Remorazz (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Remorazz
+| japanese = レモラーズ
+| romaji = Remorāzu
+| lit = Remorhaz
+| image = <gallery>
+Remorazz from FFI Pixel Remaster sprite.png|PR
+Remorazz from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Remorazz from FFI Dawn of Souls sprite.png|GBA
+Remora from FFI Origins sprite.png|PS
+GrPEDE from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cavern of Ice]] and the wilderness surrounding the town of [[Onrac]]
+| type = 
+| formations = 
+| aiscript = 
+}}
+The '''Remorazz''', also known as the '''GrPEDE''' and '''Remora''' in the [[Nintendo Entertainment System]] and [[PlayStation]] ports, is an enemy in the original ''[[Final Fantasy]]''. It can be found at the [[Cavern of Ice]] and the wilderness surrounding the town of [[Onrac]].
+
+Originally, the Nintendo Entertainment System version (the Great Pede) was green, while its lesser sibling, the [[Ankheg (Final Fantasy)|Ankheg]], was red. The PlayStation version (Remora) was re-colored blue. The [[Game Boy Advance]] version switched the colors around, so that the Ankheg is blue and the Remorazz is red (suggesting, possibly, that the Ankheg living in [[Mount Gulg (Final Fantasy)|Gurgu Volcano]] is cold-powered, and the Remorazz in the Cavern of Ice is fire-powered).
+
+Remorazz resists both [[Fire (Final Fantasy element)|Fire]] and [[Ice (Final Fantasy element)|Ice]], and has high [[Magic Defense (stat)|Magic Defense]]. It hits hard compared to other local monsters. It usually appears alone, and does not have any special abilities. It is recommended to use [[Attack (command)|physical attacks]] to dispatch them.
+
+In ''[[Pixel Remaster]]'', Remorazz gains resistance to [[Spirit (Final Fantasy)|Spirit]].
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Specter (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 073
+| psp next = Dark Wizard (Final Fantasy)
+| psp next no = 
+| prev = Specter (Final Fantasy)
+| prev no = 
+| bestiary = 073
+| next = Dark Wizard (Final Fantasy)
+| next no = 
+| ps prev = Specter (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 073
+| ps next = Dark Wizard (Final Fantasy)
+| ps next no = 
+| nes = GrPEDE
+| ps = Remora
+| = Remorazz
+| psp = Remorazz
+| psp location = 
+| nes location = [[Cavern of Ice|Ice Cave]], around [[Onrac]]
+| ps location = [[Cavern of Ice|Ice Cavern]], around [[Onrac]]
+| location = [[Cavern of Ice]], around [[Onrac]]
+| psp hp = 320
+| psp attack = 73
+| psp intelligence = 15
+| psp defense = 24
+| psp magic defense = 185
+| psp agility = 24
+| psp accuracy = 80
+| psp evasion = 48
+| psp exp = 2244
+| psp gil = 1000
+| hp = 320
+| attack = 73
+| intellect = 15
+| defense = 24
+| magic defense = 185
+| agility = 24
+| accuracy = 80
+| evasion = 48
+| exp = 2,244
+| gil = 1,000
+| ps hp = 320
+| ps attack = 73
+| ps defense = 24
+| ps magic defense = 185
+| ps exp = 2,244
+| ps gil = 1,000
+| nes hp = 320
+| nes attack = 73 - 146
+| nes defense = 24
+| nes magic defense = 185
+| nes evasion = 48
+| nes accuracy = 80
+| nes exp = 2,244
+| nes gil = 1,000
+| psp fire = Resist
+| psp lightning = 
+| psp ice = Resist
+| psp dia = Misses
+| fire = Resist
+| lightning = 
+| ice = Resist
+| dia = Misses
+| ps fire = Resist
+| ps lightning = -
+| ps ice = Resist
+| ps dia = -
+| nes fire = Resist
+| nes lightning = -
+| nes ice = Resist
+| nes dia = -
+| psp drop = 
+| psp abilities = 
+| psp resistance = 
+| drop = None
+| abilities = N/A
+| resistance = None
+| ps abilities = N/A
+| ps resistance = N/A
+| nes abilities = N/A
+| nes resistance = N/A
+}}
+
+== Etymology ==
+The Remorazz resembles a real-life centipede, thus the name "Great Pede".
+
+{{Etym|Remorhaz}}
+
+{{Etym|Remora}}
+
+== Related enemies ==
+* [[Ankheg (Final Fantasy)|Ankheg]]
+* [[Hundlegs (Final Fantasy)|Hundlegs]]
+* [[Undergrounder (Final Fantasy)|Undergrounder]]
+
+[[de:Remora (FFI)]]
+[[es:Remoraz (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

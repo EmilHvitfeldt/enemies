@@ -1,0 +1,281 @@
+{{DISPLAYTITLE:Black Knight (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Black Knight
+| japanese = ブラックナイト
+| romaji = Burakkunaito
+| aka = BADMAN
+| image = <gallery>
+Black Knight from FFI Pixel Remaster sprite.png|PR
+Black Knight from FFI 20th Anniversary Edition sprite.png|20th
+Black Knight from FFI Dawn of Souls sprite.png|GBA
+Black Knight from FFI Origins sprite.png|PS
+BADMAN from FFI NES sprite.png|NES
+</gallery>
+| aiscript = true
+| formations = true
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Flying Fortress]]<br>[[Mirage Tower]]
+| recurring appearance = Black Knight
+}}
+The '''Black Knight''', also known as the '''BADMAN''', is an enemy from the original ''[[Final Fantasy]]''. It can be encountered in the [[Mirage Tower]], [[Flying Fortress]], and [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]. It has very high [[Magic Power|Magic]] resistance and no real weakness, and may be encountered alongside the [[Nightmare (Final Fantasy)|Nightmare]]. It yields large amounts of [[gil]] and [[Experience Points|EXP]], and in the ''[[Final Fantasy 20th Anniversary|20th Anniversary]]'' and ''[[Final Fantasy I & II: Dawn of Souls|Dawn of Souls]]'' releases can drop the [[Deathbringer (Final Fantasy)|Deathbringer]], a powerful sword exclusive to those versions.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Tyrannosaur (Final Fantasy)
+| prev no = 103
+| bestiary = 104
+| next = Chimera (Final Fantasy)
+| next no = 105
+| name = Black Knight<br>'''NES:''' BADMAN
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Flying Fortress]]<br>[[Mirage Tower]]
+| hp = 260
+| attack = 44
+| intellect = 20
+| defense = 38
+| magic defense = 135
+| agility = 18
+| accuracy = 65
+| hits = 2
+| evasion = 36
+| crit = 1
+| luck = 2
+| exp = 1,263
+| gil = 1,800
+| morale = 200
+| drop = [[Deathbringer (Final Fantasy)|Deathbringer]] (1%) <small>(GBA/20th)</small>
+}}
+
+==Formations==
+[[File:Black Knight.jpg|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|235}}
+|[[Black Knight (Final Fantasy)|Black Knight]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|60
+|-
+!{{A|236}}
+|[[Black Knight (Final Fantasy)|Black Knight]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|237}}
+|[[Black Knight (Final Fantasy)|Black Knight]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|80
+|-
+!{{A|238}}
+|[[Black Knight (Final Fantasy)|Black Knight]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|641}}
+|[[Black Knight (Final Fantasy)|Black Knight]] x9
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F
+|50
+|-
+!{{A|642}}
+|[[Black Knight (Final Fantasy)|Black Knight]] x7
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F
+|60
+|-
+!{{A|643}}
+|[[Black Knight (Final Fantasy)|Black Knight]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F
+|70
+|-
+!{{A|646}}
+|[[Black Knight (Final Fantasy)|Black Knight]] x2, [[Nightmare (Final Fantasy)|Nightmare]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|60
+|-
+!{{A|647}}
+|[[Nightmare (Final Fantasy)|Nightmare]] x2, [[Black Knight (Final Fantasy)|Black Knight]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|80
+|-
+!{{A|648}}
+|[[Black Knight (Final Fantasy)|Black Knight]] x2, [[Nightmare (Final Fantasy)|Nightmare]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|80
+|-
+!{{A|649}}
+|[[Black Knight (Final Fantasy)|Black Knight]] x1, [[Nightmare (Final Fantasy)|Nightmare]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|80
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!{{A|077}}
+|[[Black Knight (Final Fantasy)|Black Knight]] x2-5
+|9 small
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 1F
+|24
+|-
+!{{A|205}}
+|[[Black Knight (Final Fantasy)|Black Knight]] x5-9
+|9 small
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] 3F
+|24
+|-
+!{{A|207}}
+|[[Nightmare (Final Fantasy)|Nightmare]] x1-2, [[Black Knight (Final Fantasy)|Black Knight]] x1-2
+|2 large 6 small
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Mirage Tower]] 1F
+|24
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 200
+| —
+| —
+| 0%
+| —
+| —
+| 0%
+|-
+! 1
+! 160
+| 41
+| —
+| 39.22%
+| 81
+| —
+| 37.25%
+|-
+! 2
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 3
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 4
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 5
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+==Other appearances==
+===''[[Final Fantasy Brave Exvius]]''===
+[[File:Black Knight FFI from FFBE enemy sprite.png|thumb|150x150px]]
+{{Enemy section|Final Fantasy Brave Exvius}}
+{{clear}}
+
+== Etymology ==
+{{Etym|Dark knight}}
+
+== Related enemies ==
+* [[Death Knight (Final Fantasy)|Death Knight]]
+* [[Duel Knight]]
+
+[[Category:Enemies in Final Fantasy]]
+
+[[de:Dunkelritter (FFI)]]
+

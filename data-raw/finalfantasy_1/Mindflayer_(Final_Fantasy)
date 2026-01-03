@@ -1,0 +1,336 @@
+{{DISPLAYTITLE:Mindflayer (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Mindflayer
+| japanese = マインドフレイア
+| romaji = Maindofureia
+| aka = SORCERER, Mind Flare
+| image = <gallery>
+Mindflayer from FFI Pixel Remaster sprite.png|PR
+Mindflayer from FFI 20th Anniversary Edition sprite.png|20th
+Mindflayer from FFI Dawn of Souls sprite.png|GBA
+Mindflayer from FFI Origins sprite.png|PS
+SORCERER from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cavern of Ice]]<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Citadel of Trials]]<br>[[Flying Fortress]]
+| formations = true
+| aiscript = true
+|recurring appearance = Mindflayer
+}}
+
+The '''Mindflayer''', also known as the '''SORCERER''' or '''Mind Flare''', is an enemy in ''[[Final Fantasy]]'', encountered in the [[Flying Fortress]], [[Cavern of Ice]], [[Citadel of Trials]], and [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]. It is a dangerous foe, as its signature [[Mind Blast (Final Fantasy)|Mind Blast]] can inflict [[Paralysis (Final Fantasy status)|Paralysis]] on the entire party, while its basic attacks may inflict [[KO (Final Fantasy)|instant death]]. The latter are uniquely non-elemental, and thus traditional KO-protection methods such as [[NulDeath (Final Fantasy)|NulDeath]] or the [[Ribbon (Final Fantasy)|Ribbon ]] provide no protection from it. The only way to lower the chance of being instantly KO'd is to have high [[Magic Defense (Final Fantasy)|Magic Defense]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Winter Wolf
+| prev no = 069
+| bestiary = 070
+| next = Ice Gigas (Final Fantasy)
+| next no = 071
+| nes = SORCERER
+| ps = Mind Flare
+| name = Mindflayer<br>'''PS:''' Mind Flare (PAL)<br>'''NES:''' SORCERER
+| location = [[Cavern of Ice]]<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]<br>[[Citadel of Trials]]<br>[[Flying Fortress]]
+| hp = 112
+| attack = 1
+| intellect = 26
+| defense = 12
+| magic defense = 187
+| agility = 24
+| accuracy = 28
+| evasion = 48
+| exp = 822
+| gil = 999
+| hits = 3
+| crit = 1
+| morale = 130
+| luck = 2
+| drop = [[Phoenix Down (Final Fantasy)|Phoenix Down]] (3%)
+| abilities = Attacks may inflict [[KO (Final Fantasy)|KO]]<br>[[Mind Blast (Final Fantasy)|Mind Blast]]
+}}
+
+==Formations==
+[[File:Mindflayer ff1.jpg|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|151}}
+|'''Mindflayer''' x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 3F
+|40
+|-
+!rowspan="2"|{{A|152}}
+|rowspan="2"|'''Mindflayer''' x4
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|60
+|-
+|[[Citadel of Trials]] 2F
+|40
+|-
+!{{A|153}}
+|'''Mindflayer''' x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|30
+|-
+!{{A|154}}
+|'''Mindflayer''' x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|40
+|-
+!{{A|320}}
+|'''Mindflayer''' x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B3
+|20
+|-
+!rowspan="2"|{{A|321}}
+|rowspan="2"|'''Mindflayer''' x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B2
+|30
+|-
+|[[Cavern of Ice]] B3
+|25
+|-
+!{{A|322}}
+|'''Mindflayer''' x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B2
+|30
+|-
+!{{A|549}}
+|'''Mindflayer''' x6, [[Clay Golem (Final Fantasy)|Clay Golem]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 5F
+|30
+|-
+!{{A|550}}
+|'''Mindflayer''' x5, [[Clay Golem (Final Fantasy)|Clay Golem]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 5F
+|30
+|-
+!{{A|551}}
+|'''Mindflayer''' x4, [[Clay Golem (Final Fantasy)|Clay Golem]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|552}}
+|'''Mindflayer''' x3, [[Clay Golem (Final Fantasy)|Clay Golem]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 4F
+|30
+|-
+!{{A|553}}
+|'''Mindflayer''' x2, [[Clay Golem (Final Fantasy)|Clay Golem]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|554}}
+|'''Mindflayer''' x1, [[Clay Golem (Final Fantasy)|Clay Golem]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!rowspan="2"|{{A|758}}
+|rowspan="2"|'''Mindflayer''' x7
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B4
+|30
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|30
+|-
+!rowspan="2"|{{A|759}}
+|rowspan="2"|'''Mindflayer''' x5
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B4
+|30
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|30
+|-
+!{{A|760}}
+|'''Mindflayer''' x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|053}}
+|rowspan="2"|'''Mindflayer''' x2-5
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Citadel of Trials]] 2F
+|3
+|-
+|[[Citadel of Trials]] 3F
+|9
+|-
+!rowspan="2"|{{A|108}}
+|rowspan="2"|'''Mindflayer''' x1-3
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B2
+|12
+|-
+|[[Cavern of Ice]] B3
+|12
+|-
+!rowspan="2"|{{A|181}}
+|rowspan="2"|'''Mindflayer''' x1-6, [[Clay Golem (Final Fantasy)|Clay Golem]] x1-2
+|rowspan="2"|2 large 6 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Flying Fortress]] 4F
+|6
+|-
+|[[Flying Fortress]] 5F
+|12
+|-
+!rowspan="2"|{{A|236}}
+|rowspan="2"|'''Mindflayer''' x3-7
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B4
+|3
+|-
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] B5
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 72.12%
+| 50%
+|-
+| Blaze
+| 24.04%
+| 50%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 130
+| 26
+| —
+| 98.04%
+| 51
+| —
+| 96.08%
+|-
+! 1
+! 90
+| 6
+| 31
+| 100%
+| 11
+| 61
+| 100%
+|-
+! 2
+! 50
+| 1
+| 11
+| 100%
+| 1
+| 21
+| 100%
+|-
+! 3
+! 10
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+==Behind the scenes==
+Like so many enemies in ''Final Fantasy'', Mind Flayers are taken directly from the bestiary of ''Dungeons & Dragons'', and are one of the most infamous and iconic monsters of that game. While the "[[Evil Eye (Final Fantasy)|Evil Eye]]" (AKA a Beholder) was drastically changed in appearance in every single release after the initial Japanese one due to copyright concerns, Mind Flayers have not been renamed or graphically altered, despite their prominence in ''Dungeons & Dragons'', and have appeared in other games since. One general assumption is that, so long as the Mind Flayers are not called "illithids" (which is a specifically-protected term), Wizards of the Coast cannot claim copyright infringement, as the ''concept'' of the "octopus-faced mind eater" comes from still earlier works by [[wikipedia:Brian Lumley|Brian Lumley]] and [[wikipedia:H.P. Lovecraft|H.P. Lovecraft]].
+
+== Etymology ==
+{{Etym|Mindflayer}}
+
+== Related enemies ==
+* [[Piscodemon (Final Fantasy)|Piscodemon]]
+* [[Squidraken (Final Fantasy)|Squidraken]]
+
+[[de:Seelenschinder (FFI)]]
+[[es:Rompementes (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

@@ -1,0 +1,124 @@
+{{DISPLAYTITLE:Sea Scorpion (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Sea Scorpion
+| japanese = うみサソリ
+| romaji = Umisasori
+| lit = 
+| image = <gallery>
+Sea Scorpion from FFI Pixel Remaster sprite.png|PR
+Sea Scorpion from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Sea Scorpion from FFI Dawn of Souls sprite.png|GBA
+Sea Scorpion from FFI Origins sprite.png|PS
+LOBSTER from FFI NES sprite.png|NES
+</gallery>
+| location = [[Sunken Shrine]]<br>[[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| type = 
+| formations = 
+| aiscript = 
+}}
+The '''Sea Scorpion''', also known as the '''Lobster''', is an enemy in the original ''[[Final Fantasy]]''. It has the second-lowest HP of all the enemies in the [[Sunken Shrine]] and is easily picked off by a [[Thundara (Final Fantasy)|Thundara]] spell.
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Sea Snake (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 097
+| psp next = Sea Troll
+| psp next no = 
+| prev = Sea Snake (Final Fantasy)
+| prev no = 
+| bestiary = 097
+| next = Sea Troll
+| next no = 
+| ps prev = Sea Snake (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 097
+| ps next = Sea Troll
+| ps next no = 
+| nes = LOBSTER
+| ps = Sea Scorpion
+| = Sea Scorpion
+| psp = Sea Scorpion
+| psp location = 
+| nes location = 
+| ps location = [[Sunken Shrine]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| location = [[Sunken Shrine]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| psp hp = 148
+| psp attack = 35
+| psp intelligence = 11
+| psp defense = 18
+| psp magic defense = 85
+| psp agility = 30
+| psp accuracy = 37
+| psp evasion = 60
+| psp exp = 639
+| psp gil = 300
+| hp = 148
+| attack = 35
+| intellect = 11
+| defense = 18
+| magic defense = 85
+| agility = 30
+| accuracy = 37
+| evasion = 60
+| exp = 639
+| gil = 300
+| ps hp = 148
+| ps attack = 35
+| ps defense = 18
+| ps magic defense = 85
+| ps exp = 639
+| ps gil = 300
+| nes hp = 148
+| nes attack = 35 - 70
+| nes defense = 
+| nes magic defense = 43
+| nes evasion = 
+| nes accuracy = 
+| nes exp = 639
+| nes gil = 300
+| psp fire = Resist
+| psp lightning = Weak
+| psp ice = 
+| psp dia = 
+| fire = Resist
+| lightning = 
+| ice = -
+| dia = Misses
+| ps fire = Resist
+| ps lightning = Weak
+| ps ice = -
+| ps dia = -
+| nes fire = Resist
+| nes lightning = Weak
+| nes ice = 
+| nes dia = 
+| psp drop = 
+| psp abilities = 
+| psp resistance = [[Earth (Final Fantasy)|Quake]]
+| drop = None
+| abilities = 
+| resistance = [[Earth (Final Fantasy)|Quake]]
+| ps abilities = N/A
+| ps resistance = Quake
+| nes abilities = 
+| nes resistance = 
+}}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+== Etymology ==
+{{Etym|Scorpion}}
+
+{{Etym|Eurypterid}}
+
+== Related enemies ==
+* [[Scorpion (Final Fantasy)|Scorpion]]
+* [[Desertpede (Final Fantasy)|Desertpede]]
+
+[[de:Seeskorpion]]
+[[Category:Enemies in Final Fantasy]]
+

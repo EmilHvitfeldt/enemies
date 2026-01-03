@@ -1,0 +1,333 @@
+{{DISPLAYTITLE:Ghast (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Ghast
+| japanese = ガスト
+| romaji = Gasuto
+| aka = GEIST
+| image = <gallery>
+Ghast from FFI Pixel Remaster sprite.png|PR
+Ghast from FFI 20th Anniversary Edition sprite.png|20th
+Ghast from FFI Dawn of Souls sprite.png|GBA
+Ghast from FFI Origins sprite.png|PS
+GEIST from FFI MSX sprite.png|MSX
+GEIST from FFI NES sprite.png|NES
+</gallery>
+| location = [[Cavern of Earth]]<br>Cavern of Earth region<br>[[Cavern of Ice]]<br>Cavern of Ice region<br>[[Giant's Cave]] region<br>[[Marsh Cave]] region<br>[[Melmond]] region<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]] region<br>[[Sage's Cave]] region<br>[[Whisperwind Cove (Final Fantasy)|Whisperwind Cove]] region
+| recurring appearance = Ghast
+| aiscript = true
+| formations = true
+}}
+
+The '''Ghast''', also known as the '''GEIST''', is an enemy in ''[[Final Fantasy]]''. It is a common enemy in the early stages of the game after reaching [[Elfheim]]. Its attacks may cause [[Paralysis (Final Fantasy status)|Paralysis]], and it is infamous for its tendency to attack in large, chain-paralyzing packs alongside its [[Ghoul (Final Fantasy)|Ghoul]] and [[Wight (Final Fantasy)|Wight]] cousins, prematurely ending many a [[Warriors of Light|Warrior of Light]]'s journey.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Tarantula (Final Fantasy)
+| prev no = 023
+| bestiary = 024
+| next = Scorpion (Final Fantasy)
+| next no = 025
+| name = Ghast<br>'''NES:''' GEIST
+| type = Undead
+| location = [[Cavern of Earth]]<br>Cavern of Earth region<br>[[Cavern of Ice]]<br>Cavern of Ice region<br>[[Giant's Cave]] region<br>[[Marsh Cave]] region<br>[[Melmond]] region<br>[[Mount Gulg (Final Fantasy)|Mount Gulg]] region<br>[[Sage's Cave]] region<br>[[Whisperwind Cove (Final Fantasy)|Whisperwind Cove]] region
+| hp = 56
+| attack = 8
+| intellect = 2
+| defense = 10
+| magic defense = 40
+| agility = 23
+| accuracy = 14
+| evasion = 46
+| morale = 160
+| hits = 3
+| crit = 1
+| exp = 117
+| gil = 117
+| luck = 2
+| fire = Weak
+| dia = Weak
+| silence = Resists
+| sleep = Resists
+| paralysis = Resists
+| darkness = Resists
+| poison status = Resists
+| stone = Resists
+| confuse = Resists
+| ice = Resists
+| spirit = Resists
+| instant death = Resists
+| poison element = -<br>{{note|reference=Resists prior to pixel remaster.|name=poison element}}
+| abilities = Attacks may inflict [[Paralysis (Final Fantasy status)|Paralysis]]
+}}
+{{annotations}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|047}}
+|Ghast x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]]-[[Marsh Cave]]-[[Mount Gulg (Final Fantasy)|Mount Gulg]] region
+|60
+|-
+!{{A|048}}
+|Ghast x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|049}}
+|Ghast x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]]-[[Marsh Cave]]-[[Mount Gulg (Final Fantasy)|Mount Gulg]] region
+|60
+|-
+!{{A|050}}
+|Ghast x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|123}}
+|Ghast x2, [[Wight (Final Fantasy)|Wight]] x2, [[Wraith (Final Fantasy)|Wraith]] x2, [[Specter (Final Fantasy)|Specter]] x3
+|{{x}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B3
+|Fixed
+|-
+!{{A|124}}
+|Ghast x1, [[Wight (Final Fantasy)|Wight]] x1, [[Specter (Final Fantasy)|Specter]] x2, [[Wraith (Final Fantasy)|Wraith]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B2
+|70
+|-
+!{{A|376}}
+|Ghast x4, [[Ghoul (Final Fantasy)|Ghoul]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]]-[[Giant's Cave]]-[[Melmond]] region
+|30
+|-
+!{{A|377}}
+|Ghast x3, [[Ghoul (Final Fantasy)|Ghoul]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|378}}
+|Ghast x2, [[Ghoul (Final Fantasy)|Ghoul]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]]-[[Giant's Cave]]-[[Melmond]] region
+|60
+|-
+!{{A|379}}
+|[[Ghoul (Final Fantasy)|Ghoul]] x2, Ghast x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|Dummied
+|
+|-
+!{{A|399}}
+|Ghast x4, [[Wight (Final Fantasy)|Wight]] x5
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B4
+|20
+|-
+!{{A|400}}
+|Ghast x5, [[Wight (Final Fantasy)|Wight]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B4
+|20
+|-
+!{{A|401}}
+|Ghast x3, [[Wight (Final Fantasy)|Wight]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B3
+|50
+|-
+!{{A|402}}
+|Ghast x2, [[Wight (Final Fantasy)|Wight]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B3
+|70
+|-
+!{{A|803}}
+|Ghast x2, [[Wight (Final Fantasy)|Wight]] x2, [[Wraith (Final Fantasy)|Wraith]] x2, [[Specter (Final Fantasy)|Specter]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B2
+|40
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!{{A|015}}
+|Ghast x1-4
+|9 small
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]]-[[Marsh Cave]]-[[Mount Gulg (Final Fantasy)|Mount Gulg]]-[[Whisperwind Cove (Final Fantasy)|Whisperwind Cove]] region
+|12
+|-
+!rowspan="3"|{{A|044}}
+|rowspan="3"|[[Specter (Final Fantasy)|Specter]] x1-5, [[Wraith (Final Fantasy)|Wraith]] x0-3, [[Wight (Final Fantasy)|Wight]] x0-3, Ghast x0-3
+|rowspan="3"|9 small
+|rowspan="3"|{{y}}
+|rowspan="3"|4
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Ice]] B1
+|3
+|-
+|[[Cavern of Ice]] B2
+|6
+|-
+|[[Cavern of Ice]] B3
+|Fixed
+|-
+!{{A|136}}
+|[[Ghoul (Final Fantasy)|Ghoul]] x2-5, Ghast x0-4
+|9 small
+|{{y}}
+|4
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]]-[[Giant's Cave]]-[[Melmond]]-[[Sage's Cave]] region
+|12
+|-
+!rowspan="2"|{{A|143}}
+|rowspan="2"|[[Wight (Final Fantasy)|Wight]] x2-5, Ghast x2-5
+|rowspan="2"|9 small
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Cavern of Earth]] B3
+|12
+|-
+|[[Cavern of Earth]] B4
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 160
+| 41
+| —
+| 39.22%
+| 81
+| —
+| 37.25%
+|-
+! 1
+! 120
+| 21
+| 46
+| 100%
+| 41
+| 91
+| 100%
+|-
+! 2
+! 80
+| 1
+| 26
+| 100%
+| 1
+| 51
+| 100%
+|-
+! 3
+! 40
+| 1
+| 6
+| 100%
+| 1
+| 11
+| 100%
+|-
+! 4
+! 0
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+== Etymology ==
+{{Etym|Ghast}}
+
+{{Etym|Geist}}
+
+== Related enemies ==
+* [[Ghoul (Final Fantasy)|Ghoul]]
+* [[Revenant (Final Fantasy)|Revenant]]
+* [[Wight (Final Fantasy)|Wight]]
+* [[Zombie (Final Fantasy)|Zombie]]
+
+
+[[de:Schreck (FFI)]]
+[[es:Espanto (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

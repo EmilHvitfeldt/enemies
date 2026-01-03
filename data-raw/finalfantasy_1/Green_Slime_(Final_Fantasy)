@@ -1,0 +1,248 @@
+{{DISPLAYTITLE:Green Slime (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Green Slime
+| japanese = グリーンスライム
+| romaji = Gurīnsuraimu
+| aka = SCUM
+| image = <gallery>
+Green Slime from FFI Pixel Remaster sprite.png|PR
+Green Slime from FFI 20th Anniversary Edition sprite.png|20th
+Green Slime from FFI Dawn of Souls sprite.png|GBA
+Green Slime from FFI Origins sprite.png|PS
+FFI Green Slime MSX.png|MSX
+SCUM from FFI NES sprite.png|NES
+</gallery>
+| location = [[Marsh Cave]]
+| formations = true
+| aiscript = true
+|recurring appearance=Green Slime
+}}
+The '''Green Slime''', also known as the '''SCUM''', is an enemy in ''[[Final Fantasy]]''. Boasting the maximum possible [[Defense (Final Fantasy)|Defense]] stat of 255, it nullifies most physical attacks, but a [[Black Mage (Final Fantasy)|Black Mage]]'s [[Blizzara (Final Fantasy)|Blizzara]] or [[Fira (Final Fantasy)|Fira]] can defeat a group of them with a single cast. While its own damage is pitiful, its attacks may inflict [[Poison (Final Fantasy status)|Poison]], so the party should carry some [[Antidote (Final Fantasy)|Antidotes]] when traveling through the [[Marsh Cave]].
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Shadow (Final Fantasy)
+| prev no = 026
+| bestiary = 027
+| next = Crawler (Final Fantasy)
+| next no = 028
+| name = Green Slime<br>'''NES:''' SCUM
+| location = [[Marsh Cave]]
+| hp = 24
+| attack = 1
+| intellect = 3
+| defense = 255
+| magic defense = 36
+| agility = 0
+| accuracy = 1
+| evasion = 0
+| exp = 84
+| gil = 20
+| morale = 124
+| hits = 1
+| crit = 1
+| luck = 2
+| fire = Weak
+| ice = Weak
+| silence = Resists
+| sleep = Resists
+| paralysis = Resists
+| darkness = Resists
+| confuse = Resists
+| poison status = Resists
+| stone = Resists
+| poison element = -<br>{{note|reference=Resists prior to pixel remaster.|name=poison element}}
+| lightning = Resists
+| earth = Resists
+| spirit = Resists
+| instant death = Resists
+| drop = [[Hi-Potion (Final Fantasy)|Hi-Potion]] (2%)
+| abilities = Attacks may inflict [[Poison (Final Fantasy status)|Poison]]
+}}
+{{annotations}}
+
+==Formations==
+;Pixel remaster
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|301}}
+|[[Green Slime (Final Fantasy)|Green Slime]] x1, [[Black Widow (Final Fantasy)|Black Widow]] x2, [[Gray Ooze (Final Fantasy)|Gray Ooze]] x1, [[Tarantula (Final Fantasy)|Tarantula]] x2
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B3
+|30
+|-
+!rowspan="2"|{{A|302}}
+|rowspan="2"|[[Gray Ooze (Final Fantasy)|Gray Ooze]] x1, [[Black Widow (Final Fantasy)|Black Widow]] x1, [[Tarantula (Final Fantasy)|Tarantula]] x1, [[Green Slime (Final Fantasy)|Green Slime]] x1
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B2
+|60
+|-
+|[[Marsh Cave]] B3
+|60
+|-
+!{{A|367}}
+|[[Green Slime (Final Fantasy)|Green Slime]] x4
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B3
+|60
+|-
+!rowspan="2"|{{A|368}}
+|rowspan="2"|[[Green Slime (Final Fantasy)|Green Slime]] x3
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B2
+|80
+|-
+|[[Marsh Cave]] B3
+|90
+|-
+!rowspan="2"|{{A|369}}
+|rowspan="2"|[[Green Slime (Final Fantasy)|Green Slime]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B1
+|80
+|-
+|[[Marsh Cave]] B2
+|80
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="3"|{{A|102}}
+|rowspan="3"|[[Tarantula (Final Fantasy)|Tarantula]] x1-2, [[Black Widow (Final Fantasy)|Black Widow]] x0-2, [[Green Slime (Final Fantasy)|Green Slime]] x0-2, [[Gray Ooze (Final Fantasy)|Gray Ooze]] x0-2
+|rowspan="3"|9 small
+|rowspan="3"|{{y}}
+|rowspan="3"|55
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B1
+|6
+|-
+|[[Marsh Cave]] B2
+|6
+|-
+|[[Marsh Cave]] B3
+|6
+|-
+!rowspan="3"|{{A|133}}
+|rowspan="3"|[[Green Slime (Final Fantasy)|Green Slime]] x2-4
+|rowspan="3"|9 small
+|rowspan="3"|{{y}}
+|rowspan="3"|55
+|rowspan="3"|[[Battle (Final Fantasy)|Battle]]
+|[[Marsh Cave]] B1
+|12
+|-
+|[[Marsh Cave]] B2
+|12
+|-
+|[[Marsh Cave]] B3
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 124
+| 23
+| 48
+| 100%
+| 45
+| 95
+| 100%
+|-
+! 1
+! 84
+| 3
+| 28
+| 100%
+| 5
+| 55
+| 100%
+|-
+! 2
+! 44
+| 1
+| 8
+| 100%
+| 1
+| 15
+| 100%
+|-
+! 3
+! 4
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+==Etymology==
+{{Etym|Green Slime}}
+
+== Related enemies ==
+* [[Black Flan (Final Fantasy)|Black Flan]]
+* [[Gray Ooze (Final Fantasy)|Gray Ooze]]
+* [[Ochre Jelly]]
+* [[Red Flan (Final Fantasy)|Red Flan]]
+
+[[es:Mucus verde (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

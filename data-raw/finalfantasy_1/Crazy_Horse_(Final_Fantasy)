@@ -1,0 +1,211 @@
+{{DISPLAYTITLE:Crazy Horse (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Crazy Horse
+| japanese = クレイジーホース
+| romaji = Kureijīhōsu
+| aka = MADPONY
+| image = <gallery>
+Crazy Horse from FFI Pixel Remaster sprite.png|PR
+Crazy Horse from FFI 20th Anniversary Edition sprite.png|20th
+Crazy Horse from FFI Dawn of Souls sprite.png|GBA
+Crazy Horse from FFI Origins sprite.png|PS
+MADPONY from FFI MSX sprite.gif|MSX
+MADPONY from FFI NES sprite.png|NES
+</gallery>
+| aiscript = true
+| formations = true
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] region<br>[[Cornelia (Final Fantasy)|Cornelia]] region</small><br>[[Cornelia Bridge]] region<br>[[Earthgift Shrine]] region<br>[[Pravoka]] region
+| recurring appearance = Crazy Horse
+}}
+
+The '''Crazy Horse''', also known as the '''MADPONY''', is an enemy from ''[[Final Fantasy]]''. They are wild horses that roam the plains around [[Cornelia (Final Fantasy)|Cornelia]] and [[Pravoka]]. While a single Crazy Horse can be a formidable foe, when encountered in groups they can be a deadly encounter for low-level parties just beginning their adventure.
+
+==Stats==
+{{infobox enemy stats FFI
+| prev = Wolf (Final Fantasy)
+| prev no = 003
+| bestiary = 004
+| next no = 005
+| next = Skeleton (Final Fantasy)
+| name = Crazy Horse<br>'''NES:''' MADPONY
+| type = Beast <small>([[Pixel remaster|PR]])</small>
+| location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] region<br>[[Cornelia (Final Fantasy)|Cornelia]] region</small><br>[[Cornelia Bridge]] region<br>[[Earthgift Shrine]] region<br>[[Pravoka]] region
+| hp = 64
+| attack = 10
+| intellect = 4
+| defense = 2
+| magic defense = 40
+| agility = 11
+| accuracy = 16
+| hits = 2
+| evasion = 22
+| crit = 1
+| luck = 2
+| exp = 63
+| gil = 15
+| morale = 106
+| drop = [[Potion (Final Fantasy)|Potion]] (5%)
+}}
+
+==Formations==
+[[File:Crazyhorse-ff1-art.png|thumb|Concept artwork by [[Yoshitaka Amano]].]]
+;''Pixel Remaster''
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Can flee?
+!Musical theme
+!Location
+!Rate/1000
+|-
+!{{A|017}}
+|[[Crazy Horse (Final Fantasy)|Crazy Horse]] x1
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Cornelia Bridge]] region
+|80
+|-
+!rowspan="2"|{{A|370}}
+|rowspan="2"|[[Crazy Horse (Final Fantasy)|Crazy Horse]] x4
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] region
+|60
+|-
+|[[Pravoka]] region
+|60
+|-
+!{{A|371}}
+|[[Crazy Horse (Final Fantasy)|Crazy Horse]] x3
+|{{y}}
+|[[Battle (Final Fantasy)|Battle]]
+|[[Pravoka]] region
+|60
+|-
+!rowspan="2"|{{A|372}}
+|rowspan="2"|[[Crazy Horse (Final Fantasy)|Crazy Horse]] x2
+|rowspan="2"|{{y}}
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] region
+|60
+|-
+|[[Pravoka]] region
+|60
+|}
+
+;Other releases
+{|class="scrollable article-table" style="text-align:center"
+|-
+!Number
+!Enemies
+!Maximum
+!Can flee?
+!Ambush%
+!Musical theme
+!Location
+!Rate/64
+|-
+!rowspan="2"|{{A|006}}
+|rowspan="2"|[[Crazy Horse (Final Fantasy)|Crazy Horse]] x1
+|rowspan="2"|4 large
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] region
+|6
+|-
+|[[Cornelia (Final Fantasy)|Cornelia]]-[[Cornelia Bridge]]-[[Earthgift Shrine]] region
+|3
+|-
+!rowspan="2"|{{A|134}}
+|rowspan="2"|[[Crazy Horse (Final Fantasy)|Crazy Horse]] x2-4
+|rowspan="2"|4 large
+|rowspan="2"|{{y}}
+|rowspan="2"|4
+|rowspan="2"|[[Battle (Final Fantasy)|Battle]]
+|[[Chaos Shrine (Final Fantasy)|Chaos Shrine]] region
+|1
+|-
+|[[Pravoka]] region
+|12
+|}
+
+==AI script==
+{| class="article-table"
+|-
+! rowspan="2"|Action
+! colspan="2"|Probability
+|-
+! PR
+! Other releases
+|-
+| Attack
+| 96.15%
+| 100%
+|-
+| Flee
+| 3.85%
+| Morale check
+|}
+
+;Morale check
+{| class="article-table"
+! rowspan="2"|# [[Fear (Final Fantasy)|Fear]]
+! rowspan="2"|[[Morale (Final Fantasy)|Morale]]
+! colspan="3"|Max level 50
+! colspan="3"|Max level 99
+|-
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+! <small>Min flee level
+! <small>100% flee level
+! <small>% at max level
+|-
+! 0
+! 106
+| 14
+| 39
+| 100%
+| 27
+| 77
+| 100%
+|-
+! 1
+! 66
+| 1
+| 19
+| 100%
+| 1
+| 37
+| 100%
+|-
+! 2
+! 26
+| 1
+| 1
+| 100%
+| 1
+| 1
+| 100%
+|}
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+{{Enemy section|Pictlogica Final Fantasy}}
+
+== Etymology ==
+{{Etym|Crazy Horse}}
+
+== Related enemies ==
+* [[Nightmare (Final Fantasy)|Nightmare]]
+* [[Unicorn (Final Fantasy)|Unicorn]]
+
+
+[[de:Teufelsross]]
+[[es:Caballo loco (Final Fantasy)]]
+[[pl:Crazy Horse (Final Fantasy)]]
+[[Category:Enemies in Final Fantasy]]
+

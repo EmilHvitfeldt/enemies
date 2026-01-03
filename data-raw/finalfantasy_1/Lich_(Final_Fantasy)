@@ -1,0 +1,388 @@
+{{DISPLAYTITLE:Lich (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Lich
+| japanese = リッチ
+| romaji = Riichi
+| lit = 
+| image = <gallery>
+Lich from FFI Pixel Remaster battle sprite.png|PR
+Lich from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Lich from FFI Dawn of Souls sprite.png|GBA
+Lich from FFI Origins sprite.png|PS
+LICH from FFI NES sprite.png|NES
+</gallery>
+|sprite=[[File:Lich Icon.PNG|Fiend Sprite (GBA).]] [[File:Lich-map.png|Fiend Sprite (PSP and iOS).]] [[File:Lich from FFI Pixel Remaster field sprite.png|Fiend Old Sprite (PR).]] [[File:Lich Pixel remaster fiend.png|60px|Field Sprite (PR).]]
+| location = [[Cavern of Earth]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] (past)
+| type = Boss
+| formations = 
+| aiscript = true
+|recurring appearance=Lich
+}}
+{{Quote|The Fiend of Earth, who drains and decays the soil itself.|Description}}
+'''Lich''' is the [[Four Fiends (Final Fantasy)|Fiend of Earth]] from the original ''[[Final Fantasy]]''. He appears at the bottom of the [[Cavern of Earth]]. He is [[undead]] with the appearance of a skeleton.
+
+== Stats ==
+{{infobox enemy stats FFI
+| 1 psp prev = Sphinx (Final Fantasy)
+| 1 psp prev no = 
+| 1 psp bestiary = 049
+| 1 psp next = Ankheg (Final Fantasy)
+| 1 psp next no = 
+| 1 prev = Sphinx (Final Fantasy)
+| 1 prev no = 
+| 1 bestiary = 49
+| 1 next = Ankheg (Final Fantasy)
+| 1 next no = 
+| 1 ps prev = Sphinx (Final Fantasy)
+| 1 ps prev no = 
+| 1 ps bestiary = 49
+| 1 ps next = Ankheg (Final Fantasy)
+| 1 ps next no = 
+| 1 nes = LICH
+| 1 ps = Lich
+| 1 = Lich
+| 1 psp = Lich
+| 1 psp location = [[Cavern of Earth]]
+| 1 nes location = [[Cavern of Earth|Terra Cavern]]
+| 1 ps location = [[Cavern of Earth|Terra Cavern]]
+| 1 location = [[Cavern of Earth]]
+| 1 psp hp = 1200
+| 1 psp attack = 40
+| 1 psp intelligence = 30
+| 1 psp defense = 40
+| 1 psp magic defense = 120
+| 1 psp agility = 12
+| 1 psp accuracy = 49
+| 1 psp evasion = 24
+| 1 psp exp = 2200
+| 1 psp gil = 3000
+| 1 hp = 1200
+| 1 attack = 40
+| 1 intellect = 30
+| 1 defense = 40
+| 1 magic defense = 120
+| 1 agility = 12
+| 1 accuracy = 49
+| 1 evasion = 24
+| 1 exp = 2200
+| 1 gil = 3000
+| 1 ps hp = 800
+| 1 ps attack = 40
+| 1 ps defense = 40
+| 1 ps magic defense = 120
+| 1 ps exp = 2200
+| 1 ps gil = 3000
+| 1 nes hp = 400
+| 1 nes attack = 40 - 80
+| 1 nes defense = 40
+| 1 nes magic defense = 120
+| 1 nes evasion = 24
+| 1 nes accuracy = 49
+| 1 nes exp = 2200
+| 1 nes gil = 3000
+| 1 psp fire = Weak
+| 1 psp lightning = -
+| 1 psp ice = Resist
+| 1 psp dia = Weak
+| 1 fire = Weak
+| 1 lightning = -
+| 1 ice = Resist
+| 1 dia = Weak
+| 1 ps fire = Weak
+| 1 ps lightning = -
+| 1 ps ice = Resist
+| 1 ps dia = Weak
+| 1 nes fire = Weak
+| 1 nes lightning = -
+| 1 nes ice = Resist
+| 1 nes dia = Weak
+| 1 psp drop = [[Dry Ether (Final Fantasy)|Dry Ether]]
+| 1 psp abilities = [[Blizzara (ability)|Blizzara]], [[Sleepra]], [[Haste (ability)|Haste]], [[Thundara (ability)|Thundara]], [[Stun (ability)|Hold]], [[Fira (ability)|Fira]], [[Slow (ability)|Slow]], [[Sleep (ability)|Sleep]]
+| 1 psp resistance = [[Ice (element)|Blizzard]], [[Stun (status)|Stun]], [[Poison (status)|Poison]], [[Instant Death]], [[Petrify (status)|Petrify]], [[Sleep (status)|Sleep]], [[Blind (status)|Blind]], [[Silence (status)|Silence]], [[Confuse (status)|Confuse]], [[Element (term)#Mind|Mind]]
+| 1 drop = [[Dry Ether (Final Fantasy)|Dry Ether]]
+| 1 abilities = [[Blizzara (ability)|Blizzara]], [[Sleepra]], [[Haste (ability)|Haste]], [[Thundara (ability)|Thundara]], [[Stun (ability)|Hold]], [[Fira (ability)|Fira]], [[Slow (ability)|Slow]], [[Sleep (ability)|Sleep]]
+| 1 resistance = [[Ice (element)|Blizzard]], [[Stun (status)|Stun]], [[Poison (status)|Poison]], [[Instant Death]], [[Petrify (status)|Petrify]], [[Sleep (status)|Sleep]], [[Blind (status)|Blind]], [[Silence (status)|Silence]], [[Confuse (status)|Confuse]], [[Element (term)#Mind|Mind]]
+| 1 ps abilities = [[Blizzara (ability)|Ice2]], [[Sleepra|Sleep2]], [[Haste (ability)|Haste]], [[Thundara (ability)|Bolt2]], [[Stun (ability)|Stun]], [[Fira (ability)|Fire2]], [[Slow (ability)|Slow1]], [[Sleep (ability)|Sleep1]]
+| 1 ps resistance = [[Stun (status)|Stun]], [[Poison (status)|Poison]], [[Instant Death]], [[Petrify (status)|Petrify]], [[Sleep (status)|Sleep]], [[Blind (status)|Blind]]
+| 1 nes abilities = [[Blizzara (ability)|ICE2]], [[Sleepra|SLP2]], [[Haste (ability)|FAST]], [[Thundara (ability)|LIT2]], [[Stun (ability)|HOLD]], [[Fira (ability)|FIR2]], [[Slow (ability)|SLOW]], [[Sleep (ability)|SLEP]]
+| 1 nes resistance = [[Stun (status)|STUN]], [[Poison (status)|POIS]], [[Instant Death]], [[Petrify (status)|PETR]], [[Sleep (status)|SLEP]], [[Blind (status)|DARK]]
+| 2 psp prev = Iron Golem (Final Fantasy)
+| 2 psp prev no = 
+| 2 psp bestiary = 124
+| 2 psp next = Marilith (Final Fantasy)
+| 2 psp next no = 
+| 2 prev = Iron Golem (Final Fantasy)
+| 2 prev no = 
+| 2 bestiary = 124
+| 2 next = Marilith (Final Fantasy)
+| 2 next no = 
+| 2 ps prev = Iron Golem (Final Fantasy)
+| 2 ps prev no = 
+| 2 ps bestiary = 124
+| 2 ps next = Marilith (Final Fantasy)
+| 2 ps next no = 
+| 2 nes = Lich
+| 2 ps = Lich
+| 2 = Lich
+| 2 psp = Lich
+| 2 psp location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] (past)
+| 2 nes location = [[Chaos Shrine (Final Fantasy)|Temple of Fiends]]
+| 2 ps location = [[Chaos Shrine (Final Fantasy)|Temple of Chaos]]
+| 2 location = [[Chaos Shrine (Final Fantasy)|Chaos Shrine]] (past)
+| 2 psp hp = 2800
+| 2 psp attack = 50
+| 2 psp intelligence = 34
+| 2 psp defense = 80
+| 2 psp magic defense = 140
+| 2 psp agility = 24
+| 2 psp accuracy = 64
+| 2 psp evasion = 48
+| 2 psp exp = 2000
+| 2 psp gil = 1
+| 2 hp = 2800
+| 2 attack = 50
+| 2 intellect = 34
+| 2 defense = 80
+| 2 magic defense = 140
+| 2 agility = 24
+| 2 accuracy = 64
+| 2 evasion = 48
+| 2 exp = 2000
+| 2 gil = 1
+| 2 ps hp = 1000
+| 2 ps attack = 50
+| 2 ps defense = 80
+| 2 ps magic defense = 140
+| 2 ps exp = 2000
+| 2 ps gil = 1
+| 2 nes hp = 500
+| 2 nes attack = 50
+| 2 nes defense = 80
+| 2 nes magic defense = 140
+| 2 nes evasion = 24
+| 2 nes accuracy = 64
+| 2 nes exp = 2000
+| 2 nes gil = 1
+| 2 psp fire = -
+| 2 psp lightning = -
+| 2 psp ice = Resist
+| 2 psp dia = Weak
+| 2 fire = -
+| 2 lightning = -
+| 2 ice = Resist
+| 2 dia = Weak
+| 2 ps fire = Weak
+| 2 ps lightning = -
+| 2 ps ice = Resist
+| 2 ps dia = Weak
+| 2 nes fire = Weak
+| 2 nes lightning = -
+| 2 nes ice = Resist
+| 2 nes dia = Weak
+| 2 psp drop = None
+| 2 psp abilities = [[Flare (ability)|Flare]], Stop, Warp, Kill
+| 2 psp resistance = [[Paralysis]], [[Poison (status)|Poison]], [[Instant Death|Death]], [[Petrify (status)|Stone]], [[Sleep (status)|Sleep]], [[Blind (status)|Darkness]], [[Silence (status)|Silence]], [[Confuse (status)|Confuse]], [[Element (term)#Mind|Mind]]
+| 2 drop = None
+| 2 abilities = [[Flare (ability)|Flare]], Stop, Warp, Kill
+| 2 resistance = [[Paralysis]], [[Poison (status)|Poison]], [[Instant Death|Death]], [[Petrify (status)|Stone]], [[Sleep (status)|Sleep]], [[Blind (status)|Darkness]], [[Silence (status)|Silence]], [[Confuse (status)|Confuse]], [[Element (term)#Mind|Mind]]
+| 2 ps abilities = [[Flare (ability)|Flare]], Stop, Banish, Doom
+| 2 ps resistance = [[Stun (status)|Stun]], [[Poison (status)|Poison]], [[Instant Death]], [[Petrify (status)|Petrify]], [[Sleep (status)|Sleep]], [[Blind (status)|Blind]], [[Confuse (status)|Confusion]]
+| 2 nes abilities = [[Flare (ability)|NUKE]], STOP, ZAP!, XXXX
+| 2 nes resistance = [[Stun (status)|STUN]], [[Poison (status)|POIS]], [[Instant Death]], [[Petrify (status)|PETR]], [[Sleep (status)|SLEP]], [[Blind (status)|DARK]], [[Confuse (status)|CONF]]
+}}
+== AI script ==
+=== First battle ===
+{| class="article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 23.81%
+|-
+| [[Slow (Final Fantasy)|Slow]]
+| style="text-align:right;" | 14.29%
+|-
+| [[Hold (Final Fantasy)|Hold]]
+| style="text-align:right;" | 14.29%
+|-
+| [[Sleep (Final Fantasy)|Sleep]]
+| style="text-align:right;" | 9.52%
+|-
+| [[Fira (Final Fantasy)|Fira]]
+| style="text-align:right;" | 9.52%
+|-
+| [[Thundara (Final Fantasy)|Thundara]]
+| style="text-align:right;" | 9.52%
+|-
+| [[Blizzara (Final Fantasy)|Blizzara]]
+| style="text-align:right;" | 9.52%
+|-
+| [[Sleepra]]
+| style="text-align:right;" | 4.76%
+|-
+| [[Haste (Final Fantasy)|Haste]]
+| style="text-align:right;" | 4.76%
+|}
+
+Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'', starting from WSC (includes PS1, GBA, PSP):
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 52.00%
+|-
+| Magic
+| style="text-align:right;" | 48.00%
+| [[Blizzara (Final Fantasy)|Blizzara]] → [[Sleepra]] → [[Haste (Final Fantasy)|Haste]] → [[Thundara (Final Fantasy)|Thundara]] → [[Hold (Final Fantasy)|Hold]] → [[Fira (Final Fantasy)|Fira]] → [[Slow (Final Fantasy)|Slow]] → [[Sleep (Final Fantasy)|Sleep]]
+|}
+
+Prior to WSC (includes NES):
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 25.00%
+|-
+| Magic
+| style="text-align:right;" | 75.00%
+| [[Blizzara (Final Fantasy)|Blizzara]] → [[Sleepra]] → [[Haste (Final Fantasy)|Haste]] → [[Thundara (Final Fantasy)|Thundara]] → [[Hold (Final Fantasy)|Hold]] → [[Fira (Final Fantasy)|Fira]] → [[Slow (Final Fantasy)|Slow]] → [[Sleep (Final Fantasy)|Sleep]]
+|}
+=== Second battle ===
+{| class="article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 44.44%
+|-
+| [[Flare (Final Fantasy)|Flare]]
+| style="text-align:right;" | 16.67%
+|-
+| [[Stop (Final Fantasy)|Stop]]
+| style="text-align:right;" | 13.89%
+|-
+| [[Kill (Final Fantasy)|Kill]]
+| style="text-align:right;" | 13.89%
+|-
+| [[Warp (Final Fantasy)|Warp]]
+| style="text-align:right;" | 11.11%
+|}
+
+Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'', starting from WSC (includes PS1, GBA, PSP):
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 52.00%
+|-
+| Magic
+| style="text-align:right;" | 48.00%
+| [[Flare (Final Fantasy)|Flare]] → [[Stop (Final Fantasy)|Stop]] → [[Warp (Final Fantasy)|Warp]] → [[Kill (Final Fantasy)|Kill]]
+|}
+
+Prior to WSC (includes NES):
+{| class="half-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+! Cycle
+|-
+| Attack
+| style="text-align:right;" | 25.00%
+|-
+| Magic
+| style="text-align:right;" | 75.00%
+| [[Flare (Final Fantasy)|Flare]] → [[Stop (Final Fantasy)|Stop]] → [[Warp (Final Fantasy)|Warp]] → [[Kill (Final Fantasy)|Kill]]
+|}
+== Story ==
+As the Earth-elemental [[Four Fiends (Final Fantasy)|fiend]], Lich drains the power of the [[Earth Crystal (term)|Earth Crystal]], rotting the soil in [[Melmond]]. Lich was the third fiend to awaken, doing so shortly before the [[Warriors of Light]] set out on their quest. When the Warriors arrive in Melmond, they find the earth rotting and people dying. They learn a that [[Vampire (Final Fantasy)|vampire]] is being blamed and travel into the nearby Cavern of Earth to defeat it, but upon returning to the [[town]], they see the earth is still decaying.
+
+Using the Star Ruby found in the cavern to gain passage through the [[Giant's Cave]], they travel to the [[Sage's Cave]], where they are told by [[Sadda (Final Fantasy)|Sadda]] that the vampire was only working for a greater force: Lich. The Warriors return to the Cavern of Earth, where they find the Earth Crystal. After confronting Lich, the party prevails. The Earth Crystal shines again and the land rots no more.
+
+Later, the Warriors fight a younger version of the Lich in the Chaos Shrine 2000 years in the past. They defeat him once more, preventing him from journeying to the future and causing the earth to rot in the first place.
+
+== Battle ==
+=== First battle ===
+[[File:FF1_3DS_Lich_Location.jpg|thumb|left|Lich's location]]
+Lich is the hardest boss faced at that point in the game. As an undead enemy, he is weak to [[Dia (Final Fantasy)|Dia]] and [[Fire (Final Fantasy element)|Fire]]. Lich's physical blows have a chance to [[Paralysis (Final Fantasy)|paralyze]] whomever it hits. Lich uses elemental and debilitating spells and can complement his physical prowess with Haste.
+
+==== Strategy ====
+[[Fira (Final Fantasy)|Fira]] and [[Firaga (Final Fantasy)|Firaga]] (if available) are effective. [[Attack (command)|Physical attacks]] on their own will not be very effective; they should be augmented with [[Haste (Final Fantasy)|Haste]] and/or [[Temper (Final Fantasy)|Temper]].
+
+It is recommended to use the spells [[NulFrost (Final Fantasy)|NulFrost]], [[NulShock (Final Fantasy)|NulShock]], and [[NulBlaze (Final Fantasy)|NulBlaze]] to halve the damage from Lich's elemental spells. The party should increase evasion with [[Invis (Final Fantasy)|Invis]] or [[Blink (Final Fantasy)|Blink]] to avoid his powerful physical blows and decrease the chance of getting paralyzed.
+
+From ''[[Final Fantasy I & II: Dawn of Souls|Dawn of Souls]]'' to ''[[Final Fantasy 20th Anniversary|20th Anniversary Edition]]'', the player can also use [[Red Fang (Final Fantasy)|Red Fangs]] for damage dealing and the [[White Curtain]], [[Blue Curtain]], and [[Red Curtain]] to cast the Nul- spells for protection instead of casting the spells.
+
+In the NES version, a lucky pair of shots with Firaga and [[Diaga (Final Fantasy)|Diaga]] can, potentially, kill Lich in one round (as the spells do extra damage to undead and both have high-end damage at or over 200, while Lich only has 400 HP) or at least leave him in a state where one more round of spells will assuredly kill him. This tactic is less advisable in later versions, as Lich's HP has increased greatly.
+
+=== Second battle ===
+When the Warriors of Light [[Time travel|travel through time]], they must fight the Lich of the past. His floor of the Chaos Shrine contains many of the monsters from the Cavern of Earth and the stairway to the next floor is guarded by the past Lich, a [[fixed encounter]]. Prior to ''[[Pixel Remaster]]'', the battle can be repeatedly triggered by walking through the same spots.
+
+His stats are improved and his spell list uses only level 8 black magic. Lich also loses his weakness to fire.
+==== Strategy ====
+Everyone should resist [[Time (Final Fantasy)|time]] and [[Instant Death (Final Fantasy)|instant death]] elements. Physical attacks should be augmented with Haste, Temper, and [[Saber (Final Fantasy ability)|Saber]]. [[White Mage (Final Fantasy)|White Mages/Wizards]] should cast [[Diaga (Final Fantasy)|Diaga]] or [[Diaja (Final Fantasy)|Diaja]], while [[Black Mage (Final Fantasy)|Black Mages/Wizards]] should use [[Thundaga (Final Fantasy)|Thundaga]] or [[Flare (Final Fantasy)|Flare]]. For versions that use a spell charge system rather than MP, players may wish to hold off on attack magic to conserve their spell charges, as Lich is only the first of several upcoming boss fights and there is no way to replenish charges while inside the dungeon.
+{{clear}}
+
+== Other appearances ==
+=== ''[[Pictlogica Final Fantasy]]'' ===
+[[File:PFF Lich FFI.png|right]]
+{{Enemy section|Pictlogica Final Fantasy}}
+{{clear}}
+
+===''[[Final Fantasy Brave Exvius]]''===
+[[File:Lich from FFBE enemy sprite.png|thumb|150x150px]]
+The Lich appears alongside the other Four Fiends during the "Earth, Fire, Water, and Wind Fiends Rush" event. The same sprite was previously used for the Lich encountered during the "Scorn of the Lich" trial.
+{{clear}}
+
+=== ''[[Stranger of Paradise Final Fantasy Origin]]'' ===
+{{Enemy section|Stranger of Paradise Final Fantasy Origin}}
+{{clear}}
+
+==Behind the scenes==
+Lich is the only Chaos Fiend who does not talk to the party before fighting them. The same occurs when it reappears in ''[[Final Fantasy IV: The After Years]]''. In subsequent releases, the Lich does talk to the party.
+
+Lich makes a major appearance in the ''Final Fantasy'' parody webcomic ''[[8-Bit Theater]]'', where he is one of the Four Fiends and guards the Earth Orb from the Light Warriors.
+
+Due to a bug in the PSP version, if the game crashes while in the Lich fight, more Liches may spawn. This may also happen if ''Final Fantasy'' is closed during the Lich fight. This can cause problems with leaving the cave.
+
+== Gallery ==
+<gallery>
+Lich.PNG|Artwork by [[Yoshitaka Amano]].
+Lich DoS.png|Artwork for the GBA version.
+FFI Blizzara EA.png|Blizzara in the ''20th Anniversary'' version.
+Lich-Attack-FFI-PSP.JPG|Normal attack in the ''20th Anniversary'' version.
+FF1_3DS_Lich.jpg|Lich in the ''20th Anniversary'' version.
+</gallery>
+
+== Etymology ==
+{{Etym|Lich}}
+
+In the NES version, Lich's name is an all capitals when fighting it in the Cavern of Earth, but his name is normal when fighting it in the past Chaos Shrine.
+
+== Related enemies ==
+* [[Vampire (Final Fantasy)|Vampire]]
+* [[Marilith (Final Fantasy)|Marilith]]
+* [[Kraken (Final Fantasy)|Kraken]]
+* [[Tiamat (Final Fantasy)|Tiamat]]
+
+{{navbox characters FFI}}
+
+
+[[de:Todbringer (FFI)]]
+[[es:Lich (Final Fantasy)]]
+[[pt-br:Lich (Final Fantasy)]]
+[[Category:Bosses in Final Fantasy]]
+[[Category:Antagonists]]
+

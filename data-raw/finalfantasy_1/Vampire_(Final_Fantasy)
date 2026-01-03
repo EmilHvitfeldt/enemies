@@ -1,0 +1,181 @@
+{{DISPLAYTITLE:Vampire (''Final Fantasy'')}}
+{{infobox enemy
+| release = FFI
+| name = Vampire
+| japanese = バンパイア
+| romaji = Banpaia
+| lit = 
+| image = <gallery>
+Vampire from FFI Pixel Remaster battle sprite.png|PR
+Vampire from FFI 20th Anniversary Edition sprite.png|PSP/Mobile
+Vampire from FFI Dawn of Souls sprite.png|GBA
+Vampire from FFI Origins sprite.png|PS
+VAMPIRE from FFI NES sprite.png|NES
+</gallery>
+|sprite=[[File:Vampire-map.png|Field Sprite (PSP and iOS).]] [[File:Vampire from FFI Pixel Remaster field sprite.png|Field Sprite (PR).]]
+| location = [[Cavern of Earth]] (boss), [[Mirage Tower]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], [[Whisperwind Cove (Final Fantasy)|Whisperwind Cove]]
+| type = Boss
+| formations = 
+| aiscript = tru
+|recurring appearance=Vampire (enemy)
+}}
+{{Quote|All living things are born to die. No one can defeat me, the Vampire!!|Vampire}}
+The '''Vampire''' is a [[boss]] from the original ''[[Final Fantasy]]'', fought on the third floor of the [[Cavern of Earth]]. When the [[Final Fantasy characters|Light Warriors]] arrive to [[Melmond]], they find the earth rotting and the people suffering. As the Vampire had attacked the town earlier and destroyed the [[church]], the townsfolk believe he was also responsible for the earth rotting. The Light Warriors travel to the Cavern of Earth to confront him.
+
+After defeating him they find out the land in Melmond keeps rotting, and thus they go to the [[Sadda (Final Fantasy)|Sage's]] cave, where they discover the Vampire was working for one of the [[Four Fiends (Final Fantasy)|Four Fiends]], the [[Lich (Final Fantasy)|Lich]].
+
+Other Vampires are fought as [[random encounter]]s in numerous areas. They can be fought in the [[Mirage Tower]] in groups, and alongside other enemies in parts of the [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]. In ''[[Final Fantasy I & II: Dawn of Souls]]'' up to ''[[Final Fantasy 20th Anniversary|20th Anniversary Edition]]'', the Vampire of Melmond can be found and battled again in the room of spirits in the [[Whisperwind Cove (Final Fantasy)|Whisperwind Cove]].
+
+==Stats==
+{{infobox enemy stats FFI
+| psp prev = Cockatrice (Final Fantasy)
+| psp prev no = 
+| psp bestiary = 046
+| psp next = Ogre Mage (Final Fantasy)
+| psp next no = 
+| prev = Cockatrice (Final Fantasy)
+| prev no = 
+| bestiary = 046
+| next = Ogre Mage (Final Fantasy)
+| next no = 
+| ps prev = Cockatrice (Final Fantasy)
+| ps prev no = 
+| ps bestiary = 046
+| ps next = Ogre Mage (Final Fantasy)
+| ps next no = 
+| nes = VAMPIRE
+| ps = Vampire
+| = Vampire
+| psp = Vampire
+| psp location = 
+| nes location = [[Cavern of Earth|Earth Cave]], [[Mirage Tower]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]]
+| ps location = [[Cavern of Earth|Terra Cavern]], [[Mirage Tower|Tower of Mirage]], [[Chaos Shrine (Final Fantasy)|Temple of Chaos]]
+| location = [[Cavern of Earth]], [[Mirage Tower]], [[Chaos Shrine (Final Fantasy)|Chaos Shrine]], [[Whisperwind Cove (Final Fantasy)|Whisperwind Cove]]
+| psp hp = 280
+| psp attack = 76
+| psp intelligence = 26
+| psp defense = 26
+| psp magic defense = 75
+| psp agility = 36
+| psp accuracy = 39
+| psp evasion = 72
+| psp exp = 2000
+| psp gil = 2000
+| hp = 280
+| attack = 76
+| intellect = 26
+| defense = 26
+| magic defense = 75
+| agility = 36
+| accuracy = 39
+| evasion = 72
+| exp = 1,200
+| gil = 2,000
+| ps hp = 280
+| ps attack = 76
+| ps defense = 26
+| ps magic defense = 75
+| ps exp = 1,200
+| ps gil = 2,000
+| nes hp = 156
+| nes attack = 76 - 152
+| nes defense = 10
+| nes magic defense = 64
+| nes evasion = 12
+| nes accuracy = 27
+| nes exp = 1,200
+| nes gil = 2,000
+| psp fire = Weak
+| psp lightning = 
+| psp ice = 
+| psp dia = Weak
+| fire = Weak
+| lightning = 
+| ice = -
+| dia = Weak
+| ps fire = Weak
+| ps lightning = -
+| ps ice = -
+| ps dia = Weak
+| nes fire = Weak
+| nes lightning = -
+| nes ice = -
+| nes dia = Weak
+| psp drop = 
+| psp abilities = 
+| psp resistance = 
+| drop = N/A
+| abilities = Gaze
+| resistance = N/A
+| ps abilities = Gaze
+| ps resistance = N/A
+| nes abilities = DAZZLE
+| nes resistance = N/A
+}}
+== AI script ==
+{| class="quarter-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 64.10%
+|-
+| [[Gaze (Final Fantasy)|Gaze (Dazzle)]]
+| style="text-align:right;" | 32.05%
+|-
+| Flee
+| style="text-align:right;" | 3.85%
+|}
+
+Prior to ''[[Final Fantasy Pixel Remaster|Pixel Remaster]]'':
+
+{| class="quarter-width article-table FFI" style="vertical-align:bottom;"
+|-
+! Action
+! Probability
+|-
+| Attack
+| style="text-align:right;" | 75.00%
+|-
+| [[Gaze (Final Fantasy)|Gaze (Dazzle)]]
+| style="text-align:right;" | 25.00%
+|}
+
+== Battle ==
+At the point the boss is faced, his 280 [[HP (stat)|HP]] is weak; he even has less HP than the [[Earth Elemental (Final Fantasy)|Earth Elemental]], which appears as a random encounter in the same cave. His regenerating and [[Gaze (Final Fantasy)|Gaze]] attack can be tricky, but he is not a challenge. Using [[Fire (Final Fantasy element)|Fire]]-based attacks or casting [[Dia (ability)|Dia]] can help end the battle quickly; a lucky shot with [[Firaga (Final Fantasy)|Firaga]] or [[Diaga (Final Fantasy)|Diaga]], particularly in the NES version, can end the fight in a single spell.
+
+=== Whisperwind Cove encounter ===
+{{Quote|Forgive me, [[Lich (Final Fantasy)|Lich]]...|Vampire}}
+Whisperwind Cove has a room with restless souls of various monsters who had died. The player can find the Vampire of Melmond's soul, as well as that of [[Astos]]. The Vampire recognizes the Warriors of Light and attacks them, but as he retains the same level of power as before, he is no match for the stronger Warriors. After this second defeat, the Vampire begs the Lich for forgiveness before disappearing for good.
+
+==Other appearances==
+===''[[Pictlogica Final Fantasy]]''===
+[[File:PFF Vampire FFI.png|right]]
+{{Enemy section|Pictlogica Final Fantasy}}
+{{clear}}
+
+== Gallery ==
+<gallery>
+FFI Vampire.PNG|The battle from ''Dawn of Souls''.
+FFI Gaze 2 GBA.png|Gaze (GBA).
+</gallery>
+
+== Etymology ==
+{{Etym|Vampire}}
+
+== Related enemies ==
+* [[Vampire Lord (Final Fantasy)|Vampire Lord]]
+
+
+[[de:Vampir (FFI)]]
+[[es:Vampiro (Final Fantasy)]]
+[[it:Vampiro (Final Fantasy)]]
+[[pl:Vampire (Final Fantasy)]]
+[[pt-br:Vampire (Final Fantasy)]]
+[[ru:Вампир (Final Fantasy)]]
+[[Category:Bosses in Final Fantasy]]
+[[Category:Antagonists]]
+[[Category:Characters in Final Fantasy]]
+[[Category:Enemies in Final Fantasy]]
+
